@@ -1,0 +1,347 @@
+:root {
+  --bg: #ffffff;
+  --bg-soft: #fafafa;
+  --ink: #0a0a0a;
+  --ink-soft: #525252;
+  --ink-faint: #a3a3a3;
+  --rule: #ededed;
+  --rule-soft: #f5f5f5;
+
+  --accent-warm: #b45309;
+  --accent-warm-bg: #fef9ec;
+
+  /* topic color tokens. used by .topic-* classes below.
+     each topic gets a foreground (label, dot, hover underline)
+     and a soft tint (used very sparingly for the section eyebrow). */
+  --c-ai: #7c3aed;
+  --c-marketing: #ea580c;
+  --c-higher_ed_canada: #059669;
+  --c-higher_ed_global: #0d9488;
+  --c-intl_students_canada: #4f46e5;
+  --c-canadian_real_estate: #d97706;
+  --c-kamloops_sun_peaks: #0284c7;
+  --c-airbnb_policy: #db2777;
+  --c-global_business_tech: #475569;
+  --c-bc_food_recalls: #dc2626;
+  --c-default: #525252;
+
+  --font: "Inter", -apple-system, BlinkMacSystemFont, "SF Pro Text",
+          "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Inter", -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                  "Helvetica Neue", Arial, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0a0a0a;
+    --bg-soft: #141414;
+    --ink: #f5f5f5;
+    --ink-soft: #a3a3a3;
+    --ink-faint: #525252;
+    --rule: #1f1f1f;
+    --rule-soft: #161616;
+
+    --accent-warm: #fbbf24;
+    --accent-warm-bg: #1c1505;
+
+    --c-ai: #a78bfa;
+    --c-marketing: #fb923c;
+    --c-higher_ed_canada: #34d399;
+    --c-higher_ed_global: #2dd4bf;
+    --c-intl_students_canada: #818cf8;
+    --c-canadian_real_estate: #fbbf24;
+    --c-kamloops_sun_peaks: #38bdf8;
+    --c-airbnb_policy: #f472b6;
+    --c-global_business_tech: #94a3b8;
+    --c-bc_food_recalls: #f87171;
+    --c-default: #a3a3a3;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 16px;
+  line-height: 1.6;
+  font-feature-settings: "ss01", "cv11";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  padding: env(safe-area-inset-top) env(safe-area-inset-right)
+           env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+
+.digest {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 40px 24px 96px;
+}
+
+/* ---------- Masthead ---------- */
+.masthead {
+  margin-bottom: 36px;
+}
+
+.eyebrow {
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin: 0 0 12px;
+  font-weight: 600;
+}
+
+.date {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(36px, 8vw, 52px);
+  line-height: 1.05;
+  letter-spacing: -0.025em;
+  margin: 0 0 14px;
+  color: var(--ink);
+}
+
+.meta {
+  font-size: 13px;
+  color: var(--ink-soft);
+  margin: 0;
+  font-weight: 400;
+}
+
+/* ---------- Audio player ---------- */
+.player {
+  margin: 0 0 40px;
+  padding: 16px 16px 14px;
+  background: var(--bg-soft);
+  border-radius: 14px;
+  border: 1px solid var(--rule);
+}
+
+.player audio {
+  width: 100%;
+  display: block;
+  outline: none;
+}
+
+/* ---------- Why this matters ---------- */
+.why {
+  margin: 0 0 56px;
+  padding: 26px 28px;
+  background: var(--accent-warm-bg);
+  border-radius: 16px;
+  position: relative;
+}
+
+.why .section-label {
+  margin: 0 0 14px;
+  color: var(--accent-warm);
+}
+
+.why .section-label::before {
+  background: var(--accent-warm);
+}
+
+.why-body {
+  font-size: 17px;
+  line-height: 1.65;
+  margin: 0;
+  color: var(--ink);
+  font-weight: 400;
+  letter-spacing: -0.005em;
+}
+
+/* ---------- Section headings ---------- */
+.topic {
+  margin: 0 0 56px;
+}
+
+.section-label {
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 0 0 24px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--c-default);
+}
+
+.section-label::before {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--c-default);
+  flex-shrink: 0;
+}
+
+/* topic color overrides for both label color and dot */
+.topic-ai .section-label { color: var(--c-ai); }
+.topic-ai .section-label::before { background: var(--c-ai); }
+.topic-ai .story-link a:hover { color: var(--c-ai); border-color: var(--c-ai); }
+
+.topic-marketing .section-label { color: var(--c-marketing); }
+.topic-marketing .section-label::before { background: var(--c-marketing); }
+.topic-marketing .story-link a:hover { color: var(--c-marketing); border-color: var(--c-marketing); }
+
+.topic-higher_ed_canada .section-label { color: var(--c-higher_ed_canada); }
+.topic-higher_ed_canada .section-label::before { background: var(--c-higher_ed_canada); }
+.topic-higher_ed_canada .story-link a:hover { color: var(--c-higher_ed_canada); border-color: var(--c-higher_ed_canada); }
+
+.topic-higher_ed_global .section-label { color: var(--c-higher_ed_global); }
+.topic-higher_ed_global .section-label::before { background: var(--c-higher_ed_global); }
+.topic-higher_ed_global .story-link a:hover { color: var(--c-higher_ed_global); border-color: var(--c-higher_ed_global); }
+
+.topic-intl_students_canada .section-label { color: var(--c-intl_students_canada); }
+.topic-intl_students_canada .section-label::before { background: var(--c-intl_students_canada); }
+.topic-intl_students_canada .story-link a:hover { color: var(--c-intl_students_canada); border-color: var(--c-intl_students_canada); }
+
+.topic-canadian_real_estate .section-label { color: var(--c-canadian_real_estate); }
+.topic-canadian_real_estate .section-label::before { background: var(--c-canadian_real_estate); }
+.topic-canadian_real_estate .story-link a:hover { color: var(--c-canadian_real_estate); border-color: var(--c-canadian_real_estate); }
+
+.topic-kamloops_sun_peaks .section-label { color: var(--c-kamloops_sun_peaks); }
+.topic-kamloops_sun_peaks .section-label::before { background: var(--c-kamloops_sun_peaks); }
+.topic-kamloops_sun_peaks .story-link a:hover { color: var(--c-kamloops_sun_peaks); border-color: var(--c-kamloops_sun_peaks); }
+
+.topic-airbnb_policy .section-label { color: var(--c-airbnb_policy); }
+.topic-airbnb_policy .section-label::before { background: var(--c-airbnb_policy); }
+.topic-airbnb_policy .story-link a:hover { color: var(--c-airbnb_policy); border-color: var(--c-airbnb_policy); }
+
+.topic-global_business_tech .section-label { color: var(--c-global_business_tech); }
+.topic-global_business_tech .section-label::before { background: var(--c-global_business_tech); }
+.topic-global_business_tech .story-link a:hover { color: var(--c-global_business_tech); border-color: var(--c-global_business_tech); }
+
+.topic-bc_food_recalls .section-label { color: var(--c-bc_food_recalls); }
+.topic-bc_food_recalls .section-label::before { background: var(--c-bc_food_recalls); }
+.topic-bc_food_recalls .story-link a:hover { color: var(--c-bc_food_recalls); border-color: var(--c-bc_food_recalls); }
+
+/* ---------- Story ---------- */
+.story {
+  margin: 0 0 36px;
+}
+
+.story:last-child {
+  margin-bottom: 0;
+}
+
+.story-headline {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+  margin: 0 0 8px;
+  color: var(--ink);
+}
+
+.story-meta {
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--ink-faint);
+  margin: 0 0 14px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.story-summary {
+  font-size: 16px;
+  line-height: 1.65;
+  margin: 0 0 12px;
+  color: var(--ink);
+  font-weight: 400;
+  letter-spacing: -0.003em;
+}
+
+.story-link {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* ---------- Links ---------- */
+a {
+  color: var(--ink-soft);
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 1px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+a:hover, a:focus {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
+/* ---------- Episode index ---------- */
+.episode-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.episode-list li {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--rule);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.episode-list li:last-child {
+  border-bottom: none;
+}
+
+.episode-list a {
+  font-family: var(--font-display);
+  font-size: 19px;
+  font-weight: 600;
+  color: var(--ink);
+  border-bottom: none;
+  letter-spacing: -0.015em;
+}
+
+.episode-list a:hover { color: var(--ink-soft); }
+
+.episode-meta {
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+/* ---------- Foot ---------- */
+.foot {
+  margin-top: 80px;
+  padding-top: 28px;
+  border-top: 1px solid var(--rule);
+  font-size: 12px;
+  color: var(--ink-faint);
+  letter-spacing: 0.01em;
+}
+
+.foot p {
+  margin: 6px 0;
+}
+
+.foot a {
+  color: var(--ink-faint);
+  border-bottom-color: transparent;
+}
+
+.foot a:hover {
+  color: var(--ink-soft);
+  border-bottom-color: var(--ink-soft);
+}

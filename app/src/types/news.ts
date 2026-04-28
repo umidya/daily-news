@@ -1,0 +1,58 @@
+import type { CategoryName } from '@/theme/colors';
+
+export interface Story {
+  id: string;
+  category: CategoryName;
+  headline: string;
+  summary: string;
+  source: string;
+  url?: string;
+  readingTime: string;
+  audioSegmentLength: string;
+  thumbnailKind: ThumbnailKind;
+}
+
+export type ThumbnailKind =
+  | 'mountains'
+  | 'city'
+  | 'chip'
+  | 'bars'
+  | 'leaf'
+  | 'house'
+  | 'megaphone'
+  | 'globe'
+  | 'university';
+
+export interface Briefing {
+  schemaVersion?: number;
+  date: string;
+  dateIso?: string;
+  greeting: string;
+  totalDuration: string;
+  currentTime: string;
+  remaining: string;
+  hookCopy: string;
+  digestIntro: string;
+  digestReadingTime: string;
+  whyItMatters: string;
+  audioUrl?: string;
+  audioDurationSeconds?: number;
+  topStories: Story[];
+  digestStories: Story[];
+  audioChapters: Chapter[];
+  upNext: Story | null;
+}
+
+export interface Chapter {
+  id: string;
+  title: CategoryName;
+  duration: string;
+}
+
+export interface Voice {
+  id: 'onyx' | 'nova' | 'alloy';
+  name: string;
+  description: string;
+}
+
+export type TabKey = 'home' | 'audio' | 'digest' | 'saved' | 'settings';

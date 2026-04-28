@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>{{ date_label }} · Daily News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <main class="digest">
+    <header class="masthead">
+      <p class="eyebrow">Daily News</p>
+      <h1 class="date">{{ date_label }}</h1>
+      <p class="meta">{{ story_count }} {{ "story" if story_count == 1 else "stories" }} · generated {{ generated_at }}</p>
+    </header>
+
+    <section class="player">
+      <audio controls preload="metadata" src="{{ audio_url }}">
+        Your browser does not support the audio element.
+        <a href="{{ audio_url }}">Download the audio</a>.
+      </audio>
+    </section>
+
+    {% if why %}
+    <section class="why">
+      <h2 class="section-label">Why this matters to me</h2>
+      <p class="why-body">{{ why }}</p>
+    </section>
+    {% endif %}
+
+    {% for section in sections %}
+    <section class="topic topic-{{ section.topic_key | default('default') }}">
+      <h2 class="section-label">{{ section.name }}</h2>
+      {% for story in section.stories %}
+      <article class="story">
+        <h3 class="story-headline">{{ story.headline }}</h3>
+        <p class="story-meta">{{ story.source }}</p>
+        <p class="story-summary">{{ story.summary }}</p>
+        <p class="story-link"><a href="{{ story.url }}" rel="noopener">Read the source &rarr;</a></p>
+      </article>
+      {% endfor %}
+    </section>
+    {% endfor %}
+
+    <footer class="foot">
+      <p>Sources are linked above. Audio narrated by an AI voice.</p>
+      <p><a href="../index.html">All episodes</a></p>
+    </footer>
+  </main>
+</body>
+</html>

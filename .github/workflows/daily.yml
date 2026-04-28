@@ -1,0 +1,83 @@
+name: Daily news digest
+
+on:
+  schedule:
+    # 13:30 UTC = 05:30 PST (Nov-Mar) / 06:30 PDT (Mar-Nov).
+    # GitHub Actions cron is UTC only; this gives you a digest by 6:30 AM Pacific
+    # for ~8 months of the year and 5:30 AM PST for the rest.
+    - cron: "30 13 * * *"
+  workflow_dispatch:  # manual trigger from the Actions tab
+
+permissions:
+  contents: write  # needed to push state branch + gh-pages
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      DAILY_NEWS_BASE_URL: ${{ vars.DAILY_NEWS_BASE_URL }}
+      PYTHONUNBUFFERED: "1"
+
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -e .
+
+      - name: Restore state branch
+        run: |
+          mkdir -p data
+          if git ls-remote --exit-code --heads origin state > /dev/null 2>&1; then
+            git fetch origin state
+            git worktree add state-wt origin/state
+            if [ -f state-wt/articles.db ]; then
+              cp state-wt/articles.db data/articles.db
+              echo "Restored articles.db from state branch."
+            fi
+          else
+            echo "No state branch yet; first run."
+          fi
+
+      - name: Run digest pipeline
+        run: python -m daily_news run
+
+      - name: Save state branch
+        run: |
+          mkdir -p state-wt
+          if [ ! -d state-wt/.git ]; then
+            git worktree add -b state state-wt 2>/dev/null || git worktree add state-wt state || true
+          fi
+          cp data/articles.db state-wt/articles.db
+          cd state-wt
+          git config user.name "daily-news-bot"
+          git config user.email "bot@daily-news.local"
+          git add articles.db
+          git commit -m "state: $(date -u +%FT%TZ)" || echo "No changes to commit."
+          git push origin HEAD:state
+
+      - name: Publish to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          keep_files: true  # preserve old episodes
+          user_name: daily-news-bot
+          user_email: bot@daily-news.local
+          commit_message: "publish: ${{ github.run_id }}"

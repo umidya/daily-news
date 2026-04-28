@@ -1,0 +1,92 @@
+# Google News RSS searches. Used to fill gaps where a dedicated feed does not
+# exist - especially niche local stories.
+#
+# Each query becomes:
+#   https://news.google.com/rss/search?q=<encoded query>&hl=en-CA&gl=CA&ceid=CA:en
+#
+# Google News results have unknown origin sources, so credibility is capped at
+# 0.70 unless we can promote based on the redirected publisher (future work).
+
+searches:
+  # Local: Kamloops + Sun Peaks
+  - query: "Kamloops"
+    topics: [kamloops_sun_peaks]
+    credibility: 0.70
+  - query: "Sun Peaks"
+    topics: [kamloops_sun_peaks]
+    credibility: 0.70
+  - query: "Sun Peaks Resort"
+    topics: [kamloops_sun_peaks]
+    credibility: 0.70
+
+  # AirBnb policies in BC municipalities
+  - query: "Vancouver short-term rental"
+    topics: [airbnb_policy]
+    credibility: 0.70
+  - query: "Vancouver Airbnb"
+    topics: [airbnb_policy]
+    credibility: 0.70
+  - query: "Langley short-term rental"
+    topics: [airbnb_policy]
+    credibility: 0.70
+  - query: "Sun Peaks short-term rental"
+    topics: [airbnb_policy]
+    credibility: 0.70
+  - query: "BC Bill 35 short-term rental"
+    topics: [airbnb_policy]
+    credibility: 0.70
+
+  # International student policy in Canada
+  - query: "Canada international students"
+    topics: [intl_students_canada]
+    credibility: 0.70
+  - query: "study permit Canada"
+    topics: [intl_students_canada]
+    credibility: 0.70
+  - query: "post-graduation work permit Canada"
+    topics: [intl_students_canada]
+    credibility: 0.70
+
+  # Higher ed in Canada
+  - query: "Canadian universities"
+    topics: [higher_ed_canada]
+    credibility: 0.70
+  - query: "Canadian colleges enrolment"
+    topics: [higher_ed_canada]
+    credibility: 0.70
+
+  # BC food recalls (CFIA does not expose a working RSS feed, so these
+  # searches are the primary source for this topic).
+  - query: "British Columbia food recall"
+    topics: [bc_food_recalls]
+    credibility: 0.80
+  - query: "CFIA recall"
+    topics: [bc_food_recalls]
+    credibility: 0.85
+  - query: "Canada food recall listeria OR salmonella OR e. coli"
+    topics: [bc_food_recalls]
+    credibility: 0.80
+
+  # Marketing trade coverage (Marketing Brew and HBR shut down public RSS)
+  - query: "CMO appointment"
+    topics: [marketing]
+    credibility: 0.70
+  - query: "marketing strategy AI"
+    topics: [marketing, ai]
+    credibility: 0.70
+
+  # Higher ed global (Times Higher Education blocks RSS)
+  - query: "global university enrolment"
+    topics: [higher_ed_global]
+    credibility: 0.70
+  - query: "international student visa policy"
+    topics: [intl_students_canada, higher_ed_global]
+    credibility: 0.75
+
+  # Canadian mortgages
+  - query: "Canadian mortgage rates"
+    topics: [canadian_real_estate]
+    credibility: 0.70
+  - query: "Bank of Canada interest rate"
+    topics: [canadian_real_estate]
+    credibility: 0.75

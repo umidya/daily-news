@@ -1,0 +1,169 @@
+# How the digest scores articles for relevance to your interests.
+#
+# Each topic has:
+#   weight    relative importance multiplier on the relevance score
+#   keywords  phrases that, if present in title/snippet, score the topic
+#   negatives optional phrases that subtract from the topic match
+#
+# The scorer takes the highest-scoring topic match per article. Articles
+# tagged by their feed/search source already start with a topic seed, so
+# keywords mainly serve to *boost* matching content within mixed feeds.
+#
+# Weights above 1.0 mean "I care about this more than baseline." The relative
+# numbers are what matter - the absolute scale is rescaled at the end.
+
+scoring_weights:
+  relevance: 0.50
+  credibility: 0.20
+  recency: 0.15
+  novelty: 0.15
+
+# Articles older than this many hours are dropped before scoring.
+recency_cutoff_hours: 36
+
+# After scoring, this many articles get sent to Claude as candidates.
+# Claude picks the final cut.
+candidate_pool_size: 25
+
+# Target final number of stories in the digest.
+target_story_count: 12
+
+topics:
+  ai:
+    weight: 1.0
+    keywords:
+      - artificial intelligence
+      - machine learning
+      - generative ai
+      - llm
+      - large language model
+      - claude
+      - anthropic
+      - openai
+      - chatgpt
+      - gemini
+      - copilot
+      - ai agent
+      - ai startup
+      - ai policy
+      - ai regulation
+      - ai safety
+    negatives:
+      - amy schumer  # an actual false-positive case for "AI"
+
+  marketing:
+    weight: 1.0
+    keywords:
+      - marketing
+      - cmo
+      - chief marketing officer
+      - brand
+      - advertising
+      - ad spend
+      - campaign
+      - consumer behavior
+      - martech
+      - performance marketing
+      - content marketing
+
+  higher_ed_canada:
+    weight: 1.2
+    keywords:
+      - canadian university
+      - canadian universities
+      - canadian college
+      - tuition canada
+      - universities canada
+      - u15
+      - polytechnics canada
+      - post-secondary
+      - ontario university
+      - bc university
+      - quebec university
+      - alberta university
+      - cmec
+
+  higher_ed_global:
+    weight: 0.9
+    keywords:
+      - higher education
+      - university enrolment
+      - university enrollment
+      - tuition
+      - college enrolment
+      - student debt
+      - faculty
+      - research funding
+
+  intl_students_canada:
+    weight: 1.2
+    keywords:
+      - international students
+      - international student
+      - study permit
+      - study visa
+      - ircc
+      - immigration canada
+      - dli
+      - designated learning institution
+      - pgwp
+      - post-graduation work permit
+
+  canadian_real_estate:
+    weight: 0.9
+    keywords:
+      - canadian housing
+      - canadian real estate
+      - bc housing
+      - mortgage rate
+      - bank of canada
+      - boc rate
+      - housing market canada
+      - cmhc
+      - home prices canada
+
+  kamloops_sun_peaks:
+    weight: 1.0
+    keywords:
+      - kamloops
+      - sun peaks
+      - thompson rivers university
+      - tru kamloops
+
+  airbnb_policy:
+    weight: 1.0
+    keywords:
+      - airbnb
+      - short-term rental
+      - short term rental
+      - vrbo
+      - vacation rental policy
+      - bill 35
+      - vancouver str
+      - langley str
+
+  global_business_tech:
+    weight: 0.8
+    keywords:
+      - economy
+      - inflation
+      - federal reserve
+      - interest rate
+      - tech industry
+      - layoffs
+      - acquisition
+      - earnings
+      - stock market
+
+  bc_food_recalls:
+    weight: 1.0
+    keywords:
+      - food recall
+      - cfia recall
+      - listeria
+      - salmonella
+      - e. coli
+      - allergen alert
+      - undeclared
+      - british columbia recall
+      - bc recall
