@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "date": "Tuesday, April 28, 2026",
+  "dateIso": "2026-04-28",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "53:22",
+  "currentTime": "0:00",
+  "remaining": "53 min total",
+  "hookCopy": "Good morning.",
+  "digestIntro": "Today's most consequential stories sit at the intersection of your two worlds — marketing and consulting. The CMO Council's new AI-and-human-essence research is a direct briefing note for your consulting pitch: it gives you data to argue that AI augments but cannot replace strategic marketing judgement, which is exactly the value proposition you're selling. On the business front, the Musk vs.",
+  "digestReadingTime": "6 min read",
+  "whyItMatters": "Today's most consequential stories sit at the intersection of your two worlds — marketing and consulting. The CMO Council's new AI-and-human-essence research is a direct briefing note for your consulting pitch: it gives you data to argue that AI augments but cannot replace strategic marketing judgement, which is exactly the value proposition you're selling. On the business front, the Musk vs. Altman trial is surfacing uncomfortable truths about OpenAI's revenue misses that will ripple through every AI vendor conversation you have with clients. For your real estate interests, watch the Bank of Canada's October rate announcement closely — the accompanying Monetary Policy Report sets the tone for mortgage markets heading into year-end. And if you have family in BC, do a quick check of the food-recall feeds today; nothing came through in today's candidates, but the BoC holiday noise in the feed suggests some sources are running dated content, so verify freshness independently. Finally, the U.S. court ordering the Trump administration to restore OPT work permits is worth tracking as a leading indicator: when American policy tightens or loosens on international students, Canada's recruitment pipeline feels it within one cycle.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-04-28.mp3",
+  "audioDurationSeconds": 3202,
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Elon Musk Takes the Stand Against OpenAI in High-Profile Trial",
+      "summary": "Musk began his live testimony in the lawsuit he filed against OpenAI CEO Sam Altman and president Greg Brockman, centering on OpenAI's controversial shift from a non-profit mission to a for-profit structure. The case matters well beyond the courtroom: the Wall Street Journal reported just before the trial that OpenAI missed its own user and revenue targets, giving both sides damaging ammunition. If Altman's credibility takes a hit, it could rattle enterprise confidence in OpenAI's products — directly relevant to any client considering an OpenAI-dependent AI stack.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "What Really Hangs in the Balance in Musk vs. Altman",
+      "summary": "Axios frames the trial's true stakes as reputational, not legal: whichever side surfaces more damaging disclosures about the other wins the public narrative war regardless of the jury's verdict. OpenAI's missed revenue targets — reported by the WSJ days before testimony began — have already prompted some shareholders to quietly question Altman's leadership. For anyone advising clients on AI partnerships, this trial is a live stress-test of OpenAI's institutional credibility.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/04/28/musk-altman-trial-openai-spacex",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Amazon Adds AI-Powered Audio Q&A to Product Pages",
+      "summary": "Amazon's new \"Join the chat\" feature lets shoppers ask questions about products and receive spoken AI responses directly on product pages, blending conversational AI with the purchase funnel. This is a meaningful shift in e-commerce UX that signals where consumer-facing AI interfaces are heading — away from text boxes and toward voice-first interactions. Marketing consultants advising brands that sell on Amazon need to start thinking about how product content is structured for audio retrieval, not just visual search.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Elon Musk Takes the Stand Against OpenAI in High-Profile Trial",
+      "summary": "Musk began his live testimony in the lawsuit he filed against OpenAI CEO Sam Altman and president Greg Brockman, centering on OpenAI's controversial shift from a non-profit mission to a for-profit structure. The case matters well beyond the courtroom: the Wall Street Journal reported just before the trial that OpenAI missed its own user and revenue targets, giving both sides damaging ammunition. If Altman's credibility takes a hit, it could rattle enterprise confidence in OpenAI's products — directly relevant to any client considering an OpenAI-dependent AI stack.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "What Really Hangs in the Balance in Musk vs. Altman",
+      "summary": "Axios frames the trial's true stakes as reputational, not legal: whichever side surfaces more damaging disclosures about the other wins the public narrative war regardless of the jury's verdict. OpenAI's missed revenue targets — reported by the WSJ days before testimony began — have already prompted some shareholders to quietly question Altman's leadership. For anyone advising clients on AI partnerships, this trial is a live stress-test of OpenAI's institutional credibility.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/04/28/musk-altman-trial-openai-spacex",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Amazon Adds AI-Powered Audio Q&A to Product Pages",
+      "summary": "Amazon's new \"Join the chat\" feature lets shoppers ask questions about products and receive spoken AI responses directly on product pages, blending conversational AI with the purchase funnel. This is a meaningful shift in e-commerce UX that signals where consumer-facing AI interfaces are heading — away from text boxes and toward voice-first interactions. Marketing consultants advising brands that sell on Amazon need to start thinking about how product content is structured for audio retrieval, not just visual search.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "CMO Council: AI Alone Doesn't Deliver Growth — Human Judgement Still Drives Results",
+      "summary": "The CMO Council's new study, \"Marketing's Power Partners: AI and the Human Essence,\" finds that the combination of AI capability and human strategic thinking outperforms AI-only approaches in delivering measurable business growth. This is a pivotal framing for anyone positioning a marketing consultancy: it validates the argument that experienced human marketers become more valuable, not less, as AI tools proliferate. Bring this research into your consulting deck as third-party proof that senior marketing expertise commands a premium in the AI era.",
+      "source": "Google News: marketing strategy AI",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSE9mTTJhZ1pubHpRSlkwNVluT2tubzlDNDNzZFlCN00yMFJVOUpVU0VmeDBZZDNsUkVTRl9JNHNlWlMyblJUODNabXcxbGFUTUNiRkhDY2RwSGNiSmcyOWFYOHQ5bXFJLXNoTVlqRWJMTVlVa0cwUGZxaTNhQTUzLUhTX3UzZHIwZThaM2k0RDZxMFp0SzY0SnRUaGRIMWROZkZFQWtqTWdHQ05oOHUyX0dVN2ZyUXpybG14U1JfbDFfd3JnNF83T2FGc3BJSjdqNmJxU0hqMF9RT2sw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Nearly Double the CEOs Now See Marketing as Overhead, Not Growth Engine",
+      "summary": "Boathouse's 2026 CEO Survey shows a sharp rise in the share of chief executives who classify marketing as a cost centre rather than a revenue driver, and satisfaction with CMO performance has declined year-over-year. This is both a warning sign and an opportunity: the data reveals a trust gap between the C-suite and marketing leaders that a sharp consultant can help close. If you're pitching CFO- or CEO-level engagements, leading with ROI-linked marketing frameworks rather than brand metrics will resonate strongly right now.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/the-number-of-ceos-who-see-marketing-as-overhead-has-nearly-doubled-this-year/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-marketing-2",
+      "category": "Marketing",
+      "headline": "Chipotle Hires Ex-Burger King CMO Fernando Machado as Chief Brand Officer",
+      "summary": "Chipotle has brought in Fernando Machado — known for his bold, culturally resonant campaigns at Burger King — to lead its \"Recipe for Growth\" turnaround plan for 2026. The appointment signals that Chipotle's board believes brand differentiation, not just operational efficiency, is the lever it needs to pull. Machado's track record of using creativity and provocation to drive measurable sales results makes this a case study worth watching for anyone advising clients on brand-led growth strategies.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/chipotle-hires-ex-burger-king-cmo-fernando-machado-as-chief-brand-officer/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-marketing-3",
+      "category": "Marketing",
+      "headline": "Stagwell Launches AI Agent Toolkit for Small and Medium-Sized Brands",
+      "summary": "Stagwell's new Agent Cloud rolls out a suite of ten AI marketing agents designed to give SMBs access to capabilities previously reserved for large agencies, positioning the offering as a SaaS play that competes on the AI frontier. This is notable because it commoditises executional marketing tasks for smaller brands — which raises the bar for what senior consultants must deliver (strategy, judgement, relationships) to justify premium fees. It also flags Stagwell as a competitor to watch if you're building a consulting practice that serves mid-market clients.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/agencies/stagwell-eyes-saas-growth-with-agent-cloud-launch-for-smbs/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "U.S. Federal Judge Orders Trump Administration to Lift OPT Work Permit Freeze",
+      "summary": "A federal judge ruled that the Trump administration must immediately unfreeze work permit authorisations — including Optional Practical Training (OPT) — for international students from travel-ban countries who had been left in immigration limbo. The ruling provides direct relief to a specific group, but the broader freeze-and-litigate pattern reinforces that U.S. immigration policy remains deeply unpredictable for international students. Canadian institutions and provincial governments recruiting globally should be actively highlighting Canada's comparatively stable pathways in their marketing right now.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/relief-for-some-opt-applicants-in-immigration-limbo/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "duration": "13:20"
+    },
+    {
+      "id": "c2",
+      "title": "Marketing",
+      "duration": "17:47"
+    },
+    {
+      "id": "c3",
+      "title": "Higher Ed",
+      "duration": "13:20"
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate",
+      "duration": "4:26"
+    },
+    {
+      "id": "c5",
+      "title": "Higher Ed",
+      "duration": "4:26"
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Elon Musk Takes the Stand Against OpenAI in High-Profile Trial",
+    "summary": "Musk began his live testimony in the lawsuit he filed against OpenAI CEO Sam Altman and president Greg Brockman, centering on OpenAI's controversial shift from a non-profit mission to a for-profit structure. The case matters well beyond the courtroom: the Wall Street Journal reported just before the trial that OpenAI missed its own user and revenue targets, giving both sides damaging ammunition. If Altman's credibility takes a hit, it could rattle enterprise confidence in OpenAI's products — directly relevant to any client considering an OpenAI-dependent AI stack.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip"
+  }
+}
