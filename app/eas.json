@@ -7,17 +7,26 @@
     "development": {
       "developmentClient": true,
       "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_DAILY_NEWS_BASE_URL": "https://umidya.github.io/daily-news"
+      },
       "ios": {
         "simulator": false
       }
     },
     "preview": {
       "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_DAILY_NEWS_BASE_URL": "https://umidya.github.io/daily-news"
+      },
       "ios": {
         "simulator": false
       }
     },
     "production": {
+      "env": {
+        "EXPO_PUBLIC_DAILY_NEWS_BASE_URL": "https://umidya.github.io/daily-news"
+      },
       "ios": {
         "simulator": false
       }
