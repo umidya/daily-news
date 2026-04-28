@@ -1,17 +1,15 @@
 import React from 'react';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
-import { Feather } from '@expo/vector-icons';
+import { Linking, Pressable, StyleSheet, Text, View } from 'react-native';
+import { Feather, Ionicons } from '@expo/vector-icons';
 import { ScreenContainer } from '@/components/ScreenContainer';
 import { CategoryPill } from '@/components/CategoryPill';
 import { StoryThumbnail } from '@/components/StoryThumbnail';
 import { useApp } from '@/state/AppContext';
-import { colors, radii, shadows, spacing, typography } from '@/theme';
+import { colors, radii, spacing, typography } from '@/theme';
 
 export function DigestScreen() {
   const { briefing, savedStoryIds, toggleSaved, setActiveTab } = useApp();
   const b = briefing;
-  const digestId = 'digest-today';
-  const isSaved = savedStoryIds.has(digestId);
 
   return (
     <View style={{ flex: 1, backgroundColor: colors.background }}>
@@ -43,22 +41,41 @@ export function DigestScreen() {
 
         <View style={styles.divider} />
 
-        {b.digestStories.map((s, idx) => (
-          <View key={s.id}>
-            <Pressable style={({ pressed }) => [styles.storyRow, pressed && { opacity: 0.85 }]}>
-              <StoryThumbnail kind={s.thumbnailKind} size={92} rounded={14} />
-              <View style={styles.storyText}>
-                <CategoryPill category={s.category} />
-                <Text style={styles.storyHeadline}>{s.headline}</Text>
-                <Text style={styles.storySummary} numberOfLines={2}>
-                  {s.summary}
-                </Text>
-              </View>
-              <Feather name="chevron-right" size={20} color={colors.textMuted} />
-            </Pressable>
-            {idx < b.digestStories.length - 1 && <View style={styles.divider} />}
-          </View>
-        ))}
+        {b.digestStories.map((s, idx) => {
+          const saved = savedStoryIds.has(s.id);
+          return (
+            <View key={s.id}>
+              <Pressable
+                onPress={() => s.url && Linking.openURL(s.url).catch(() => {})}
+                style={({ pressed }) => [styles.storyRow, pressed && { opacity: 0.85 }]}
+              >
+                <StoryThumbnail kind={s.thumbnailKind} size={92} rounded={14} />
+                <View style={styles.storyText}>
+                  <CategoryPill category={s.category} />
+                  <Text style={styles.storyHeadline}>{s.headline}</Text>
+                  <Text style={styles.storySummary} numberOfLines={2}>
+                    {s.summary}
+                  </Text>
+                </View>
+                <Pressable
+                  onPress={(e) => {
+                    e.stopPropagation?.();
+                    toggleSaved(s);
+                  }}
+                  hitSlop={10}
+                  style={styles.bookmarkSlot}
+                >
+                  <Ionicons
+                    name={saved ? 'bookmark' : 'bookmark-outline'}
+                    size={22}
+                    color={saved ? colors.lavender : colors.textMuted}
+                  />
+                </Pressable>
+              </Pressable>
+              {idx < b.digestStories.length - 1 && <View style={styles.divider} />}
+            </View>
+          );
+        })}
 
         <View style={styles.callout}>
           <View style={styles.calloutIcon}>
@@ -71,17 +88,6 @@ export function DigestScreen() {
         </View>
       </ScreenContainer>
 
-      <Pressable
-        onPress={() => toggleSaved(digestId)}
-        style={[styles.fab, shadows.fab]}
-      >
-        <Feather
-          name="bookmark"
-          size={22}
-          color="#FFFFFF"
-          style={isSaved ? { transform: [{ scale: 1 }] } : undefined}
-        />
-      </Pressable>
     </View>
   );
 }
@@ -156,6 +162,9 @@ const styles = StyleSheet.create({
     ...typography.bodySmall,
     color: colors.textMuted,
   },
+  bookmarkSlot: {
+    padding: spacing.xs,
+  },
   callout: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -181,16 +190,5 @@ const styles = StyleSheet.create({
   calloutBody: {
     ...typography.bodySmall,
     color: colors.textSecondary,
-  },
-  fab: {
-    position: 'absolute',
-    right: spacing.xl,
-    bottom: 96 + spacing.lg,
-    width: 56,
-    height: 56,
-    borderRadius: 28,
-    backgroundColor: colors.lavender,
-    alignItems: 'center',
-    justifyContent: 'center',
   },
 });

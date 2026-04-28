@@ -143,20 +143,27 @@ def build_app_payload(
 
     total_story_count = max(1, len(flat_stories))
 
-    # Audio chapters mirror sections.
+    # Audio chapters mirror sections; cumulative startSeconds lets the app
+    # seek the audio to that chapter.
     chapters = []
+    cumulative = 0
     for i, section in enumerate(sections):
         topic_key = section.get("topic_key", "global_business_tech")
         section_stories = section.get("stories", [])
+        duration_str = _section_duration(
+            len(section_stories), total_seconds, total_story_count
+        )
         chapters.append(
             {
                 "id": f"c{i + 1}",
                 "title": TOPIC_TO_CATEGORY.get(topic_key, "Global"),
-                "duration": _section_duration(
-                    len(section_stories), total_seconds, total_story_count
-                ),
+                "duration": duration_str,
+                "startSeconds": cumulative,
             }
         )
+        # Add this chapter's seconds onto the running total.
+        m, s = duration_str.split(":")
+        cumulative += int(m) * 60 + int(s)
 
     top_stories = flat_stories[:3]
     digest_stories = flat_stories[:8]
@@ -176,6 +183,7 @@ def build_app_payload(
         "whyItMatters": digest.why_this_matters.strip(),
         "audioUrl": audio_url,
         "audioDurationSeconds": total_seconds,
+        "audioScript": digest.audio_script.strip(),
         "topStories": top_stories,
         "digestStories": digest_stories,
         "audioChapters": chapters,

@@ -25,7 +25,7 @@ export function HomeScreen() {
         <RefreshControl refreshing={briefingLoading} onRefresh={refreshBriefing} tintColor={colors.accentBlue} />
       }
     >
-      <AppHeader />
+      <AppHeader onBellPress={refreshBriefing} />
 
       <View style={styles.greetingBlock}>
         <Text style={styles.greeting}>{b.greeting}</Text>
@@ -41,7 +41,7 @@ export function HomeScreen() {
 
       <View style={styles.sectionHeader}>
         <Text style={styles.sectionTitle}>Top Stories</Text>
-        <Pressable hitSlop={6}>
+        <Pressable hitSlop={6} onPress={() => setActiveTab('digest')}>
           <View style={styles.seeAll}>
             <Text style={styles.seeAllText}>See all</Text>
             <Feather name="chevron-right" size={16} color={colors.accentBlue} />

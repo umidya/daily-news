@@ -37,6 +37,7 @@ export interface Briefing {
   whyItMatters: string;
   audioUrl?: string;
   audioDurationSeconds?: number;
+  audioScript?: string;
   topStories: Story[];
   digestStories: Story[];
   audioChapters: Chapter[];
@@ -47,6 +48,7 @@ export interface Chapter {
   id: string;
   title: CategoryName;
   duration: string;
+  startSeconds?: number;
 }
 
 export interface Voice {

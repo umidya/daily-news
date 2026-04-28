@@ -1,5 +1,5 @@
-import React from 'react';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
+import React, { useState } from 'react';
+import { GestureResponderEvent, LayoutChangeEvent, Pressable, StyleSheet, Text, View } from 'react-native';
 import { Ionicons, MaterialCommunityIcons } from '@expo/vector-icons';
 import { useApp } from '@/state/AppContext';
 import { colors, radii, shadows, spacing, typography } from '@/theme';
@@ -7,14 +7,21 @@ import { colors, radii, shadows, spacing, typography } from '@/theme';
 interface Props {
   currentTime: string;
   totalDuration: string;
-  onSave?: () => void;
-  isSaved?: boolean;
 }
 
-export function AudioPlayer({ currentTime, totalDuration, onSave, isSaved }: Props) {
-  const { playback, togglePlay, skipBack, skipForward } = useApp();
+export function AudioPlayer({ currentTime, totalDuration }: Props) {
+  const { playback, togglePlay, skipBack, skipForward, seekTo } = useApp();
   const isPlaying = playback.isPlaying;
+  const [trackWidth, setTrackWidth] = useState(0);
   const progress = progressFrom(currentTime, totalDuration);
+
+  const onTrackLayout = (e: LayoutChangeEvent) => setTrackWidth(e.nativeEvent.layout.width);
+
+  const onTrackPress = (e: GestureResponderEvent) => {
+    if (!trackWidth || !playback.durationMs) return;
+    const ratio = Math.max(0, Math.min(1, e.nativeEvent.locationX / trackWidth));
+    void seekTo(ratio * playback.durationMs);
+  };
 
   return (
     <View>
@@ -39,10 +46,12 @@ export function AudioPlayer({ currentTime, totalDuration, onSave, isSaved }: Pro
 
       <View style={styles.progressRow}>
         <Text style={styles.time}>{currentTime}</Text>
-        <View style={styles.track}>
-          <View style={[styles.fill, { width: `${progress * 100}%` }]} />
-          <View style={[styles.knob, { left: `${progress * 100}%` }]} />
-        </View>
+        <Pressable onPress={onTrackPress} onLayout={onTrackLayout} style={styles.trackTarget} hitSlop={{ top: 12, bottom: 12 }}>
+          <View style={styles.track}>
+            <View style={[styles.fill, { width: `${progress * 100}%` }]} />
+            <View style={[styles.knob, { left: `${progress * 100}%` }]} />
+          </View>
+        </Pressable>
         <Text style={styles.time}>{totalDuration}</Text>
       </View>
     </View>
@@ -95,8 +104,11 @@ const styles = StyleSheet.create({
     width: 44,
     textAlign: 'center',
   },
-  track: {
+  trackTarget: {
     flex: 1,
+    paddingVertical: 8,
+  },
+  track: {
     height: 4,
     backgroundColor: colors.borderSoft,
     borderRadius: 2,

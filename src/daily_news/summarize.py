@@ -33,7 +33,7 @@ Your job:
    - "bc_food_recalls"  (food recalls, allergens, listeria, salmonella in Canada/BC)
 3. For each pick, write a tight 2 to 3 sentence summary that says what happened, why it is news, and what the implication is. Concrete and specific. No hedging, no filler, no "experts say."
 4. At the very top, write ONE "Why this matters to me" paragraph (4 to 6 sentences) that connects the day's stories to her work and life: where she should pay attention, what to watch, what action might be warranted. It should feel like a trusted advisor's two minutes of context, not a recap.
-5. Write a separate audio script: a single continuous monologue meant to be read aloud in roughly ten minutes. Use spoken-word phrasing, smooth transitions between stories, and never say URLs or markdown. Open with the date and a one-sentence hook. Group naturally by theme without announcing "Section one." End with a brief sign-off.
+5. Write a separate audio script: a single continuous monologue meant to be read aloud in roughly ten to fifteen minutes. Use spoken-word phrasing, smooth transitions between stories, and never say URLs or markdown. The opening line MUST be exactly "Good morning, Midya." followed by the date and a one-sentence hook (e.g. "Good morning, Midya. It's Tuesday, May twentieth. Here's what matters today."). Group naturally by theme without announcing "Section one." End with a brief sign-off.
 
 Constraints:
 - Never invent facts that are not in the source snippets. If a snippet is too thin to summarize confidently, drop it.

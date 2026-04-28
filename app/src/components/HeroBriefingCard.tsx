@@ -1,5 +1,5 @@
-import React from 'react';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
+import React, { useState } from 'react';
+import { GestureResponderEvent, LayoutChangeEvent, Pressable, StyleSheet, Text, View } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 import { BriefingArtwork } from './BriefingArtwork';
@@ -14,31 +14,39 @@ interface Props {
 }
 
 export function HeroBriefingCard({ totalDuration, currentTime, remaining, hookCopy }: Props) {
-  const { playback, togglePlay } = useApp();
+  const { playback, togglePlay, seekTo } = useApp();
   const isPlaying = playback.isPlaying;
+  const [trackWidth, setTrackWidth] = useState(0);
 
   const progress = useProgressFromTimes(currentTime, totalDuration);
 
+  const onTrackLayout = (e: LayoutChangeEvent) => setTrackWidth(e.nativeEvent.layout.width);
+
+  const onTrackPress = (e: GestureResponderEvent) => {
+    if (!trackWidth || !playback.durationMs) return;
+    const ratio = Math.max(0, Math.min(1, e.nativeEvent.locationX / trackWidth));
+    void seekTo(ratio * playback.durationMs);
+  };
+
   return (
     <View style={[styles.card, shadows.card]}>
+      <BriefingArtwork width={680} height={260} rounded={0} />
+
+      {/* Top-left scrim for text readability */}
       <LinearGradient
-        colors={[...colors.heroGradient]}
+        colors={["#FFE4D6F0", "#FFE4D680", "#FFE4D600"]}
         start={{ x: 0, y: 0 }}
-        end={{ x: 1, y: 1 }}
+        end={{ x: 1, y: 0.6 }}
         style={StyleSheet.absoluteFill}
+        pointerEvents="none"
       />
 
-      <View style={styles.artworkWrap} pointerEvents="none">
-        <BriefingArtwork width={220} height={220} rounded={0} />
-      </View>
-
-      <View style={styles.contentRow}>
+      <View style={styles.content}>
         <View style={styles.todayBadge}>
           <Text style={styles.todayBadgeText}>TODAY'S</Text>
         </View>
-
-        <Text style={styles.title}>10-min Briefing</Text>
-        <Text style={styles.copy}>{hookCopy}</Text>
+        <Text style={styles.title}>Briefing</Text>
+        <Text style={styles.copy} numberOfLines={2}>{hookCopy}</Text>
 
         <View style={styles.playRow}>
           <Pressable onPress={togglePlay} style={({ pressed }) => [styles.playBtn, shadows.play, pressed && styles.playBtnPressed]}>
@@ -53,10 +61,12 @@ export function HeroBriefingCard({ totalDuration, currentTime, remaining, hookCo
             <Text style={styles.timeText}>
               {currentTime} / {totalDuration}
             </Text>
-            <View style={styles.progressTrack}>
-              <View style={[styles.progressFill, { width: `${progress * 100}%` }]} />
-              <View style={[styles.progressKnob, { left: `${progress * 100}%` }]} />
-            </View>
+            <Pressable onPress={onTrackPress} onLayout={onTrackLayout} style={styles.progressTouchTarget} hitSlop={{ top: 8, bottom: 8 }}>
+              <View style={styles.progressTrack}>
+                <View style={[styles.progressFill, { width: `${progress * 100}%` }]} />
+                <View style={[styles.progressKnob, { left: `${progress * 100}%` }]} />
+              </View>
+            </Pressable>
             <Text style={styles.remaining}>{remaining}</Text>
           </View>
         </View>
@@ -84,14 +94,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#FBE5DA',
     minHeight: 230,
   },
-  artworkWrap: {
-    position: 'absolute',
-    right: -20,
-    top: 0,
-    bottom: 0,
-    opacity: 0.95,
-  },
-  contentRow: {
+  content: {
     padding: spacing.xl,
     paddingRight: spacing.xxl,
   },
@@ -101,7 +104,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing.md,
     paddingVertical: 4,
     borderRadius: radii.pill,
-    marginBottom: spacing.md,
+    marginBottom: spacing.sm,
   },
   todayBadgeText: {
     ...typography.pillLabel,
@@ -112,12 +115,17 @@ const styles = StyleSheet.create({
     ...typography.heroTitle,
     color: colors.textPrimary,
     marginBottom: spacing.xs,
+    fontSize: 34,
   },
   copy: {
     ...typography.body,
-    color: colors.textSecondary,
-    maxWidth: '70%',
+    color: colors.textPrimary,
+    maxWidth: '75%',
     marginBottom: spacing.lg,
+    fontWeight: '500',
+    textShadowColor: '#FFFFFF99',
+    textShadowOffset: { width: 0, height: 1 },
+    textShadowRadius: 1,
   },
   playRow: {
     flexDirection: 'row',
@@ -146,12 +154,15 @@ const styles = StyleSheet.create({
     color: colors.textPrimary,
     marginBottom: 6,
   },
+  progressTouchTarget: {
+    paddingVertical: 6,
+    marginBottom: 0,
+  },
   progressTrack: {
     height: 4,
-    backgroundColor: '#FFFFFFAA',
+    backgroundColor: '#FFFFFFCC',
     borderRadius: 2,
     overflow: 'visible',
-    marginBottom: 6,
     position: 'relative',
   },
   progressFill: {
@@ -172,6 +183,8 @@ const styles = StyleSheet.create({
   },
   remaining: {
     ...typography.bodySmall,
-    color: colors.textSecondary,
+    color: colors.textPrimary,
+    marginTop: 6,
+    fontWeight: '500',
   },
 });

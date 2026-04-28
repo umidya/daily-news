@@ -4,7 +4,7 @@ import { loadPrefs, savePrefs, type PersistedPrefs } from '@/services/storage';
 import { loadTodayBriefing, type BriefingSource } from '@/services/news';
 import { audioController, type PlaybackState } from '@/services/audio';
 import { cancelDailyBriefing, scheduleDailyBriefing } from '@/services/notifications';
-import type { Briefing, TabKey, Voice } from '@/types/news';
+import type { Briefing, Story, TabKey, Voice } from '@/types/news';
 
 interface AppState {
   // Navigation
@@ -22,10 +22,12 @@ interface AppState {
   togglePlay: () => Promise<void>;
   skipForward: () => Promise<void>;
   skipBack: () => Promise<void>;
+  seekTo: (positionMs: number) => Promise<void>;
 
   // Saved
+  savedStories: Story[];
   savedStoryIds: Set<string>;
-  toggleSaved: (id: string) => void;
+  toggleSaved: (story: Story) => void;
 
   // Personalization
   selectedTopics: string[];
@@ -34,6 +36,7 @@ interface AppState {
 
   mutedTopics: string[];
   removeMuted: (t: string) => void;
+  addMuted: (t: string) => void;
 
   selectedVoice: Voice['id'];
   setSelectedVoice: (v: Voice['id']) => void;
@@ -70,7 +73,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
 
   const [playback, setPlayback] = useState<PlaybackState>(audioController.getState());
 
-  const [savedStoryIds, setSavedStoryIds] = useState<Set<string>>(new Set());
+  const [savedStories, setSavedStories] = useState<Story[]>([]);
   const [selectedTopics, setSelectedTopics] = useState<string[]>(defaultTopics);
   const [mutedTopics, setMutedTopics] = useState<string[]>(defaultMutedTopics);
   const [selectedVoice, setSelectedVoice] = useState<Voice['id']>('onyx');
@@ -83,6 +86,11 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
   const [playbackSpeed, setPlaybackSpeed] = useState(1.0);
 
   const hydrated = useRef(false);
+
+  const savedStoryIds = useMemo(
+    () => new Set(savedStories.map((s) => s.id)),
+    [savedStories],
+  );
 
   // Hydrate persisted prefs once on mount.
   useEffect(() => {
@@ -98,7 +106,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
         if (typeof prefs.digestOn === 'boolean') setDigestOn(prefs.digestOn);
         if (typeof prefs.highQualityOnly === 'boolean') setHighQualityOnly(prefs.highQualityOnly);
         if (typeof prefs.reduceDuplicates === 'boolean') setReduceDuplicates(prefs.reduceDuplicates);
-        if (prefs.savedStoryIds) setSavedStoryIds(new Set(prefs.savedStoryIds));
+        if (Array.isArray(prefs.savedStories)) setSavedStories(prefs.savedStories);
       }
       hydrated.current = true;
     })();
@@ -117,14 +125,14 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       digestOn,
       highQualityOnly,
       reduceDuplicates,
-      savedStoryIds: Array.from(savedStoryIds),
+      savedStories,
     };
     void savePrefs(prefs);
   }, [
     selectedTopics, mutedTopics, selectedVoice,
     deliveryHour, deliveryMinute,
     audioOn, digestOn, highQualityOnly, reduceDuplicates,
-    savedStoryIds,
+    savedStories,
   ]);
 
   // Schedule the morning notification when delivery time changes.
@@ -177,12 +185,20 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
 
   const skipForward = useCallback(() => audioController.seekRelative(30_000), []);
   const skipBack = useCallback(() => audioController.seekRelative(-15_000), []);
+  const seekTo = useCallback((positionMs: number) => audioController.seekTo(positionMs), []);
 
   const cyclePlaybackSpeed = useCallback(async () => {
     const next = SPEEDS[(SPEEDS.indexOf(playbackSpeed) + 1) % SPEEDS.length];
     setPlaybackSpeed(next);
     await audioController.setSpeed(next);
   }, [playbackSpeed]);
+
+  const toggleSaved = useCallback((story: Story) => {
+    setSavedStories((prev) => {
+      const exists = prev.some((s) => s.id === story.id);
+      return exists ? prev.filter((s) => s.id !== story.id) : [...prev, story];
+    });
+  }, []);
 
   const value = useMemo<AppState>(
     () => ({
@@ -196,14 +212,10 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       togglePlay,
       skipForward,
       skipBack,
+      seekTo,
+      savedStories,
       savedStoryIds,
-      toggleSaved: (id) =>
-        setSavedStoryIds((prev) => {
-          const next = new Set(prev);
-          if (next.has(id)) next.delete(id);
-          else next.add(id);
-          return next;
-        }),
+      toggleSaved,
       selectedTopics,
       toggleTopic: (t) =>
         setSelectedTopics((prev) =>
@@ -213,6 +225,8 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
         setSelectedTopics((prev) => (prev.includes(t) ? prev : [...prev, t])),
       mutedTopics,
       removeMuted: (t) => setMutedTopics((prev) => prev.filter((x) => x !== t)),
+      addMuted: (t) =>
+        setMutedTopics((prev) => (prev.includes(t) ? prev : [...prev, t])),
       selectedVoice,
       setSelectedVoice,
       deliveryHour,
@@ -240,7 +254,10 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       togglePlay,
       skipForward,
       skipBack,
+      seekTo,
+      savedStories,
       savedStoryIds,
+      toggleSaved,
       selectedTopics,
       mutedTopics,
       selectedVoice,

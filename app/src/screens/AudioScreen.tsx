@@ -1,5 +1,5 @@
-import React from 'react';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
+import React, { useState } from 'react';
+import { Linking, Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Feather, Ionicons } from '@expo/vector-icons';
 import { AppHeader } from '@/components/AppHeader';
 import { ScreenContainer } from '@/components/ScreenContainer';
@@ -13,11 +13,32 @@ import { formatMs } from '@/services/audio';
 import { colors, radii, shadows, spacing, typography } from '@/theme';
 
 export function AudioScreen() {
-  const { briefing, playback, playbackSpeed, cyclePlaybackSpeed, savedStoryIds, toggleSaved } = useApp();
+  const {
+    briefing,
+    playback,
+    playbackSpeed,
+    cyclePlaybackSpeed,
+    seekTo,
+    togglePlay,
+    savedStoryIds,
+    toggleSaved,
+  } = useApp();
   const b = briefing;
-  const isSaved = savedStoryIds.has('briefing-today');
+  const [transcriptOpen, setTranscriptOpen] = useState(false);
+  const upSaved = b.upNext ? savedStoryIds.has(b.upNext.id) : false;
   const currentTime = playback.isLoaded ? formatMs(playback.positionMs) : '00:00';
   const totalDuration = playback.isLoaded ? formatMs(playback.durationMs) : b.totalDuration;
+
+  const handleChapterPress = (chapterId: string) => {
+    const chapter = b.audioChapters.find((c) => c.id === chapterId);
+    if (!chapter || chapter.startSeconds == null) return;
+    void seekTo(chapter.startSeconds * 1000);
+    if (!playback.isPlaying) void togglePlay();
+  };
+
+  const handleUpNextPress = () => {
+    if (b.upNext?.url) Linking.openURL(b.upNext.url).catch(() => {});
+  };
 
   return (
     <ScreenContainer>
@@ -37,30 +58,17 @@ export function AudioScreen() {
           <View style={styles.todayBadge}>
             <Text style={styles.todayBadgeText}>TODAY'S BRIEFING</Text>
           </View>
-          <Text style={styles.cardTitle}>Today's 10-min Briefing</Text>
+          <Text style={styles.cardTitle}>Today's Briefing</Text>
           <Text style={styles.desc}>
             Your essential updates on BC, AI, marketing, business, and the world.
           </Text>
         </View>
-        <Pressable
-          onPress={() => toggleSaved('briefing-today')}
-          style={styles.saveBtn}
-          hitSlop={6}
-        >
-          <Feather name={isSaved ? 'check' : 'download'} size={22} color={colors.textPrimary} />
-          <Text style={styles.saveLabel}>{isSaved ? 'Saved' : 'Save'}</Text>
-        </Pressable>
       </View>
 
-      <AudioPlayer
-        currentTime={currentTime}
-        totalDuration={totalDuration}
-        isSaved={isSaved}
-        onSave={() => toggleSaved('briefing-today')}
-      />
+      <AudioPlayer currentTime={currentTime} totalDuration={totalDuration} />
 
       <View style={{ marginTop: spacing.lg }}>
-        <ChapterList chapters={b.audioChapters} />
+        <ChapterList chapters={b.audioChapters} onChapterPress={handleChapterPress} />
       </View>
 
       <View style={styles.footRow}>
@@ -70,7 +78,10 @@ export function AudioScreen() {
           <Text style={styles.footValue}>{playbackSpeed.toFixed(2).replace(/0$/, '')}×</Text>
         </Pressable>
 
-        <Pressable style={[styles.footBtn, { backgroundColor: colors.accentBlueSoft }]}>
+        <Pressable
+          onPress={() => setTranscriptOpen(true)}
+          style={[styles.footBtn, { backgroundColor: colors.accentBlueSoft }]}
+        >
           <Feather name="file-text" size={16} color={colors.accentBlue} />
           <Text style={[styles.footLabel, { color: colors.accentBlue, fontWeight: '600' }]}>
             View full transcript
@@ -81,7 +92,10 @@ export function AudioScreen() {
       {b.upNext && (
         <>
           <Text style={[styles.upNextTitle]}>Up next</Text>
-          <View style={[styles.upNextCard, shadows.cardSoft]}>
+          <Pressable
+            onPress={handleUpNextPress}
+            style={({ pressed }) => [styles.upNextCard, shadows.cardSoft, pressed && { opacity: 0.85 }]}
+          >
             <StoryThumbnail kind={b.upNext.thumbnailKind} size={64} />
             <View style={{ flex: 1, gap: 4 }}>
               <CategoryPill category={b.upNext.category} />
@@ -92,13 +106,61 @@ export function AudioScreen() {
                 {b.upNext.summary}
               </Text>
             </View>
-            <Pressable style={styles.upPlay}>
-              <Ionicons name="play" size={18} color={colors.lavender} style={{ marginLeft: 2 }} />
+            <Pressable
+              onPress={(e) => {
+                e.stopPropagation?.();
+                if (b.upNext) toggleSaved(b.upNext);
+              }}
+              hitSlop={10}
+              style={styles.upBookmark}
+            >
+              <Ionicons
+                name={upSaved ? 'bookmark' : 'bookmark-outline'}
+                size={20}
+                color={upSaved ? colors.lavender : colors.textMuted}
+              />
             </Pressable>
-          </View>
+          </Pressable>
         </>
       )}
+
+      <TranscriptModal
+        open={transcriptOpen}
+        onClose={() => setTranscriptOpen(false)}
+        text={b.audioScript ?? b.whyItMatters}
+        date={b.date}
+      />
     </ScreenContainer>
+  );
+}
+
+function TranscriptModal({
+  open,
+  onClose,
+  text,
+  date,
+}: {
+  open: boolean;
+  onClose: () => void;
+  text: string;
+  date: string;
+}) {
+  return (
+    <Modal visible={open} animationType="slide" presentationStyle="pageSheet" onRequestClose={onClose}>
+      <View style={modalStyles.container}>
+        <View style={modalStyles.header}>
+          <Pressable onPress={onClose} hitSlop={10} style={modalStyles.iconBtn}>
+            <Feather name="x" size={24} color={colors.textPrimary} />
+          </Pressable>
+          <Text style={modalStyles.headerTitle}>Transcript</Text>
+          <View style={{ width: 36 }} />
+        </View>
+        <ScrollView contentContainerStyle={modalStyles.body} showsVerticalScrollIndicator={false}>
+          <Text style={modalStyles.date}>{date}</Text>
+          <Text style={modalStyles.text}>{text}</Text>
+        </ScrollView>
+      </View>
+    </Modal>
   );
 }
 
@@ -147,16 +209,6 @@ const styles = StyleSheet.create({
   desc: {
     ...typography.body,
     color: colors.textMuted,
-    marginTop: 4,
-  },
-  saveBtn: {
-    width: 56,
-    alignItems: 'center',
-    paddingTop: 4,
-  },
-  saveLabel: {
-    ...typography.caption,
-    color: colors.textSecondary,
     marginTop: 4,
   },
   footRow: {
@@ -208,12 +260,50 @@ const styles = StyleSheet.create({
     ...typography.bodySmall,
     color: colors.textMuted,
   },
-  upPlay: {
+  upBookmark: {
+    padding: spacing.xs,
+  },
+});
+
+const modalStyles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: colors.background,
+  },
+  header: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingHorizontal: spacing.lg,
+    paddingTop: spacing.lg,
+    paddingBottom: spacing.md,
+    borderBottomWidth: StyleSheet.hairlineWidth,
+    borderBottomColor: colors.divider,
+  },
+  iconBtn: {
     width: 36,
     height: 36,
-    borderRadius: 18,
-    backgroundColor: colors.lavenderSoft,
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  headerTitle: {
+    ...typography.cardTitle,
+    fontSize: 20,
+    color: colors.textPrimary,
+  },
+  body: {
+    padding: spacing.xl,
+    paddingBottom: spacing.huge,
+  },
+  date: {
+    ...typography.bodySmall,
+    color: colors.textMuted,
+    marginBottom: spacing.md,
+  },
+  text: {
+    ...typography.body,
+    color: colors.textPrimary,
+    lineHeight: 24,
+    fontSize: 16,
   },
 });

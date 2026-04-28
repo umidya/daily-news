@@ -6,9 +6,9 @@
  */
 
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import type { Voice } from '@/types/news';
+import type { Story, Voice } from '@/types/news';
 
-const KEY = 'prefs.v1';
+const KEY = 'prefs.v2';
 
 export interface PersistedPrefs {
   selectedTopics: string[];
@@ -20,7 +20,9 @@ export interface PersistedPrefs {
   digestOn: boolean;
   highQualityOnly: boolean;
   reduceDuplicates: boolean;
-  savedStoryIds: string[];
+  // Full story objects stored so a saved story stays accessible after
+  // today's briefing rolls over.
+  savedStories: Story[];
 }
 
 export async function loadPrefs(): Promise<Partial<PersistedPrefs> | null> {

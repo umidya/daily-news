@@ -4,13 +4,12 @@ import { Feather } from '@expo/vector-icons';
 import { AppHeader } from '@/components/AppHeader';
 import { ScreenContainer } from '@/components/ScreenContainer';
 import { StoryCard } from '@/components/StoryCard';
-import { allStories } from '@/data/mockNews';
 import { useApp } from '@/state/AppContext';
 import { colors, radii, spacing, typography } from '@/theme';
 
 export function SavedScreen() {
-  const { savedStoryIds } = useApp();
-  const saved = allStories.filter((s) => savedStoryIds.has(s.id));
+  const { savedStories } = useApp();
+  const saved = savedStories;
 
   return (
     <ScreenContainer>

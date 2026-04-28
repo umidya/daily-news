@@ -1,5 +1,5 @@
-import React from 'react';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
+import React, { useState } from 'react';
+import { Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
 import { Feather } from '@expo/vector-icons';
 import { AppHeader } from '@/components/AppHeader';
 import { ScreenContainer } from '@/components/ScreenContainer';
@@ -28,8 +28,10 @@ export function SettingsScreen() {
   const {
     selectedTopics,
     toggleTopic,
+    addTopic,
     mutedTopics,
     removeMuted,
+    addMuted,
     selectedVoice,
     setSelectedVoice,
     deliveryHour,
@@ -45,6 +47,24 @@ export function SettingsScreen() {
     reduceDuplicates,
     setReduceDuplicates,
   } = useApp();
+  const [addingTopic, setAddingTopic] = useState(false);
+  const [topicInput, setTopicInput] = useState('');
+  const [addingMuted, setAddingMuted] = useState(false);
+  const [mutedInput, setMutedInput] = useState('');
+
+  const handleAddTopicSubmit = () => {
+    const t = topicInput.trim();
+    if (t) addTopic(t);
+    setTopicInput('');
+    setAddingTopic(false);
+  };
+  const handleAddMutedSubmit = () => {
+    const t = mutedInput.trim();
+    if (t) addMuted(t);
+    setMutedInput('');
+    setAddingMuted(false);
+  };
+  const allTopicChoices = Array.from(new Set([...ALL_TOPICS, ...selectedTopics]));
 
   return (
     <ScreenContainer>
@@ -118,7 +138,7 @@ export function SettingsScreen() {
         subtitle="We'll prioritize these in your briefing."
       >
         <View style={styles.chipWrap}>
-          {ALL_TOPICS.map((t) => (
+          {allTopicChoices.map((t) => (
             <TopicChip
               key={t}
               label={t}
@@ -126,7 +146,21 @@ export function SettingsScreen() {
               onPress={() => toggleTopic(t)}
             />
           ))}
-          <AddTopicChip />
+          {addingTopic ? (
+            <TextInput
+              autoFocus
+              value={topicInput}
+              onChangeText={setTopicInput}
+              onSubmitEditing={handleAddTopicSubmit}
+              onBlur={handleAddTopicSubmit}
+              placeholder="New topic"
+              placeholderTextColor={colors.textMuted}
+              returnKeyType="done"
+              style={styles.inlineInput}
+            />
+          ) : (
+            <AddTopicChip onPress={() => setAddingTopic(true)} />
+          )}
         </View>
       </SectionCard>
 
@@ -141,7 +175,21 @@ export function SettingsScreen() {
           {mutedTopics.map((t) => (
             <MutedTopicChip key={t} label={t} onRemove={() => removeMuted(t)} />
           ))}
-          <AddTopicChip />
+          {addingMuted ? (
+            <TextInput
+              autoFocus
+              value={mutedInput}
+              onChangeText={setMutedInput}
+              onSubmitEditing={handleAddMutedSubmit}
+              onBlur={handleAddMutedSubmit}
+              placeholder="Topic to mute"
+              placeholderTextColor={colors.textMuted}
+              returnKeyType="done"
+              style={styles.inlineInput}
+            />
+          ) : (
+            <AddTopicChip onPress={() => setAddingMuted(true)} />
+          )}
         </View>
       </SectionCard>
 
@@ -150,7 +198,7 @@ export function SettingsScreen() {
         icon={<Feather name="mic" size={18} color={colors.lavender} />}
         iconBg={colors.lavenderSoft}
         title="Choose your voice"
-        subtitle="Select the voice for your audio briefing."
+        subtitle="Tap to hear a sample. Voice change applies to tomorrow's briefing."
       >
         <View style={styles.voiceRow}>
           {voices.map((v) => (
@@ -316,6 +364,18 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     flexWrap: 'wrap',
     gap: spacing.sm,
+  },
+  inlineInput: {
+    minWidth: 120,
+    paddingHorizontal: spacing.md,
+    paddingVertical: 8,
+    borderRadius: radii.pill,
+    borderWidth: 1,
+    borderColor: colors.accentBlue,
+    backgroundColor: colors.surface,
+    ...typography.bodySmall,
+    color: colors.textPrimary,
+    fontWeight: '600',
   },
   voiceRow: {
     flexDirection: 'row',

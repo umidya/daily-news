@@ -113,6 +113,12 @@ class AudioController {
     await this.sound.setPositionAsync(next);
   }
 
+  async seekTo(positionMs: number): Promise<void> {
+    if (!this.sound) return;
+    const next = Math.max(0, Math.min(this.state.durationMs, positionMs));
+    await this.sound.setPositionAsync(next);
+  }
+
   async setSpeed(rate: number): Promise<void> {
     this.update({ speed: rate });
     if (this.sound) {

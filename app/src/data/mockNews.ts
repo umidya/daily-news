@@ -110,14 +110,16 @@ export const mockBriefing: Briefing = {
   digestReadingTime: '4 min read',
   whyItMatters:
     'These stories shape the day ahead — from policy moves close to home to global decisions that ripple into business and tech.',
+  audioScript:
+    "Good morning, Midya. It's Tuesday, April 28. Your morning briefing covers BC short-term rental rules expanding to the Interior, an AI startup raising 150 million dollars to build safer agent tools, and a global climate financing pledge from G7 leaders. Let's begin.",
   topStories: [senateStory, climateStory, aiStory],
   digestStories: [senateStory, climateStory, aiStory, businessStory],
   audioChapters: [
-    { id: 'c1', title: 'Canada & BC', duration: '02:10' },
-    { id: 'c2', title: 'AI & Tech', duration: '02:05' },
-    { id: 'c3', title: 'Marketing', duration: '01:50' },
-    { id: 'c4', title: 'Business', duration: '02:00' },
-    { id: 'c5', title: 'Global', duration: '01:45' },
+    { id: 'c1', title: 'Canada & BC', duration: '02:10', startSeconds: 0 },
+    { id: 'c2', title: 'AI & Tech', duration: '02:05', startSeconds: 130 },
+    { id: 'c3', title: 'Marketing', duration: '01:50', startSeconds: 255 },
+    { id: 'c4', title: 'Business', duration: '02:00', startSeconds: 365 },
+    { id: 'c5', title: 'Global', duration: '01:45', startSeconds: 485 },
   ],
   upNext: senateStory,
 };
