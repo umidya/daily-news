@@ -1,7 +1,9 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { Feather } from '@expo/vector-icons';
 import Svg, { Rect } from 'react-native-svg';
+import { voiceSampleUrl } from '@/config';
+import { playVoiceSample, subscribeSamplePlaying } from '@/services/audio';
 import { colors, radii, spacing, typography } from '@/theme';
 import type { Voice } from '@/types/news';
 
@@ -19,9 +21,25 @@ const TINTS: Record<Voice['id'], string> = {
 
 export function VoiceCard({ voice, selected, onPress }: Props) {
   const tint = TINTS[voice.id];
+  const [playingId, setPlayingId] = useState<string | null>(null);
+  const isPlaying = playingId === voice.id;
+
+  useEffect(() => subscribeSamplePlaying(setPlayingId), []);
+
+  const handleSample = async () => {
+    const url = voiceSampleUrl(voice.id);
+    if (!url) return;
+    await playVoiceSample(voice.id, url);
+  };
+
+  const handleCardPress = () => {
+    onPress();
+    void handleSample();
+  };
+
   return (
     <Pressable
-      onPress={onPress}
+      onPress={handleCardPress}
       style={({ pressed }) => [
         styles.card,
         selected && styles.cardSelected,
@@ -29,10 +47,19 @@ export function VoiceCard({ voice, selected, onPress }: Props) {
       ]}
     >
       <View style={styles.row}>
-        <View style={[styles.playIcon, { backgroundColor: selected ? tint : '#E5E7EB' }]}>
-          <Feather name="play" size={12} color={selected ? '#FFFFFF' : colors.textPrimary} style={{ marginLeft: 1 }} />
-        </View>
-        <Waveform tint={tint} active={selected} />
+        <Pressable
+          onPress={handleSample}
+          hitSlop={8}
+          style={[styles.playIcon, { backgroundColor: selected || isPlaying ? tint : '#E5E7EB' }]}
+        >
+          <Feather
+            name={isPlaying ? 'pause' : 'play'}
+            size={12}
+            color={selected || isPlaying ? '#FFFFFF' : colors.textPrimary}
+            style={!isPlaying ? { marginLeft: 1 } : undefined}
+          />
+        </Pressable>
+        <Waveform tint={tint} active={selected || isPlaying} />
         {selected && (
           <View style={styles.checkBubble}>
             <Feather name="check" size={12} color="#FFFFFF" />

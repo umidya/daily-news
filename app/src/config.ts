@@ -23,3 +23,8 @@ export function todayJsonUrl(): string | null {
   if (!config.hasBackend) return null;
   return `${config.baseUrl}${config.todayJsonPath}`;
 }
+
+export function voiceSampleUrl(voiceId: string): string | null {
+  if (!config.hasBackend) return null;
+  return `${config.baseUrl}/audio/samples/${voiceId}.mp3`;
+}

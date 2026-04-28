@@ -233,6 +233,8 @@ function NumberStepper({
   step?: number;
   pad?: boolean;
 }) {
+  // Largest valid stepped value <= max so 0→down with step=15 wraps to 45 not 59.
+  const lastStep = min + Math.floor((max - min) / step) * step;
   const inc = () => {
     let next = value + step;
     if (next > max) next = min;
@@ -240,7 +242,7 @@ function NumberStepper({
   };
   const dec = () => {
     let next = value - step;
-    if (next < min) next = max;
+    if (next < min) next = lastStep;
     onChange(next);
   };
   return (

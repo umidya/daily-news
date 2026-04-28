@@ -144,3 +144,77 @@ export function formatMs(ms: number): string {
   const s = total % 60;
   return `${m}:${s.toString().padStart(2, '0')}`;
 }
+
+/**
+ * Play a short voice sample on a separate Audio.Sound so the main briefing
+ * playback isn't disturbed beyond a pause. The sample auto-unloads when done.
+ */
+let sampleSound: Audio.Sound | null = null;
+let samplePlayingId: string | null = null;
+const sampleListeners = new Set<(playingId: string | null) => void>();
+
+function emitSampleState(): void {
+  for (const fn of sampleListeners) fn(samplePlayingId);
+}
+
+export function subscribeSamplePlaying(fn: (playingId: string | null) => void): () => void {
+  sampleListeners.add(fn);
+  fn(samplePlayingId);
+  return () => {
+    sampleListeners.delete(fn);
+  };
+}
+
+export async function stopVoiceSample(): Promise<void> {
+  if (sampleSound) {
+    try {
+      await sampleSound.stopAsync();
+      await sampleSound.unloadAsync();
+    } catch {
+      /* ignore */
+    }
+    sampleSound = null;
+  }
+  samplePlayingId = null;
+  emitSampleState();
+}
+
+export async function playVoiceSample(voiceId: string, sampleUrl: string): Promise<void> {
+  // If the same sample is already playing, treat tap as stop.
+  if (samplePlayingId === voiceId) {
+    await stopVoiceSample();
+    return;
+  }
+  // Stop any previous sample.
+  await stopVoiceSample();
+  // Pause main briefing so audio doesn't overlap.
+  try {
+    if (audioController.getState().isPlaying) {
+      await audioController.pause();
+    }
+  } catch {
+    /* ignore */
+  }
+  try {
+    const { sound } = await Audio.Sound.createAsync(
+      { uri: sampleUrl },
+      { shouldPlay: true },
+    );
+    sampleSound = sound;
+    samplePlayingId = voiceId;
+    emitSampleState();
+    sound.setOnPlaybackStatusUpdate((status: any) => {
+      if (status.isLoaded && status.didJustFinish) {
+        sound.unloadAsync().catch(() => {});
+        if (sampleSound === sound) {
+          sampleSound = null;
+          samplePlayingId = null;
+          emitSampleState();
+        }
+      }
+    });
+  } catch {
+    samplePlayingId = null;
+    emitSampleState();
+  }
+}

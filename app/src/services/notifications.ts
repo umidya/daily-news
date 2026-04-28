@@ -52,7 +52,7 @@ export async function scheduleDailyBriefing(hour24: number, minute: number): Pro
     identifier: NOTIFICATION_ID,
     content: {
       title: "Today's briefing is ready",
-      body: 'Tap to listen — your 10-min morning news.',
+      body: 'Tap to listen to your morning news.',
       sound: Platform.OS === 'ios' ? 'default' : undefined,
     },
     trigger,
