@@ -1,5 +1,5 @@
 import React from 'react';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
+import { Pressable, RefreshControl, StyleSheet, Text, View } from 'react-native';
 import { Feather } from '@expo/vector-icons';
 import { AppHeader } from '@/components/AppHeader';
 import { ScreenContainer } from '@/components/ScreenContainer';
@@ -7,11 +7,11 @@ import { HeroBriefingCard } from '@/components/HeroBriefingCard';
 import { StoryCard } from '@/components/StoryCard';
 import { DigestPreviewCard } from '@/components/DigestPreviewCard';
 import { useApp } from '@/state/AppContext';
-import { audioController, formatMs } from '@/services/audio';
+import { formatMs } from '@/services/audio';
 import { colors, spacing, typography } from '@/theme';
 
 export function HomeScreen() {
-  const { setActiveTab, briefing, playback } = useApp();
+  const { setActiveTab, briefing, playback, briefingLoading, refreshBriefing } = useApp();
   const b = briefing;
   const currentTime = playback.isLoaded ? formatMs(playback.positionMs) : b.currentTime;
   const totalDuration = playback.isLoaded ? formatMs(playback.durationMs) : b.totalDuration;
@@ -20,7 +20,11 @@ export function HomeScreen() {
     : b.remaining;
 
   return (
-    <ScreenContainer>
+    <ScreenContainer
+      refreshControl={
+        <RefreshControl refreshing={briefingLoading} onRefresh={refreshBriefing} tintColor={colors.accentBlue} />
+      }
+    >
       <AppHeader />
 
       <View style={styles.greetingBlock}>

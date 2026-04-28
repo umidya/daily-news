@@ -29,7 +29,7 @@ TOPIC_TO_CATEGORY: dict[str, str] = {
     "ai": "AI & Tech",
     "marketing": "Marketing",
     "higher_ed_canada": "Higher Ed",
-    "higher_ed_global": "Higher Ed",
+    "higher_ed_global": "Global",
     "intl_students_canada": "Higher Ed",
     "canadian_real_estate": "Real Estate",
     "kamloops_sun_peaks": "Canada & BC",

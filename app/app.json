@@ -8,7 +8,10 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.midya.dailynews"
+      "bundleIdentifier": "com.midya.dailynews",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "com.midya.dailynews"
@@ -18,6 +21,12 @@
     },
     "plugins": [
       "expo-asset"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "5e916fe2-6099-4cd0-b322-488a40b26e09"
+      }
+    },
+    "owner": "umidya"
   }
 }

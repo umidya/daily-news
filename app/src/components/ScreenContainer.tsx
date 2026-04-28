@@ -1,5 +1,5 @@
 import React from 'react';
-import { ScrollView, StyleSheet, View, ViewStyle } from 'react-native';
+import { RefreshControlProps, ScrollView, StyleSheet, View, ViewStyle } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, screenPadding, spacing } from '@/theme';
 
@@ -8,23 +8,39 @@ interface Props {
   scroll?: boolean;
   contentStyle?: ViewStyle;
   bottomInset?: number;
+  refreshControl?: React.ReactElement<RefreshControlProps>;
 }
 
-export function ScreenContainer({ children, scroll = true, contentStyle, bottomInset = 96 }: Props) {
-  const Inner = scroll ? ScrollView : View;
+export function ScreenContainer({ children, scroll = true, contentStyle, bottomInset = 96, refreshControl }: Props) {
+  if (!scroll) {
+    return (
+      <SafeAreaView edges={['top']} style={styles.safe}>
+        <View
+          style={[
+            styles.content,
+            { paddingBottom: bottomInset + spacing.lg },
+            contentStyle,
+          ]}
+        >
+          {children}
+        </View>
+      </SafeAreaView>
+    );
+  }
   return (
     <SafeAreaView edges={['top']} style={styles.safe}>
-      <Inner
+      <ScrollView
         contentContainerStyle={[
           styles.content,
           { paddingBottom: bottomInset + spacing.lg },
           contentStyle,
         ]}
         showsVerticalScrollIndicator={false}
-        style={scroll ? styles.scroll : undefined}
+        style={styles.scroll}
+        refreshControl={refreshControl}
       >
         {children}
-      </Inner>
+      </ScrollView>
     </SafeAreaView>
   );
 }
