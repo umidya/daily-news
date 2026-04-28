@@ -3,15 +3,15 @@
   "date": "Tuesday, April 28, 2026",
   "dateIso": "2026-04-28",
   "greeting": "Good morning, Midya",
-  "totalDuration": "53:22",
+  "totalDuration": "13:20",
   "currentTime": "0:00",
-  "remaining": "53 min total",
+  "remaining": "13 min total",
   "hookCopy": "Good morning.",
   "digestIntro": "Today's most consequential stories sit at the intersection of your two worlds — marketing and consulting. The CMO Council's new AI-and-human-essence research is a direct briefing note for your consulting pitch: it gives you data to argue that AI augments but cannot replace strategic marketing judgement, which is exactly the value proposition you're selling. On the business front, the Musk vs.",
   "digestReadingTime": "6 min read",
   "whyItMatters": "Today's most consequential stories sit at the intersection of your two worlds — marketing and consulting. The CMO Council's new AI-and-human-essence research is a direct briefing note for your consulting pitch: it gives you data to argue that AI augments but cannot replace strategic marketing judgement, which is exactly the value proposition you're selling. On the business front, the Musk vs. Altman trial is surfacing uncomfortable truths about OpenAI's revenue misses that will ripple through every AI vendor conversation you have with clients. For your real estate interests, watch the Bank of Canada's October rate announcement closely — the accompanying Monetary Policy Report sets the tone for mortgage markets heading into year-end. And if you have family in BC, do a quick check of the food-recall feeds today; nothing came through in today's candidates, but the BoC holiday noise in the feed suggests some sources are running dated content, so verify freshness independently. Finally, the U.S. court ordering the Trump administration to restore OPT work permits is worth tracking as a leading indicator: when American policy tightens or loosens on international students, Canada's recruitment pipeline feels it within one cycle.",
   "audioUrl": "https://umidya.github.io/daily-news/audio/2026-04-28.mp3",
-  "audioDurationSeconds": 3202,
+  "audioDurationSeconds": 800,
   "topStories": [
     {
       "id": "story-ai-0",
@@ -141,27 +141,27 @@
     {
       "id": "c1",
       "title": "AI & Tech",
-      "duration": "13:20"
+      "duration": "2:40"
     },
     {
       "id": "c2",
       "title": "Marketing",
-      "duration": "17:47"
+      "duration": "2:40"
     },
     {
       "id": "c3",
       "title": "Higher Ed",
-      "duration": "13:20"
+      "duration": "2:40"
     },
     {
       "id": "c4",
       "title": "Real Estate",
-      "duration": "4:26"
+      "duration": "2:40"
     },
     {
       "id": "c5",
       "title": "Higher Ed",
-      "duration": "4:26"
+      "duration": "2:40"
     }
   ],
   "upNext": {
