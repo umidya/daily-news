@@ -8,3 +8,4 @@ rapidfuzz>=3.9.0
 Jinja2>=3.1.4
 feedgen>=1.0.0
 python-dotenv>=1.0.1
+mutagen>=1.47.0

@@ -53,9 +53,9 @@ TOPIC_TO_THUMBNAIL: dict[str, str] = {
 }
 
 
-# OpenAI tts-1-hd at default quality is roughly 24kbps mono → ~3KB/sec.
-# Used as a fallback when ffprobe/mutagen aren't available.
-_BYTES_PER_SECOND_ESTIMATE = 3000
+# OpenAI tts-1-hd outputs MP3 at ~96 kbps mono → ~12 KB/sec.
+# Used as a fallback when mutagen isn't available.
+_BYTES_PER_SECOND_ESTIMATE = 12000
 
 
 def _estimate_audio_seconds(mp3_path: Path) -> int:
