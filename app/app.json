@@ -6,6 +6,12 @@
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#FFD9C4"
+    },
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.midya.dailynews",
@@ -14,10 +20,15 @@
       }
     },
     "android": {
-      "package": "com.midya.dailynews"
+      "package": "com.midya.dailynews",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FBC0CB"
+      }
     },
     "web": {
-      "bundler": "metro"
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
     },
     "plugins": [
       "expo-asset"

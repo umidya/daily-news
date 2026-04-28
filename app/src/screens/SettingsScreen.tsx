@@ -54,6 +54,9 @@ export function SettingsScreen() {
         <View style={{ flex: 1 }}>
           <Text style={styles.title}>Personalize</Text>
           <Text style={styles.subtitle}>Tailor your briefing to what matters most.</Text>
+          <Text style={styles.tzNote}>
+            Notification fires at your phone's local time — auto-adjusts when you travel.
+          </Text>
         </View>
         <PersonalizeArtwork width={170} height={120} />
       </View>
@@ -268,6 +271,12 @@ const styles = StyleSheet.create({
     ...typography.body,
     color: colors.textMuted,
     marginTop: 2,
+  },
+  tzNote: {
+    ...typography.caption,
+    color: colors.textMuted,
+    marginTop: 6,
+    fontStyle: 'italic',
   },
   deliveryRow: {
     flexDirection: 'row',

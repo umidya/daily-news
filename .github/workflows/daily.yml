@@ -2,10 +2,12 @@ name: Daily news digest
 
 on:
   schedule:
-    # 13:30 UTC = 05:30 PST (Nov-Mar) / 06:30 PDT (Mar-Nov).
-    # GitHub Actions cron is UTC only; this gives you a digest by 6:30 AM Pacific
-    # for ~8 months of the year and 5:30 AM PST for the rest.
-    - cron: "30 13 * * *"
+    # 11:30 UTC = 03:30 PST (Nov-Mar) / 04:30 PDT (Mar-Nov).
+    # Pipeline takes ~5 min, so briefing is published well before the app's
+    # default 6:00 AM local notification — even when Midya travels to MT/CT
+    # zones the briefing arrives in time. For ET/EU/Asia travel she'll see
+    # yesterday's until the cron fires; pull-to-refresh in-app picks up fresh.
+    - cron: "30 11 * * *"
   workflow_dispatch:  # manual trigger from the Actions tab
 
 permissions:

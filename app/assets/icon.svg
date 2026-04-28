@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE0CF"/>
+      <stop offset="0.55" stop-color="#FBC0CB"/>
+      <stop offset="1" stop-color="#D8C9F4"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="60%" r="42%">
+      <stop offset="0" stop-color="#FFE9A1"/>
+      <stop offset="0.55" stop-color="#FFB960"/>
+      <stop offset="1" stop-color="#FF7F4E"/>
+    </radialGradient>
+    <linearGradient id="mtnBack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7A8BC9"/>
+      <stop offset="1" stop-color="#3F4F8E"/>
+    </linearGradient>
+    <linearGradient id="mtnFront" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1F2D5A"/>
+      <stop offset="1" stop-color="#0B1530"/>
+    </linearGradient>
+    <linearGradient id="reflection" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFD08F" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#9B8FD6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#sky)"/>
+
+  <!-- soft sun halo -->
+  <circle cx="512" cy="610" r="450" fill="#FFE9A1" opacity="0.16"/>
+  <circle cx="512" cy="610" r="340" fill="#FFE9A1" opacity="0.22"/>
+  <circle cx="512" cy="610" r="260" fill="#FFE9A1" opacity="0.28"/>
+
+  <!-- sun -->
+  <circle cx="512" cy="610" r="190" fill="url(#sun)"/>
+
+  <!-- back mountain ridge -->
+  <path d="M 0 760 L 160 540 L 320 670 L 470 480 L 620 640 L 780 540 L 920 640 L 1024 600 L 1024 1024 L 0 1024 Z" fill="url(#mtnBack)"/>
+
+  <!-- mid soft pink ridge for warmth -->
+  <path d="M 0 820 L 200 720 L 360 800 L 520 700 L 680 790 L 840 720 L 1024 780 L 1024 1024 L 0 1024 Z" fill="#D87B95" opacity="0.55"/>
+
+  <!-- front navy mountains -->
+  <path d="M 0 880 L 180 780 L 340 860 L 500 760 L 680 870 L 860 800 L 1024 870 L 1024 1024 L 0 1024 Z" fill="url(#mtnFront)"/>
+
+  <!-- water-reflection band at bottom -->
+  <rect x="0" y="970" width="1024" height="54" fill="url(#reflection)"/>
+</svg>

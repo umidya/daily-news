@@ -75,7 +75,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
   const [mutedTopics, setMutedTopics] = useState<string[]>(defaultMutedTopics);
   const [selectedVoice, setSelectedVoice] = useState<Voice['id']>('onyx');
   const [deliveryHour, setDeliveryHour] = useState(6);
-  const [deliveryMinute, setDeliveryMinute] = useState(30);
+  const [deliveryMinute, setDeliveryMinute] = useState(0);
   const [audioOn, setAudioOn] = useState(true);
   const [digestOn, setDigestOn] = useState(true);
   const [highQualityOnly, setHighQualityOnly] = useState(true);

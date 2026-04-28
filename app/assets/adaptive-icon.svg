@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 432">
+  <defs>
+    <radialGradient id="sun" cx="50%" cy="55%" r="42%">
+      <stop offset="0" stop-color="#FFE9A1"/>
+      <stop offset="0.55" stop-color="#FFB960"/>
+      <stop offset="1" stop-color="#FF7F4E"/>
+    </radialGradient>
+    <linearGradient id="mtnFront" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1F2D5A"/>
+      <stop offset="1" stop-color="#0B1530"/>
+    </linearGradient>
+  </defs>
+
+  <!-- sun halo -->
+  <circle cx="216" cy="220" r="180" fill="#FFE9A1" opacity="0.25"/>
+  <circle cx="216" cy="220" r="135" fill="#FFE9A1" opacity="0.32"/>
+
+  <!-- sun -->
+  <circle cx="216" cy="220" r="90" fill="url(#sun)"/>
+
+  <!-- mountains -->
+  <path d="M 30 340 L 120 270 L 200 320 L 280 250 L 350 320 L 420 270 L 420 412 L 30 412 Z" fill="url(#mtnFront)"/>
+</svg>
