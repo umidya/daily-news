@@ -14,11 +14,14 @@ from __future__ import annotations
 import json
 import logging
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional
 
 from .config import Config
+from .fetch import fetch_og_image
+from .models import Article
 from .summarize import Digest
 
 log = logging.getLogger(__name__)
@@ -108,8 +111,8 @@ def _section_duration(stories_count: int, total_seconds: int, total_stories: int
     return _format_mmss(section_seconds)
 
 
-def _story_to_app(story: dict, topic_key: str, idx: int) -> dict:
-    return {
+def _story_to_app(story: dict, topic_key: str, idx: int, image_url: Optional[str]) -> dict:
+    out = {
         "id": f"story-{topic_key}-{idx}",
         "category": TOPIC_TO_CATEGORY.get(topic_key, "Global"),
         "headline": story.get("headline", "").strip(),
@@ -120,6 +123,44 @@ def _story_to_app(story: dict, topic_key: str, idx: int) -> dict:
         "audioSegmentLength": "—",
         "thumbnailKind": TOPIC_TO_THUMBNAIL.get(topic_key, "globe"),
     }
+    if image_url:
+        out["imageUrl"] = image_url
+    return out
+
+
+def _resolve_image_urls(
+    chosen_urls: list[str],
+    candidates: list[Article],
+    max_workers: int = 6,
+) -> dict[str, Optional[str]]:
+    """Build a `url -> image_url` map for the URLs Claude picked.
+
+    Falls back to fetching og:image only for chosen stories that didn't have
+    an image in the RSS entry. Caps at ~12 HTTP requests/run.
+    """
+    by_url: dict[str, Optional[str]] = {}
+    needs_scrape: list[str] = []
+    candidate_by_url = {a.url: a for a in candidates}
+    for url in chosen_urls:
+        art = candidate_by_url.get(url)
+        if art and art.image_url:
+            by_url[url] = art.image_url
+        else:
+            by_url[url] = None
+            needs_scrape.append(url)
+
+    if not needs_scrape:
+        return by_url
+
+    with ThreadPoolExecutor(max_workers=max_workers) as ex:
+        future_to_url = {ex.submit(fetch_og_image, u): u for u in needs_scrape}
+        for fut in as_completed(future_to_url):
+            url = future_to_url[fut]
+            try:
+                by_url[url] = fut.result()
+            except Exception:
+                by_url[url] = None
+    return by_url
 
 
 def build_app_payload(
@@ -128,10 +169,19 @@ def build_app_payload(
     human_label: str,
     audio_url: str,
     audio_path: Path,
+    candidates: Optional[list[Article]] = None,
 ) -> dict:
     """Build the app-shaped Briefing payload from a pipeline Digest."""
     total_seconds = _estimate_audio_seconds(audio_path)
     total_duration = _format_mmss(total_seconds)
+
+    # Look up images for each chosen story (RSS first, og:image fallback).
+    chosen_urls: list[str] = []
+    for section in digest.sections or []:
+        for story in section.get("stories", []):
+            if story.get("url"):
+                chosen_urls.append(story["url"])
+    image_by_url = _resolve_image_urls(chosen_urls, candidates or [])
 
     # Flatten stories with topic_key context preserved.
     sections = digest.sections or []
@@ -139,7 +189,8 @@ def build_app_payload(
     for section in sections:
         topic_key = section.get("topic_key", "global_business_tech")
         for i, story in enumerate(section.get("stories", [])):
-            flat_stories.append(_story_to_app(story, topic_key, i))
+            img = image_by_url.get(story.get("url", ""))
+            flat_stories.append(_story_to_app(story, topic_key, i, img))
 
     total_story_count = max(1, len(flat_stories))
 
@@ -167,10 +218,22 @@ def build_app_payload(
 
     top_stories = flat_stories[:3]
     digest_stories = flat_stories[:8]
-    up_next = flat_stories[0] if flat_stories else None
+    up_next = flat_stories[1] if len(flat_stories) > 1 else (flat_stories[0] if flat_stories else None)
 
-    return {
-        "schemaVersion": 1,
+    # Hero / "main story of the day" = first story Claude placed in the first
+    # section. Fall back to the first story that has an image.
+    main_story = flat_stories[0] if flat_stories else None
+    hero_image_url: Optional[str] = None
+    if main_story and main_story.get("imageUrl"):
+        hero_image_url = main_story["imageUrl"]
+    else:
+        for s in flat_stories:
+            if s.get("imageUrl"):
+                hero_image_url = s["imageUrl"]
+                break
+
+    payload: dict = {
+        "schemaVersion": 2,
         "date": human_label,
         "dateIso": date_label,
         "greeting": "Good morning, Midya",
@@ -188,7 +251,11 @@ def build_app_payload(
         "digestStories": digest_stories,
         "audioChapters": chapters,
         "upNext": up_next,
+        "mainStory": main_story,
     }
+    if hero_image_url:
+        payload["heroImageUrl"] = hero_image_url
+    return payload
 
 
 def write_app_briefing(
@@ -198,10 +265,13 @@ def write_app_briefing(
     audio_url: str,
     audio_path: Path,
     cfg: Config,
+    candidates: Optional[list[Article]] = None,
 ) -> tuple[Path, Path]:
     """Write today.json (latest) and briefings/<date>.json (archive). Returns
     both paths."""
-    payload = build_app_payload(digest, date_label, human_label, audio_url, audio_path)
+    payload = build_app_payload(
+        digest, date_label, human_label, audio_url, audio_path, candidates=candidates
+    )
 
     public = cfg.public_dir
     public.mkdir(parents=True, exist_ok=True)

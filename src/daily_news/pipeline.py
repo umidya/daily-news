@@ -136,7 +136,9 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
 
     write_podcast_feed(episodes, cfg)
     write_index(episodes, cfg)
-    write_app_briefing(digest, date_label, human_label, audio_url, audio_dest, cfg)
+    write_app_briefing(
+        digest, date_label, human_label, audio_url, audio_dest, cfg, candidates=candidates
+    )
 
     log.info("Digest complete: %s (%d stories)", date_label, len(digest.chosen_url_hashes))
     return {

@@ -10,6 +10,7 @@ export interface Story {
   readingTime: string;
   audioSegmentLength: string;
   thumbnailKind: ThumbnailKind;
+  imageUrl?: string;
 }
 
 export type ThumbnailKind =
@@ -38,10 +39,12 @@ export interface Briefing {
   audioUrl?: string;
   audioDurationSeconds?: number;
   audioScript?: string;
+  heroImageUrl?: string;
   topStories: Story[];
   digestStories: Story[];
   audioChapters: Chapter[];
   upNext: Story | null;
+  mainStory?: Story | null;
 }
 
 export interface Chapter {

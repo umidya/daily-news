@@ -20,3 +20,5 @@ class Article:
     credibility: float = 0.75
     score: float = 0.0
     score_breakdown: dict = field(default_factory=dict)
+    # In-memory only — not persisted to the articles DB.
+    image_url: Optional[str] = None

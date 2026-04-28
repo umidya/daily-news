@@ -25,7 +25,7 @@ export function HomeScreen() {
         <RefreshControl refreshing={briefingLoading} onRefresh={refreshBriefing} tintColor={colors.accentBlue} />
       }
     >
-      <AppHeader onBellPress={refreshBriefing} />
+      <AppHeader />
 
       <View style={styles.greetingBlock}>
         <Text style={styles.greeting}>{b.greeting}</Text>
@@ -37,6 +37,7 @@ export function HomeScreen() {
         currentTime={currentTime}
         remaining={remaining}
         hookCopy={b.hookCopy}
+        heroImageUrl={b.heroImageUrl}
       />
 
       <View style={styles.sectionHeader}>

@@ -39,7 +39,12 @@ export function StoryCard({ story, onPress, variant = 'card', thumbnailSize = 84
         pressed && { opacity: 0.85 },
       ]}
     >
-      <StoryThumbnail kind={story.thumbnailKind} size={thumbnailSize} rounded={isCard ? 12 : 14} />
+      <StoryThumbnail
+        kind={story.thumbnailKind}
+        size={thumbnailSize}
+        rounded={isCard ? 12 : 14}
+        imageUrl={story.imageUrl}
+      />
       <View style={styles.body}>
         <CategoryPill category={story.category} />
         <Text style={styles.headline} numberOfLines={2}>

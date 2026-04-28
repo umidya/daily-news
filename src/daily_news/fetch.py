@@ -25,12 +25,95 @@ REQUEST_TIMEOUT = 20.0
 MAX_PER_SOURCE = 25  # cap to keep the candidate pool sane
 
 _TAG_RE = re.compile(r"<[^>]+>")
+# Match og:image meta tag tolerantly across attribute orderings + quote styles.
+_OG_IMAGE_RE = re.compile(
+    r'<meta[^>]+(?:property|name)=["\']og:image["\'][^>]*content=["\']([^"\']+)["\']'
+    r"|"
+    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*(?:property|name)=["\']og:image["\']',
+    re.IGNORECASE,
+)
+_TWITTER_IMAGE_RE = re.compile(
+    r'<meta[^>]+(?:property|name)=["\']twitter:image["\'][^>]*content=["\']([^"\']+)["\']',
+    re.IGNORECASE,
+)
 
 
 def _strip_html(text: str) -> str:
     if not text:
         return ""
     return _TAG_RE.sub("", text).strip()
+
+
+def _image_from_entry(entry) -> str | None:
+    """Pull an image URL from an RSS entry without an extra HTTP request.
+
+    Order of preference matches what feed publishers actually use:
+    media:thumbnail → media:content (image-typed) → enclosure → links.
+    """
+    thumbs = entry.get("media_thumbnail") or []
+    if thumbs and isinstance(thumbs, list):
+        url = thumbs[0].get("url") if isinstance(thumbs[0], dict) else None
+        if url:
+            return url
+
+    media = entry.get("media_content") or []
+    if media and isinstance(media, list):
+        for m in media:
+            if not isinstance(m, dict):
+                continue
+            if m.get("medium") == "image" or (m.get("type") or "").startswith("image/") or m.get("url"):
+                if m.get("url"):
+                    return m["url"]
+
+    encs = entry.get("enclosures") or []
+    if encs and isinstance(encs, list):
+        for e in encs:
+            if not isinstance(e, dict):
+                continue
+            if (e.get("type") or "").startswith("image/") and e.get("href"):
+                return e["href"]
+
+    links = entry.get("links") or []
+    if links and isinstance(links, list):
+        for link in links:
+            if not isinstance(link, dict):
+                continue
+            if link.get("rel") == "enclosure" and (link.get("type") or "").startswith("image/"):
+                if link.get("href"):
+                    return link["href"]
+
+    img = entry.get("image")
+    if isinstance(img, dict) and img.get("href"):
+        return img["href"]
+    return None
+
+
+def fetch_og_image(url: str, timeout: float = 8.0) -> str | None:
+    """Best-effort scrape of og:image / twitter:image from an article URL.
+
+    Used as a fallback for articles whose RSS entry didn't include an image.
+    Only ever called for stories that survived scoring + Claude's pick — so
+    at most ~12 fetches per pipeline run, not every candidate.
+    """
+    try:
+        with httpx.Client(
+            headers={"User-Agent": USER_AGENT, "Accept": "text/html"},
+            timeout=timeout,
+            follow_redirects=True,
+        ) as client:
+            r = client.get(url)
+            if not r.is_success:
+                return None
+            html = r.text[:200_000]  # cap so we don't parse a 10MB page
+        m = _OG_IMAGE_RE.search(html)
+        if m:
+            return (m.group(1) or m.group(2) or "").strip() or None
+        m = _TWITTER_IMAGE_RE.search(html)
+        if m:
+            return m.group(1).strip() or None
+    except Exception as e:
+        log.debug("og:image fetch failed for %s: %s", url, e)
+    return None
 
 
 def _parse_published(entry) -> datetime | None:
@@ -66,6 +149,7 @@ def _entry_to_article(entry, source: str, topics: list[str], credibility: float)
         snippet=snippet,
         topics=list(topics),
         credibility=credibility,
+        image_url=_image_from_entry(entry),
     )
 
 

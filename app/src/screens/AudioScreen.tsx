@@ -96,7 +96,7 @@ export function AudioScreen() {
             onPress={handleUpNextPress}
             style={({ pressed }) => [styles.upNextCard, shadows.cardSoft, pressed && { opacity: 0.85 }]}
           >
-            <StoryThumbnail kind={b.upNext.thumbnailKind} size={64} />
+            <StoryThumbnail kind={b.upNext.thumbnailKind} size={64} imageUrl={b.upNext.imageUrl} />
             <View style={{ flex: 1, gap: 4 }}>
               <CategoryPill category={b.upNext.category} />
               <Text style={styles.upHeadline} numberOfLines={2}>

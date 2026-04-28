@@ -49,7 +49,7 @@ export function DigestScreen() {
                 onPress={() => s.url && Linking.openURL(s.url).catch(() => {})}
                 style={({ pressed }) => [styles.storyRow, pressed && { opacity: 0.85 }]}
               >
-                <StoryThumbnail kind={s.thumbnailKind} size={92} rounded={14} />
+                <StoryThumbnail kind={s.thumbnailKind} size={92} rounded={14} imageUrl={s.imageUrl} />
                 <View style={styles.storyText}>
                   <CategoryPill category={s.category} />
                   <Text style={styles.storyHeadline}>{s.headline}</Text>

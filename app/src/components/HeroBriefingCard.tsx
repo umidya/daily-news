@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { GestureResponderEvent, LayoutChangeEvent, Pressable, StyleSheet, Text, View } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
+import { Image } from 'expo-image';
 import { Ionicons } from '@expo/vector-icons';
 import { BriefingArtwork } from './BriefingArtwork';
 import { useApp } from '@/state/AppContext';
@@ -11,12 +12,14 @@ interface Props {
   currentTime: string;
   remaining: string;
   hookCopy: string;
+  heroImageUrl?: string;
 }
 
-export function HeroBriefingCard({ totalDuration, currentTime, remaining, hookCopy }: Props) {
+export function HeroBriefingCard({ totalDuration, currentTime, remaining, hookCopy, heroImageUrl }: Props) {
   const { playback, togglePlay, seekTo } = useApp();
   const isPlaying = playback.isPlaying;
   const [trackWidth, setTrackWidth] = useState(0);
+  const [imageFailed, setImageFailed] = useState(false);
 
   const progress = useProgressFromTimes(currentTime, totalDuration);
 
@@ -28,15 +31,31 @@ export function HeroBriefingCard({ totalDuration, currentTime, remaining, hookCo
     void seekTo(ratio * playback.durationMs);
   };
 
+  const showPhoto = heroImageUrl && !imageFailed;
+
   return (
     <View style={[styles.card, shadows.card]}>
-      <BriefingArtwork width={680} height={260} rounded={0} />
+      {showPhoto ? (
+        <Image
+          source={{ uri: heroImageUrl }}
+          style={StyleSheet.absoluteFillObject}
+          contentFit="cover"
+          transition={200}
+          onError={() => setImageFailed(true)}
+        />
+      ) : (
+        <BriefingArtwork width={680} height={260} rounded={0} />
+      )}
 
-      {/* Top-left scrim for text readability */}
+      {/* Scrim for text readability — stronger when over a photo */}
       <LinearGradient
-        colors={["#FFE4D6F0", "#FFE4D680", "#FFE4D600"]}
-        start={{ x: 0, y: 0 }}
-        end={{ x: 1, y: 0.6 }}
+        colors={
+          showPhoto
+            ? ["#0B1530E6", "#0B153099", "#0B153040"]
+            : ["#FFE4D6F0", "#FFE4D680", "#FFE4D600"]
+        }
+        start={{ x: 0, y: 1 }}
+        end={{ x: 1, y: 0 }}
         style={StyleSheet.absoluteFill}
         pointerEvents="none"
       />
@@ -45,8 +64,8 @@ export function HeroBriefingCard({ totalDuration, currentTime, remaining, hookCo
         <View style={styles.todayBadge}>
           <Text style={styles.todayBadgeText}>TODAY'S</Text>
         </View>
-        <Text style={styles.title}>Briefing</Text>
-        <Text style={styles.copy} numberOfLines={2}>{hookCopy}</Text>
+        <Text style={[styles.title, showPhoto && styles.titleOnPhoto]}>Briefing</Text>
+        <Text style={[styles.copy, showPhoto && styles.copyOnPhoto]} numberOfLines={2}>{hookCopy}</Text>
 
         <View style={styles.playRow}>
           <Pressable onPress={togglePlay} style={({ pressed }) => [styles.playBtn, shadows.play, pressed && styles.playBtnPressed]}>
@@ -58,7 +77,7 @@ export function HeroBriefingCard({ totalDuration, currentTime, remaining, hookCo
             />
           </Pressable>
           <View style={styles.progressArea}>
-            <Text style={styles.timeText}>
+            <Text style={[styles.timeText, showPhoto && styles.timeTextOnPhoto]}>
               {currentTime} / {totalDuration}
             </Text>
             <Pressable onPress={onTrackPress} onLayout={onTrackLayout} style={styles.progressTouchTarget} hitSlop={{ top: 8, bottom: 8 }}>
@@ -67,7 +86,7 @@ export function HeroBriefingCard({ totalDuration, currentTime, remaining, hookCo
                 <View style={[styles.progressKnob, { left: `${progress * 100}%` }]} />
               </View>
             </Pressable>
-            <Text style={styles.remaining}>{remaining}</Text>
+            <Text style={[styles.remaining, showPhoto && styles.remainingOnPhoto]}>{remaining}</Text>
           </View>
         </View>
       </View>
@@ -117,6 +136,12 @@ const styles = StyleSheet.create({
     marginBottom: spacing.xs,
     fontSize: 34,
   },
+  titleOnPhoto: {
+    color: '#FFFFFF',
+    textShadowColor: '#000000AA',
+    textShadowOffset: { width: 0, height: 1 },
+    textShadowRadius: 4,
+  },
   copy: {
     ...typography.body,
     color: colors.textPrimary,
@@ -126,6 +151,12 @@ const styles = StyleSheet.create({
     textShadowColor: '#FFFFFF99',
     textShadowOffset: { width: 0, height: 1 },
     textShadowRadius: 1,
+  },
+  copyOnPhoto: {
+    color: '#F0F4FF',
+    textShadowColor: '#000000AA',
+    textShadowOffset: { width: 0, height: 1 },
+    textShadowRadius: 3,
   },
   playRow: {
     flexDirection: 'row',
@@ -153,6 +184,12 @@ const styles = StyleSheet.create({
     ...typography.bodyStrong,
     color: colors.textPrimary,
     marginBottom: 6,
+  },
+  timeTextOnPhoto: {
+    color: '#FFFFFF',
+    textShadowColor: '#000000AA',
+    textShadowOffset: { width: 0, height: 1 },
+    textShadowRadius: 3,
   },
   progressTouchTarget: {
     paddingVertical: 6,
@@ -186,5 +223,11 @@ const styles = StyleSheet.create({
     color: colors.textPrimary,
     marginTop: 6,
     fontWeight: '500',
+  },
+  remainingOnPhoto: {
+    color: '#F0F4FF',
+    textShadowColor: '#000000AA',
+    textShadowOffset: { width: 0, height: 1 },
+    textShadowRadius: 3,
   },
 });

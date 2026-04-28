@@ -1,5 +1,6 @@
 import React from 'react';
 import { View } from 'react-native';
+import { Image } from 'expo-image';
 import Svg, { Circle, Defs, LinearGradient, Path, Polyline, Rect, Stop } from 'react-native-svg';
 import type { ThumbnailKind } from '@/types/news';
 
@@ -7,9 +8,25 @@ interface Props {
   kind: ThumbnailKind;
   size?: number;
   rounded?: number;
+  imageUrl?: string;
 }
 
-export function StoryThumbnail({ kind, size = 84, rounded = 14 }: Props) {
+export function StoryThumbnail({ kind, size = 84, rounded = 14, imageUrl }: Props) {
+  if (imageUrl) {
+    return (
+      <Image
+        source={{ uri: imageUrl }}
+        style={{ width: size, height: size, borderRadius: rounded }}
+        contentFit="cover"
+        transition={200}
+        recyclingKey={imageUrl}
+      />
+    );
+  }
+  return <SvgThumbnail kind={kind} size={size} rounded={rounded} />;
+}
+
+function SvgThumbnail({ kind, size, rounded }: { kind: ThumbnailKind; size: number; rounded: number }) {
   return (
     <View style={{ width: size, height: size, borderRadius: rounded, overflow: 'hidden' }}>
       <Svg width={size} height={size} viewBox="0 0 100 100">
