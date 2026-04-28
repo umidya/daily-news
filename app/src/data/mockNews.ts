@@ -4,7 +4,7 @@ export const todayDate = 'Tuesday, April 28, 2026';
 
 const senateStory: Story = {
   id: 'story-1',
-  category: 'Canada & BC',
+  category: 'Local News',
   headline: 'BC Premier signals new short-term rental rules for the Interior',
   summary:
     "Province hints at extending Vancouver-style restrictions to Kamloops and Sun Peaks, with operators given a six-month runway.",
@@ -40,7 +40,7 @@ const aiStory: Story = {
 
 const businessStory: Story = {
   id: 'story-4',
-  category: 'Business',
+  category: 'Marketing',
   headline: 'Markets rise on stronger earnings and easing inflation data',
   summary:
     'Investors responded positively to signs of a soft landing — though megacap tech still drives most of the gains.',
@@ -115,10 +115,10 @@ export const mockBriefing: Briefing = {
   topStories: [senateStory, climateStory, aiStory],
   digestStories: [senateStory, climateStory, aiStory, businessStory],
   audioChapters: [
-    { id: 'c1', title: 'Canada & BC', duration: '02:10', startSeconds: 0 },
+    { id: 'c1', title: 'Local News', duration: '02:10', startSeconds: 0 },
     { id: 'c2', title: 'AI & Tech', duration: '02:05', startSeconds: 130 },
     { id: 'c3', title: 'Marketing', duration: '01:50', startSeconds: 255 },
-    { id: 'c4', title: 'Business', duration: '02:00', startSeconds: 365 },
+    { id: 'c4', title: 'Higher Ed', duration: '02:00', startSeconds: 365 },
     { id: 'c5', title: 'Global', duration: '01:45', startSeconds: 485 },
   ],
   upNext: senateStory,
@@ -142,16 +142,15 @@ export const voices: Voice[] = [
 ];
 
 export const defaultTopics: string[] = [
-  'Canada',
-  'Kamloops',
-  'Sun Peaks',
-  'AI',
-  'Business',
-  'Real Estate',
-  'Marketing',
+  'AI & Tech',
+  'Marketing & Business',
   'Higher Ed',
+  'Real Estate',
   'AirBnb in BC',
+  'Local News',
   'Global',
+  'Longevity',
+  'Misc',
 ];
 
 export const defaultMutedTopics: string[] = ['Celebrity', 'Gossip'];

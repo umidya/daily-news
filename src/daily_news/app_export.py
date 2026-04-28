@@ -32,13 +32,14 @@ TOPIC_TO_CATEGORY: dict[str, str] = {
     "ai": "AI & Tech",
     "marketing": "Marketing",
     "higher_ed_canada": "Higher Ed",
-    "higher_ed_global": "Global",
+    "higher_ed_global": "Higher Ed",
     "intl_students_canada": "Higher Ed",
     "canadian_real_estate": "Real Estate",
-    "kamloops_sun_peaks": "Canada & BC",
+    "kamloops_sun_peaks": "Local News",
     "airbnb_policy": "AirBnb Policy",
-    "global_business_tech": "Business",
-    "bc_food_recalls": "Canada & BC",
+    "global_business_tech": "Global",
+    "longevity": "Longevity",
+    "misc": "Misc",
 }
 
 # Map pipeline topic_keys to the app's StoryThumbnail kinds.
@@ -51,8 +52,9 @@ TOPIC_TO_THUMBNAIL: dict[str, str] = {
     "canadian_real_estate": "house",
     "kamloops_sun_peaks": "mountains",
     "airbnb_policy": "house",
-    "global_business_tech": "bars",
-    "bc_food_recalls": "leaf",
+    "global_business_tech": "globe",
+    "longevity": "leaf",
+    "misc": "bars",
 }
 
 

@@ -47,25 +47,58 @@ searches:
     topics: [intl_students_canada]
     credibility: 0.70
 
-  # Higher ed in Canada
+  # Higher ed in Canada -- includes named institutions because each is a
+  # potential consulting client. Surface news about new presidents, strategy
+  # shifts, enrolment changes, layoffs, marketing/brand work.
   - query: "Canadian universities"
     topics: [higher_ed_canada]
     credibility: 0.70
   - query: "Canadian colleges enrolment"
     topics: [higher_ed_canada]
     credibility: 0.70
+  - query: "UBC University British Columbia"
+    topics: [higher_ed_canada]
+    credibility: 0.70
+  - query: "SFU Simon Fraser University"
+    topics: [higher_ed_canada]
+    credibility: 0.70
+  - query: "Thompson Rivers University"
+    topics: [higher_ed_canada, kamloops_sun_peaks]
+    credibility: 0.75
+  - query: "BCIT British Columbia Institute Technology"
+    topics: [higher_ed_canada]
+    credibility: 0.70
+  - query: "University Toronto strategy"
+    topics: [higher_ed_canada]
+    credibility: 0.70
+  - query: "McGill University"
+    topics: [higher_ed_canada]
+    credibility: 0.70
+  - query: "Canadian university president appointed"
+    topics: [higher_ed_canada]
+    credibility: 0.70
+  - query: "Canadian university marketing brand"
+    topics: [higher_ed_canada, marketing]
+    credibility: 0.70
 
-  # BC food recalls (CFIA does not expose a working RSS feed, so these
-  # searches are the primary source for this topic).
+  # Misc -- BC food recalls (family safety) + cross-cutting items.
+  # CFIA does not expose a working RSS feed, so these searches are the
+  # primary source for the recall part of Misc.
   - query: "British Columbia food recall"
-    topics: [bc_food_recalls]
-    credibility: 0.80
-  - query: "CFIA recall"
-    topics: [bc_food_recalls]
+    topics: [misc]
     credibility: 0.85
+  - query: "CFIA recall"
+    topics: [misc]
+    credibility: 0.90
   - query: "Canada food recall listeria OR salmonella OR e. coli"
-    topics: [bc_food_recalls]
+    topics: [misc]
+    credibility: 0.85
+  - query: "BC public health alert"
+    topics: [misc]
     credibility: 0.80
+  - query: "BC wildfire evacuation"
+    topics: [misc]
+    credibility: 0.75
 
   # Marketing trade coverage (Marketing Brew and HBR shut down public RSS)
   - query: "CMO appointment"
@@ -83,10 +116,27 @@ searches:
     topics: [intl_students_canada, higher_ed_global]
     credibility: 0.75
 
-  # Canadian mortgages
+  # Canadian + North American real estate
   - query: "Canadian mortgage rates"
     topics: [canadian_real_estate]
     credibility: 0.70
   - query: "Bank of Canada interest rate"
+    topics: [canadian_real_estate]
+    credibility: 0.75
+  - query: "US housing market"
+    topics: [canadian_real_estate]
+    credibility: 0.70
+  - query: "North American real estate brokerage"
+    topics: [canadian_real_estate]
+    credibility: 0.70
+
+  # EXP Realty -- specifically tracked per Midya's interest.
+  - query: "eXp Realty"
+    topics: [canadian_real_estate]
+    credibility: 0.75
+  - query: "eXp World Holdings"
+    topics: [canadian_real_estate]
+    credibility: 0.75
+  - query: "eXp Realty Canada"
     topics: [canadian_real_estate]
     credibility: 0.75

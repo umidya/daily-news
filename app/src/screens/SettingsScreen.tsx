@@ -12,16 +12,15 @@ import { useApp } from '@/state/AppContext';
 import { colors, radii, shadows, spacing, typography } from '@/theme';
 
 const ALL_TOPICS = [
-  'Canada',
-  'Kamloops',
-  'Sun Peaks',
-  'AI',
-  'Business',
-  'Real Estate',
-  'Marketing',
+  'AI & Tech',
+  'Marketing & Business',
   'Higher Ed',
+  'Real Estate',
   'AirBnb in BC',
+  'Local News',
   'Global',
+  'Longevity',
+  'Misc',
 ];
 
 export function SettingsScreen() {

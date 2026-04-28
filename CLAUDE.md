@@ -13,19 +13,22 @@ A personal morning news digest for Midya. Fetches from curated RSS feeds and Goo
 
 Runs daily on GitHub Actions at 13:30 UTC.
 
-## Her interests (drives scoring + summarization tone)
+## Briefing structure (locked April 2026)
 
-- AI news
-- Marketing
-- Higher education in Canada and globally (her work)
-- International student policy in Canada (her work)
-- Canadian real estate and mortgages
-- Kamloops, Sun Peaks (where she lives / spends time)
-- AirBnb policies in Vancouver, Langley, Sun Peaks
-- Global business / economy / tech as it relates to her work
-- Food recalls in BC (family safety)
+Every digest is organized into up to eight named sections (in this order). Sections with no qualifying news are omitted, not padded.
 
-She is a senior marketing exec pivoting into consulting. The digest tone should feel like a trusted advisor's executive briefing, not a news ticker.
+1. **AI & Tech** — `ai`
+2. **Marketing & Business** — `marketing` (or `global_business_tech` when dominantly business)
+3. **Higher Education** — `higher_ed_canada` / `higher_ed_global` / `intl_students_canada`. Specifically flag stories about named Canadian universities (potential consulting clients).
+4. **Real Estate & AirBnB** — `canadian_real_estate` / `airbnb_policy`. Real estate scope: Canada + North America + **eXp Realty**. AirBnB scope: BC, Vancouver, Langley, Sun Peaks policy only.
+5. **Local News** — `kamloops_sun_peaks`. Sun Peaks and Kamloops only — NOT Vancouver, NOT generic BC.
+6. **Global News** — `global_business_tech`. World events and geopolitics relevant to a senior leader.
+7. **Longevity** — `longevity`. **Strict source allowlist**: NEJM, Lancet, JAMA, BMJ, Nature Medicine, Nature, Science, NIH, Harvard Health, Mayo Clinic, Cleveland Clinic, STAT News, Cochrane. Drop anything from wellness blogs or supplement marketers.
+8. **Misc** — `misc`. Catch-all for things Midya should see: BC food recalls (always include if present), wildfire/atmospheric river/earthquake alerts, surprising cross-cutting items.
+
+Target ~16 stories total, 1–3 per active section.
+
+Audience: Midya — senior marketing exec in BC, pivoting into consulting, lives between Sun Peaks and Kamloops. Tone: trusted advisor's executive briefing, not a news ticker.
 
 ## Where decisions live
 

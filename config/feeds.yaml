@@ -102,6 +102,21 @@ feeds:
     credibility: 0.80
     topics: [canadian_real_estate]
 
+  - name: Inman
+    url: https://www.inman.com/feed/
+    credibility: 0.85
+    topics: [canadian_real_estate]
+
+  - name: HousingWire
+    url: https://www.housingwire.com/feed/
+    credibility: 0.85
+    topics: [canadian_real_estate]
+
+  - name: RisMedia
+    url: https://www.rismedia.com/feed/
+    credibility: 0.80
+    topics: [canadian_real_estate]
+
   # ---------- Local BC ----------
   # Note: Castanet's region-specific RSS feeds were retired when they split
   # castanetkamloops.net off as a separate site. Kamloops/Sun Peaks coverage
@@ -120,7 +135,62 @@ feeds:
   - name: Vancouver Sun
     url: https://vancouversun.com/feed/
     credibility: 0.85
-    topics: [airbnb_policy, canadian_real_estate, kamloops_sun_peaks]
+    topics: [airbnb_policy, canadian_real_estate]
+
+  # ---------- Longevity / health (strict allowlist) ----------
+  # Per Midya: longevity content must come from prestigious academic
+  # publications or trusted health sources only. The summarize prompt
+  # enforces a per-source allowlist; these feeds are the approved set.
+
+  - name: NEJM
+    url: https://www.nejm.org/action/showFeed?type=etoc&feed=rss&jc=nejm
+    credibility: 1.00
+    topics: [longevity]
+
+  - name: The Lancet
+    url: https://www.thelancet.com/rssfeed/lancet_current.xml
+    credibility: 1.00
+    topics: [longevity]
+
+  - name: JAMA
+    url: https://jamanetwork.com/rss/site_3/67.xml
+    credibility: 1.00
+    topics: [longevity]
+
+  - name: Nature Medicine
+    url: https://www.nature.com/nm.rss
+    credibility: 1.00
+    topics: [longevity]
+
+  - name: BMJ
+    url: https://www.bmj.com/thebmj/rss.xml
+    credibility: 1.00
+    topics: [longevity]
+
+  - name: NIH News in Health
+    url: https://newsinhealth.nih.gov/rss
+    credibility: 0.95
+    topics: [longevity]
+
+  - name: Harvard Health Publishing
+    url: https://www.health.harvard.edu/blog/feed
+    credibility: 0.90
+    topics: [longevity]
+
+  - name: Mayo Clinic News Network
+    url: https://newsnetwork.mayoclinic.org/feed/
+    credibility: 0.95
+    topics: [longevity]
+
+  - name: Cleveland Clinic Health Essentials
+    url: https://health.clevelandclinic.org/feed/
+    credibility: 0.85
+    topics: [longevity]
+
+  - name: STAT News
+    url: https://www.statnews.com/feed/
+    credibility: 0.90
+    topics: [longevity]
 
   # ---------- Global business / economy ----------
   - name: BBC Business

@@ -23,10 +23,12 @@ recency_cutoff_hours: 36
 
 # After scoring, this many articles get sent to Claude as candidates.
 # Claude picks the final cut.
-candidate_pool_size: 25
+candidate_pool_size: 40
 
 # Target final number of stories in the digest.
-target_story_count: 12
+# Eight sections × ~2 stories each = ~16. Claude is allowed to skip any
+# section that has no qualifying news on a given day.
+target_story_count: 16
 
 topics:
   ai:
@@ -110,7 +112,7 @@ topics:
       - post-graduation work permit
 
   canadian_real_estate:
-    weight: 0.9
+    weight: 1.0
     keywords:
       - canadian housing
       - canadian real estate
@@ -121,14 +123,28 @@ topics:
       - housing market canada
       - cmhc
       - home prices canada
+      - north american housing
+      - us housing market
+      - exp realty
+      - eXp world holdings
+      - exp world
+      - brokerage growth
+      - real estate brokerage
+      - nar settlement
+      - housing starts
 
   kamloops_sun_peaks:
-    weight: 1.0
+    weight: 1.1
     keywords:
       - kamloops
       - sun peaks
+      - sun peaks resort
+      - sun peaks village
       - thompson rivers university
       - tru kamloops
+      - kamloops city council
+      - kamloops mayor
+      - kamloops rcmp
 
   airbnb_policy:
     weight: 1.0
@@ -139,8 +155,15 @@ topics:
       - vrbo
       - vacation rental policy
       - bill 35
+      - bc str
       - vancouver str
+      - vancouver short-term rental
       - langley str
+      - langley short-term rental
+      - sun peaks short-term rental
+      - sun peaks rental
+      - bc housing minister
+      - principal residence requirement
 
   global_business_tech:
     weight: 0.8
@@ -154,9 +177,43 @@ topics:
       - acquisition
       - earnings
       - stock market
+      - geopolitics
+      - g7
+      - g20
+      - global trade
 
-  bc_food_recalls:
+  longevity:
     weight: 1.0
+    # Health/longevity stories must come from a top-tier medical journal,
+    # established academic institution, or trusted health publication. The
+    # summarize prompt enforces the source allowlist; keywords here are only
+    # for scoring boosts on those credible feeds.
+    keywords:
+      - longevity
+      - lifespan
+      - healthspan
+      - aging
+      - all-cause mortality
+      - randomized controlled trial
+      - meta-analysis
+      - cohort study
+      - cardiovascular
+      - cardiometabolic
+      - alzheimer
+      - dementia
+      - cancer screening
+      - vaccine
+      - sleep study
+      - exercise intervention
+      - nutrition trial
+      - glp-1
+      - statin
+
+  misc:
+    weight: 0.6
+    # Catch-all for things that don't fit a section but Midya should see.
+    # Examples: BC food recalls (family safety), major weather events in BC,
+    # significant scientific breakthroughs, anything cross-cutting.
     keywords:
       - food recall
       - cfia recall
@@ -167,3 +224,7 @@ topics:
       - undeclared
       - british columbia recall
       - bc recall
+      - wildfire bc
+      - atmospheric river
+      - earthquake bc
+      - public health alert

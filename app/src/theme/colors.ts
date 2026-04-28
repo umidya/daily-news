@@ -32,25 +32,27 @@ export const colors = {
 } as const;
 
 export type CategoryName =
-  | 'Canada & BC'
+  | 'Local News'
   | 'AI & Tech'
-  | 'Business'
   | 'Real Estate'
   | 'Marketing'
   | 'Higher Ed'
   | 'Global'
-  | 'AirBnb Policy';
+  | 'AirBnb Policy'
+  | 'Longevity'
+  | 'Misc';
 
 export const categoryStyles: Record<
   CategoryName,
   { bg: string; text: string; dot: string }
 > = {
-  'Canada & BC':   { bg: colors.accentBlueSoft, text: colors.accentBlue, dot: colors.accentBlue },
+  'Local News':    { bg: colors.accentBlueSoft, text: colors.accentBlue, dot: colors.accentBlue },
   'AI & Tech':     { bg: colors.lavenderSoft,   text: colors.lavender,   dot: colors.lavender },
-  'Business':      { bg: colors.mintSoft,       text: '#1F8E70',         dot: colors.mint },
   'Real Estate':   { bg: colors.warmYellowSoft, text: '#A87000',         dot: colors.warmYellow },
   'Marketing':     { bg: colors.coralSoft,      text: colors.coral,      dot: colors.coral },
   'Higher Ed':     { bg: colors.lavenderSoft,   text: colors.lavender,   dot: colors.lavender },
   'Global':        { bg: '#FFE9D6',             text: '#C2541C',         dot: '#E07B30' },
   'AirBnb Policy': { bg: colors.mintSoft,       text: '#1F8E70',         dot: colors.mint },
+  'Longevity':     { bg: colors.mintSoft,       text: '#1F8E70',         dot: colors.mint },
+  'Misc':          { bg: '#EEF1F5',             text: '#3F4A66',         dot: '#6B7280' },
 };
