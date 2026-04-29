@@ -219,7 +219,7 @@ def build_app_payload(
         cumulative += int(m) * 60 + int(s)
 
     top_stories = flat_stories[:3]
-    digest_stories = flat_stories[:8]
+    digest_stories = flat_stories[:20]
     up_next = flat_stories[1] if len(flat_stories) > 1 else (flat_stories[0] if flat_stories else None)
 
     # Hero / "main story of the day" = first story Claude placed in the first
