@@ -1,135 +1,146 @@
 {
   "schemaVersion": 2,
-  "date": "Tuesday, April 28, 2026",
-  "dateIso": "2026-04-28",
+  "date": "Wednesday, April 29, 2026",
+  "dateIso": "2026-04-29",
   "greeting": "Good morning, Midya",
-  "totalDuration": "9:03",
+  "totalDuration": "6:40",
   "currentTime": "0:00",
-  "remaining": "9 min total",
+  "remaining": "6 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Three threads converge today that deserve your full attention, Midya. First, the Musk v. Altman trial is now live testimony — this isn't just tech drama; it's a landmark case about who controls the direction of the most powerful AI systems on earth, and it will shape the regulatory and commercial landscape you're advising clients to navigate.",
-  "digestReadingTime": "8 min read",
-  "whyItMatters": "Three threads converge today that deserve your full attention, Midya. First, the Musk v. Altman trial is now live testimony — this isn't just tech drama; it's a landmark case about who controls the direction of the most powerful AI systems on earth, and it will shape the regulatory and commercial landscape you're advising clients to navigate. Second, the brokerage consolidation conversation out of The Gathering event signals that the real estate industry is actively reorganising around scale — relevant both for tracking eXp and for understanding where brand strategy consulting fits in that world. Third, the slow-motion tightening of international student pathways — Ontario's latest PNP draws, Canada's PGWP maintained-status relief, and France's new tuition regime — is reshaping the competitive landscape for Canadian universities, every one of which is a potential consulting client for you. FireSmart is ramping up in Kamloops as fire season approaches, which is worth noting for your family.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-04-28.mp3",
-  "audioDurationSeconds": 543,
-  "audioScript": "Good morning, Midya. It's Tuesday, April 28th, 2026. Here's what matters today.\n\nLet's start with the story that's going to be in every AI conversation for the next several weeks. The Musk versus Altman trial began in earnest yesterday, with Elon Musk taking the stand as the first witness. And by all courtroom accounts, it was a flat performance. The Verge's reporter — someone who's watched Musk in court before — noted that in his previous defamation trial he charmed the jury. Yesterday he looked adrift. He leaned heavily on his origin story: born in South Africa, arrived in Canada as a young man with twenty-five hundred Canadian dollars in travellers' cheques, co-founded OpenAI to save humanity. Big narrative, thin legal substance. This trial isn't just tech drama. It's a foundational question about who controls frontier AI — whether a non-profit mission can be converted to for-profit without consequence, and what fiduciary duty means when the asset is a system that could reshape the economy. As someone advising clients on AI strategy, you want to watch how this unfolds, because the doctrine that emerges from this courtroom will shape what's permissible in how AI companies structure themselves and their relationships with investors and partners.\n\nOn a related note — Taylor Swift is now filing trademark applications to protect herself from AI-generated voice and likeness imitations. It sounds like celebrity news, but it's actually a useful case study in how brands and individuals are trying to use existing IP law — which was built for a pre-AI world — to hold back AI mimicry. Courts are going to have to improvise doctrine here. Legal experts are calling it a long shot. For your consulting work, this is live risk mapping: any brand that's building AI-generated content or using synthetic voices needs to understand where the lines are and, more importantly, where there are no lines yet.\n\nMoving to marketing. Mastercard is making a significant strategic bet that deserves your attention. They're redesigning their marketing and payments architecture under the assumption that AI agents — not humans — will increasingly be the decision-makers in purchasing. Not the consumer browsing a website. An AI acting on behalf of the consumer. That reframes the entire question of brand equity. If the AI is choosing, what are you optimising for? Mastercard's answer, at least in part, is experiential marketing — because they argue that the kind of brand equity built through lived human experience is increasingly what traditional digital advertising cannot produce. This is a framework worth bringing into conversations with any client asking you where to put their marketing budget.\n\nAlso in marketing — Snowflake has integrated with OneTrust to pipe consent signals directly into data collaboration environments. The reason this matters is a blunt one: if unconsented data ends up in an AI model, there's no surgical fix. You have to roll the whole model back. That makes consent management a foundational AI infrastructure issue, not a legal afterthought. If you're working with clients building AI-driven marketing stacks, this framing — consent as infrastructure — is a concrete and actionable point of advice.\n\nNow to higher education, where there are three things worth knowing today. First, France has formally mandated higher tuition for non-EU international students starting this September — about thirty-nine hundred euros a year for a master's degree. This is France moving from voluntary to compulsory cost-recovery. It's part of a global trend that Canadian institutions have already partially joined. The interesting angle for you is competitive positioning: as France becomes more expensive, where do prospective students redirect? If Québec and Canadian francophone institutions aren't already updating their international recruitment messaging, they should be.\n\nSecond, Ontario ran a new provincial nominee draw issuing over two thousand invitations to international students, foreign workers, and in-demand occupation candidates. This matters for university enrolment because students who see a real pathway to permanent residency are more likely to enrol and stay enrolled. An institution that proactively surfaces its students' PNP success stories and eligibility pathways — that's a marketing and enrolment management differentiator.\n\nThird, Ottawa has doubled the length of work authorisation support letters for workers on maintained status — people whose permits have expired but who applied for renewal on time. This is practical relief for international graduates in the gap period, and any university with a strong international student services office should be communicating this to its graduating cohort right now.\n\nIn real estate, two stories from the brokerage world are worth a few minutes of your attention. Sue Yannaccone, COO of Compass International Holdings, told an industry conference that brokerage consolidation is not just happening — it's inevitable, and that scale is the competitive super-power in a compressed-margin market. The argument is that technology costs, integration costs, and brand investment are simply too heavy for smaller brokerages to absorb alone. This is the structural backdrop for everything happening at eXp and its competitors. Watch how eXp's distributed, agent-owned model holds up against Compass's acquisition-driven scale thesis — they're two very different theories of what the winning brokerage looks like.\n\nAnd Keller Williams' brand strategist Sandra Howard made a point at the same event that's directly applicable to your practice: tough markets expose weak branding. Agents and brokerages without a clear, differentiated identity drift strategically when leads thin out — they chase whatever seems to be working right now, and in doing so erode the equity they spent years building. Brand clarity as a defensive asset, not just a growth tool. That's exactly the pitch for a marketing consultant walking into a real estate firm in a slowing market.\n\nLocally, a few things from Kamloops and the surrounding area. Fire season is here. A local FireSmart advocate was on Kamloops Midday yesterday talking through the basics — defensible space, ember-resistant venting, community preparedness. Given what the Kamloops and Sun Peaks area has experienced in recent wildfire seasons, this is worth a practical look at your own properties. Also, the North Shore Business Improvement Association has issued a formal fire safety notice to businesses after a series of recent fires in that part of the city — worth flagging if you have family or contacts with businesses there. And on a more positive note, School District 73 reversed a decision to close an arts studio at Kamloops School of the Arts after parents pushed back hard. Community voice works. And FreshCo is opening a second Kamloops location — more affordable grocery access as the cost of living remains a pressure point for families.\n\nGlobally, watch the UAE-OPEC story. McGill's expert commentary flagged that the UAE is moving toward leaving the cartel. If that happens, the UAE can pump well above its current quota, which puts downward pressure on global oil prices. For Canada, that means pressure on the Canadian dollar and on Alberta's fiscal position — both of which flow through to federal transfer payments and ultimately to post-secondary funding. Not an immediate crisis, but a medium-term variable worth tracking.\n\nAnd finally, two health items. Health Canada has approved the first generic version of Ozempic — semaglutide — making Canada the first G7 country to do so. Generic availability means dramatically lower costs are coming for GLP-1 users, and it likely triggers a broader conversation about provincial drug plan coverage. Watch for pricing announcements and formulary decisions over the next few months. Separately, the FDA is piloting AI-assisted real-time monitoring of clinical trials, partnering with AstraZeneca and Amgen on cancer drug trials. The idea is to catch safety and efficacy signals earlier, compressing the time between phases. If it works at scale, this could meaningfully accelerate how fast new cancer and metabolic disease therapies reach patients — a structural shift in drug development timelines.\n\nThat's your morning, Midya. A lot of threads today — the Musk-Altman trial, brokerage consolidation, international student policy, and fire season arriving in your backyard. The common theme is that systems are being stress-tested and restructured, and the people who understand the underlying dynamics will be the ones advising others through it. Have a strong Tuesday.",
+  "digestIntro": "Three threads deserve your attention today, Midya. The Bank of Canada holding its rate steady — while signalling deep uncertainty about what comes next — is the single most important data point for your real estate tracking and for any BC client conversations about budgets and investment timing. On the higher-ed front, the Prince George college story is a live signal: Canadian institutions are pivoting hard to domestic student recruitment strategies, which is exactly the consulting brief you want to be walking into.",
+  "digestReadingTime": "6 min read",
+  "whyItMatters": "Three threads deserve your attention today, Midya. The Bank of Canada holding its rate steady — while signalling deep uncertainty about what comes next — is the single most important data point for your real estate tracking and for any BC client conversations about budgets and investment timing. On the higher-ed front, the Prince George college story is a live signal: Canadian institutions are pivoting hard to domestic student recruitment strategies, which is exactly the consulting brief you want to be walking into. And the AI-deepfake-on-TikTok story isn't just a tech curiosity — it's a brand-safety and authenticity crisis that your marketing consulting clients need a position on, especially any post-secondary institutions running social campaigns.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-04-29.mp3",
+  "audioDurationSeconds": 400,
+  "audioScript": "Good morning, Midya. It's Wednesday, April 29th, 2026. Here's what matters today.\n\nLet's start with the biggest Canadian financial story of the morning, because it affects everything from your real estate tracking to your clients' budget conversations. The Bank of Canada held its key interest rate steady today — but the language that came with that decision is what you need to pay attention to. The governor explicitly warned that future rate movements are unclear, with the Iran conflict driving an oil price shock and ongoing trade uncertainty muddying the economic picture. This is not a \"hold and wait for a cut\" moment. It's a \"nobody knows\" moment. If you have clients or contacts timing a purchase, a refinance, or a capital decision in BC, the honest message right now is: plan for prolonged ambiguity. The south-of-the-border picture adds to this — US mortgage applications fell 1.6% this week as the 30-year fixed rate climbed to 6.37%, so the demand softening isn't just a Canadian story.\n\nOn the subject of the oil shock — Axios has a scoop that Trump pulled Chevron's CEO and senior cabinet members into the White House this week to talk through the energy fallout from the Iran war. The Middle East supply disruption is pushing commodity prices higher, and the downstream inflation pressure is real for Canadian consumers and businesses. Worth watching as a macro thread.\n\nNow, higher education — and this one is directly relevant to your consulting pipeline, Midya. A college in Prince George, right here in BC, has publicly launched a new strategy to pivot from international to domestic student recruitment. The headline is almost a pitch: \"We will survive.\" That's an institution in strategic transition mode, exactly the kind of moment where a marketing consultant with your background in brand and AI walks in and adds real value. If you're not already tracking BC colleges and universities by name for outreach timing, this is a reminder to start. The enrolment crisis is creating real strategic urgency at institutions that were previously coasting on international student volume.\n\nThat urgency is compounded by a striking data point from The PIE News: nearly nine in ten international students are now self-censoring in academic and social media spaces because of the US political climate around immigration and global conflict. That's an enormous signal — and it's an opportunity for Canadian institutions to differentiate on campus culture and open discourse. If you're advising any university on brand or marketing strategy, the \"safe and open Canada\" positioning is sitting right there waiting to be built.\n\nAlso on the international student file, Canada has extended the validity of work authorisation support letters for foreign workers on maintained immigration status. This is a meaningful policy relief for graduates stuck in processing backlogs, and it's the kind of regulatory detail that positions you as a trusted advisor when you bring it into client conversations proactively.\n\nLet's shift to AI and tech, because there are three stories today worth your time.\n\nFirst: The Verge has a sharp piece on Oracle's all-in bet on AI data centre infrastructure. The argument is simple — Oracle is now the clearest publicly traded signal of whether the AI investment bubble is real or about to deflate. Larry Ellison has committed so deeply that there's no soft exit if enterprise AI demand doesn't materialise at scale. For you as someone advising on AI in marketing, this is useful context: the infrastructure layer is being built at enormous cost and speed, and the pressure to generate real ROI from AI tools is only going to intensify.\n\nSecond: authentication company Copyleaks has documented a surge of AI-generated deepfake videos of celebrities including Taylor Swift and Rihanna running scam ads on TikTok. This is not just a celebrity story — it's a brand safety crisis. Any marketing client running social campaigns needs a clear position on how they verify content, how they protect their brand from association with AI-generated misinformation, and how they're monitoring for impersonation. This is a consulting conversation waiting to happen.\n\nThird: MIT Technology Review flags that orchestrating multiple AI agents — not building individual models — is now the central challenge for organisations deploying AI seriously. If you're advising marketing teams on AI adoption, the question is shifting from \"which tool do we use\" to \"how do we coordinate these tools to work together.\" That's a more sophisticated brief, and it's where the real consulting value lives.\n\nOn the marketing strategy side, two pieces worth your attention. Adweek's Marketing Vanguard argues today that legacy brands don't need rebranding — they need reintroduction. The distinction matters: rebranding implies an identity problem, while reintroduction frames the challenge as relevance and context. This is directly applicable to university brand work, where institutions often mistake declining enrolment or perception for an identity problem when it's actually a positioning and channel problem. And separately, Advisor Perspectives has a piece on how solo practitioners are using AI to scale content marketing — useful tactical reading as you build your consulting practice without a full team behind you.\n\nOne quick public safety note from the interior: RCMP in 100 Mile House — which is BC interior country, not far from your world — are warning about counterfeit $100 bills used in a private ATV sale. If you or anyone in your network is doing cash transactions in the region, it's worth being aware.\n\nAnd finally, one item on the longevity front, from STAT News — food safety experts are raising alarms about a brain drain at the USDA, with senior scientists departing and leaving oversight gaps. For Canadian families who rely on cross-border food supply chains — which most of us do — this is a background risk worth knowing about, particularly when those supply chains are already under stress from trade policy.\n\nThat's your morning, Midya. The BoC hold is today's anchor story — sit with that uncertainty rather than waiting for clarity that may not come quickly. And the Prince George college story is your most actionable lead: a BC institution in public strategic transition is a door worth knocking on. Have a good one.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Musk Takes the Stand in Musk v. Altman — and Looks Flat",
-      "summary": "Day one of the high-profile trial between Elon Musk and OpenAI CEO Sam Altman began with Musk testifying, positioning himself as a humanity-saving co-founder who was cut out of the mission he helped create. The Verge's courtroom reporter noted Musk appeared adrift and unprepared compared to his previous court appearances, leaning heavily on origin-story narrative rather than legal substance. This trial will set precedent on fiduciary duty, non-profit conversion to for-profit, and ultimately who governs frontier AI — the outcome matters for every client or employer building AI strategy.",
+      "headline": "Oracle Has Bet the Company on AI Data Centres — and the Stakes Are Enormous",
+      "summary": "The Verge profiles Oracle's all-in pivot to AI infrastructure as the clearest publicly-traded signal of whether the AI investment bubble holds — Larry Ellison has committed so deeply there's no exit ramp if demand softens.",
       "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Taylor Swift Trademarks Up Against AI Copycats — Courts Are the New Battleground",
-      "summary": "Swift has filed trademark applications in an attempt to block AI-generated imitations of her voice and likeness, but legal experts note it's a long shot given how trademark law was built for a pre-AI world. The case illustrates a growing pattern: celebrities and brands are turning to IP law because AI regulation hasn't caught up, forcing courts to improvise doctrine. For a marketing consultant advising brands on AI-generated content, this is a live risk map — knowing where the legal lines are (and aren't) is table stakes.",
+      "headline": "AI Deepfakes of Taylor Swift and Rihanna Are Running Scam Ads on TikTok",
+      "summary": "Copyleaks documents a surge of AI-manipulated celebrity videos promoting fraudulent reward schemes on TikTok — a direct brand-safety warning for any marketing client running influencer or social campaigns.",
       "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737892056687%2C100%2C78.524215886627&amp;w=1200"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2267995710.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729716127092%2C100%2C78.540567745815&amp;w=1200"
     },
     {
-      "id": "story-marketing-0",
-      "category": "Marketing",
-      "headline": "Mastercard Is Designing for AI as the Decision-Maker, Not the Human",
-      "summary": "Mastercard is restructuring its marketing and payments architecture around the assumption that AI agents — not people — will increasingly make purchasing decisions on behalf of consumers. The piece also argues that experiential marketing is now generating the kind of brand equity that traditional digital advertising has lost the ability to produce. For Midya's consulting practice, this is a concrete strategic framework worth absorbing: AI-native brand design and experience-led equity building are the two bets the most sophisticated marketers are making right now.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/mastercard-is-building-for-a-world-where-ai-makes-the-decisions/",
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Orchestrating AI Agents Is the Next Hard Problem, Says MIT Tech Review",
+      "summary": "MIT Technology Review flags that coordinating multiple AI agents — not building single models — is now the central engineering and governance challenge for organisations deploying AI at scale.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/04/speed-of-culture-mastercard-Rustom-Dastoor.png?w=600&h=315&crop=1"
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/04/260424_thespark.jpg?resize=1200,600"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Musk Takes the Stand in Musk v. Altman — and Looks Flat",
-      "summary": "Day one of the high-profile trial between Elon Musk and OpenAI CEO Sam Altman began with Musk testifying, positioning himself as a humanity-saving co-founder who was cut out of the mission he helped create. The Verge's courtroom reporter noted Musk appeared adrift and unprepared compared to his previous court appearances, leaning heavily on origin-story narrative rather than legal substance. This trial will set precedent on fiduciary duty, non-profit conversion to for-profit, and ultimately who governs frontier AI — the outcome matters for every client or employer building AI strategy.",
+      "headline": "Oracle Has Bet the Company on AI Data Centres — and the Stakes Are Enormous",
+      "summary": "The Verge profiles Oracle's all-in pivot to AI infrastructure as the clearest publicly-traded signal of whether the AI investment bubble holds — Larry Ellison has committed so deeply there's no exit ramp if demand softens.",
       "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Taylor Swift Trademarks Up Against AI Copycats — Courts Are the New Battleground",
-      "summary": "Swift has filed trademark applications in an attempt to block AI-generated imitations of her voice and likeness, but legal experts note it's a long shot given how trademark law was built for a pre-AI world. The case illustrates a growing pattern: celebrities and brands are turning to IP law because AI regulation hasn't caught up, forcing courts to improvise doctrine. For a marketing consultant advising brands on AI-generated content, this is a live risk map — knowing where the legal lines are (and aren't) is table stakes.",
+      "headline": "AI Deepfakes of Taylor Swift and Rihanna Are Running Scam Ads on TikTok",
+      "summary": "Copyleaks documents a surge of AI-manipulated celebrity videos promoting fraudulent reward schemes on TikTok — a direct brand-safety warning for any marketing client running influencer or social campaigns.",
       "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737892056687%2C100%2C78.524215886627&amp;w=1200"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2267995710.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729716127092%2C100%2C78.540567745815&amp;w=1200"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Orchestrating AI Agents Is the Next Hard Problem, Says MIT Tech Review",
+      "summary": "MIT Technology Review flags that coordinating multiple AI agents — not building single models — is now the central engineering and governance challenge for organisations deploying AI at scale.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/04/260424_thespark.jpg?resize=1200,600"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Mastercard Is Designing for AI as the Decision-Maker, Not the Human",
-      "summary": "Mastercard is restructuring its marketing and payments architecture around the assumption that AI agents — not people — will increasingly make purchasing decisions on behalf of consumers. The piece also argues that experiential marketing is now generating the kind of brand equity that traditional digital advertising has lost the ability to produce. For Midya's consulting practice, this is a concrete strategic framework worth absorbing: AI-native brand design and experience-led equity building are the two bets the most sophisticated marketers are making right now.",
+      "headline": "Legacy Brands Don't Need a Rebrand — They Need a Reintroduction",
+      "summary": "Adweek's Marketing Vanguard argues that heritage brands misdiagnose stagnation as an identity problem when the real issue is relevance framing — a useful strategic lens for university clients defending century-old brand equity.",
       "source": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/mastercard-is-building-for-a-world-where-ai-makes-the-decisions/",
+      "url": "https://www.adweek.com/brand-marketing/legacy-brands-dont-need-a-rebrand-they-need-a-reintroduction/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/04/speed-of-culture-mastercard-Rustom-Dastoor.png?w=600&h=315&crop=1"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/04/MV-webart326-EliotHamlisch-HP.jpg?w=600&h=315&crop=1"
     },
     {
       "id": "story-marketing-1",
       "category": "Marketing",
-      "headline": "Snowflake + OneTrust Integration Puts Consent at the Centre of AI Data Strategy",
-      "summary": "Snowflake's new integration with OneTrust allows consent signals to flow directly into data collaboration environments, addressing a core problem: unconsented data in AI models can't be surgically removed — the only fix is rolling the model back. This is a quietly significant development for any organisation using first-party data in AI-driven marketing, because it reframes consent management as an AI infrastructure issue, not just a legal checkbox. Clients building AI marketing stacks need to hear this framing.",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/snowflake-helps-unlock-data-collaborations-with-consent-signals-from-onetru/818586/",
+      "headline": "Can AI Support Solo Advisors' Content Marketing Goals?",
+      "summary": "Advisor Perspectives explores how independent practitioners are using AI to scale content production — directly relevant to building a lean consulting practice with high content output and no marketing team.",
+      "source": "Google News: marketing strategy AI",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3hDZi1XeC1YWUpBbWFkMy1SbmdDMnEyMWtJYklCdmlEZm9xLVFMbHhSX1pGTWdRQmNtS2dTZWtlbVVIbi1MRjI3WXpzLU01SEJEOThEMkxIdkt4QVdZQ2lfQV94SklpN3dNd0tWMWhkMy0wUy1Cc2ExMHcxVUdJTU1tdk5GdGxtb2REb3U4RGxnZW45NjF6dHd0RElYSU9CSldzeDZn?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone",
-      "imageUrl": "https://imgproxy.divecdn.com/f9bWh_E5c-P5Ck3QU7_3gikR24wf6YHp6TIKDCZ5mvE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgyMjI2NDUxX01UMzd6STQuanBn.webp"
+      "thumbnailKind": "megaphone"
     },
     {
       "id": "story-intl_students_canada-0",
       "category": "Higher Ed",
-      "headline": "France Mandates Higher Tuition for Non-EU Students Starting September 2026",
-      "summary": "France is moving from an encouraged to a mandated model: nearly all non-EU students will pay €2,895 per year for a bachelor's and €3,941 for a master's starting this fall, a dramatic shift from the near-free model that made France a top destination. This increases Canada's competitive exposure — French-language programs in Québec in particular may look comparatively affordable, but it also signals a global trend toward cost-recovery tuition for international students that Canadian institutions have already partially adopted. For Canadian universities watching enrolment pipelines, this is both a threat (if France becomes less attractive and students redirect elsewhere in Europe) and an opportunity (to market Canada's value proposition more aggressively).",
-      "source": "ICEF Monitor",
-      "url": "https://monitor.icef.com/2026/04/france-directs-universities-to-charge-higher-tuition-fees-to-non-eu-students-starting-september-2026/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/04/anthony-choren-lYzap0eubDY-unsplash-1200.jpg"
-    },
-    {
-      "id": "story-intl_students_canada-1",
-      "category": "Higher Ed",
-      "headline": "Ontario Launches 2,000+ PNP Invitations Targeting International Students and Foreign Workers",
-      "summary": "Ontario's latest provincial nominee draws sent over 2,000 invitations to foreign workers, international students, and in-demand occupation candidates — a signal that the province is actively competing for talent even as federal immigration caps squeeze overall numbers. For Canadian universities, this is a retention lifeline: students who see a credible path to residency are more likely to stay enrolled and complete degrees. Potential client signal: institutions in Ontario that proactively market their students' PNP eligibility and success rates could see a real enrolment advantage.",
-      "source": "CIC News via Google News",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQm9JdWw5ZFhwS0hpS3F2UDdFYklzX3d4QW01WDNkd2w3NjZEQTFyRXppa0dtbGJHT1ZpOFUxaU0tVmRwdDh5c1hVNmRvVzZhMjUwOGljd0o4LVZ4LXZ3NENZNl9DdUdxUXNkUHZvQ1FVY09rZUR2bTdEQmN2X1FlYU12VDU2di1vdEU2aFhPQmNJenpLYzE0RUpwWTA2MDJVQjBieTBmbXZSc3luYTFaVUlIVkowSTdZNENVQnYxVkZYME5XbEliTktkTVB6Tm95MFctMENPcTJsYXRUOHVaM3h1aDRwZzhXSm9kTjBDTXd4bHU5OURBbGpEVlVvcTTSAeQCQVVfeXFMUGJJSTE2TnRGTi1RYXhQSGVha2YxQ3hqRi1sTDA2SDEzOUVETkhjRDlhOTZWMWhlQmEwUHhhNE5Qam1FbFFaSUxHX0hOR2ZiM1E2N2lOZTZveEx4S3l2UldfRzN3aUgzNGF2X3FJeFZQSXRnUklWd3NqdnlBc3VZd1k0TF9tanRQZDdKc2p4bjFESC01RUFoQUQ4OUk1b2NOUDZJYnRRY1JtQVFRajkyUEFxckE5eUZfRFFPNm5lV18xc2gwVXFaQXpDcUNOdVdyaDhOS3J1Zlgzb3R0Qm1RcUQ1emJVMUtMNy1oTlRIMTUwNzBMdmc2eGJEbU9lNWRRNUFHN2xET1pkOHp5MHBtZ2paTmtRVXlPOUdLNF9Tdi1MWjZ2b1R6YXVlT1ZOSGxBRUdnQ3dvdEpQcExxTzZkanBIVXZIdzh0R3JwRFVkbjNUS0ZiWVotU2JLa3VhblZoMVkyUWY?oc=5",
+      "headline": "'We Will Survive': Prince George College Launches Domestic Student Recruitment Strategy",
+      "summary": "A BC college is publicly pivoting its enrolment strategy toward domestic students following international student cap impacts — potential client signal: this is the exact strategic repositioning work a marketing consultant could deliver for institutions across BC.",
+      "source": "Google News: Canada international students",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXI3XzZSemFpMVdmMEV0N0RoQjhTNGhLWUhfdmoyMWVVODM3ZFpDR09MRmdBajcxbXlTSnhBY3JBSG9CN3NIbnlOTjV4cmtDNWlsRXdNVVlodkw4YVVZMVNhdFhVWUVHUXZ6Z3JXVHVVLWdpcVpLWmsxODdOdzFERncydXVUNFA4X2lmajZWZWplaVNRUmhVb21yYWl3UQ?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
     },
     {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "Nine in Ten International Students Are Self-Censoring Due to US Political Climate",
+      "summary": "New data shows nearly 90% of international students are pulling back from academic and social-media speech on immigration and policy topics — Canadian institutions now have a differentiated positioning opportunity around campus safety and open discourse.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/us-politics-drives-international-student-self-censorship/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/04/iStock-US-survey-student-speech.jpg"
+    },
+    {
       "id": "story-intl_students_canada-2",
       "category": "Higher Ed",
-      "headline": "Canada Doubles Length of Work Authorization Support Letters for Maintained-Status Workers",
-      "summary": "IRCC has doubled the validity period of work authorization support letters for workers on maintained status — those whose permits have expired but who applied for renewal in time. The change reduces administrative disruption for international graduates and workers in the gap period, which has been a significant source of anxiety and drop-off. For universities advising international students approaching graduation, this is practical good news to communicate through student services and international office channels.",
-      "source": "CIC News via Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRTdPcTZ3elJqSHlRMEJLTEluQk5NWGt3cXh4UXdCQ1JTSVhVbGhKSTlYZVBQVlo2MWlXOWFZd1FZYkZvanpzQ3V3S2k0QVYzd2kyem5jdjJzSEZnMl9OU0xWQVA1ZG5mQlFOUjBtM2tfeEcwdms1b3RYTEFHT1BVbzNiWDlYZ1ZGRGg0bWNYSHZidXNDOUQzZWNFV0pOV0FmcW1TcFFzRk9MOTY5RTNJWDV3TnJxSWFTRDRYZTZFcjRFR1B2RnJ2b2tVWmsxTzRrM3Rr0gHYAUFVX3lxTFAyaGVOclJFVkpLa1NxQjZQeVV2cFR4UktsWmRybkduRFI2LTloeGZIVWFvMG11TlZfejdNTVJGM05Ic0g2MU1LSUdKUTZoWHhaREZxZnQ2M3NRb0V3Smg1d1pQc3I3QnVrdEp1YTA2TTBFQkE5R3BESFJCYlhOY184TFRZZjlrUnBoWWJtOHp0N0dIakp0MGxGa2s3SGlGU1JtZ1otbzRBRFR5TFpXdVhJVGZzV0JLQVRRS2FIMGRYZHMyNGEtd3p1UkJnRVEwTE1XRHB2ZlBSYg?oc=5",
+      "headline": "Canada Extends Validity of Work Authorisation Support Letters for Foreign Workers on Maintained Status",
+      "summary": "IRCC is extending the validity window for work authorisation support letters, giving more runway to international graduates and workers caught in processing limbo — a meaningful policy relief for students and institutions tracking PGWP pipeline outcomes.",
+      "source": "Google News: post-graduation work permit Canada",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOd1Q1WTJWVV9FZk1Xc005Q2cyVnhiNGxNaXNsaFM4X21xRjA2WmhRWVpxSWd6bXJwbC1pbk1ucTdoZUlFbWpVRENzVW5fWjZaQ09WRDN0RW9LdldhX0VnbXlWSjhtd2lGeU5vLU9aRS1PSHNiX1ppdDR3eW1aeUF1T3hjOFJsM1VnUmR2RXJUS2JZcmlBLXNXZWhORlFwekNLTVpXX3o2VFN2UThRalZZMTBYN3c0Rk51VTNxa0NxSzJWT05LR2RrY21weDgzRHc1eWgzRHl0SWJ0V20wSDVxSGVpYjVFN2YxYmJQQndDMG9JRXNSLUdwR1BBc9IBgAJBVV95cUxNTTlmcC1nTlVLSFpnUFpnVDZneFVxUE5GTE04RDRhNm4zVnk5MDNmeTFNRnNtRjdXRjlmczRjbk5OMGpkRWM0Y1daeUhBU0VxX1F3Q1Z6MTY5WEs4cUZ4LUNQc2dzTC1LUU50MVoxT1JPWjRlVVZLcTZqS09iNWthMFBwb0tkTXFxU1ZRYVQ1X1RHbzhtTEtlU3RONEJOT0Y4UlV5V2VDb1RadmJFN0htQWpvT2I5N2doeFRCcVk0bkJkeVlKRlJIMmk0S1NIX25ncjlER3RSZGdSRzlQd0tZUDJWVTkyRGhjeXdWaUNHRFBWVHBleUJRVS01X3M2dVhn?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
@@ -137,89 +148,130 @@
     {
       "id": "story-canadian_real_estate-0",
       "category": "Real Estate",
-      "headline": "Brokerage Consolidation Is Inevitable — Scale Is the New 'Super Power,' Says Compass COO",
-      "summary": "Sue Yannaccone, COO of Compass International Holdings, told The Gathering conference that consolidation in the brokerage industry is not a threat but an inevitability, and that large-scale brokerages will win because they can absorb technology costs and integration expenses that smaller players cannot. The argument is essentially that branded, tech-forward scale networks — think eXp, Compass, RE/MAX — are structurally advantaged in a compressed-margin environment. Worth watching how eXp's distributed model holds up against Compass's acquisition-led scale thesis.",
+      "headline": "Bank of Canada Holds Key Rate Steady, Warns Future Direction Is Unclear",
+      "summary": "The BoC left its policy rate unchanged today but explicitly flagged that the Iran-driven oil shock and trade uncertainty make the path forward unpredictable — anyone timing a real estate transaction or refinance in BC should expect prolonged ambiguity rather than a clear cut signal.",
+      "source": "Google News: Bank of Canada interest rate",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzgxTk9RMjdObGFzRlJRSFVDTWRqU1VfWDIybW9tZWVxMWdndmZTZHBGZFJxc3I4dDNBZlBEVHVnZUs3N2JscldkSDhMa054a3F6d0tDczgySjRXUVh5eGJUUm00RVA1MjVVdzcyc1Q2Y1NEZXNsVjFuWG1NYW5NMnAxQ0pHMFgxQVYtOHU0VS1RNmp4Nk5HclctR2xqR1lmam9uaGtZRERvZnE5amplXw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "US Mortgage Applications Drop 1.6% as 30-Year Fixed Rate Climbs to 6.37%",
+      "summary": "American mortgage demand slipped this week as rising rates squeezed refinancing activity — a North American demand-signal worth tracking as Canadian variable-rate holders watch BoC's next move.",
       "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/yannaccone-scale-brokerage-consolidation/",
+      "url": "https://www.housingwire.com/articles/mortgage-applications-april-29-2026/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/03/TheGathering2024-AJ-1355.jpg"
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/04/mortgage-applications-decline-2.jpg"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Trump Huddles with Oil Executives as Iran War Creates Supply Shock",
+      "summary": "The White House hosted Chevron's CEO and senior cabinet members to discuss energy strategy as the Iran conflict disrupts Middle East supply and pushes commodity prices higher — the downstream inflation risk is real for Canadian consumers and businesses.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/04/29/trump-oil-execs-iran-war",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/eyZt0nyylZYMVlExzUWssLs2dC0=/2643x1605:2643x1605/320x320/2026/04/29/1777431017442.jpeg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "STAT News: Food Safety Experts Warn of USDA Brain Drain Threatening Oversight Capacity",
+      "summary": "STAT News reports that departures of senior food safety scientists from the USDA are creating oversight gaps — a practical food-supply safety concern for Canadian families who rely on cross-border food systems, especially as supply chains are already stressed by trade tensions.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/04/29/health-news-food-safety-experts-warn-usda-brain-drain/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/12/GettyImages-2166171191-645x645.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Counterfeit $100 Bills Used in Fraudulent ATV Purchase: 100 Mile House RCMP",
+      "summary": "RCMP in 100 Mile House (interior BC, near Kamloops region) are warning the public after counterfeit $100 bills were used in a private sale — a heads-up for anyone doing cash transactions in the interior.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/04/29/counterfeit-100-bills-used-in-fraudulent-atv-purchase-100-mile-rcmp/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2311/files/2026/04/b52eb645-073c-4e07-a74a-59c68b17e4ba.jpg"
     }
   ],
   "audioChapters": [
     {
       "id": "c1",
       "title": "AI & Tech",
-      "duration": "1:07",
+      "duration": "1:32",
       "startSeconds": 0
     },
     {
       "id": "c2",
       "title": "Marketing",
-      "duration": "1:07",
-      "startSeconds": 67
+      "duration": "1:01",
+      "startSeconds": 92
     },
     {
       "id": "c3",
       "title": "Higher Ed",
-      "duration": "1:41",
-      "startSeconds": 134
+      "duration": "1:32",
+      "startSeconds": 153
     },
     {
       "id": "c4",
       "title": "Real Estate",
-      "duration": "1:07",
-      "startSeconds": 235
+      "duration": "1:01",
+      "startSeconds": 245
     },
     {
       "id": "c5",
-      "title": "Local News",
-      "duration": "1:41",
-      "startSeconds": 302
+      "title": "Global",
+      "duration": "0:30",
+      "startSeconds": 306
     },
     {
       "id": "c6",
-      "title": "Global",
-      "duration": "0:33",
-      "startSeconds": 403
+      "title": "Longevity",
+      "duration": "0:30",
+      "startSeconds": 336
     },
     {
       "id": "c7",
-      "title": "Longevity",
-      "duration": "1:07",
-      "startSeconds": 436
-    },
-    {
-      "id": "c8",
       "title": "Misc",
-      "duration": "0:33",
-      "startSeconds": 503
+      "duration": "0:30",
+      "startSeconds": 366
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "Taylor Swift Trademarks Up Against AI Copycats — Courts Are the New Battleground",
-    "summary": "Swift has filed trademark applications in an attempt to block AI-generated imitations of her voice and likeness, but legal experts note it's a long shot given how trademark law was built for a pre-AI world. The case illustrates a growing pattern: celebrities and brands are turning to IP law because AI regulation hasn't caught up, forcing courts to improvise doctrine. For a marketing consultant advising brands on AI-generated content, this is a live risk map — knowing where the legal lines are (and aren't) is table stakes.",
+    "headline": "AI Deepfakes of Taylor Swift and Rihanna Are Running Scam Ads on TikTok",
+    "summary": "Copyleaks documents a surge of AI-manipulated celebrity videos promoting fraudulent reward schemes on TikTok — a direct brand-safety warning for any marketing client running influencer or social campaigns.",
     "source": "The Verge AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737892056687%2C100%2C78.524215886627&amp;w=1200"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2267995710.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729716127092%2C100%2C78.540567745815&amp;w=1200"
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "Musk Takes the Stand in Musk v. Altman — and Looks Flat",
-    "summary": "Day one of the high-profile trial between Elon Musk and OpenAI CEO Sam Altman began with Musk testifying, positioning himself as a humanity-saving co-founder who was cut out of the mission he helped create. The Verge's courtroom reporter noted Musk appeared adrift and unprepared compared to his previous court appearances, leaning heavily on origin-story narrative rather than legal substance. This trial will set precedent on fiduciary duty, non-profit conversion to for-profit, and ultimately who governs frontier AI — the outcome matters for every client or employer building AI strategy.",
+    "headline": "Oracle Has Bet the Company on AI Data Centres — and the Stakes Are Enormous",
+    "summary": "The Verge profiles Oracle's all-in pivot to AI infrastructure as the clearest publicly-traded signal of whether the AI investment bubble holds — Larry Ellison has committed so deeply there's no exit ramp if demand softens.",
     "source": "The Verge AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
   },
-  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200"
+  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
 }
