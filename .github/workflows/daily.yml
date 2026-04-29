@@ -2,12 +2,19 @@ name: Daily news digest
 
 on:
   schedule:
-    # 11:30 UTC = 03:30 PST (Nov-Mar) / 04:30 PDT (Mar-Nov).
-    # Pipeline takes ~5 min, so briefing is published well before the app's
-    # default 6:00 AM local notification — even when Midya travels to MT/CT
-    # zones the briefing arrives in time. For ET/EU/Asia travel she'll see
-    # yesterday's until the cron fires; pull-to-refresh in-app picks up fresh.
+    # GitHub Actions free-tier scheduled crons can be silently delayed or
+    # skipped when the platform is under load. To survive that, we fire FOUR
+    # times every morning. The pipeline has a same-day skip guard, so the
+    # first run that succeeds publishes today.json and the subsequent runs
+    # short-circuit cheaply — no duplicate Claude/TTS spend.
+    #   11:30 UTC = 04:30 PDT  (primary, intended publish time)
+    #   12:00 UTC = 05:00 PDT  (backup #1)
+    #   12:30 UTC = 05:30 PDT  (backup #2; 30 min before 06:00 local notif)
+    #   14:00 UTC = 07:00 PDT  (last-resort backup)
     - cron: "30 11 * * *"
+    - cron: "0 12 * * *"
+    - cron: "30 12 * * *"
+    - cron: "0 14 * * *"
   workflow_dispatch:  # manual trigger from the Actions tab
 
 permissions:

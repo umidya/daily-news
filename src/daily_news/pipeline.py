@@ -49,6 +49,33 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
 
     log.info("Starting digest run for %s (mode=%s)", date_label, mode)
 
+    # Same-day skip guard: if today's briefing is already live on Pages with a
+    # full-strength digest, skip this run entirely. This lets us run the cron
+    # multiple times per morning (defensive against GH Actions cron flakiness)
+    # without duplicate Claude+TTS calls or thinned-out re-publishes.
+    if mode != "dry" and os.environ.get("DAILY_NEWS_FORCE") != "1" and cfg.base_url:
+        try:
+            import httpx
+            r = httpx.get(f"{cfg.base_url}/today.json", timeout=10.0)
+            if r.status_code == 200:
+                existing = r.json()
+                already_today = existing.get("dateIso") == date_label
+                story_count = len(existing.get("digestStories", []) or [])
+                if already_today and story_count >= 6:
+                    log.info(
+                        "today.json already published for %s with %d stories; skipping run. "
+                        "Set DAILY_NEWS_FORCE=1 to override.",
+                        date_label, story_count,
+                    )
+                    return {
+                        "date": date_label,
+                        "stories": story_count,
+                        "skipped": True,
+                        "reason": "already_published",
+                    }
+        except Exception as e:  # network blip, malformed JSON, etc — proceed with the run.
+            log.info("Same-day skip guard could not verify Pages (%s); proceeding.", e)
+
     # 1. Fetch
     feed_articles = fetch_feeds(cfg.feeds)
     search_articles = fetch_searches(cfg.searches)

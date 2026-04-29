@@ -5,7 +5,7 @@
  * One sound at a time; loading a new url unloads the previous.
  */
 
-import { Audio } from 'expo-av';
+import { Audio, InterruptionModeIOS, InterruptionModeAndroid } from 'expo-av';
 
 interface Listener {
   (state: PlaybackState): void;
@@ -36,9 +36,15 @@ class AudioController {
 
   async configure(): Promise<void> {
     await Audio.setAudioModeAsync({
+      // Keep the briefing playing when the phone locks or the user switches
+      // to another app (paired with `UIBackgroundModes: ['audio']` in iOS
+      // Info.plist + `audioPlaybackBackground` permission on Android).
+      staysActiveInBackground: true,
       playsInSilentModeIOS: true,
-      staysActiveInBackground: false,
+      interruptionModeIOS: InterruptionModeIOS.DoNotMix,
+      interruptionModeAndroid: InterruptionModeAndroid.DoNotMix,
       shouldDuckAndroid: true,
+      playThroughEarpieceAndroid: false,
     });
   }
 

@@ -11,8 +11,13 @@ import { mockBriefing } from '@/data/mockNews';
 import { config, todayJsonUrl } from '@/config';
 import type { Briefing } from '@/types/news';
 
-const CACHE_KEY = 'briefing.today.v1';
-const STALE_AFTER_MS = 1000 * 60 * 60 * 6; // 6 hours
+// v3: schema bumped on 2026-04-29 — old cached payloads carried removed
+// CategoryName values ('Business', 'Canada & BC') that crashed the Audio
+// screen. Bumping the key forces a fresh fetch on first launch.
+const CACHE_KEY = 'briefing.today.v3';
+// 1 hour TTL — daily-news content is freshest on the morning cron, and a
+// shorter window means pull-to-refresh isn't needed as often.
+const STALE_AFTER_MS = 1000 * 60 * 60 * 1;
 
 interface CacheEntry {
   fetchedAt: number;

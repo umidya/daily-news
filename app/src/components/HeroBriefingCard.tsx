@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
-import { GestureResponderEvent, LayoutChangeEvent, Pressable, StyleSheet, Text, View } from 'react-native';
+import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { Image } from 'expo-image';
 import { Ionicons } from '@expo/vector-icons';
 import { BriefingArtwork } from './BriefingArtwork';
+import { SeekableTrack } from './SeekableTrack';
 import { useApp } from '@/state/AppContext';
 import { colors, radii, shadows, spacing, typography } from '@/theme';
 
@@ -18,16 +19,12 @@ interface Props {
 export function HeroBriefingCard({ totalDuration, currentTime, remaining, hookCopy, heroImageUrl }: Props) {
   const { playback, togglePlay, seekTo } = useApp();
   const isPlaying = playback.isPlaying;
-  const [trackWidth, setTrackWidth] = useState(0);
   const [imageFailed, setImageFailed] = useState(false);
 
   const progress = useProgressFromTimes(currentTime, totalDuration);
 
-  const onTrackLayout = (e: LayoutChangeEvent) => setTrackWidth(e.nativeEvent.layout.width);
-
-  const onTrackPress = (e: GestureResponderEvent) => {
-    if (!trackWidth || !playback.durationMs) return;
-    const ratio = Math.max(0, Math.min(1, e.nativeEvent.locationX / trackWidth));
+  const handleSeek = (ratio: number) => {
+    if (!playback.durationMs) return;
     void seekTo(ratio * playback.durationMs);
   };
 
@@ -80,12 +77,15 @@ export function HeroBriefingCard({ totalDuration, currentTime, remaining, hookCo
             <Text style={[styles.timeText, showPhoto && styles.timeTextOnPhoto]}>
               {currentTime} / {totalDuration}
             </Text>
-            <Pressable onPress={onTrackPress} onLayout={onTrackLayout} style={styles.progressTouchTarget} hitSlop={{ top: 8, bottom: 8 }}>
-              <View style={styles.progressTrack}>
-                <View style={[styles.progressFill, { width: `${progress * 100}%` }]} />
-                <View style={[styles.progressKnob, { left: `${progress * 100}%` }]} />
-              </View>
-            </Pressable>
+            <SeekableTrack
+              progress={progress}
+              onSeek={handleSeek}
+              containerStyle={{ paddingVertical: 10 }}
+              trackStyle={{ backgroundColor: '#FFFFFFCC' }}
+              fillStyle={{ backgroundColor: colors.coral }}
+              knobStyle={{ backgroundColor: colors.coral, borderColor: '#FFFFFF' }}
+              knobSize={12}
+            />
             <Text style={[styles.remaining, showPhoto && styles.remainingOnPhoto]}>{remaining}</Text>
           </View>
         </View>

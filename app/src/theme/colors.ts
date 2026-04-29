@@ -42,7 +42,7 @@ export type CategoryName =
   | 'Longevity'
   | 'Misc';
 
-export const categoryStyles: Record<
+export const categoryStyleMap: Record<
   CategoryName,
   { bg: string; text: string; dot: string }
 > = {
@@ -56,3 +56,14 @@ export const categoryStyles: Record<
   'Longevity':     { bg: colors.mintSoft,       text: '#1F8E70',         dot: colors.mint },
   'Misc':          { bg: '#EEF1F5',             text: '#3F4A66',         dot: '#6B7280' },
 };
+
+const fallbackCategoryStyle = { bg: '#EEF1F5', text: '#3F4A66', dot: '#6B7280' };
+
+// Indexer that gracefully degrades when an unknown category arrives from
+// today.json (e.g. a stale cached payload from before a category rename).
+// Returning a neutral grey style is much better than crashing the screen.
+export const categoryStyles = new Proxy(categoryStyleMap, {
+  get(target, key: string) {
+    return target[key as CategoryName] ?? fallbackCategoryStyle;
+  },
+}) as Record<string, { bg: string; text: string; dot: string }>;

@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
-import { GestureResponderEvent, LayoutChangeEvent, Pressable, StyleSheet, Text, View } from 'react-native';
+import React from 'react';
+import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { Ionicons, MaterialCommunityIcons } from '@expo/vector-icons';
+import { SeekableTrack } from './SeekableTrack';
 import { useApp } from '@/state/AppContext';
-import { colors, radii, shadows, spacing, typography } from '@/theme';
+import { colors, shadows, spacing, typography } from '@/theme';
 
 interface Props {
   currentTime: string;
@@ -12,14 +13,10 @@ interface Props {
 export function AudioPlayer({ currentTime, totalDuration }: Props) {
   const { playback, togglePlay, skipBack, skipForward, seekTo } = useApp();
   const isPlaying = playback.isPlaying;
-  const [trackWidth, setTrackWidth] = useState(0);
   const progress = progressFrom(currentTime, totalDuration);
 
-  const onTrackLayout = (e: LayoutChangeEvent) => setTrackWidth(e.nativeEvent.layout.width);
-
-  const onTrackPress = (e: GestureResponderEvent) => {
-    if (!trackWidth || !playback.durationMs) return;
-    const ratio = Math.max(0, Math.min(1, e.nativeEvent.locationX / trackWidth));
+  const handleSeek = (ratio: number) => {
+    if (!playback.durationMs) return;
     void seekTo(ratio * playback.durationMs);
   };
 
@@ -46,12 +43,16 @@ export function AudioPlayer({ currentTime, totalDuration }: Props) {
 
       <View style={styles.progressRow}>
         <Text style={styles.time}>{currentTime}</Text>
-        <Pressable onPress={onTrackPress} onLayout={onTrackLayout} style={styles.trackTarget} hitSlop={{ top: 12, bottom: 12 }}>
-          <View style={styles.track}>
-            <View style={[styles.fill, { width: `${progress * 100}%` }]} />
-            <View style={[styles.knob, { left: `${progress * 100}%` }]} />
-          </View>
-        </Pressable>
+        <View style={styles.trackTarget}>
+          <SeekableTrack
+            progress={progress}
+            onSeek={handleSeek}
+            trackStyle={{ backgroundColor: colors.borderSoft }}
+            fillStyle={{ backgroundColor: colors.coral }}
+            knobStyle={{ backgroundColor: colors.coral, borderColor: '#FFFFFF' }}
+            knobSize={14}
+          />
+        </View>
         <Text style={styles.time}>{totalDuration}</Text>
       </View>
     </View>

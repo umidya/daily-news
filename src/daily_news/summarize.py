@@ -60,11 +60,14 @@ THE 8 SECTIONS — use these names and order exactly. Each section's `topic_key`
 
 WRITING RULES
 
-- For each pick, write a 2 to 3 sentence summary: what happened, why it is news, what the implication is for Midya. Concrete, specific, no hedging, no "experts say," no filler.
-- For Higher Education stories about a named Canadian institution, you may close the summary with a short observation about why this could matter as a client signal (only if there's a real signal — don't force it).
-- For Longevity stories, lead with the finding's strength (e.g. "RCT in NEJM, 12,000 participants") so Midya can judge the weight at a glance.
+- **Summaries are TIGHT.** Each `summary` field is **one sentence, max two if absolutely necessary** (~25-40 words total). The goal is the essence — what happened + why it matters — not a recap. Midya is skim-reading on her phone; trust her to click through if she wants depth.
+- No filler, no hedging, no "experts say," no scene-setting. Lead with the verb or the fact.
+- For Higher Education stories about a named Canadian institution, the second sentence (if used) can flag a client signal — only when there's a real one.
+- For Longevity stories, the first phrase should signal source strength (e.g. "NEJM RCT, 12K participants:" or "JAMA meta-analysis:") so Midya can weigh it at a glance.
 - Use Canadian spelling.
 - Don't editorialize on partisan politics; report what happened.
+
+The full narrative — context, implications, advisor commentary — belongs in `audio_script` and `why_this_matters`, NOT in story summaries.
 
 WHY-THIS-MATTERS PARAGRAPH
 
