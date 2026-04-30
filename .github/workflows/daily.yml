@@ -10,6 +10,15 @@ on:
     # if both the Worker and this cron fire on the same day.
     - cron: "0 14 * * *"
   workflow_dispatch:  # manual trigger; this is what the Cloudflare Worker calls
+    inputs:
+      force:
+        description: "Bypass same-day skip guard and republish today.json"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
 
 permissions:
   contents: write  # needed to push state branch + gh-pages
@@ -26,6 +35,7 @@ jobs:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       DAILY_NEWS_BASE_URL: ${{ vars.DAILY_NEWS_BASE_URL }}
+      DAILY_NEWS_FORCE: ${{ inputs.force == 'true' && '1' || '0' }}
       PYTHONUNBUFFERED: "1"
 
     steps:
