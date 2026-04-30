@@ -2,20 +2,14 @@ name: Daily news digest
 
 on:
   schedule:
-    # GitHub Actions free-tier scheduled crons can be silently delayed or
-    # skipped when the platform is under load. To survive that, we fire FOUR
-    # times every morning. The pipeline has a same-day skip guard, so the
-    # first run that succeeds publishes today.json and the subsequent runs
-    # short-circuit cheaply — no duplicate Claude/TTS spend.
-    #   11:30 UTC = 04:30 PDT  (primary, intended publish time)
-    #   12:00 UTC = 05:00 PDT  (backup #1)
-    #   12:30 UTC = 05:30 PDT  (backup #2; 30 min before 06:00 local notif)
-    #   14:00 UTC = 07:00 PDT  (last-resort backup)
-    - cron: "30 11 * * *"
-    - cron: "0 12 * * *"
-    - cron: "30 12 * * *"
+    # Tertiary backup only. The PRIMARY trigger is a Cloudflare Worker Cron
+    # (production-grade SLA) that fires workflow_dispatch at 11:30 UTC daily.
+    # GitHub Actions free-tier scheduled crons are unreliable, so we keep
+    # ONE off-peak fallback at 14:00 UTC (07:00 PT) — most likely time to
+    # actually fire under load. Same-day skip guard prevents duplicate runs
+    # if both the Worker and this cron fire on the same day.
     - cron: "0 14 * * *"
-  workflow_dispatch:  # manual trigger from the Actions tab
+  workflow_dispatch:  # manual trigger; this is what the Cloudflare Worker calls
 
 permissions:
   contents: write  # needed to push state branch + gh-pages
