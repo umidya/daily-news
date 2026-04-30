@@ -173,15 +173,26 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
     })();
   }, []);
 
-  // Pre-load audio whenever the briefing's audio URL changes.
+  // Pre-load audio whenever the briefing's audio URL changes. Metadata
+  // populates the iOS lock-screen / Control Center "Now Playing" widget.
+  const audioMetadata = useMemo(
+    () => ({
+      title: "Today's Briefing",
+      artist: 'Daily News',
+      artworkUrl: briefing.heroImageUrl,
+      date: briefing.date,
+    }),
+    [briefing.heroImageUrl, briefing.date],
+  );
+
   useEffect(() => {
     const url = briefing.audioUrl;
-    if (url) void audioController.load(url);
-  }, [briefing.audioUrl]);
+    if (url) void audioController.load(url, audioMetadata);
+  }, [briefing.audioUrl, audioMetadata]);
 
   const togglePlay = useCallback(async () => {
-    await audioController.toggle(briefing.audioUrl);
-  }, [briefing.audioUrl]);
+    await audioController.toggle(briefing.audioUrl, audioMetadata);
+  }, [briefing.audioUrl, audioMetadata]);
 
   const skipForward = useCallback(() => audioController.seekRelative(30_000), []);
   const skipBack = useCallback(() => audioController.seekRelative(-15_000), []);
