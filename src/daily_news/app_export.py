@@ -197,11 +197,15 @@ def build_app_payload(
     total_story_count = max(1, len(flat_stories))
 
     # Audio chapters mirror sections; cumulative startSeconds lets the app
-    # seek the audio to that chapter.
+    # seek the audio to that chapter. Use the section's actual `name` from
+    # Claude (e.g. "Marketing & Business") — the colour-coding `category`
+    # comes from topic_key separately so the dot matches the pill on Home.
     chapters = []
     cumulative = 0
     for i, section in enumerate(sections):
         topic_key = section.get("topic_key", "global_business_tech")
+        category = TOPIC_TO_CATEGORY.get(topic_key, "Global")
+        title = (section.get("name") or category).strip()
         section_stories = section.get("stories", [])
         duration_str = _section_duration(
             len(section_stories), total_seconds, total_story_count
@@ -209,12 +213,12 @@ def build_app_payload(
         chapters.append(
             {
                 "id": f"c{i + 1}",
-                "title": TOPIC_TO_CATEGORY.get(topic_key, "Global"),
+                "title": title,
+                "category": category,
                 "duration": duration_str,
                 "startSeconds": cumulative,
             }
         )
-        # Add this chapter's seconds onto the running total.
         m, s = duration_str.split(":")
         cumulative += int(m) * 60 + int(s)
 

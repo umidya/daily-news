@@ -20,7 +20,7 @@ export function ChapterList({ chapters, onChapterPress }: Props) {
           style={({ pressed }) => [styles.row, i < chapters.length - 1 && styles.rowDivider, pressed && { opacity: 0.7 }]}
         >
           <View style={styles.left}>
-            <View style={[styles.dot, { backgroundColor: categoryStyles[c.title].dot }]} />
+            <View style={[styles.dot, { backgroundColor: categoryStyles[c.category ?? c.title].dot }]} />
             <Text style={styles.title}>{c.title}</Text>
           </View>
           <View style={styles.right}>

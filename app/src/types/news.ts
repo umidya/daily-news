@@ -49,7 +49,8 @@ export interface Briefing {
 
 export interface Chapter {
   id: string;
-  title: CategoryName;
+  title: string;
+  category?: CategoryName;
   duration: string;
   startSeconds?: number;
 }

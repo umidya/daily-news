@@ -11,10 +11,10 @@ import { mockBriefing } from '@/data/mockNews';
 import { config, todayJsonUrl } from '@/config';
 import type { Briefing } from '@/types/news';
 
-// v3: schema bumped on 2026-04-29 — old cached payloads carried removed
-// CategoryName values ('Business', 'Canada & BC') that crashed the Audio
-// screen. Bumping the key forces a fresh fetch on first launch.
-const CACHE_KEY = 'briefing.today.v3';
+// v4: chapter titles now use the section's full name ("Marketing & Business")
+// instead of the short topic label ("Marketing"), so old cached payloads
+// would still show the wrong breakdown. Bumping forces a fresh fetch.
+const CACHE_KEY = 'briefing.today.v4';
 // 1 hour TTL — daily-news content is freshest on the morning cron, and a
 // shorter window means pull-to-refresh isn't needed as often.
 const STALE_AFTER_MS = 1000 * 60 * 60 * 1;

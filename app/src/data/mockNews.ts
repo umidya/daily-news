@@ -115,11 +115,11 @@ export const mockBriefing: Briefing = {
   topStories: [senateStory, climateStory, aiStory],
   digestStories: [senateStory, climateStory, aiStory, businessStory],
   audioChapters: [
-    { id: 'c1', title: 'Local News', duration: '02:10', startSeconds: 0 },
-    { id: 'c2', title: 'AI & Tech', duration: '02:05', startSeconds: 130 },
-    { id: 'c3', title: 'Marketing', duration: '01:50', startSeconds: 255 },
-    { id: 'c4', title: 'Higher Ed', duration: '02:00', startSeconds: 365 },
-    { id: 'c5', title: 'Global', duration: '01:45', startSeconds: 485 },
+    { id: 'c1', title: 'AI & Tech',            category: 'AI & Tech',   duration: '02:10', startSeconds: 0 },
+    { id: 'c2', title: 'Marketing & Business', category: 'Marketing',   duration: '02:05', startSeconds: 130 },
+    { id: 'c3', title: 'Higher Education',     category: 'Higher Ed',   duration: '01:50', startSeconds: 255 },
+    { id: 'c4', title: 'Local News',           category: 'Local News',  duration: '02:00', startSeconds: 365 },
+    { id: 'c5', title: 'Global News',          category: 'Global',      duration: '01:45', startSeconds: 485 },
   ],
   upNext: senateStory,
 };
