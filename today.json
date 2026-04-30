@@ -1,123 +1,136 @@
 {
   "schemaVersion": 2,
-  "date": "Wednesday, April 29, 2026",
-  "dateIso": "2026-04-29",
+  "date": "Thursday, April 30, 2026",
+  "dateIso": "2026-04-30",
   "greeting": "Good morning, Midya",
-  "totalDuration": "6:40",
+  "totalDuration": "7:15",
   "currentTime": "0:00",
-  "remaining": "6 min total",
+  "remaining": "7 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Three threads deserve your attention today, Midya. The Bank of Canada holding its rate steady — while signalling deep uncertainty about what comes next — is the single most important data point for your real estate tracking and for any BC client conversations about budgets and investment timing. On the higher-ed front, the Prince George college story is a live signal: Canadian institutions are pivoting hard to domestic student recruitment strategies, which is exactly the consulting brief you want to be walking into.",
-  "digestReadingTime": "6 min read",
-  "whyItMatters": "Three threads deserve your attention today, Midya. The Bank of Canada holding its rate steady — while signalling deep uncertainty about what comes next — is the single most important data point for your real estate tracking and for any BC client conversations about budgets and investment timing. On the higher-ed front, the Prince George college story is a live signal: Canadian institutions are pivoting hard to domestic student recruitment strategies, which is exactly the consulting brief you want to be walking into. And the AI-deepfake-on-TikTok story isn't just a tech curiosity — it's a brand-safety and authenticity crisis that your marketing consulting clients need a position on, especially any post-secondary institutions running social campaigns.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-04-29.mp3",
-  "audioDurationSeconds": 400,
-  "audioScript": "Good morning, Midya. It's Wednesday, April 29th, 2026. Here's what matters today.\n\nLet's start with the biggest Canadian financial story of the morning, because it affects everything from your real estate tracking to your clients' budget conversations. The Bank of Canada held its key interest rate steady today — but the language that came with that decision is what you need to pay attention to. The governor explicitly warned that future rate movements are unclear, with the Iran conflict driving an oil price shock and ongoing trade uncertainty muddying the economic picture. This is not a \"hold and wait for a cut\" moment. It's a \"nobody knows\" moment. If you have clients or contacts timing a purchase, a refinance, or a capital decision in BC, the honest message right now is: plan for prolonged ambiguity. The south-of-the-border picture adds to this — US mortgage applications fell 1.6% this week as the 30-year fixed rate climbed to 6.37%, so the demand softening isn't just a Canadian story.\n\nOn the subject of the oil shock — Axios has a scoop that Trump pulled Chevron's CEO and senior cabinet members into the White House this week to talk through the energy fallout from the Iran war. The Middle East supply disruption is pushing commodity prices higher, and the downstream inflation pressure is real for Canadian consumers and businesses. Worth watching as a macro thread.\n\nNow, higher education — and this one is directly relevant to your consulting pipeline, Midya. A college in Prince George, right here in BC, has publicly launched a new strategy to pivot from international to domestic student recruitment. The headline is almost a pitch: \"We will survive.\" That's an institution in strategic transition mode, exactly the kind of moment where a marketing consultant with your background in brand and AI walks in and adds real value. If you're not already tracking BC colleges and universities by name for outreach timing, this is a reminder to start. The enrolment crisis is creating real strategic urgency at institutions that were previously coasting on international student volume.\n\nThat urgency is compounded by a striking data point from The PIE News: nearly nine in ten international students are now self-censoring in academic and social media spaces because of the US political climate around immigration and global conflict. That's an enormous signal — and it's an opportunity for Canadian institutions to differentiate on campus culture and open discourse. If you're advising any university on brand or marketing strategy, the \"safe and open Canada\" positioning is sitting right there waiting to be built.\n\nAlso on the international student file, Canada has extended the validity of work authorisation support letters for foreign workers on maintained immigration status. This is a meaningful policy relief for graduates stuck in processing backlogs, and it's the kind of regulatory detail that positions you as a trusted advisor when you bring it into client conversations proactively.\n\nLet's shift to AI and tech, because there are three stories today worth your time.\n\nFirst: The Verge has a sharp piece on Oracle's all-in bet on AI data centre infrastructure. The argument is simple — Oracle is now the clearest publicly traded signal of whether the AI investment bubble is real or about to deflate. Larry Ellison has committed so deeply that there's no soft exit if enterprise AI demand doesn't materialise at scale. For you as someone advising on AI in marketing, this is useful context: the infrastructure layer is being built at enormous cost and speed, and the pressure to generate real ROI from AI tools is only going to intensify.\n\nSecond: authentication company Copyleaks has documented a surge of AI-generated deepfake videos of celebrities including Taylor Swift and Rihanna running scam ads on TikTok. This is not just a celebrity story — it's a brand safety crisis. Any marketing client running social campaigns needs a clear position on how they verify content, how they protect their brand from association with AI-generated misinformation, and how they're monitoring for impersonation. This is a consulting conversation waiting to happen.\n\nThird: MIT Technology Review flags that orchestrating multiple AI agents — not building individual models — is now the central challenge for organisations deploying AI seriously. If you're advising marketing teams on AI adoption, the question is shifting from \"which tool do we use\" to \"how do we coordinate these tools to work together.\" That's a more sophisticated brief, and it's where the real consulting value lives.\n\nOn the marketing strategy side, two pieces worth your attention. Adweek's Marketing Vanguard argues today that legacy brands don't need rebranding — they need reintroduction. The distinction matters: rebranding implies an identity problem, while reintroduction frames the challenge as relevance and context. This is directly applicable to university brand work, where institutions often mistake declining enrolment or perception for an identity problem when it's actually a positioning and channel problem. And separately, Advisor Perspectives has a piece on how solo practitioners are using AI to scale content marketing — useful tactical reading as you build your consulting practice without a full team behind you.\n\nOne quick public safety note from the interior: RCMP in 100 Mile House — which is BC interior country, not far from your world — are warning about counterfeit $100 bills used in a private ATV sale. If you or anyone in your network is doing cash transactions in the region, it's worth being aware.\n\nAnd finally, one item on the longevity front, from STAT News — food safety experts are raising alarms about a brain drain at the USDA, with senior scientists departing and leaving oversight gaps. For Canadian families who rely on cross-border food supply chains — which most of us do — this is a background risk worth knowing about, particularly when those supply chains are already under stress from trade policy.\n\nThat's your morning, Midya. The BoC hold is today's anchor story — sit with that uncertainty rather than waiting for clarity that may not come quickly. And the Prince George college story is your most actionable lead: a BC institution in public strategic transition is a door worth knocking on. Have a good one.",
+  "digestIntro": "Three threads deserve your immediate attention today, Midya. First, Canada's proposed 10-point tightening of the international student program is the most consequential higher-ed policy signal in months — it reshapes enrolment projections for every Canadian university you might approach as a consulting client, so understanding the specifics before your next outreach is a competitive edge. Second, the Microsoft-OpenAI restructuring and Salesforce's customer-led AI roadmap together signal that enterprise AI is entering a more pragmatic, client-driven phase — exactly the space where a marketing consultant who speaks both AI and strategy can command premium positioning.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Three threads deserve your immediate attention today, Midya. First, Canada's proposed 10-point tightening of the international student program is the most consequential higher-ed policy signal in months — it reshapes enrolment projections for every Canadian university you might approach as a consulting client, so understanding the specifics before your next outreach is a competitive edge. Second, the Microsoft-OpenAI restructuring and Salesforce's customer-led AI roadmap together signal that enterprise AI is entering a more pragmatic, client-driven phase — exactly the space where a marketing consultant who speaks both AI and strategy can command premium positioning. Third, a new wildfire has emerged near Williams Lake, and it's only April — BC's fire season is opening early, which matters for your family between Kamloops and Sun Peaks. Watch that thread closely over the coming days.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-04-30.mp3",
+  "audioDurationSeconds": 435,
+  "audioScript": "Good morning, Midya. It's Thursday, April 30th, 2026. Here's what matters today.\n\nLet's start with the story that will have the longest tail for your consulting work: Ottawa has proposed a sweeping 10-point tightening of Canada's international student program. The headline change is a higher minimum bank balance requirement, but it doesn't stop there — the proposal touches study permit eligibility, institution-level caps, and post-graduation pathways. For every Canadian university you're approaching as a potential consulting client, this lands like a shockwave. Institutions that built their revenue models around international enrolment growth are going to need to rethink recruitment strategy, marketing positioning, and pipeline partnerships — urgently. That's exactly where you can walk in the door. Speaking of which, George Brown Polytechnic just formalised a joint pathway program with language college ILAC, specifically designed for international students who don't meet direct-entry thresholds. That's the kind of creative enrolment solution more institutions will be looking for as the rules tighten. File that model away — it's a conversation starter.\n\nSpeaking of Canada's place in global higher ed: France is also moving, mandating higher tuition fees for non-EU international students starting in the 2026/27 academic year. Critics are calling it a blow to university autonomy. The bigger picture here is that major destination countries — Canada, the UK, Australia, now France — are all simultaneously pulling back or repricing international student access. That reshuffles where globally mobile students choose to go, and it creates real differentiation opportunities for Canadian institutions that play their messaging right.\n\nNow, the AI and tech stories. The biggest structural news this week: Microsoft and OpenAI have renegotiated their partnership in what's being described as a surprisingly civil divorce. The original exclusive, deeply entangled relationship — where Microsoft was OpenAI's primary infrastructure partner and commercial conduit — has been restructured into something more arm's-length. This matters for enterprise AI buyers because it opens the competitive field. Clients who were waiting to see how the Microsoft-OpenAI axis settled before committing to AI strategy can now start making more independent decisions about their stack.\n\nAnd Salesforce is doing something interesting: it's formally crowdsourcing its AI product roadmap from enterprise customers, operating on the theory that if one large customer has a problem, most others do too. For your consulting practice, this is a signal worth watching. The AI vendor world is shifting from 'here's what we built, now use it' to 'tell us what you need and we'll build it.' That's a much friendlier environment for a strategic advisor helping clients articulate their AI requirements.\n\nGoogle also quietly announced that Gemini is rolling out to cars with Google Built-In, replacing the older Google Assistant. It's a relatively small story on its own, but it's another data point in the broader normalisation of conversational AI across everyday surfaces.\n\nOn the marketing front, the number that should anchor your thinking this week: Meta and Google both posted strong Q1 advertising revenue — powered substantially by AI-driven targeting and creative optimisation tools. But the two platforms are diverging in their technology strategies, and Marketing Dive is flagging that the big picture is blurry. For any clients you're working with on ad spend allocation, this is a moment to revisit platform mix with fresh eyes.\n\nTwo strong brand strategy stories today as well. Claire's — yes, the mall jewellery brand — is executing a serious comeback, built on ASMR content, tactile squishie products, and a brand mission centred on reclaiming girlhood. It's a textbook example of a legacy brand finding cultural resonance with a new generation through identity-forward positioning rather than just nostalgia. And Rao's, now owned by Campbell's, has brought in Goodby Silverstein and Partners to build iconic brand status at scale — a case study in how premium challenger brands navigate post-acquisition brand risk.\n\nReal estate. Two stories worth your attention. First: the CEO of Trust and Will is warning that housing professionals need to prepare for a 124 trillion dollar generational wealth transfer — the largest in history — flowing through residential property. Brokerages that build estate-planning relationships now will retain the heirs. If you're tracking the brokerage industry and eXp in particular, this is the next strategic frontier. Second: William Raveis has rolled out an AI-powered relationship intelligence and workflow automation platform to more than 4,500 agents through a partnership with Cloze AI. This is a concrete, operational example of what AI adoption in a mid-to-large brokerage actually looks like right now.\n\nGlobally, two things to note. U.S. Trade Representative Jamieson Greer told Canadians that America is looking to collaborate on energy trade — framed within an America First context, but it's the clearest signal yet that there may be a workable lane for Canada-U.S. trade on the energy file. Watch how the Carney government responds. And on the Federal Reserve: incoming chair Kevin Warsh is going to face serious internal opposition if he tries to cut rates quickly. Jerome Powell will still be in the building and the current board has signalled clearly it won't be pushed. For anyone tracking mortgage rate trajectories — and Canadian rate-cut timing by extension — the Fed's leadership transition is more uncertain than headlines suggest.\n\nOn the health front, one story that directly affects anyone using or considering GLP-1 medications. The FDA is proposing to remove semaglutide, tirzepatide, and liraglutide from its compounding pharmacy list, citing the end of the drug shortage. In practical terms, this would shut down the lower-cost compounded versions of Ozempic and Mounjaro that many people have been relying on. If this rule goes through, the price differential between brand-name and compounded GLP-1s disappears.\n\nAnd finally, the BC safety watch. A new 10-hectare wildfire has broken out about 50 kilometres northwest of Williams Lake — roughly 200 kilometres north of Kamloops. It's the last day of April, and we're already seeing active fire ignitions in the Interior. Keep an eye on the BC Wildfire Service tracker as conditions develop this weekend. Also: two Canadians were detained by Israel after a Gaza-bound flotilla was intercepted near Greece. This is a developing consular situation — watch for a federal government response today.\n\nThat's your morning, Midya. The international student policy proposal is the one to act on soonest — it's a door-opener with every Canadian institution you're targeting. Have a sharp Thursday.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Oracle Has Bet the Company on AI Data Centres — and the Stakes Are Enormous",
-      "summary": "The Verge profiles Oracle's all-in pivot to AI infrastructure as the clearest publicly-traded signal of whether the AI investment bubble holds — Larry Ellison has committed so deeply there's no exit ramp if demand softens.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+      "headline": "Microsoft and OpenAI Restructure Their Partnership in Amicable 'Divorce'",
+      "summary": "Microsoft and OpenAI have renegotiated their landmark partnership — easing exclusivity and infrastructure tensions — in what analysts are calling a surprisingly civil uncoupling that reshapes the competitive AI landscape for enterprise buyers.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25098341/1778707567.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.399233250067%2C100%2C75.201533499866&amp;w=1200"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "AI Deepfakes of Taylor Swift and Rihanna Are Running Scam Ads on TikTok",
-      "summary": "Copyleaks documents a surge of AI-manipulated celebrity videos promoting fraudulent reward schemes on TikTok — a direct brand-safety warning for any marketing client running influencer or social campaigns.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+      "headline": "Salesforce Crowdsources Its AI Roadmap Directly With Enterprise Customers",
+      "summary": "Salesforce is letting customer pain points formally drive its AI product priorities, operating on the logic that a problem one enterprise faces is a problem all of them share — a meaningful signal for how AI vendors are repositioning around client trust.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2267995710.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729716127092%2C100%2C78.540567745815&amp;w=1200"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/11/Salesforce_logo-e1672835031758.jpg?resize=1200,675"
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "Orchestrating AI Agents Is the Next Hard Problem, Says MIT Tech Review",
-      "summary": "MIT Technology Review flags that coordinating multiple AI agents — not building single models — is now the central engineering and governance challenge for organisations deploying AI at scale.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+      "headline": "Google Gemini Rolls Out to Cars with Google Built-In",
+      "summary": "Google is upgrading vehicles running Google Built-In from Assistant to Gemini, enabling more natural in-car conversation, vehicle settings control, and contextual queries — a quiet but broad consumer AI touchpoint expansion.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/04/260424_thespark.jpg?resize=1200,600"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-car-AI-assistant-upgrade.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Oracle Has Bet the Company on AI Data Centres — and the Stakes Are Enormous",
-      "summary": "The Verge profiles Oracle's all-in pivot to AI infrastructure as the clearest publicly-traded signal of whether the AI investment bubble holds — Larry Ellison has committed so deeply there's no exit ramp if demand softens.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+      "headline": "Microsoft and OpenAI Restructure Their Partnership in Amicable 'Divorce'",
+      "summary": "Microsoft and OpenAI have renegotiated their landmark partnership — easing exclusivity and infrastructure tensions — in what analysts are calling a surprisingly civil uncoupling that reshapes the competitive AI landscape for enterprise buyers.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25098341/1778707567.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.399233250067%2C100%2C75.201533499866&amp;w=1200"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "AI Deepfakes of Taylor Swift and Rihanna Are Running Scam Ads on TikTok",
-      "summary": "Copyleaks documents a surge of AI-manipulated celebrity videos promoting fraudulent reward schemes on TikTok — a direct brand-safety warning for any marketing client running influencer or social campaigns.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+      "headline": "Salesforce Crowdsources Its AI Roadmap Directly With Enterprise Customers",
+      "summary": "Salesforce is letting customer pain points formally drive its AI product priorities, operating on the logic that a problem one enterprise faces is a problem all of them share — a meaningful signal for how AI vendors are repositioning around client trust.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2267995710.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729716127092%2C100%2C78.540567745815&amp;w=1200"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/11/Salesforce_logo-e1672835031758.jpg?resize=1200,675"
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "Orchestrating AI Agents Is the Next Hard Problem, Says MIT Tech Review",
-      "summary": "MIT Technology Review flags that coordinating multiple AI agents — not building single models — is now the central engineering and governance challenge for organisations deploying AI at scale.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+      "headline": "Google Gemini Rolls Out to Cars with Google Built-In",
+      "summary": "Google is upgrading vehicles running Google Built-In from Assistant to Gemini, enabling more natural in-car conversation, vehicle settings control, and contextual queries — a quiet but broad consumer AI touchpoint expansion.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/04/260424_thespark.jpg?resize=1200,600"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-car-AI-assistant-upgrade.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Legacy Brands Don't Need a Rebrand — They Need a Reintroduction",
-      "summary": "Adweek's Marketing Vanguard argues that heritage brands misdiagnose stagnation as an identity problem when the real issue is relevance framing — a useful strategic lens for university clients defending century-old brand equity.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/legacy-brands-dont-need-a-rebrand-they-need-a-reintroduction/",
+      "headline": "Meta and Google Ad Revenues Soar on AI Tailwinds, But Paths Are Diverging",
+      "summary": "Both platforms posted strong Q1 ad growth — fuelled by AI-driven targeting and creative tools — but their technology strategies are splitting, with meaningful implications for where marketing budgets will compound fastest.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/meta-google-ad-revenues-soar-thanks-to-ai-but-big-picture-is-blurry/818932/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/04/MV-webart326-EliotHamlisch-HP.jpg?w=600&h=315&crop=1"
+      "imageUrl": "https://imgproxy.divecdn.com/OTl17CnYMUEUpWqj9BqH1mE9UHf1oVV5y57aCEG4ytQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUxOTMxMDc0LmpwZw==.webp"
     },
     {
       "id": "story-marketing-1",
       "category": "Marketing",
-      "headline": "Can AI Support Solo Advisors' Content Marketing Goals?",
-      "summary": "Advisor Perspectives explores how independent practitioners are using AI to scale content production — directly relevant to building a lean consulting practice with high content output and no marketing team.",
-      "source": "Google News: marketing strategy AI",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3hDZi1XeC1YWUpBbWFkMy1SbmdDMnEyMWtJYklCdmlEZm9xLVFMbHhSX1pGTWdRQmNtS2dTZWtlbVVIbi1MRjI3WXpzLU01SEJEOThEMkxIdkt4QVdZQ2lfQV94SklpN3dNd0tWMWhkMy0wUy1Cc2ExMHcxVUdJTU1tdk5GdGxtb2REb3U4RGxnZW45NjF6dHd0RElYSU9CSldzeDZn?oc=5",
+      "headline": "Claire's Comeback Plan: Squishies, ASMR, and Reclaiming Girlhood",
+      "summary": "Claire's is overhauling its brand mission and summer campaign around Gen-Z nostalgia mechanics — ASMR content, tactile product lines, and identity-forward messaging — a case study in reviving a legacy retail brand through cultural repositioning.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/creativity/inside-claires-comeback-plan-squishies-asmr-and-reclaiming-girlhood/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone"
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/04/ClairesMain.jpg?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-2",
+      "category": "Marketing",
+      "headline": "Rao's Hires Goodby Silverstein & Partners to Build Iconic Brand Status",
+      "summary": "Post-acquisition by Campbell's, Rao's is investing in premium brand-building at scale — a useful reference point for how challenger brands maintain authenticity after going mainstream.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/agencies/raos-enlists-goodby-silverstein-partners-to-make-its-brand-iconic/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/04/zocdoc-cmo-2.jpg?w=600&h=315&crop=1"
     },
     {
       "id": "story-intl_students_canada-0",
       "category": "Higher Ed",
-      "headline": "'We Will Survive': Prince George College Launches Domestic Student Recruitment Strategy",
-      "summary": "A BC college is publicly pivoting its enrolment strategy toward domestic students following international student cap impacts — potential client signal: this is the exact strategic repositioning work a marketing consultant could deliver for institutions across BC.",
-      "source": "Google News: Canada international students",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXI3XzZSemFpMVdmMEV0N0RoQjhTNGhLWUhfdmoyMWVVODM3ZFpDR09MRmdBajcxbXlTSnhBY3JBSG9CN3NIbnlOTjV4cmtDNWlsRXdNVVlodkw4YVVZMVNhdFhVWUVHUXZ6Z3JXVHVVLWdpcVpLWmsxODdOdzFERncydXVUNFA4X2lmajZWZWplaVNRUmhVb21yYWl3UQ?oc=5",
+      "headline": "Canada Proposes 10-Point Tightening of International Student Program, Including Higher Bank Balance Requirements",
+      "summary": "Ottawa's proposed overhaul would raise financial proof-of-funds thresholds and add nine other restrictions — a sweeping enrolment signal every Canadian university's marketing and recruitment strategy will need to respond to. Potential client signal: institutions with high international-student dependency face urgent messaging and pipeline challenges.",
+      "source": "Times of India / Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbkxxcjRGQnZuX1BmSkp5b1ZnU0JxME5KLU9Ub1ZucHRuMjVBUTExYlpCUHM2blBYMDhRX3BwUHpodFZ3YUdzNVFQQ3JmdXp5SWo0aGw1OWhzdHR3WFZEV0NqUnZDcnR1d2p3MW9EMWpSWjdrOHVSYkZSYllXY2l0bkJqbnpBSnFyV0luVE5vVW03WTJZUXZjdDNjbVFnbEhwUGluaV9wVm83a1V4TnRHQ1VWTnJHSFpZQVNsSFYwVFo0R1dNYXVGQUhTXzBUNWpOb0VzTnZ0Y1FnS1ZGU3A0aWJuR3ZJTndJcXFjTkpRcmEwc1I0WElPYVR5NUNrNExMWDZPUG5qd3JaUUNzWkxaT9IBlgJBVV95cUxPWlpiOTVGWHFOcXVCN2tPbEY1a2xwdmR3YzctemI2UHRNcUo5N1ZGVXphMk9QTDc2M2lZcjRJWjEybnI3eVNVQkFnT0dWZnhESkFwZEpqQzNJMkFqY0dZVVVwbUgxcmFoWUg0Z3NwaGcxQnBxTVhGOUxFV0lXWlluWEN5N2hTandvSERMNkEwSElZa0VUVWhFejM2eTA3SktuNTVia3FMWGY0MkRfV2NLckd1ZWhObnpXS292RkhfYjRMQmtQa0tOOXVBOG1NakFPdUZaRXp4Z25WSGF1MnNvLTc0WVgtb0FRZUw3bGZ4QmpGbnBBWmZMQUI0Q1pqdk5zZ0ZxUy1qMGE3YjlNV2VvV3NvRkJzQQ",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
@@ -125,153 +138,178 @@
     {
       "id": "story-intl_students_canada-1",
       "category": "Higher Ed",
-      "headline": "Nine in Ten International Students Are Self-Censoring Due to US Political Climate",
-      "summary": "New data shows nearly 90% of international students are pulling back from academic and social-media speech on immigration and policy topics — Canadian institutions now have a differentiated positioning opportunity around campus safety and open discourse.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/us-politics-drives-international-student-self-censorship/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/04/iStock-US-survey-student-speech.jpg"
-    },
-    {
-      "id": "story-intl_students_canada-2",
-      "category": "Higher Ed",
-      "headline": "Canada Extends Validity of Work Authorisation Support Letters for Foreign Workers on Maintained Status",
-      "summary": "IRCC is extending the validity window for work authorisation support letters, giving more runway to international graduates and workers caught in processing limbo — a meaningful policy relief for students and institutions tracking PGWP pipeline outcomes.",
-      "source": "Google News: post-graduation work permit Canada",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOd1Q1WTJWVV9FZk1Xc005Q2cyVnhiNGxNaXNsaFM4X21xRjA2WmhRWVpxSWd6bXJwbC1pbk1ucTdoZUlFbWpVRENzVW5fWjZaQ09WRDN0RW9LdldhX0VnbXlWSjhtd2lGeU5vLU9aRS1PSHNiX1ppdDR3eW1aeUF1T3hjOFJsM1VnUmR2RXJUS2JZcmlBLXNXZWhORlFwekNLTVpXX3o2VFN2UThRalZZMTBYN3c0Rk51VTNxa0NxSzJWT05LR2RrY21weDgzRHc1eWgzRHl0SWJ0V20wSDVxSGVpYjVFN2YxYmJQQndDMG9JRXNSLUdwR1BBc9IBgAJBVV95cUxNTTlmcC1nTlVLSFpnUFpnVDZneFVxUE5GTE04RDRhNm4zVnk5MDNmeTFNRnNtRjdXRjlmczRjbk5OMGpkRWM0Y1daeUhBU0VxX1F3Q1Z6MTY5WEs4cUZ4LUNQc2dzTC1LUU50MVoxT1JPWjRlVVZLcTZqS09iNWthMFBwb0tkTXFxU1ZRYVQ1X1RHbzhtTEtlU3RONEJOT0Y4UlV5V2VDb1RadmJFN0htQWpvT2I5N2doeFRCcVk0bkJkeVlKRlJIMmk0S1NIX25ncjlER3RSZGdSRzlQd0tZUDJWVTkyRGhjeXdWaUNHRFBWVHBleUJRVS01X3M2dVhn?oc=5",
+      "headline": "George Brown Polytechnic and ILAC Formalise Joint Pathway Program for International Students",
+      "summary": "George Brown — now operating as a polytechnic — is partnering with language college ILAC to create a structured pathway for international students, a model other institutions may adopt as direct-entry enrolment tightens. Potential client signal: pathway partnership strategy is a growth avenue worth exploring with mid-sized Canadian institutions.",
+      "source": "Education News Canada",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSE5vaV95aGVmZjYwS3BCLVQ0WlRkX213TWJQVGhwOEVQXzdacy1ONEY3U0VSUHoxamFnSmRRYzQ0YXpZVGViYk1vR2RSd1NjLW5PcGl6UTVma2EtNXQ3LXBkelBtcjVsR0NjdHVHUGJGVTRVdFBkYVg3ZzZaTHFrTTBoODRHVjhpNXQxQzNZOFhldklCNFhhVnppSVhYRUd6STFpX3RKZ0xsMUVhRXpmdkRqTEVYbUx2OVEwZlAtRVp5bm5vYko2NGpXOTVIMnFlb24yQ0hIVmg4U1JlYUZRVlh4VUk5NmhNTi0wOWFIQVRfazNVRW9XSE5oNXo5SDVNX1E",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
     },
     {
-      "id": "story-canadian_real_estate-0",
-      "category": "Real Estate",
-      "headline": "Bank of Canada Holds Key Rate Steady, Warns Future Direction Is Unclear",
-      "summary": "The BoC left its policy rate unchanged today but explicitly flagged that the Iran-driven oil shock and trade uncertainty make the path forward unpredictable — anyone timing a real estate transaction or refinance in BC should expect prolonged ambiguity rather than a clear cut signal.",
-      "source": "Google News: Bank of Canada interest rate",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzgxTk9RMjdObGFzRlJRSFVDTWRqU1VfWDIybW9tZWVxMWdndmZTZHBGZFJxc3I4dDNBZlBEVHVnZUs3N2JscldkSDhMa054a3F6d0tDczgySjRXUVh5eGJUUm00RVA1MjVVdzcyc1Q2Y1NEZXNsVjFuWG1NYW5NMnAxQ0pHMFgxQVYtOHU0VS1RNmp4Nk5HclctR2xqR1lmam9uaGtZRERvZnE5amplXw?oc=5",
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "France Mandates Higher Tuition Fees for Non-EU Students from 2026/27",
+      "summary": "France is codifying differentiated international tuition under its 'Choose France for Higher Education' strategy, a move critics call an attack on university autonomy — relevant context as Canada simultaneously tightens its own intake, reshaping global student mobility flows.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/france-hikes-non-eu-tuition-fees-move-dubbed-blow-to-university-autonomy/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "house"
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/04/iStock-986163366-1.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Trust & Will CEO: Housing Professionals Should Prepare for 'Historic' $124T Wealth Transfer",
+      "summary": "A generational wealth transfer of unprecedented scale is about to flow through residential real estate, and brokerages that build estate-planning relationships now will retain the heirs — a strategic signal for anyone tracking the brokerage industry's next competitive frontier.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/trust-will-124t-wealth-transfer/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/04/Cody-Barbo-The-Gathering.jpg"
     },
     {
       "id": "story-canadian_real_estate-1",
       "category": "Real Estate",
-      "headline": "US Mortgage Applications Drop 1.6% as 30-Year Fixed Rate Climbs to 6.37%",
-      "summary": "American mortgage demand slipped this week as rising rates squeezed refinancing activity — a North American demand-signal worth tracking as Canadian variable-rate holders watch BoC's next move.",
+      "headline": "William Raveis Deploys Cloze AI Relationship Intelligence Across 4,500 Agents",
+      "summary": "The Raveis365+ tech stack integrates AI-powered relationship and workflow tools firm-wide — a concrete example of how mid-to-large brokerages are operationalising AI for agent retention and productivity, relevant to the eXp and broader brokerage-tech story.",
       "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/mortgage-applications-april-29-2026/",
+      "url": "https://www.housingwire.com/articles/william-raveis-raveis365-plus-platform-cloze-ai-relationship-intelligence/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/04/mortgage-applications-decline-2.jpg"
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/02/FI-ai-in-real-estate-certification-colibri.jpg"
     },
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Trump Huddles with Oil Executives as Iran War Creates Supply Shock",
-      "summary": "The White House hosted Chevron's CEO and senior cabinet members to discuss energy strategy as the Iran conflict disrupts Middle East supply and pushes commodity prices higher — the downstream inflation risk is real for Canadian consumers and businesses.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/04/29/trump-oil-execs-iran-war",
+      "headline": "U.S. Trade Representative Says America Is Open to Working With Canada on Energy",
+      "summary": "Jamieson Greer signalled U.S. willingness to collaborate with Canada on energy trade, framing it within an 'America First' context — the clearest public statement yet on where Canada-U.S. trade relations may find common ground post-tariff escalation.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/04/30/trumps-trade-czar-says-u-s-looking-to-work-with-canada-on-energy-sources/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://images.axios.com/eyZt0nyylZYMVlExzUWssLs2dC0=/2643x1605:2643x1605/320x320/2026/04/29/1777431017442.jpeg"
+      "imageUrl": "https://mapi.cp.org/asset-photos/dc0d8510-56d4-4b63-8132-886f55d1da74/4991eecd477f13291d2dbe9d299ceff766de05f91e69c7c9b4d2d5e409a0a2d8.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Kevin Warsh's Challenges Come Into Focus as Powell Prepares to Exit the Fed",
+      "summary": "Incoming Fed chair Kevin Warsh will face internal opposition to premature rate cuts and an active predecessor still in the building — the Fed's policy path under new leadership is less certain than markets may be pricing, with direct implications for mortgage rates and Canadian rate-cut timing.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/04/30/fed-warsh-powell-rates",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/RTPpHSeVrmmp62tk1JL9SI1_l8k=/1741x0:5223x3482/320x320/2026/04/30/1777557502768.jpeg"
     },
     {
       "id": "story-longevity-0",
       "category": "Longevity",
-      "headline": "STAT News: Food Safety Experts Warn of USDA Brain Drain Threatening Oversight Capacity",
-      "summary": "STAT News reports that departures of senior food safety scientists from the USDA are creating oversight gaps — a practical food-supply safety concern for Canadian families who rely on cross-border food systems, especially as supply chains are already stressed by trade tensions.",
+      "headline": "FDA Moves to Remove GLP-1 Drugs from Compounding Pharmacy List",
+      "summary": "STAT News reports: FDA is proposing to exclude semaglutide, tirzepatide, and liraglutide from its 503B compounding list, citing no ongoing drug shortage — effectively ending lower-cost compounded GLP-1 access for patients relying on that channel.",
       "source": "STAT News",
-      "url": "https://www.statnews.com/2026/04/29/health-news-food-safety-experts-warn-usda-brain-drain/?utm_campaign=rss",
+      "url": "https://www.statnews.com/pharmalot/2026/04/30/fda-weight-loss-drugs-new-rule-would-end-glp-1-compound-pharmacy/?utm_campaign=rss",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "leaf",
-      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/12/GettyImages-2166171191-645x645.jpg"
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/02/AdobeStock_1666420778-645x645.jpeg"
     },
     {
       "id": "story-misc-0",
       "category": "Misc",
-      "headline": "Counterfeit $100 Bills Used in Fraudulent ATV Purchase: 100 Mile House RCMP",
-      "summary": "RCMP in 100 Mile House (interior BC, near Kamloops region) are warning the public after counterfeit $100 bills were used in a private sale — a heads-up for anyone doing cash transactions in the interior.",
+      "headline": "New 10-Hectare Wildfire Breaks Out 50 Kilometres Northwest of Williams Lake",
+      "summary": "A new fire has ignited in the BC Interior at the end of April — unusually early in the season — roughly 200 km north of Kamloops; worth monitoring as fire-weather conditions develop heading into May.",
       "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/04/29/counterfeit-100-bills-used-in-fraudulent-atv-purchase-100-mile-rcmp/",
+      "url": "https://cfjctoday.com/2026/04/30/new-10-hectare-wildfire-emerges-nearly-50-kilometres-northeast-of-williams-lake/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2311/files/2026/04/b52eb645-073c-4e07-a74a-59c68b17e4ba.jpg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2311/files/2026/04/4a3156bb-c3c3-4655-9698-ec9fe132cd95-2.png"
+    },
+    {
+      "id": "story-misc-1",
+      "category": "Misc",
+      "headline": "Two Canadians Detained by Israel After Gaza Flotilla Intercepted Off Greek Coast",
+      "summary": "Israel intercepted a flotilla near Greece, detaining at least two Canadians among those aboard — a developing consular situation the Canadian government will be pressed to respond to.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/04/30/two-canadians-detained-by-israel-off-greek-coast-flotilla-organizer/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://mapi.cp.org/asset-photos/9be7a2f6-2a79-45a8-913f-c16a194cb190/0668f139604f25d4725352fd40c9e974ef61b90dece573cdbe420a494662bbb4.jpg"
     }
   ],
   "audioChapters": [
     {
       "id": "c1",
       "title": "AI & Tech",
-      "duration": "1:32",
+      "duration": "1:21",
       "startSeconds": 0
     },
     {
       "id": "c2",
       "title": "Marketing",
-      "duration": "1:01",
-      "startSeconds": 92
+      "duration": "1:21",
+      "startSeconds": 81
     },
     {
       "id": "c3",
       "title": "Higher Ed",
-      "duration": "1:32",
-      "startSeconds": 153
+      "duration": "1:21",
+      "startSeconds": 162
     },
     {
       "id": "c4",
       "title": "Real Estate",
-      "duration": "1:01",
-      "startSeconds": 245
+      "duration": "0:54",
+      "startSeconds": 243
     },
     {
       "id": "c5",
       "title": "Global",
-      "duration": "0:30",
-      "startSeconds": 306
+      "duration": "0:54",
+      "startSeconds": 297
     },
     {
       "id": "c6",
       "title": "Longevity",
-      "duration": "0:30",
-      "startSeconds": 336
+      "duration": "0:27",
+      "startSeconds": 351
     },
     {
       "id": "c7",
       "title": "Misc",
-      "duration": "0:30",
-      "startSeconds": 366
+      "duration": "0:54",
+      "startSeconds": 378
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "AI Deepfakes of Taylor Swift and Rihanna Are Running Scam Ads on TikTok",
-    "summary": "Copyleaks documents a surge of AI-manipulated celebrity videos promoting fraudulent reward schemes on TikTok — a direct brand-safety warning for any marketing client running influencer or social campaigns.",
-    "source": "The Verge AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+    "headline": "Salesforce Crowdsources Its AI Roadmap Directly With Enterprise Customers",
+    "summary": "Salesforce is letting customer pain points formally drive its AI product priorities, operating on the logic that a problem one enterprise faces is a problem all of them share — a meaningful signal for how AI vendors are repositioning around client trust.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2267995710.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729716127092%2C100%2C78.540567745815&amp;w=1200"
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/11/Salesforce_logo-e1672835031758.jpg?resize=1200,675"
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "Oracle Has Bet the Company on AI Data Centres — and the Stakes Are Enormous",
-    "summary": "The Verge profiles Oracle's all-in pivot to AI infrastructure as the clearest publicly-traded signal of whether the AI investment bubble holds — Larry Ellison has committed so deeply there's no exit ramp if demand softens.",
-    "source": "The Verge AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+    "headline": "Microsoft and OpenAI Restructure Their Partnership in Amicable 'Divorce'",
+    "summary": "Microsoft and OpenAI have renegotiated their landmark partnership — easing exclusivity and infrastructure tensions — in what analysts are calling a surprisingly civil uncoupling that reshapes the competitive AI landscape for enterprise buyers.",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25098341/1778707567.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.399233250067%2C100%2C75.201533499866&amp;w=1200"
   },
-  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25098341/1778707567.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.399233250067%2C100%2C75.201533499866&amp;w=1200"
 }
