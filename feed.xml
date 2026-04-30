@@ -12,7 +12,7 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 30 Apr 2026 16:16:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 20:24:58 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
@@ -21,9 +21,9 @@
     <item>
       <title>Daily News for Thursday, April 30, 2026</title>
       <link>https://umidya.github.io/daily-news/digests/2026-04-30.html</link>
-      <description>Three threads deserve your immediate attention today, Midya. First, Canada's proposed 10-point tightening of the international student program is the most consequential higher-ed policy signal in months — it reshapes enrolment projections for every Canadian university you might a...</description>
+      <description>Three threads deserve your attention today, Midya. First, the Musk v. Altman trial is surfacing foundational documents about OpenAI's origins — the distillation revelations and internal evidence have real implications for how AI companies will be regulated and how you position AI...</description>
       <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-04-30.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-04-30.mp3" length="8714400" type="audio/mpeg"/>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-04-30.mp3" length="8645280" type="audio/mpeg"/>
       <pubDate>Thu, 30 Apr 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
