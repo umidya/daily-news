@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 30 Apr 2026 20:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 11:34:20 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, April 30, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-04-30.html</link>
-      <description>Three threads deserve your attention today, Midya. First, the Musk v. Altman trial is surfacing foundational documents about OpenAI's origins — the distillation revelations and internal evidence have real implications for how AI companies will be regulated and how you position AI...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-04-30.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-04-30.mp3" length="8645280" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Apr 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, May 1, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-01.html</link>
+      <description>Today's digest has two threads worth treating as urgent. First, the international student funding crisis is hitting Canadian colleges hard — Cambrian's projected $1.7M deficit and 2,000-student loss is a preview of what's coming at institutions across the country, and that financ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-01.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-01.mp3" length="8099040" type="audio/mpeg"/>
+      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
