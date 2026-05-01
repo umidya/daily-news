@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Linking, Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Image } from 'expo-image';
 import { Feather, Ionicons } from '@expo/vector-icons';
 import { AppHeader } from '@/components/AppHeader';
 import { ScreenContainer } from '@/components/ScreenContainer';
@@ -25,9 +26,12 @@ export function AudioScreen() {
   } = useApp();
   const b = briefing;
   const [transcriptOpen, setTranscriptOpen] = useState(false);
+  const [artworkFailed, setArtworkFailed] = useState(false);
   const upSaved = b.upNext ? savedStoryIds.has(b.upNext.id) : false;
   const currentTime = playback.isLoaded ? formatMs(playback.positionMs) : '00:00';
   const totalDuration = playback.isLoaded ? formatMs(playback.durationMs) : b.totalDuration;
+  const artworkPhotoUrl = b.heroImageUrl ?? b.mainStory?.imageUrl;
+  const showArtworkPhoto = !!artworkPhotoUrl && !artworkFailed;
 
   const handleChapterPress = (chapterId: string) => {
     const chapter = b.audioChapters.find((c) => c.id === chapterId);
@@ -50,7 +54,17 @@ export function AudioScreen() {
       </View>
 
       <View style={[styles.artwork, shadows.cardSoft]}>
-        <BriefingArtwork width={360} height={210} rounded={radii.xl} />
+        {showArtworkPhoto ? (
+          <Image
+            source={{ uri: artworkPhotoUrl }}
+            style={styles.artworkImage}
+            contentFit="cover"
+            transition={200}
+            onError={() => setArtworkFailed(true)}
+          />
+        ) : (
+          <BriefingArtwork width={360} height={210} rounded={radii.xl} />
+        )}
       </View>
 
       <View style={styles.headerRow}>
@@ -182,6 +196,12 @@ const styles = StyleSheet.create({
     borderRadius: radii.xl,
     overflow: 'hidden',
     marginBottom: spacing.lg,
+    height: 210,
+    backgroundColor: '#FBE5DA',
+  },
+  artworkImage: {
+    width: '100%',
+    height: '100%',
   },
   headerRow: {
     flexDirection: 'row',

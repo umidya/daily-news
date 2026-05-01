@@ -11,10 +11,10 @@ import { mockBriefing } from '@/data/mockNews';
 import { config, todayJsonUrl } from '@/config';
 import type { Briefing } from '@/types/news';
 
-// v4: chapter titles now use the section's full name ("Marketing & Business")
-// instead of the short topic label ("Marketing"), so old cached payloads
-// would still show the wrong breakdown. Bumping forces a fresh fetch.
-const CACHE_KEY = 'briefing.today.v4';
+// v5: chapter durations are now weighted by section prose length, not story
+// count, so an old cached payload will show the wrong breakdown until a
+// fresh fetch.
+const CACHE_KEY = 'briefing.today.v5';
 // 1 hour TTL — daily-news content is freshest on the morning cron, and a
 // shorter window means pull-to-refresh isn't needed as often.
 const STALE_AFTER_MS = 1000 * 60 * 60 * 1;

@@ -21,6 +21,8 @@ export const colors = {
   warmYellowSoft: '#FFF1CC',
   amber: '#F59E0B',
   amberSoft: '#FFE4B5',
+  rose: '#EC4899',
+  roseSoft: '#FCE7F3',
 
   border: '#E5E7EB',
   borderSoft: '#EEF1F5',
@@ -50,9 +52,9 @@ export const categoryStyleMap: Record<
   'AI & Tech':     { bg: colors.lavenderSoft,   text: colors.lavender,   dot: colors.lavender },
   'Real Estate':   { bg: colors.warmYellowSoft, text: '#A87000',         dot: colors.warmYellow },
   'Marketing':     { bg: colors.coralSoft,      text: colors.coral,      dot: colors.coral },
-  'Higher Ed':     { bg: colors.lavenderSoft,   text: colors.lavender,   dot: colors.lavender },
+  'Higher Ed':     { bg: colors.amberSoft,      text: '#A8650A',         dot: colors.amber },
   'Global':        { bg: '#FFE9D6',             text: '#C2541C',         dot: '#E07B30' },
-  'AirBnb Policy': { bg: colors.mintSoft,       text: '#1F8E70',         dot: colors.mint },
+  'AirBnb Policy': { bg: colors.roseSoft,       text: colors.rose,       dot: colors.rose },
   'Longevity':     { bg: colors.mintSoft,       text: '#1F8E70',         dot: colors.mint },
   'Misc':          { bg: '#EEF1F5',             text: '#3F4A66',         dot: '#6B7280' },
 };

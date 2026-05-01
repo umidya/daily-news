@@ -106,10 +106,25 @@ def _reading_time(stories_count: int) -> str:
     return f"{minutes} min read"
 
 
-def _section_duration(stories_count: int, total_seconds: int, total_stories: int) -> str:
-    if total_stories <= 0:
+def _section_text_chars(section: dict) -> int:
+    """Total prose length used for narration-time estimation.
+
+    Story count is a poor proxy — a Longevity section with one dense JAMA
+    story can take longer to read aloud than a Local News section with two
+    one-liners. Sum of headline + summary chars tracks actual narration much
+    closer.
+    """
+    n = 0
+    for story in section.get("stories", []):
+        n += len((story.get("headline") or "").strip())
+        n += len((story.get("summary") or "").strip())
+    return n
+
+
+def _section_duration(section_chars: int, total_seconds: int, total_chars: int) -> str:
+    if total_chars <= 0:
         return _format_mmss(0)
-    section_seconds = int(total_seconds * (stories_count / total_stories))
+    section_seconds = int(round(total_seconds * (section_chars / total_chars)))
     return _format_mmss(section_seconds)
 
 
@@ -194,22 +209,23 @@ def build_app_payload(
             img = image_by_url.get(story.get("url", ""))
             flat_stories.append(_story_to_app(story, topic_key, i, img))
 
-    total_story_count = max(1, len(flat_stories))
+    total_chars = max(1, sum(_section_text_chars(s) for s in sections))
 
     # Audio chapters mirror sections; cumulative startSeconds lets the app
     # seek the audio to that chapter. Use the section's actual `name` from
     # Claude (e.g. "Marketing & Business") — the colour-coding `category`
     # comes from topic_key separately so the dot matches the pill on Home.
+    # Durations are weighted by section prose length (headline + summary
+    # chars) which is a much closer proxy for narration time than story
+    # count.
     chapters = []
     cumulative = 0
     for i, section in enumerate(sections):
         topic_key = section.get("topic_key", "global_business_tech")
         category = TOPIC_TO_CATEGORY.get(topic_key, "Global")
         title = (section.get("name") or category).strip()
-        section_stories = section.get("stories", [])
-        duration_str = _section_duration(
-            len(section_stories), total_seconds, total_story_count
-        )
+        section_chars = _section_text_chars(section)
+        duration_str = _section_duration(section_chars, total_seconds, total_chars)
         chapters.append(
             {
                 "id": f"c{i + 1}",
