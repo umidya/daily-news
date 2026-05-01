@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 from dataclasses import dataclass
 from typing import Optional
 
@@ -77,6 +78,36 @@ AUDIO SCRIPT
 
 A single continuous monologue, roughly ten to fifteen minutes when read aloud. The opening line MUST be exactly "Good morning, Midya." followed by the date and a one-sentence hook (e.g. "Good morning, Midya. It's Tuesday, May twentieth. Here's what matters today."). Spoken-word phrasing. Smooth transitions between stories. Never say URLs or markdown. Group naturally by theme without announcing "Section one." End with a brief sign-off.
 
+You may narrate the sections in WHATEVER ORDER serves the listener best — the lead theme of the day goes first, regardless of the section's index in the JSON. The order you narrate in is what determines chapter ordering in the app.
+
+CHAPTER MARKERS (REQUIRED)
+
+To let the app build accurate audio chapters, you must annotate the audio_script with out-of-band markers that identify where each narrated section begins. These markers are NOT spoken — they're stripped programmatically before text-to-speech.
+
+Insert exactly ONE of the following marker lines on its own line, immediately before the corresponding narration begins:
+
+- `[[INTRO]]` — before the opening "Good morning, Midya..." line
+- `[[SECTION:<topic_key>]]` — before the first sentence of each narrated section's content. `<topic_key>` MUST be one of: `ai`, `marketing`, `higher_ed_canada`, `higher_ed_global`, `intl_students_canada`, `canadian_real_estate`, `kamloops_sun_peaks`, `airbnb_policy`, `global_business_tech`, `longevity`, `misc`. Use the same topic_key you used in the corresponding `sections` entry.
+- `[[OUTRO]]` — before the closing sign-off
+
+Every section that appears in the `sections` array AND gets narrated in the audio_script must have a marker. If you decide not to narrate one of the sections (rare — usually all narrate), simply omit its marker; the app will not render a chapter for it. Do not announce these markers as words.
+
+Example shape:
+
+```
+[[INTRO]]
+Good morning, Midya. It's Tuesday, May twentieth, twenty twenty-six. Here's what matters today.
+
+[[SECTION:higher_ed_canada]]
+Let's start with higher education, because the lead story is...
+
+[[SECTION:ai]]
+On the AI front, ...
+
+[[OUTRO]]
+That's your Tuesday briefing, Midya. ...
+```
+
 CONSTRAINTS
 
 - Never invent facts not in the source snippets. If a snippet is too thin to summarize confidently, drop it.
@@ -113,6 +144,68 @@ class Digest:
     audio_script: str
     chosen_url_hashes: list[str]
     raw_response: str
+
+
+# Markers Claude embeds in audio_script so we can build accurate audio
+# chapters from the narrated text (not from sections-list order, which
+# Claude is free to reorder for narrative flow).
+_MARKER_RE = re.compile(r"\[\[(INTRO|OUTRO|SECTION:([a-z_]+))\]\][ \t]*\n?")
+
+
+def parse_audio_script(script: str) -> tuple[str, list[dict]]:
+    """Strip out [[INTRO]] / [[SECTION:topic_key]] / [[OUTRO]] markers and
+    return the plain narrated script plus a list of segment descriptors.
+
+    Each segment is a dict with:
+      - role: 'intro' | 'section' | 'outro'
+      - topic_key: the topic_key for SECTION segments, else None
+      - start_char: zero-indexed offset into the stripped script
+      - end_char: exclusive end offset into the stripped script
+
+    If no markers are present, returns (script, []) so callers can fall
+    back to a content-length estimate.
+    """
+    out_parts: list[str] = []
+    segments: list[dict] = []
+    last_end = 0
+    cumulative_len = 0
+    pending: dict | None = None
+
+    for m in _MARKER_RE.finditer(script):
+        before = script[last_end:m.start()]
+        out_parts.append(before)
+        before_len = len(before)
+        if pending is not None:
+            pending["end_char"] = cumulative_len + before_len
+            segments.append(pending)
+        cumulative_len += before_len
+
+        marker = m.group(1)
+        if marker == "INTRO":
+            pending = {"role": "intro", "topic_key": None, "start_char": cumulative_len}
+        elif marker == "OUTRO":
+            pending = {"role": "outro", "topic_key": None, "start_char": cumulative_len}
+        else:  # SECTION:<topic_key>
+            pending = {
+                "role": "section",
+                "topic_key": m.group(2),
+                "start_char": cumulative_len,
+            }
+        last_end = m.end()
+
+    tail = script[last_end:]
+    out_parts.append(tail)
+    if pending is not None:
+        pending["end_char"] = cumulative_len + len(tail)
+        segments.append(pending)
+
+    stripped = "".join(out_parts)
+    return stripped, segments
+
+
+def strip_audio_markers(script: str) -> str:
+    """Return the plain script with chapter markers removed (for TTS)."""
+    return parse_audio_script(script)[0]
 
 
 def _candidates_payload(articles: list[Article]) -> list[dict]:

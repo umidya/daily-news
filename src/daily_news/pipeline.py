@@ -20,7 +20,7 @@ from .fetch import fetch_feeds, fetch_searches
 from .app_export import write_app_briefing
 from .render import write_digest_assets, write_index, write_podcast_feed
 from .score import score_and_filter
-from .summarize import summarize
+from .summarize import summarize, strip_audio_markers
 from .tts import synthesize
 from .models import Article
 
@@ -120,9 +120,13 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
         log.warning("No digest produced (no candidates)")
         return {"date": date_label, "stories": 0}
 
-    # 5. TTS
+    # 5. TTS — strip out chapter markers so they aren't narrated.
     audio_path = cfg.data_dir / "audio" / f"{date_label}.mp3"
-    synthesize(digest.audio_script, audio_path, cfg.openai_api_key)
+    synthesize(
+        strip_audio_markers(digest.audio_script),
+        audio_path,
+        cfg.openai_api_key,
+    )
 
     # 6. Render HTML, copy audio, record state, build feed + index
     audio_dest, html_dest, audio_url, html_url = write_digest_assets(

@@ -22,7 +22,7 @@ from typing import Optional
 from .config import Config
 from .fetch import fetch_og_image
 from .models import Article
-from .summarize import Digest
+from .summarize import Digest, parse_audio_script
 
 log = logging.getLogger(__name__)
 
@@ -107,12 +107,11 @@ def _reading_time(stories_count: int) -> str:
 
 
 def _section_text_chars(section: dict) -> int:
-    """Total prose length used for narration-time estimation.
+    """Sum of headline + summary chars across a section's stories.
 
-    Story count is a poor proxy — a Longevity section with one dense JAMA
-    story can take longer to read aloud than a Local News section with two
-    one-liners. Sum of headline + summary chars tracks actual narration much
-    closer.
+    Used as a fallback when the audio_script has no chapter markers — story
+    count alone is a worse proxy because dense summaries take much longer to
+    narrate than terse ones.
     """
     n = 0
     for story in section.get("stories", []):
@@ -121,11 +120,92 @@ def _section_text_chars(section: dict) -> int:
     return n
 
 
-def _section_duration(section_chars: int, total_seconds: int, total_chars: int) -> str:
-    if total_chars <= 0:
-        return _format_mmss(0)
-    section_seconds = int(round(total_seconds * (section_chars / total_chars)))
-    return _format_mmss(section_seconds)
+def _build_chapters_from_audio(
+    audio_script: str, total_seconds: int
+) -> list[dict] | None:
+    """Build chapters from the marker-annotated audio_script. Returns the
+    chapter list in narration order, with startSeconds and durations
+    proportional to character offsets in the (stripped) narrated text.
+
+    Returns None when no markers are present so callers can fall back to a
+    section-list-based estimate.
+    """
+    stripped, segments = parse_audio_script(audio_script)
+    section_segments = [s for s in segments if s["role"] == "section"]
+    if not section_segments:
+        return None
+    total_chars = max(1, len(stripped))
+
+    # Group adjacent same-topic segments into one chapter (rare, but tidy).
+    grouped: list[dict] = []
+    for seg in section_segments:
+        if grouped and grouped[-1]["topic_key"] == seg["topic_key"]:
+            grouped[-1]["end_char"] = seg["end_char"]
+        else:
+            grouped.append(dict(seg))
+
+    chapters: list[dict] = []
+    for i, seg in enumerate(grouped):
+        start_seconds = int(round(total_seconds * seg["start_char"] / total_chars))
+        end_seconds = int(round(total_seconds * seg["end_char"] / total_chars))
+        duration_seconds = max(0, end_seconds - start_seconds)
+        topic_key = seg["topic_key"]
+        category = TOPIC_TO_CATEGORY.get(topic_key, "Global")
+        chapters.append(
+            {
+                "id": f"c{i + 1}",
+                "title": _SECTION_TITLE_BY_TOPIC.get(topic_key, category),
+                "category": category,
+                "duration": _format_mmss(duration_seconds),
+                "startSeconds": start_seconds,
+            }
+        )
+    return chapters
+
+
+def _build_chapters_fallback(sections: list[dict], total_seconds: int) -> list[dict]:
+    """Used only when audio_script lacks markers. Falls back to estimating
+    chapter durations from section prose length, in JSON-section order."""
+    total_chars = max(1, sum(_section_text_chars(s) for s in sections))
+    chapters: list[dict] = []
+    cumulative = 0
+    for i, section in enumerate(sections):
+        topic_key = section.get("topic_key", "global_business_tech")
+        category = TOPIC_TO_CATEGORY.get(topic_key, "Global")
+        title = (section.get("name") or category).strip()
+        section_chars = _section_text_chars(section)
+        if total_chars > 0:
+            section_seconds = int(round(total_seconds * section_chars / total_chars))
+        else:
+            section_seconds = 0
+        chapters.append(
+            {
+                "id": f"c{i + 1}",
+                "title": title,
+                "category": category,
+                "duration": _format_mmss(section_seconds),
+                "startSeconds": cumulative,
+            }
+        )
+        cumulative += section_seconds
+    return chapters
+
+
+# Display titles for chapters built from audio markers (when we don't have
+# Claude's section.name handy because we're working off topic_key alone).
+_SECTION_TITLE_BY_TOPIC: dict[str, str] = {
+    "ai": "AI & Tech",
+    "marketing": "Marketing & Business",
+    "global_business_tech": "Global News",
+    "higher_ed_canada": "Higher Education",
+    "higher_ed_global": "Higher Education",
+    "intl_students_canada": "Higher Education",
+    "canadian_real_estate": "Real Estate & AirBnB",
+    "airbnb_policy": "Real Estate & AirBnB",
+    "kamloops_sun_peaks": "Local News",
+    "longevity": "Longevity",
+    "misc": "Misc",
+}
 
 
 def _story_to_app(story: dict, topic_key: str, idx: int, image_url: Optional[str]) -> dict:
@@ -209,34 +289,17 @@ def build_app_payload(
             img = image_by_url.get(story.get("url", ""))
             flat_stories.append(_story_to_app(story, topic_key, i, img))
 
-    total_chars = max(1, sum(_section_text_chars(s) for s in sections))
-
-    # Audio chapters mirror sections; cumulative startSeconds lets the app
-    # seek the audio to that chapter. Use the section's actual `name` from
-    # Claude (e.g. "Marketing & Business") — the colour-coding `category`
-    # comes from topic_key separately so the dot matches the pill on Home.
-    # Durations are weighted by section prose length (headline + summary
-    # chars) which is a much closer proxy for narration time than story
-    # count.
-    chapters = []
-    cumulative = 0
-    for i, section in enumerate(sections):
-        topic_key = section.get("topic_key", "global_business_tech")
-        category = TOPIC_TO_CATEGORY.get(topic_key, "Global")
-        title = (section.get("name") or category).strip()
-        section_chars = _section_text_chars(section)
-        duration_str = _section_duration(section_chars, total_seconds, total_chars)
-        chapters.append(
-            {
-                "id": f"c{i + 1}",
-                "title": title,
-                "category": category,
-                "duration": duration_str,
-                "startSeconds": cumulative,
-            }
+    # Build chapters in actual narration order using the markers Claude
+    # embeds in audio_script. Falls back to a section-content-length
+    # estimate (in JSON-section order) only when markers are absent.
+    chapters = _build_chapters_from_audio(digest.audio_script, total_seconds)
+    if chapters is None:
+        log.warning(
+            "audio_script had no chapter markers; falling back to section-list "
+            "order with content-length-weighted durations. Chapter timing will "
+            "be approximate and may not match narration order."
         )
-        m, s = duration_str.split(":")
-        cumulative += int(m) * 60 + int(s)
+        chapters = _build_chapters_fallback(sections, total_seconds)
 
     top_stories = flat_stories[:3]
     digest_stories = flat_stories[:20]
@@ -254,6 +317,9 @@ def build_app_payload(
                 hero_image_url = s["imageUrl"]
                 break
 
+    stripped_script, _ = parse_audio_script(digest.audio_script)
+    stripped_script = stripped_script.strip()
+
     payload: dict = {
         "schemaVersion": 2,
         "date": human_label,
@@ -262,13 +328,13 @@ def build_app_payload(
         "totalDuration": total_duration,
         "currentTime": "0:00",
         "remaining": f"{total_seconds // 60} min total",
-        "hookCopy": _hook_from_script(digest.audio_script),
+        "hookCopy": _hook_from_script(stripped_script),
         "digestIntro": _intro_from_why(digest.why_this_matters),
         "digestReadingTime": _reading_time(len(flat_stories)),
         "whyItMatters": digest.why_this_matters.strip(),
         "audioUrl": audio_url,
         "audioDurationSeconds": total_seconds,
-        "audioScript": digest.audio_script.strip(),
+        "audioScript": stripped_script,
         "topStories": top_stories,
         "digestStories": digest_stories,
         "audioChapters": chapters,

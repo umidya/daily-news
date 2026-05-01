@@ -11,10 +11,11 @@ import { mockBriefing } from '@/data/mockNews';
 import { config, todayJsonUrl } from '@/config';
 import type { Briefing } from '@/types/news';
 
-// v5: chapter durations are now weighted by section prose length, not story
-// count, so an old cached payload will show the wrong breakdown until a
-// fresh fetch.
-const CACHE_KEY = 'briefing.today.v5';
+// v6: chapters are now built from in-narration order with measured-proportional
+// durations (Claude embeds [[SECTION:topic]] markers in the audio_script and
+// the pipeline parses them). Old cached payloads have JSON-section-order
+// chapters that don't match what the audio actually plays.
+const CACHE_KEY = 'briefing.today.v6';
 // 1 hour TTL — daily-news content is freshest on the morning cron, and a
 // shorter window means pull-to-refresh isn't needed as often.
 const STALE_AFTER_MS = 1000 * 60 * 60 * 1;
