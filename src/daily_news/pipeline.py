@@ -20,8 +20,8 @@ from .fetch import fetch_feeds, fetch_searches
 from .app_export import write_app_briefing
 from .render import write_digest_assets, write_index, write_podcast_feed
 from .score import score_and_filter
-from .summarize import summarize, strip_audio_markers
-from .tts import synthesize
+from .summarize import summarize, parse_audio_script, strip_audio_markers
+from .tts import synthesize, synthesize_segments
 from .models import Article
 
 log = logging.getLogger(__name__)
@@ -120,13 +120,26 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
         log.warning("No digest produced (no candidates)")
         return {"date": date_label, "stories": 0}
 
-    # 5. TTS — strip out chapter markers so they aren't narrated.
+    # 5. TTS — synthesize each marker-delimited segment as its own call so
+    # we can measure each section's actual narrated duration. Markers are
+    # stripped (per-segment, by virtue of how we slice). If the script has
+    # no markers (older Claude response shape), fall back to single-pass
+    # synthesis with no per-segment timings.
     audio_path = cfg.data_dir / "audio" / f"{date_label}.mp3"
-    synthesize(
-        strip_audio_markers(digest.audio_script),
-        audio_path,
-        cfg.openai_api_key,
-    )
+    segment_timings: list[dict] | None = None
+    stripped, segments = parse_audio_script(digest.audio_script)
+    if segments:
+        for seg in segments:
+            seg["text"] = stripped[seg["start_char"]:seg["end_char"]]
+        segment_timings = synthesize_segments(
+            segments, audio_path, cfg.openai_api_key
+        )
+    else:
+        log.warning(
+            "audio_script has no chapter markers; falling back to single-pass TTS "
+            "without measured per-segment timings."
+        )
+        synthesize(stripped, audio_path, cfg.openai_api_key)
 
     # 6. Render HTML, copy audio, record state, build feed + index
     audio_dest, html_dest, audio_url, html_url = write_digest_assets(
@@ -168,7 +181,14 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
     write_podcast_feed(episodes, cfg)
     write_index(episodes, cfg)
     write_app_briefing(
-        digest, date_label, human_label, audio_url, audio_dest, cfg, candidates=candidates
+        digest,
+        date_label,
+        human_label,
+        audio_url,
+        audio_dest,
+        cfg,
+        candidates=candidates,
+        segment_timings=segment_timings,
     )
 
     log.info("Digest complete: %s (%d stories)", date_label, len(digest.chosen_url_hashes))

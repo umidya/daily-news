@@ -76,7 +76,11 @@ At the top, write ONE "why_this_matters" paragraph (4 to 6 sentences). Trusted-a
 
 AUDIO SCRIPT
 
-A single continuous monologue, roughly ten to fifteen minutes when read aloud. The opening line MUST be exactly "Good morning, Midya." followed by the date and a one-sentence hook (e.g. "Good morning, Midya. It's Tuesday, May twentieth. Here's what matters today."). Spoken-word phrasing. Smooth transitions between stories. Never say URLs or markdown. Group naturally by theme without announcing "Section one." End with a brief sign-off.
+A single continuous monologue. **Target length: 1600 to 2400 words (≈10 to 15 minutes when read aloud at standard TTS speed). Treat 1600 words as a hard floor — do not under-deliver.**
+
+If the news cycle is light, do NOT shorten the briefing. Instead, deepen: expand commentary, advisor framing, why-it-matters context, implications for Midya's specific work (consulting pivot, AI thesis, BC family, Canadian higher-ed pipeline). The "do not pad with weak stories" rule still applies — the path to length is depth on the chosen stories, not adding more stories. A short briefing fails the assignment; weak stories fail the assignment. The way through is fewer-but-richer.
+
+The opening line MUST be exactly "Good morning, Midya." followed by the date and a one-sentence hook (e.g. "Good morning, Midya. It's Tuesday, May twentieth. Here's what matters today."). Spoken-word phrasing. Smooth transitions between stories. Never say URLs or markdown. Group naturally by theme without announcing "Section one." End with a substantive sign-off (2-3 sentences, advisor tone) — not a perfunctory "have a good day."
 
 You may narrate the sections in WHATEVER ORDER serves the listener best — the lead theme of the day goes first, regardless of the section's index in the JSON. The order you narrate in is what determines chapter ordering in the app.
 
@@ -273,7 +277,7 @@ def summarize(candidates: list[Article], cfg: Config, date_label: str) -> Option
     log.info("Sending %d candidates to Claude for summarization", len(candidates))
     msg = client.messages.create(
         model=CLAUDE_MODEL,
-        max_tokens=8000,
+        max_tokens=16000,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_msg}],
     )

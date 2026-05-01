@@ -1,6 +1,7 @@
 from daily_news.app_export import (
     _build_chapters_fallback,
     _build_chapters_from_audio,
+    _build_chapters_from_timings,
 )
 from daily_news.summarize import parse_audio_script, strip_audio_markers
 
@@ -124,6 +125,58 @@ def test_adjacent_same_topic_segments_merge_into_one_chapter():
     assert chapters[0]["title"] == "AI & Tech"
     # Combined ~100/100 chars of narration → full 200 seconds
     assert _to_seconds(chapters[0]["duration"]) >= 195
+
+
+def test_chapters_from_measured_timings_match_total_exactly():
+    """When the pipeline supplies measured per-segment TTS timings, chapters
+    use the real measurements — sum of chapter durations exactly equals the
+    sum of section narration durations, no estimation rounding errors."""
+    timings = [
+        {"role": "intro", "topic_key": None, "start_seconds": 0.0, "duration_seconds": 12.4},
+        {"role": "section", "topic_key": "higher_ed_canada", "start_seconds": 12.4, "duration_seconds": 134.7},
+        {"role": "section", "topic_key": "ai", "start_seconds": 147.1, "duration_seconds": 88.3},
+        {"role": "section", "topic_key": "marketing", "start_seconds": 235.4, "duration_seconds": 71.9},
+        {"role": "outro", "topic_key": None, "start_seconds": 307.3, "duration_seconds": 14.2},
+    ]
+    chapters = _build_chapters_from_timings(timings)
+    assert chapters is not None
+    assert [c["title"] for c in chapters] == [
+        "Higher Education", "AI & Tech", "Marketing & Business",
+    ]
+    # Real measurements; no estimation
+    assert chapters[0]["startSeconds"] == 12
+    assert chapters[1]["startSeconds"] == 147
+    assert chapters[2]["startSeconds"] == 235
+    # Durations: rounded ints of real measurements
+    assert _to_seconds(chapters[0]["duration"]) == 135
+    assert _to_seconds(chapters[1]["duration"]) == 88
+    assert _to_seconds(chapters[2]["duration"]) == 72
+
+
+def test_measured_timings_returns_none_when_only_intro_outro():
+    """Edge case: if Claude only emitted INTRO/OUTRO and no SECTION markers,
+    we return None so the caller falls back."""
+    timings = [
+        {"role": "intro", "topic_key": None, "start_seconds": 0.0, "duration_seconds": 5.0},
+        {"role": "outro", "topic_key": None, "start_seconds": 5.0, "duration_seconds": 3.0},
+    ]
+    assert _build_chapters_from_timings(timings) is None
+
+
+def test_measured_timings_merge_adjacent_same_topic():
+    """Same topic in two adjacent segments collapses into one chapter, with
+    the duration summed."""
+    timings = [
+        {"role": "section", "topic_key": "ai", "start_seconds": 0.0, "duration_seconds": 30.0},
+        {"role": "section", "topic_key": "ai", "start_seconds": 30.0, "duration_seconds": 20.0},
+        {"role": "section", "topic_key": "marketing", "start_seconds": 50.0, "duration_seconds": 40.0},
+    ]
+    chapters = _build_chapters_from_timings(timings)
+    assert chapters is not None
+    assert len(chapters) == 2
+    assert chapters[0]["title"] == "AI & Tech"
+    assert _to_seconds(chapters[0]["duration"]) == 50
+    assert chapters[1]["title"] == "Marketing & Business"
 
 
 def _to_seconds(mmss: str) -> int:

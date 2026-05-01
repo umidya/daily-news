@@ -163,6 +163,46 @@ def _build_chapters_from_audio(
     return chapters
 
 
+def _build_chapters_from_timings(segment_timings: list[dict]) -> list[dict] | None:
+    """Build chapters from measured per-segment TTS timings.
+
+    Each segment dict must have role, topic_key (for section segments),
+    start_seconds, and duration_seconds. Section segments become chapters;
+    intro/outro are excluded but their durations are captured implicitly by
+    later sections' start_seconds. Adjacent same-topic segments merge.
+    Returns None if there are no section segments.
+    """
+    section_segments = [
+        s for s in segment_timings or [] if s.get("role") == "section"
+    ]
+    if not section_segments:
+        return None
+
+    grouped: list[dict] = []
+    for seg in section_segments:
+        if grouped and grouped[-1]["topic_key"] == seg.get("topic_key"):
+            grouped[-1]["duration_seconds"] += seg.get("duration_seconds", 0.0)
+        else:
+            grouped.append({
+                "topic_key": seg.get("topic_key"),
+                "start_seconds": seg.get("start_seconds", 0.0),
+                "duration_seconds": seg.get("duration_seconds", 0.0),
+            })
+
+    chapters: list[dict] = []
+    for i, seg in enumerate(grouped):
+        topic_key = seg["topic_key"]
+        category = TOPIC_TO_CATEGORY.get(topic_key, "Global")
+        chapters.append({
+            "id": f"c{i + 1}",
+            "title": _SECTION_TITLE_BY_TOPIC.get(topic_key, category),
+            "category": category,
+            "duration": _format_mmss(int(round(seg["duration_seconds"]))),
+            "startSeconds": int(round(seg["start_seconds"])),
+        })
+    return chapters
+
+
 def _build_chapters_fallback(sections: list[dict], total_seconds: int) -> list[dict]:
     """Used only when audio_script lacks markers. Falls back to estimating
     chapter durations from section prose length, in JSON-section order."""
@@ -267,8 +307,18 @@ def build_app_payload(
     audio_url: str,
     audio_path: Path,
     candidates: Optional[list[Article]] = None,
+    segment_timings: Optional[list[dict]] = None,
 ) -> dict:
-    """Build the app-shaped Briefing payload from a pipeline Digest."""
+    """Build the app-shaped Briefing payload from a pipeline Digest.
+
+    `segment_timings`, when provided, is the list returned by
+    `tts.synthesize_segments` — each entry has measured `start_seconds` and
+    `duration_seconds` for one narrated segment. When present, chapters are
+    built from these *measured* timings (sums match total exactly, per-section
+    durations are TTS reality, not character-count estimates). When absent,
+    we fall back to estimating from `audio_script` markers (and finally to
+    JSON-section order if there are no markers).
+    """
     total_seconds = _estimate_audio_seconds(audio_path)
     total_duration = _format_mmss(total_seconds)
 
@@ -289,15 +339,20 @@ def build_app_payload(
             img = image_by_url.get(story.get("url", ""))
             flat_stories.append(_story_to_app(story, topic_key, i, img))
 
-    # Build chapters in actual narration order using the markers Claude
-    # embeds in audio_script. Falls back to a section-content-length
-    # estimate (in JSON-section order) only when markers are absent.
-    chapters = _build_chapters_from_audio(digest.audio_script, total_seconds)
+    # Build chapters. Preference order:
+    # 1. Measured per-segment TTS timings (most accurate — sums to total)
+    # 2. Char-offset estimate from in-script markers (correct order, fuzzy duration)
+    # 3. JSON-section order with content-length weighting (approximate everything)
+    chapters: Optional[list[dict]] = None
+    if segment_timings:
+        chapters = _build_chapters_from_timings(segment_timings)
+    if chapters is None:
+        chapters = _build_chapters_from_audio(digest.audio_script, total_seconds)
     if chapters is None:
         log.warning(
-            "audio_script had no chapter markers; falling back to section-list "
-            "order with content-length-weighted durations. Chapter timing will "
-            "be approximate and may not match narration order."
+            "audio_script had no chapter markers and no measured segment timings; "
+            "falling back to JSON-section order with content-length-weighted "
+            "durations. Chapter timing will be approximate."
         )
         chapters = _build_chapters_fallback(sections, total_seconds)
 
@@ -354,11 +409,18 @@ def write_app_briefing(
     audio_path: Path,
     cfg: Config,
     candidates: Optional[list[Article]] = None,
+    segment_timings: Optional[list[dict]] = None,
 ) -> tuple[Path, Path]:
     """Write today.json (latest) and briefings/<date>.json (archive). Returns
     both paths."""
     payload = build_app_payload(
-        digest, date_label, human_label, audio_url, audio_path, candidates=candidates
+        digest,
+        date_label,
+        human_label,
+        audio_url,
+        audio_path,
+        candidates=candidates,
+        segment_timings=segment_timings,
     )
 
     public = cfg.public_dir
