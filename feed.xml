@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 01 May 2026 18:26:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 11:36:11 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, May 1, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-01.html</link>
-      <description>Today's candidate pool is genuinely thin — a quiet Friday on the feeds — but a few signals are worth your attention. The Fox/Tubi upfront story is a concrete data point about where ad budgets are moving in 2026, directly relevant as you position consulting services around AI-driv...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-01.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-01.mp3" length="4423200" type="audio/mpeg"/>
-      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, May 2, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-02.html</link>
+      <description>Three threads deserve your full attention this Saturday. The Musk-Altman trial is surfacing hard evidence about AI model distillation and the long-term talent pipeline implications of AI displacing entry-level professional work — both directly relevant to your consulting thesis. ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-02.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-02.mp3" length="13786560" type="audio/mpeg"/>
+      <pubDate>Sat, 02 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

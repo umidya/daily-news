@@ -1,100 +1,122 @@
 {
   "schemaVersion": 2,
-  "date": "Friday, May 1, 2026",
-  "dateIso": "2026-05-01",
+  "date": "Saturday, May 2, 2026",
+  "dateIso": "2026-05-02",
   "greeting": "Good morning, Midya",
-  "totalDuration": "6:44",
+  "totalDuration": "11:29",
   "currentTime": "0:00",
-  "remaining": "6 min total",
+  "remaining": "11 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today's digest has two threads worth treating as urgent. First, the international student funding crisis is hitting Canadian colleges hard — Cambrian's projected $1.7M deficit and 2,000-student loss is a preview of what's coming at institutions across the country, and that financial pain creates real openings for a consulting practice that can help universities rethink enrolment and brand strategy. Second, the Kamloops mayor's financial and legal troubles are escalating quickly — a Scotiabank lawsuit over $103K in credit card debt and a separate unpaid legal bills hearing in the same week is a local governance story worth monitoring, especially given community ties.",
-  "digestReadingTime": "6 min read",
-  "whyItMatters": "Today's digest has two threads worth treating as urgent. First, the international student funding crisis is hitting Canadian colleges hard — Cambrian's projected $1.7M deficit and 2,000-student loss is a preview of what's coming at institutions across the country, and that financial pain creates real openings for a consulting practice that can help universities rethink enrolment and brand strategy. Second, the Kamloops mayor's financial and legal troubles are escalating quickly — a Scotiabank lawsuit over $103K in credit card debt and a separate unpaid legal bills hearing in the same week is a local governance story worth monitoring, especially given community ties. On the health side, The Lancet's randomised trial on semaglutide for alcohol use disorder is the kind of credible, practice-changing finding worth flagging to family; and the breast cancer ovarian suppression meta-analysis of 15,000 women is landmark-level women's health evidence.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-01.mp3",
-  "audioDurationSeconds": 404,
-  "audioScript": "Good morning, Midya. It's Friday, May 1st, 2026. Here's what matters today.\n\nLet's start with something that sits right at the intersection of your consulting practice and the higher education world you're targeting. Cambrian College in Ontario is projecting a $1.7 million deficit after expecting to lose two thousand international students. Two thousand. That's not a rounding error — that's an existential number for a mid-sized college. And Cambrian is not alone. The federal international student caps are now producing real financial damage across the sector, and institutions that haven't done the hard work of repositioning their brand, rethinking their enrolment value proposition, and figuring out how to compete for a much smaller global pool are about to find themselves in serious trouble. That is a wide-open door for the kind of consulting work you're building. Any college in a deficit position like this is actively looking for outside expertise — and a senior marketing executive who speaks AI, brand strategy, and higher ed fluently is exactly the profile they need.\n\nRelated to this: there's a sobering first-person piece in Inside Higher Ed today, written by an international student adviser who is essentially telling her students to watch what they say online and on campus. The self-censorship is real, and it's creating pastoral and reputational challenges for institutions that depend on international student trust. When you're talking to Canadian universities about marketing and brand strategy, this is the lived reality on the ground — the gap between how institutions brand themselves and how international students are actually experiencing campus life.\n\nAnd one more piece for the higher-ed picture: Australia's Q1 visa data shows nearly half of South Asian applicants — specifically from India and Nepal — are being refused study visas. Chinese and Southeast Asian outcomes are holding steady. This is significant competitive intelligence. Some of that redirected demand can flow to Canada, but only if Canadian institutions are actively and credibly in the market. If your potential clients aren't thinking about their positioning in India and Nepal right now, they should be.\n\nNow to your own backyard. There are two legal stories involving the Kamloops mayor in the same week, and together they paint a serious picture. Scotiabank has filed a lawsuit against Mayor Reid Hamer-Jackson over $103,000 in unpaid business credit card debt. That's on top of a separate court hearing this week with a former lawyer over unpaid legal bills. This is an escalating local governance story worth watching — both because you live there and because community stability matters.\n\nOn the commute: Kamloops gas prices are approaching two dollars a litre. If you're doing the Kamloops-to-Sun Peaks run regularly, factor that in.\n\nOn the AI front, two stories worth your attention. Microsoft has launched a Legal Agent inside Word — designed specifically for legal teams, handling contract review, negotiation history, and document edits through structured legal workflows rather than general AI prompting. This is the pattern you'll want to keep tracking: AI agents moving from general-purpose assistants into specialised, workflow-embedded tools for professional services. The same architecture is coming for marketing and consulting — dedicated agents that follow real practice workflows, not just chat interfaces. When you're advising clients on AI in marketing, this shift from general to specialised agents is the frame to use.\n\nAnd a significant science policy development: the Trump administration fired all 22 members of the National Science Foundation board last week. The NSF manages about nine billion dollars in research funding. For Canadian universities that are already benefiting from American researcher brain-drain, this is another signal to lean into. If you're working with a Canadian university on their brand or recruitment positioning, the argument that Canada is a stable, well-funded environment for research is more compelling than ever.\n\nOn the economy, Bank of Canada Governor Tiff Macklem offered cautious encouragement about Ottawa's efforts to diversify the economy away from US trade dependency. No dramatic news here, but it's useful context — stable monetary policy signals matter if you're watching the housing market or planning business investments.\n\nNow to The Lancet, which published three pieces this week worth pulling out of the noise. The first is a randomised, double-blind placebo-controlled trial — the gold standard — on weekly semaglutide for alcohol use disorder. The results were robust: semaglutide significantly reduced alcohol consumption in participants who had both obesity and alcohol use disorder. This is the strongest clinical trial evidence yet that GLP-1 drugs like Ozempic and Wegovy may do far more than manage weight — they appear to reduce addictive behaviours. That's a meaningful finding worth knowing about.\n\nSecond, a patient-level meta-analysis across 23 trials and fifteen thousand women confirms that ovarian function suppression — for premenopausal women with ER-positive early breast cancer — significantly reduces the 15-year risk of recurrence and death, even when chemotherapy or tamoxifen are already being used. This is landmark-level evidence for women's health. If you or anyone in your family is navigating this kind of diagnosis, this finding changes the treatment conversation.\n\nThird, The Lancet's editorial backing the UK's generational tobacco ban — legislation that would prevent anyone born after 2008 from ever legally buying cigarettes — is a notable public health moment. It's facing political pushback, but as an editorial, The Lancet is firmly in the 'this is worth protecting' camp.\n\nFor marketing, a lighter but useful story: the Asian American Advertising Federation released its 2026 Impact 50 list, honouring Coca-Cola, McDonald's, Disney, and others for meaningful engagement with Asian American consumers. For anyone building multicultural marketing frameworks — and Canada's demographics make this increasingly relevant — it's a useful benchmarking reference.\n\nThat's your Friday, Midya. The big threads: the international student funding crisis is creating real client openings right now, semaglutide just got a lot more interesting, and your mayor is having a very bad week. Have a good one.",
+  "digestIntro": "Three threads deserve your full attention this Saturday. The Musk-Altman trial is surfacing hard evidence about AI model distillation and the long-term talent pipeline implications of AI displacing entry-level professional work — both directly relevant to your consulting thesis. On the higher-ed front, study permit politics and a new IRCC out-of-status pathway are reshaping the enrolment landscape Canadian universities are desperately trying to navigate, which is your opening.",
+  "digestReadingTime": "7 min read",
+  "whyItMatters": "Three threads deserve your full attention this Saturday. The Musk-Altman trial is surfacing hard evidence about AI model distillation and the long-term talent pipeline implications of AI displacing entry-level professional work — both directly relevant to your consulting thesis. On the higher-ed front, study permit politics and a new IRCC out-of-status pathway are reshaping the enrolment landscape Canadian universities are desperately trying to navigate, which is your opening. And Canada's trade diversification push — forestry, CUSMA, Mercosur — is the macro backdrop for every BC-based client conversation you'll have this year.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-02.mp3",
+  "audioDurationSeconds": 689,
+  "audioScript": "Good morning, Midya. It's Saturday, May second, twenty twenty-six. The Musk-Altman trial dropped some genuinely consequential AI revelations this week, Canadian higher-ed policy is shifting again, and there's a local story at TRU you'll want to know about. Let's get into it.\n\nLet's start with AI, because this week's Musk versus Altman trial produced something more substantive than legal drama. Elon Musk took the stand, claimed Sam Altman and Greg Brockman deceived him into bankrolling the early days of OpenAI, and — here's the part that matters technically — he admitted under oath that his own company, xAI, has been distilling OpenAI's models. Distillation, for context, is the process of training a new, often smaller AI model using outputs from a more powerful one. It's a widespread practice in the industry, but admitting to it in court while simultaneously suing OpenAI for breach of fiduciary duty is... legally and strategically extraordinary. MIT Technology Review calls it explosive, and they're not wrong. The IP implications alone could reshape how AI companies are allowed to build on top of each other's work. For you, as someone positioning yourself as an AI strategy advisor, this trial is one to follow closely — not because you need to track every deposition, but because its outcome will set guardrails around how enterprise AI tools are built, licensed, and represented to clients. The next time a university or brand asks you whether they can freely use outputs from one AI tool to train another, the answer may depend in part on what this court decides.\n\nThe second AI story that deserves your attention is less dramatic but probably more immediately relevant to your practice. Axios is reporting that AI is systematically eliminating the entry-level associate work at elite law firms — the junior grind of document review, contract drafting, legal research — that has historically been how the profession trains its next generation. The piece argues this creates a structural talent crisis: if the apprenticeship rung disappears, the pipeline to senior partnership breaks. Now, law is not marketing or consulting, but the structural dynamic is identical. The entry-level work that trains junior marketers — campaign reporting, brief writing, basic copy, social scheduling — is exactly what AI is automating first. If you're advising a university marketing department or a brand building out a consulting team, this is the question you need to be raising: not just how AI saves cost today, but what happens to your talent bench in five years when there's no one who learned by doing the fundamentals. That's a genuine strategic conversation, not a vendor pitch, and it's the kind of insight that distinguishes a real advisor from someone just reselling tools.\n\nOn the product side, SAP and Google Cloud announced a joint multi-agent AI platform specifically for marketing campaign execution. The significance here is the phrase multi-agent — meaning multiple AI models working in sequence or in parallel to handle different stages of a campaign without human handoffs. This is the direction enterprise martech is heading, and it's moving faster than most marketing leaders are prepared for. When you're talking to CMOs or university marketing directors, the honest framing is this: the question is no longer whether AI will be in your marketing stack, it's whether you'll be the one who designed the architecture or the one who inherited someone else's.\n\nMoving to higher education, and there's a lot here that directly feeds your consulting pipeline. Start with the study permit story from the University of Alberta's student paper, The Gateway. The piece makes a pointed argument: Canada's international student permit caps, which have genuinely hammered university enrolment and revenue over the past eighteen months, were driven primarily by political optics — the government responding to public anxiety about housing and population growth — rather than by any evidence-based policy analysis about what level of international enrolment is actually sustainable or beneficial. If that argument holds, it means the policy overcorrected, and institutions are now left managing damage that didn't need to be this severe. For you, this is a conversation-starter. Any Canadian university administrator you talk to is living with the budget consequences of these cuts right now. Walking in with a clear-eyed analysis of what happened, why it happened, and what a smarter international student marketing and positioning strategy looks like in the post-cap environment — that's a genuine value proposition.\n\nOn a related note, IRCC has quietly expanded options for out-of-status international students and workers under new rules. The details in the snippet are thin, but the direction matters: the government is creating more regularisation pathways, which could allow some students who fell out of status under the chaotic permit environment to re-enter legitimate channels. Universities with significant international populations should be aware of this as they counsel current and prospective students. If you have any contacts in student services or international offices at Canadian institutions, this is worth flagging to them — it's the kind of timely, practical update that builds your credibility as someone who tracks this space seriously.\n\nOn philanthropy: the McKenna family is donating twenty million dollars in scholarships to St. Francis Xavier University in Nova Scotia. Twenty million is a transformational gift for a mid-sized institution like StFX, and it will almost certainly trigger a renewed emphasis on donor engagement strategy, scholarship marketing, and institutional brand positioning. Gifts of this scale tend to arrive with expectations — of visibility, of recognition programs, of a story the institution can tell publicly about its mission and impact. If you're ever in a conversation with StFX or similar institutions in Atlantic Canada, this gift is an opening: what's their donor communications strategy? How are they marketing the scholarship to prospective students? Those are consulting questions.\n\nAnd right here in your own backyard: Thompson Rivers University published the third installment in its public series on AI and robotics — specifically about what they're calling institutional augmentation, meaning how the university itself is being restructured around AI capabilities. This is a big deal. TRU is not just talking about AI in classrooms; they are publicly narrating their own transformation, which means there are people inside that institution actively thinking about AI strategy, change management, and how to communicate it. That is precisely the intersection of your expertise. You know AI in marketing and brand strategy. TRU is a Kamloops institution you have natural geographic proximity to. The fact that they're publishing a multi-part series on this topic suggests there's real internal momentum — and potentially budget — behind it. If you haven't already reached out to someone in TRU's marketing or strategy office, this series is your pretext.\n\nA couple of genuinely local items from Kamloops. The city held a public hearing on shelter infrastructure — housing for vulnerable residents — and attendees are reporting that procedural dysfunction overshadowed the actual policy debate. This is a pattern in Kamloops civic politics that's worth tracking if you're paying attention to the city's trajectory, particularly as it relates to downtown revitalisation and liveability, which affect property values and quality of life for anyone with family or property there.\n\nOn the forestry front, BC's forests minister is signalling that federal aid may need to be scaled up if US trade talks — specifically around softwood lumber in CUSMA renegotiations — break down. The Interior BC economy, including the Kamloops region, is heavily tied to forestry. If those trade negotiations go sideways, you're looking at layoffs, reduced municipal tax bases, and downstream effects on everything from local real estate to university enrolment in the region. Something to keep an eye on as the summer progresses.\n\nTwo global stories worth your attention this morning. First, the Gulf region is fracturing in ways that put trillions of dollars of investment — including AI infrastructure and tech investment — at risk. The UAE is leaving OPEC. The Saudi-UAE relationship has deteriorated sharply. And the massive investment pledges Trump secured on his Gulf tour last year, which were supposed to fund an American AI and economic golden age, are now described as being in limbo. For anyone tracking where AI infrastructure capital is flowing, this is significant. A lot of the compute buildout and AI investment pipelines that analysts have been projecting assumed stable Gulf sovereign wealth fund participation. That assumption is now shakier.\n\nSecond: Spirit Airlines is gone. The carrier announced early this morning that it's immediately winding down all operations — no warning, no transition period, just cancellations. This is the first major US airline to collapse in decades. For travellers, it's a practical problem if you or anyone you know had Spirit bookings. For business watchers, it's a signal about the structural unsustainability of the pure ultra-low-cost model in an era of persistent fuel and labour cost pressure. Budget travel options from secondary Canadian airports that routed through Spirit hub cities will need to be reconsidered.\n\nQuickly on marketing strategy: two Adweek pieces worth reading together. The first argues that effective CEOs today need to lead as marketers first — that brand identity is the foundation from which strategy, culture, and operations flow, not a downstream consideration. This is a useful frame when you're making the case to a university president or a VP of strategy that investing in brand is not a communications line item, it's a leadership function. The second piece, on creator-led campaigns, makes the point that authenticity in influencer and creator work is built in the briefing and relationship stage — before any content is produced. Brands that get this right are treating creators as strategic partners, not as distribution channels. That shift has real implications for how universities should approach their student ambassador and alumni storytelling programs, which are often managed as tactical social media exercises when they should be strategic brand assets.\n\nThat's your Saturday briefing, Midya. The TRU AI series is the most actionable item here — if there's an opening to connect with someone in their institutional strategy or marketing leadership, this weekend's publication gives you a natural reason to reach out. And as the Musk-Altman trial continues next week, keep watching: whatever comes out about AI model distillation and IP ownership will filter into every enterprise AI conversation you have with clients over the next year. Have a good weekend — you've got a lot of useful material to work with.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Microsoft Launches Legal AI Agent Inside Word for Contract Review",
-      "summary": "Microsoft's new Legal Agent in Word handles contract edits, negotiation history, and complex documents using structured legal workflows rather than general AI prompting — a meaningful step toward replacing paralegal-tier work and a signal of how AI agents are moving into white-collar professional services.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+      "headline": "Musk v. Altman Week 1: Elon Says He Was Duped, Admits xAI Distills OpenAI Models",
+      "summary": "In trial testimony, Musk claimed Altman deceived him into funding OpenAI, warned AI could destroy humanity, and admitted xAI has been distilling OpenAI's models — a legally and technically explosive revelation that could reshape AI IP law.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832913/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26118555311492.jpg?resize=1200,600"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Trump Administration Fires All 22 Members of the National Science Foundation Board",
-      "summary": "The NSF board — 22 prominent scientists overseeing ~$9B in research funding — was abruptly dismissed, dealing another blow to US research infrastructure and likely accelerating the brain-drain opportunity for Canadian universities actively recruiting American researchers.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+      "headline": "AI Is Gutting Big Law's Training Pipeline — and the Talent Crisis Is Just Beginning",
+      "summary": "AI is eliminating junior associate work at elite law firms, erasing the apprenticeship rung that produces senior lawyers — a structural talent crisis that mirrors what's coming for marketing, consulting, and every knowledge profession.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/02/ai-lawyers-law-firms-artificial-intelligence",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/04/nsf-funding2.jpg?resize=1200,600"
+      "imageUrl": "https://images.axios.com/GsqEmVw-KnYyvBqy2_9rvsO6AeQ=/128x128/smart/2026/04/09/1775710259100.jpg"
     },
     {
-      "id": "story-marketing-0",
-      "category": "Marketing",
-      "headline": "3AF's 2026 Impact 50 Honours Coca-Cola, McDonald's, Disney for Asian American Market Engagement",
-      "summary": "The Asian American Advertising Federation's annual list spotlights brands investing meaningfully in the fastest-growing US consumer segment — a useful benchmarking reference for multicultural marketing strategy, relevant as Canadian brands face similar demographic shifts.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/creativity/3af-honors-coca-cola-mcdonalds-disney-and-more-for-impact-on-asian-american-market/",
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "SAP and Google Cloud Launch Multi-Agent AI for Marketing Campaigns",
+      "summary": "SAP and Google Cloud's new multi-agent AI platform automates end-to-end marketing campaign execution, signalling that enterprise martech is moving from AI-assisted to AI-orchestrated workflows.",
+      "source": "Google News: marketing strategy AI",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW51NEN4bHh6cFdCa2dxT2tib1YxOHU4dVVYblJyRVFSeGROd0VIWU1YWGZsUkxVQldRTlRTRTd0dXZRUkNFbTdtTndhNVA1azc4Znp2bnU5d0U3aEZxZnJwZFVvQTNlcjZzbzBiMjFOZVVFSFprM1prMi1rcFJFZGVZNHV4eEJ6RmxZWDNwQTQwQjc3MmRWSktOMFh6ck9CLWU2Qw?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/3AFImpact50.jpg?w=600&h=315&crop=1"
+      "thumbnailKind": "chip"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Microsoft Launches Legal AI Agent Inside Word for Contract Review",
-      "summary": "Microsoft's new Legal Agent in Word handles contract edits, negotiation history, and complex documents using structured legal workflows rather than general AI prompting — a meaningful step toward replacing paralegal-tier work and a signal of how AI agents are moving into white-collar professional services.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+      "headline": "Musk v. Altman Week 1: Elon Says He Was Duped, Admits xAI Distills OpenAI Models",
+      "summary": "In trial testimony, Musk claimed Altman deceived him into funding OpenAI, warned AI could destroy humanity, and admitted xAI has been distilling OpenAI's models — a legally and technically explosive revelation that could reshape AI IP law.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832913/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26118555311492.jpg?resize=1200,600"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Trump Administration Fires All 22 Members of the National Science Foundation Board",
-      "summary": "The NSF board — 22 prominent scientists overseeing ~$9B in research funding — was abruptly dismissed, dealing another blow to US research infrastructure and likely accelerating the brain-drain opportunity for Canadian universities actively recruiting American researchers.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+      "headline": "AI Is Gutting Big Law's Training Pipeline — and the Talent Crisis Is Just Beginning",
+      "summary": "AI is eliminating junior associate work at elite law firms, erasing the apprenticeship rung that produces senior lawyers — a structural talent crisis that mirrors what's coming for marketing, consulting, and every knowledge profession.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/02/ai-lawyers-law-firms-artificial-intelligence",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/04/nsf-funding2.jpg?resize=1200,600"
+      "imageUrl": "https://images.axios.com/GsqEmVw-KnYyvBqy2_9rvsO6AeQ=/128x128/smart/2026/04/09/1775710259100.jpg"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "SAP and Google Cloud Launch Multi-Agent AI for Marketing Campaigns",
+      "summary": "SAP and Google Cloud's new multi-agent AI platform automates end-to-end marketing campaign execution, signalling that enterprise martech is moving from AI-assisted to AI-orchestrated workflows.",
+      "source": "Google News: marketing strategy AI",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW51NEN4bHh6cFdCa2dxT2tib1YxOHU4dVVYblJyRVFSeGROd0VIWU1YWGZsUkxVQldRTlRTRTd0dXZRUkNFbTdtTndhNVA1azc4Znp2bnU5d0U3aEZxZnJwZFVvQTNlcjZzbzBiMjFOZVVFSFprM1prMi1rcFJFZGVZNHV4eEJ6RmxZWDNwQTQwQjc3MmRWSktOMFh6ck9CLWU2Qw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "3AF's 2026 Impact 50 Honours Coca-Cola, McDonald's, Disney for Asian American Market Engagement",
-      "summary": "The Asian American Advertising Federation's annual list spotlights brands investing meaningfully in the fastest-growing US consumer segment — a useful benchmarking reference for multicultural marketing strategy, relevant as Canadian brands face similar demographic shifts.",
+      "headline": "The Marketing CEO: Why Leadership Now Starts With Brand Identity",
+      "summary": "Adweek argues today's effective CEOs must lead as marketers first — defining and owning brand identity before strategy, culture, or ops — a frame directly useful when pitching university presidents on consulting engagements.",
       "source": "Adweek",
-      "url": "https://www.adweek.com/creativity/3af-honors-coca-cola-mcdonalds-disney-and-more-for-impact-on-asian-american-market/",
+      "url": "https://www.adweek.com/brand-marketing/the-marketing-ceo-why-leadership-now-starts-with-knowing-your-brand-identity/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/3AFImpact50.jpg?w=600&h=315&crop=1"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2025/10/adspeak-article-image-1.webp?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "For Creator-Led Campaigns, Authenticity Starts Before the Shoot",
+      "summary": "Brands and agencies are learning that creator authenticity is built in the briefing room, not on set — a strategic shift with real implications for how consulting clients should structure influencer and content programs.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/creativity/for-creator-led-campaigns-authenticity-starts-before-the-shoot/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/04/AWHPossible-Collectively-panel-group.jpg?w=600&h=315&crop=1"
     },
     {
       "id": "story-intl_students_canada-0",
       "category": "Higher Ed",
-      "headline": "Cambrian College Projects $1.7M Deficit as It Expects to Lose 2,000 International Students",
-      "summary": "The Ontario college's enrolment collapse illustrates the sector-wide financial crisis triggered by federal international student caps — institutions now facing deficits of this scale will need urgent communications, enrolment strategy, and brand repositioning support. Potential client signal: any college in this position is actively looking for outside expertise.",
+      "headline": "Study Permits Cut: Politics Over Policy? Universities Bear the Consequences",
+      "summary": "The University of Alberta's Gateway argues Canada's international study permit caps were driven by political optics rather than evidence-based policy, with enrolment and revenue damage falling disproportionately on universities — a client-signal conversation starter for any institution rethinking its international student strategy.",
       "source": "Google News: Canada international students",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlFEdEp5LTNhc0Fubk9VNkpuWGtObHVqS2p6VE9OM1QwdFBDNmdqSF9mdGlZY1NPeXpoQWo0NmhVLWhZbUJrZUNhM3ZrR3Qzcy1VajNlSVMzYUU0NmhTTWU5WGg0Y2xGUy1PNVU0OFFnZWJJY2tVUEgxazJnVzRBaURUd3EwbGt6RUJTaV90dnpESmpTU3lYNHZ4SkpWb0dycFdmX3NEaEJfM1Z6VU9jOUpFU1hVaVVUVVpSZnFBcW5hZG1VTHAwZElJZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVZCRUNXTzVLcm9WckRCVURSSENEM3JNaDdQZXJqRENyaUpSUEswRDBWUGUxMFB5ZmNkYzRvM1JPdThWbVNWSWdDZHJBSl9HZ3VBSHdvR0pueFBONkRIcG02MXJObTJpYUJSa29kWFR0T01IdmU1bnVzOHNoamoxbA?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
@@ -102,34 +124,43 @@
     {
       "id": "story-intl_students_canada-1",
       "category": "Higher Ed",
-      "headline": "Being an International Student Adviser Right Now Means Telling Students to Watch What They Say",
-      "summary": "A ground-level account of how advisers are navigating a climate where international students are self-censoring online and on campus — a useful lens on the reputational and pastoral challenges Canadian institutions must address as they compete for a shrinking global pool.",
-      "source": "Inside Higher Ed",
-      "url": "https://www.insidehighered.com/opinion/views/2026/05/01/tensions-being-international-student-adviser-opinion",
+      "headline": "Out-of-Status Workers and Students Gain New Options Under Revised IRCC Rules",
+      "summary": "New IRCC pathways give out-of-status international students additional regularisation options, which could modestly offset enrolment attrition at Canadian institutions struggling with the permit cap fallout.",
+      "source": "Google News: Canada international students",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVTVuZHhJLVVaR190ODhZOU9BS3hmN01wZWRlRl9TUG9ValNaSGctN1ByOGVqVmZlU05MeFRuWjJkeWd3aXBuS0g0UU1hbU1SUmVmXzJhZDd4UU5yZW83UXBnLUdVYjJWbWtCd2dEZ3hvaHI2TU5LTXNxNjJrazRYV3JmQ1RfSlFVRzg5dEVpTlNveEJOZ29oRFVQcDJEQ0tPanRWZWF1VmRWWTJNazNkbWpXUkJxaG5GYnfSAb8BQVVfeXFMTkI0cHM4cEtaMnB0a1lEVW9LejY4ZlJoUGRYRXlmZ1Zta2lVZHJmdkpBd21hMFRGSWJ4VlZDaTV6MDF3VjZ2TXp3S2FtUkZJdklPbWF1RzBDYnpXVlRBX0RvendVWTYwVk5WOUo4ei1waWdQNVFwMVFxRDFjMmxtcTRZekh2VmJ6WjhpSWJCRG45TGhPTnNncW04aFM1bDVMYy1PUVNwQXVjZzBkZU5ncDh0U0hZRm9yOHNhNm5kdUk?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-04/GettyImages-1371842208.jpg?itok=GckWrOE2"
+      "thumbnailKind": "university"
     },
     {
       "id": "story-intl_students_canada-2",
       "category": "Higher Ed",
-      "headline": "Nearly Half of South Asian Applicants Being Refused Australian Study Visas",
-      "summary": "Australia's Q1 2026 data shows visa refusal rates spiking for Indian and Nepali applicants while Chinese and Southeast Asian outcomes hold steady — competitive intelligence for Canadian institutions, as redirected South Asian demand could still flow northward if Canada's messaging is right.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/nearly-half-of-south-asian-applicants-refused-australian-study-visas/",
+      "headline": "McKenna Family Donates $20 Million in Scholarships to St. Francis Xavier University",
+      "summary": "A $20M scholarship gift to StFX signals that major private philanthropy is still flowing into Canadian universities — a potential conversation opener about donor engagement and brand positioning strategy for institutions courting similar gifts.",
+      "source": "Google News: Canadian universities",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1JlVWV3eHVCU2tXbUphOHI2S0JOV182S0lRMjA2TW9LSi01R1dmZ0ZxYk5ta2JUdVMyc3JhWi0yOUxSeDNXMkM4RkhkOHFNdy1ZTUpBVVlCczVrSzJwOVZoUkJ5RHUxN1diYzBsRmxTSGc2eDRlTHdhRDNMUVh4d3ltSGg5enVEZGM1Tnk1aFVGSDREa1FodE9ReUV6V1d3clpCNFlxYzZvd21VMl9WZ2tmeTN1TS1WRWc?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2025/07/iStock-2190487769.jpg"
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-3",
+      "category": "Higher Ed",
+      "headline": "AI and Robotics at TRU: Institutional Augmentation — Part 3",
+      "summary": "Thompson Rivers University continues its public series on how it is integrating AI and robotics institutionally — a direct signal that TRU is actively building an AI strategy narrative and may be receptive to external consulting expertise.",
+      "source": "Google News: Thompson Rivers University",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPODRCR3hJcUF3YzU4UGlVZmtSYjdPdHo5NmpESmFFd0ZNUkVTY0ZIRE83Ni1BOGQtd2NLRnlwS3lCY3N1UkxRbm1DczRJaVVPQzMzR0NrRG5GeS1JVkJNRm40eXRVMk9CTC1oWkhoWWhlSjBkeF9YejVCU1FDRS1qdkQ5a0xXWTFENXlOVENuc0paa08t?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
     },
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "Scotiabank Sues Kamloops Mayor Over $103K Business Credit Card Debt",
-      "summary": "Scotiabank has filed a lawsuit against Kamloops Mayor Reid Hamer-Jackson over $103,000 in unpaid business credit card debt, compounding a separate court hearing this week over unpaid legal bills — a significant and rapidly developing local governance story.",
+      "headline": "City of Kamloops Shelter Hearing Marred by Dysfunction, Attendees Say",
+      "summary": "A Kamloops public hearing on shelter infrastructure reportedly descended into procedural dysfunction, overshadowing substantive debate about social housing needs in the city.",
       "source": "Google News: Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb1VNaF90dWRYbmVKM0xUV0FrcmxGUVV1X3RDdXVaN3ZCQnRpNk94dTl5WkZqMGo4NmZ3SzRTS2YxRHB2aTlsbkxTSFFOd19PdzZxUUlyUWY4dkF0aGxmUko5VzRoUWpaOG5LY0JCMS1DOFYwSUM2T0RDMy1vT2MtWXRNdWliVzN2MC16QnI5QnFaaUxEemxnREJZQU1uaUZhUjlkR1pZRVYwSkFabmdaM1ZrWkVBVGQ5M3RGNHRHT2ladHJrUU15QnJvajdVcl9CeFFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd1ZwYXF6WlN0UmZNSDlZRnRQRWJKWUVmMUJ0a2ZVcnZvM1ZyWjhCQTE4cGljVVFZTE1EdzNUNjRkTmdoMzkzZHZMeHVpUEtLTldJWjNaM1R2eDJkZ2RwVHl2b1owTHdRUEZ0QjFpUWNfamN3VEhWeFBLaTdlbnVnSldmNm5HOE50eklhS1B3emU2Y0c4a0UxTFlYb0s0Y3JYRE1hXzlrQllzSVdrcjBTNUZrcGVIR0hiTUtQRElpbXV1Umt5YjhIZmJIeXg?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -137,10 +168,10 @@
     {
       "id": "story-kamloops_sun_peaks-1",
       "category": "Local News",
-      "headline": "Kamloops Gas Prices Approaching $2 Per Litre",
-      "summary": "Local fuel prices are nearing the $2/litre threshold, directly relevant for anyone commuting between Kamloops and Sun Peaks regularly.",
+      "headline": "BC Forestry Minister Says Federal Aid May Be Needed If US Trade Talks Collapse",
+      "summary": "BC's forests minister is warning that the province's forestry sector — concentrated in regions like Kamloops — will need enhanced federal support if CUSMA renegotiations fail to protect softwood lumber.",
       "source": "Google News: Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0dxRk9kM3IzM2FVQ0tLbmg4MjRRQko5VlNrT1ZxTXJKVUkzakFkaHBPbEJpcy1lUmxHYU84ZjNDT19zVlhGanJPWXlLT1NPaHNKYUtGWWVWQ1NYV1N4YkNMRGFkVENHakxHLTJyWTdNOG13TlN2MkVWcUNzMEFWVy1qbkhXRm9LUFk1VEpLVXVlbklUZFdtTVJyUW01QlFQUlZtdkVjanRfaGpwUGlqTElxSFFndUZmYTRFRjE2RTN3anNlSmZGNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzlXMk8yN3pxTUlTYzFkWmMzdDBtMmxtTTdxWENkOEVTVjRoTklaYWctV1VkSm5IUG15aGQ3M1FNUHM0eWkzQ24yWWJHb3FOdUkxRjlZNDF3aE1KWkhxcVI3bi1WbGJRczh1aV94eGVOeV90TDZsWkV2c09nUXVYR2REaXBzTVZ0UXcyYUtqWW9DVkhUY2tJTWNqTGQ1c1ktUEFhQzlTaGJzQmxvOXQzeGJValJ1ZXFXalBKVHhrNUpLRTF4Y3lvY2t5TUY0NndrM3Bhbmpn?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -148,47 +179,38 @@
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Bank of Canada Governor 'Encouraged' by Ottawa's Push to Diversify Economy Away from US Trade",
-      "summary": "Tiff Macklem signalled cautious optimism about federal diversification efforts as a buffer against US tariff exposure — relevant backdrop for any Canadian business strategy or consulting work tied to economic uncertainty.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/05/01/bank-of-canada-head-encouraged-by-ottawas-efforts-to-diversify-economy/",
+      "headline": "The Gulf Fractures: UAE Exits OPEC, Saudi-UAE Rift Deepens, Trump's Investment Pledges in Limbo",
+      "summary": "One year after Trump's Gulf tour secured trillions in investment pledges, the region is fracturing — UAE leaving OPEC, Saudi-UAE tensions escalating, and the AI-and-tourism-powered post-oil future those pledges were meant to fund now in serious doubt.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/02/gulf-countries-saudi-uae-investments-war",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Feef99ed8-f0e0-4f40-bbe5-e9d81f71efdf%2Fe03687613e8cad728e187405bb11b2497411f0aefc3a5b26032b1ffe804ae977.jpg"
+      "imageUrl": "https://images.axios.com/vLgOW6_S-7LOCh4GRFM9sin1Adc=/729x0:1809x1080/320x320/2026/04/30/1777585336396.jpeg"
     },
     {
-      "id": "story-longevity-0",
-      "category": "Longevity",
-      "headline": "Lancet RCT: Weekly Semaglutide Significantly Reduces Alcohol Consumption in Patients with Alcohol Use Disorder",
-      "summary": "The Lancet randomised controlled trial found semaglutide (Ozempic/Wegovy) produced robust reductions in alcohol use among participants with obesity and alcohol use disorder — the strongest clinical evidence yet that GLP-1s may treat addiction, not just weight.",
-      "source": "The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00305-3/fulltext?rss=yes",
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Spirit Airlines Shuts Down Immediately After Rescue Talks and Bailout Bid Collapse",
+      "summary": "Spirit Airlines is winding down all operations immediately after a $500M Trump administration bailout failed to materialise — the first major US airline to collapse in decades, stranding tens of thousands of passengers.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/02/spirit-airlines-shutdown",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "leaf"
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/poXMc5OyAe3lvJQTdJ1kc0GjwK0=/309x0:2977x2668/320x320/2026/05/02/1777687593335.jpeg"
     },
     {
-      "id": "story-longevity-1",
-      "category": "Longevity",
-      "headline": "Lancet Meta-Analysis of 15,000 Women: Ovarian Suppression Cuts 15-Year Breast Cancer Recurrence Risk Even After Chemo or Tamoxifen",
-      "summary": "The Lancet patient-level meta-analysis across 23 trials confirms ovarian function suppression meaningfully reduces long-term recurrence and death in premenopausal ER-positive breast cancer patients — landmark evidence that should factor into any premenopausal woman's treatment conversation.",
-      "source": "The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00313-2/fulltext?rss=yes",
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Canada Pursuing Three Major Trade Deals by Year-End: Mercosur, Indo-Pacific, and One More",
+      "summary": "Canada's trade minister says the government aims to close deals with Mercosur and two other major blocs before 2026 ends — a significant diversification push as CUSMA uncertainty continues to pressure BC export industries.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/05/02/canada-looking-to-wrap-a-trio-of-trade-deals-this-year-minister/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "leaf"
-    },
-    {
-      "id": "story-longevity-2",
-      "category": "Longevity",
-      "headline": "The Lancet Editorial: UK's Generational Tobacco Ban Nears Royal Assent — Public Health Gains vs. Political Risk",
-      "summary": "The Lancet editorial supports the UK's landmark legislation banning cigarette sales to anyone born after 2008, calling it a generational public health gain even as political opposition threatens future repeal.",
-      "source": "The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00854-8/fulltext?rss=yes",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "leaf"
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F9dc9cfcc-5a84-4ef6-bb5c-88bcce72a1c7%2Fb7302de9efd79c5d1876e53bcc24f5dde89bf2cb81f90f08ce390d31766d849f.jpg"
     }
   ],
   "audioChapters": [
@@ -196,68 +218,61 @@
       "id": "c1",
       "title": "AI & Tech",
       "category": "AI & Tech",
-      "duration": "1:07",
-      "startSeconds": 0
+      "duration": "3:20",
+      "startSeconds": 17
     },
     {
       "id": "c2",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "0:33",
-      "startSeconds": 67
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "3:48",
+      "startSeconds": 217
     },
     {
       "id": "c3",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "1:41",
-      "startSeconds": 100
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:06",
+      "startSeconds": 445
     },
     {
       "id": "c4",
-      "title": "Local News",
-      "category": "Local News",
-      "duration": "1:07",
-      "startSeconds": 201
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:24",
+      "startSeconds": 510
     },
     {
       "id": "c5",
-      "title": "Global News",
-      "category": "Global",
-      "duration": "0:33",
-      "startSeconds": 268
-    },
-    {
-      "id": "c6",
-      "title": "Longevity",
-      "category": "Longevity",
-      "duration": "1:41",
-      "startSeconds": 301
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:01",
+      "startSeconds": 594
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "Trump Administration Fires All 22 Members of the National Science Foundation Board",
-    "summary": "The NSF board — 22 prominent scientists overseeing ~$9B in research funding — was abruptly dismissed, dealing another blow to US research infrastructure and likely accelerating the brain-drain opportunity for Canadian universities actively recruiting American researchers.",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+    "headline": "AI Is Gutting Big Law's Training Pipeline — and the Talent Crisis Is Just Beginning",
+    "summary": "AI is eliminating junior associate work at elite law firms, erasing the apprenticeship rung that produces senior lawyers — a structural talent crisis that mirrors what's coming for marketing, consulting, and every knowledge profession.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/05/02/ai-lawyers-law-firms-artificial-intelligence",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/04/nsf-funding2.jpg?resize=1200,600"
+    "imageUrl": "https://images.axios.com/GsqEmVw-KnYyvBqy2_9rvsO6AeQ=/128x128/smart/2026/04/09/1775710259100.jpg"
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "Microsoft Launches Legal AI Agent Inside Word for Contract Review",
-    "summary": "Microsoft's new Legal Agent in Word handles contract edits, negotiation history, and complex documents using structured legal workflows rather than general AI prompting — a meaningful step toward replacing paralegal-tier work and a signal of how AI agents are moving into white-collar professional services.",
-    "source": "The Verge AI",
-    "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+    "headline": "Musk v. Altman Week 1: Elon Says He Was Duped, Admits xAI Distills OpenAI Models",
+    "summary": "In trial testimony, Musk claimed Altman deceived him into funding OpenAI, warned AI could destroy humanity, and admitted xAI has been distilling OpenAI's models — a legally and technically explosive revelation that could reshape AI IP law.",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832913/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26118555311492.jpg?resize=1200,600"
   },
-  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832913/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+  "heroImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26118555311492.jpg?resize=1200,600"
 }
