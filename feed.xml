@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 02 May 2026 11:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 11:36:52 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Saturday, May 2, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-02.html</link>
-      <description>Three threads deserve your full attention this Saturday. The Musk-Altman trial is surfacing hard evidence about AI model distillation and the long-term talent pipeline implications of AI displacing entry-level professional work — both directly relevant to your consulting thesis. ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-02.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-02.mp3" length="13786560" type="audio/mpeg"/>
-      <pubDate>Sat, 02 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Sunday, May 3, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-03.html</link>
+      <description>This Sunday is quieter on breaking news, but the threads that matter for your work are real: Canada's tightening visa policy is reshaping international enrolment in ways that open consulting doors at universities now scrambling to rebuild domestic recruitment pipelines — the Univ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-03.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-03.mp3" length="13648800" type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
