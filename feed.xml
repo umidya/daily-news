@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 03 May 2026 11:36:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:37:09 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, May 3, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-03.html</link>
-      <description>This Sunday is quieter on breaking news, but the threads that matter for your work are real: Canada's tightening visa policy is reshaping international enrolment in ways that open consulting doors at universities now scrambling to rebuild domestic recruitment pipelines — the Univ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-03.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-03.mp3" length="13648800" type="audio/mpeg"/>
-      <pubDate>Sun, 03 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, May 4, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-04.html</link>
+      <description>Today's dominant thread is geopolitical risk bleeding into economic reality: the U.S. military's move to force the Strait of Hormuz open is the kind of low-probability, high-consequence event that reshapes energy prices, supply chains, and business sentiment overnight — and Canad...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-04.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-04.mp3" length="17424480" type="audio/mpeg"/>
+      <pubDate>Mon, 04 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
