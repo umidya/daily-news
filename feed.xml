@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 04 May 2026 11:37:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:38:30 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, May 4, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-04.html</link>
-      <description>Today's dominant thread is geopolitical risk bleeding into economic reality: the U.S. military's move to force the Strait of Hormuz open is the kind of low-probability, high-consequence event that reshapes energy prices, supply chains, and business sentiment overnight — and Canad...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-04.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-04.mp3" length="17424480" type="audio/mpeg"/>
-      <pubDate>Mon, 04 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, May 5, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-05.html</link>
+      <description>Two converging signals deserve your attention today, Midya. On AI governance, the Trump White House — ideologically anti-regulation — is now moving to gatekeep the most powerful AI models, while Google DeepMind workers are unionising over military contracts; together these sugges...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-05.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-05.mp3" length="18484800" type="audio/mpeg"/>
+      <pubDate>Tue, 05 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
