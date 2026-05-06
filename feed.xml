@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 05 May 2026 11:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 11:38:01 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, May 5, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-05.html</link>
-      <description>Two converging signals deserve your attention today, Midya. On AI governance, the Trump White House — ideologically anti-regulation — is now moving to gatekeep the most powerful AI models, while Google DeepMind workers are unionising over military contracts; together these sugges...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-05.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-05.mp3" length="18484800" type="audio/mpeg"/>
-      <pubDate>Tue, 05 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, May 6, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-06.html</link>
+      <description>Today's briefing has two dominant threads that touch Midya's work directly. The collapse in Canadian international student enrolment — down 124,000 from the 2023-24 peak — is now backed by Statistics Canada data, and that's not background noise: it's an existential pressure on th...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-06.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-06.mp3" length="16123680" type="audio/mpeg"/>
+      <pubDate>Wed, 06 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
