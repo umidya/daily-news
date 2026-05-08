@@ -1,87 +1,26 @@
 {
   "schemaVersion": 2,
-  "date": "Thursday, May 7, 2026",
-  "dateIso": "2026-05-07",
+  "date": "Friday, May 8, 2026",
+  "dateIso": "2026-05-08",
   "greeting": "Good morning, Midya",
-  "totalDuration": "12:33",
+  "totalDuration": "10:21",
   "currentTime": "0:00",
-  "remaining": "12 min total",
+  "remaining": "10 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today's briefing has two dominant threads that intersect directly with your work, Midya. The AI self-improvement story from Anthropic is not background noise — it's the foundational argument for why every marketing consulting pitch you make needs an AI chapter, and it's accelerating faster than most clients grasp. On the higher-ed front, the compression is intensifying on multiple fronts simultaneously: Ontario's international student numbers, the Atlantic region's structural crisis, and the US tightening its own study visa rules — all of which push displaced students and institutional anxiety toward Canadian consultants who can help universities reposition.",
-  "digestReadingTime": "8 min read",
-  "whyItMatters": "Today's briefing has two dominant threads that intersect directly with your work, Midya. The AI self-improvement story from Anthropic is not background noise — it's the foundational argument for why every marketing consulting pitch you make needs an AI chapter, and it's accelerating faster than most clients grasp. On the higher-ed front, the compression is intensifying on multiple fronts simultaneously: Ontario's international student numbers, the Atlantic region's structural crisis, and the US tightening its own study visa rules — all of which push displaced students and institutional anxiety toward Canadian consultants who can help universities reposition. The Kamloops wildfire preparedness story is worth your direct attention as a family-safety matter heading into fire season. And the housing inertia data out of the US has a Canadian parallel worth tracking as you advise real estate-adjacent clients.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-07.mp3",
-  "audioDurationSeconds": 753,
-  "audioScript": "Good morning, Midya. It's Thursday, May seventh, twenty twenty-six. Two stories are competing to lead today — an Anthropic AI announcement that should change how you talk about artificial intelligence with every client, and a StatCan projection that should have every Canadian university president reaching for the phone. Let's get into it.\n\nStart with Anthropic, because what they published this morning is not a routine product announcement. Jack Clark, Anthropic's co-founder, told Axios that he puts the odds at better than sixty percent that an AI model will fully train its own successor before the end of 2028. That's not science fiction — Anthropic says they're already seeing early evidence of AI contributing to its own development, not just coding products but actually improving the underlying model architecture. They're calling it an intelligence explosion, and they're the company that built its entire identity around warning the world about AI risk. That's what makes this significant. When the cautious ones are the ones raising the alarm about speed, you pay attention.\n\nFor your consulting practice, Midya, this is the story that arms your pitch. When a university marketing department or a brand team asks why they should be thinking about AI strategy now rather than in two years, the answer is: because the people building it think the acceleration is about to compound. Whatever AI capabilities look like today, the version that exists eighteen months from now will have been partially designed by AI itself. That changes the planning horizon for every client you talk to.\n\nThe second AI story is almost a subplot of the first. Elon Musk — who three months ago was publicly calling Anthropic evil — has quietly done a compute deal with them, allowing SpaceX's unused GPU capacity to feed Anthropic's infrastructure ahead of what's expected to be a SpaceX IPO next month. Anthropic is reporting eighty times growth in revenue and usage in the first quarter of twenty twenty-six alone. Compute scarcity is so severe that competitive ideology is giving way to pragmatic deal-making. That's the AI industry right now: moving so fast that yesterday's enemies are today's infrastructure partners.\n\nNow to higher education, and this is where your client pipeline sits.\n\nStatistics Canada is projecting that Ontario will lose more than a third of its international students as a direct result of IRCC's study permit caps. A third. These are students who generate billions in tuition revenue, fill graduate programmes, staff research labs, and form the demographic backbone of dozens of campus communities. For Ontario institutions — think York, Ryerson now TMU, Wilfrid Laurier, Windsor — this isn't a budget line item. It's an existential repositioning moment. What does your brand stand for when the international student cohort you built your strategy around is suddenly shrinking by thirty-five percent? How do you communicate your value to domestic students, to research partners, to provincial government funders? That's a consulting conversation, Midya, and it's urgent.\n\nThe Atlantic story from University Affairs sharpens this further. The Atlantic provinces leaned even harder into international enrolment than Ontario did, partly because they have smaller domestic populations and fewer alternative revenue streams. Institutions like Cape Breton University, UPEI, and Acadia University built entire programme portfolios and community partnerships around international student volumes. University Affairs is framing this as a threat not just to university budgets but to local economies and workforce pipelines. These are exactly the kinds of institutions that need external strategic support and don't have in-house teams with the bandwidth to handle a repositioning of this scale mid-crisis. If you've been thinking about how to approach Atlantic Canada clients, now is the moment.\n\nOn the international dimension, ICEF Monitor reports that the US is moving fast toward ending Duration of Status for F, J, and I visa holders. As of September of this year, most international students in the US will need to complete their programmes within four years or seek individual extensions from USCIS. The intent is to tighten the pipeline and reduce the pathway from study to work authorization. You might expect this to redirect more internationally mobile students toward Canada, and in a normal year it would. But Canada's own permit caps mean that window is partly closed — which creates an interesting strategic question for Canadian institutions: how do you position yourself as a destination of choice in a world where both the US and Canada are restricting access? That's a brand strategy question with real answers, and it's the kind of thing you're well-placed to help universities think through.\n\nOn the marketing strategy front, two stories worth your time.\n\nRISMedia published a retrospective on Zillow's twenty-year brand journey, and the headline lesson is one you can use directly with clients. Zillow's first and most powerful marketing move was not a campaign — it was a product feature, the Zestimate, that solved a real consumer problem and made people want to share it. Neighbours comparing their home values. Buyers saying \"I found this on Zillow\" to agents who had never heard of the platform. Word of mouth built before any media budget was committed. The article frames this as a product-first brand philosophy where every feature had to pass a single test: would it get people talking? That's an insight worth embedding in how you counsel clients who are inclined to default to paid media before they've built anything worth sharing organically. For real estate-adjacent clients in particular, there's a direct translation: your listing tools, your market reports, your agent platforms — do any of them pass the Zillow test?\n\nThe second marketing data point comes from Point's housing sentiment research. Forty-eight percent of US homeowners did not consider moving at all last year. Eighty-three percent say they need mortgage rates below five percent before they'd list. And forty-nine percent say they plan to renovate instead. The brokerage industry is operating in a market where the largest cohort of potential sellers has opted out. For eXp Realty agents and the brokerages you track, this is the context: marketing spend on transaction-focused messaging is hitting an audience that has psychologically removed itself from the transaction. The smarter play — and the consulting opportunity — is advising these clients to shift messaging toward relationship maintenance and renovation financing partnerships, so agents are positioned to capture the transaction when rates finally move.\n\nThat housing inertia story deserves a little more context on the Canadian side. The rate-lock dynamic playing out in the US data mirrors what's happening here, with the Bank of Canada's rate path adding a Canadian overlay. Homeowners who locked into variable or short-term fixed mortgages at historically low rates are facing renewal shock, but many are still choosing to stay and absorb higher payments rather than sell into a market where the next purchase carries a higher rate. The renovation-over-relocation trend is real in BC as well, and it shapes the competitive environment for agents. Volume isn't coming back to pre-pandemic levels until rates move meaningfully, which means the agents and brokerages that survive this stretch will be the ones who reframe their value proposition around long-term relationships rather than transaction frequency.\n\nLocally, Midya, there are three Kamloops stories that matter to you this morning.\n\nThe most practically important: the City of Kamloops is rolling out an expanded wildfire preparedness strategy that includes a planned citywide evacuation drill. This is the kind of initiative that sounds administrative until it isn't — fire season in the Thompson-Okanagan region has been getting earlier and more severe, and a citywide evacuation plan is a meaningful infrastructure commitment. If you have family in Kamloops or Sun Peaks, knowing the City is actively rehearsing evacuation logistics is useful context. Make sure the people you care about know where the current evacuation routes and emergency communication channels are before July. Castanet has the details.\n\nKamloops RCMP are investigating a suspected targeted homicide downtown. Early reporting suggests this was not a random incident — RCMP language about \"targeted\" events generally means a known-parties situation rather than a public safety threat to the broader community, but worth monitoring as the story develops.\n\nAnd today is Red Dress Day — the national day of awareness for missing and murdered Indigenous women and girls. A Kamloops event is drawing attention specifically to the push for a dedicated Indigenous women's alert system in BC, a policy gap that advocates have been raising for years. This is a civic moment with genuine provincial policy weight, and it's happening in your community.\n\nTwo global stories to keep on your radar.\n\nAxios is reporting that even if a US-Iran peace deal materializes — and it's still a significant if — gas prices will not return to pre-war levels for a long time. The average US price for regular gasoline is four dollars and fifty-four cents per gallon right now, compared to just under three dollars before the conflict. Global oil markets will remain in structural disruption well beyond any ceasefire. For Canadian businesses, elevated energy costs are a persistent input pressure, and for anyone advising clients on operational planning or pricing strategy, the assumption that energy costs will normalize in the near term is not well supported.\n\nIn the UK, voters are casting ballots today in local and regional elections that are widely read as a referendum on Keir Starmer's Labour government. Nigel Farage's Reform UK is expected to make substantial gains. The political trend here mirrors patterns across Western democracies — incumbents under pressure, anti-establishment parties gaining ground, traditional party coalitions fragmenting. It's a pattern relevant to how Canadian federal politics will likely continue to evolve, and it's worth watching as a signal of where voter sentiment is heading in comparable economies.\n\nTwo miscellaneous items before we close.\n\nOn the hantavirus cruise ship outbreak — STAT News has a useful explainer. Scientists are worried, but their concern is about how under-studied hantaviruses are as a family, not about the MV Hondius being the origin point of a new pandemic. Hantaviruses are not typically transmitted person-to-person, which limits pandemic potential, but the fact that dozens of passengers left the ship before contact tracing was established is a genuine public health process failure worth noting. If you have travel in the near future, it's a story to have read rather than half-heard.\n\nFinally, a new Canadian poll shows more than two-thirds of Canadians support banning social media and AI chatbot access for children under 16. That's a strong majority, and it's the kind of number that moves legislation. For your marketing clients, especially anyone operating in categories that touch youth audiences, this regulatory direction is essentially confirmed. The question isn't whether Canada will legislate age restrictions on AI and social platforms — it's when and exactly how. Start advising clients to audit their youth-adjacent digital marketing now, before the legislation arrives and forces a reactive scramble.\n\nThat's your Thursday briefing, Midya. The thread running through today is acceleration and constraint operating simultaneously — AI moving faster than nearly anyone predicted while Canadian higher education contracts, housing markets freeze, and immigration policy tightens on both sides of the border. Your advantage as a consultant is that you can see across all of those systems at once and help clients connect dots they're too close to see. That's the job. Go make it count today.",
+  "digestIntro": "Two structural shifts are converging on your consulting pipeline this week: Canadian post-secondary enrolment is contracting faster than many institutions admit — StatsCan's new 26% decline figure is the headline, but Ontario's projected loss of a third of its international students is the sharper story, and both create urgent demand for exactly the kind of brand-repositioning and domestic-market strategy work you're building toward. At the same time, the US is ending 'Duration of Status' for F, J, and I visas, which will push more international students to Canada even as Canada tightens its own caps — the strategic tension there is a genuine consulting conversation-starter with any Canadian university that hasn't yet modelled the net flow. On the AI front, the performance-marketing market is projected to nearly double in under a decade; if you're positioning your consulting practice around AI in marketing, that's a credibility anchor and a pricing argument.",
+  "digestReadingTime": "6 min read",
+  "whyItMatters": "Two structural shifts are converging on your consulting pipeline this week: Canadian post-secondary enrolment is contracting faster than many institutions admit — StatsCan's new 26% decline figure is the headline, but Ontario's projected loss of a third of its international students is the sharper story, and both create urgent demand for exactly the kind of brand-repositioning and domestic-market strategy work you're building toward. At the same time, the US is ending 'Duration of Status' for F, J, and I visas, which will push more international students to Canada even as Canada tightens its own caps — the strategic tension there is a genuine consulting conversation-starter with any Canadian university that hasn't yet modelled the net flow. On the AI front, the performance-marketing market is projected to nearly double in under a decade; if you're positioning your consulting practice around AI in marketing, that's a credibility anchor and a pricing argument. Locally, TRU's president is actively pitching a new partnership model to the Kamloops business community — that's a door worth knowing is open.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-08.mp3",
+  "audioDurationSeconds": 621,
+  "audioScript": "Good morning, Midya. It's Friday, May 8th, 2026. The enrolment numbers are in, and they are worse than the official conversation has been letting on — that's where we're starting today.\n\nLet's open with higher education, because the StatsCan data that dropped this week deserves more attention than it's getting in most places. The headline number is a 26% year-over-year decline in full-time international students across Canadian public post-secondary institutions for the 2025-26 academic year. That is the largest single-year drop on record. But the Ontario-specific figure is sharper still: Statistics Canada projects Ontario alone is on track to lose more than a third of its international student population as a direct result of the federal permit cap. More than a third. Let that land for a moment. These are not projections about some distant future — this is the enrolment that is either not arriving this fall or that has already left.\n\nWhat does this mean in practice? For most institutions, international students represented a disproportionate share of revenue — in some cases financing the operating budgets that kept domestic tuition artificially low. That revenue is now contracting, fast, and with very little time to adapt. The institutions that are going to weather this best are the ones that move quickly on three fronts: repositioning their brand for a different student mix, developing domestic-market strategies they frankly haven't needed before, and building community and employer partnerships that justify their value to funders and governments who are watching enrolment numbers drop and asking hard questions.\n\nThat is, essentially, a description of the consulting work you're building toward. The urgency here is real. If you are in conversations with any Canadian institution — or about to be — framing your services around enrolment resilience and brand repositioning is not opportunistic, it is exactly what they need right now.\n\nAnd there's a complicating factor that cuts both ways. The US this week announced the end of what's called Duration of Status for F, J, and I visas — the open-ended immigration arrangement that allowed international students to stay in the United States for as long as they were enrolled. Under the new policy, students will be issued fixed visa windows. This is a significant policy shock in the American system, and it will cause some prospective students — particularly those from countries where study-to-immigration pathways matter enormously — to reconsider the US as a destination. Some of that flow will redirect toward Canada, even as Canada manages its own cap. The strategic question for Canadian universities is: do you have the international recruitment infrastructure to capture students who are now ruling out the US? And do you have the domestic community and employer relationships to make the case that a Canadian degree is worth the investment when visa pathways here are also tightening? Both of those are consulting conversations.\n\nOne more piece of context on the global higher-ed picture: a new international ranking places Canada ahead of the United States in university research output. That is a genuinely underused brand asset. Canadian institutions competing for international students — and for research partnerships and government funding — have a credibility story to tell that most of them are not telling loudly enough. That is a brand strategy gap, and it is exactly the kind of thing you can help name and close.\n\nCloser to home, there's a story out of Kamloops you should have on your radar. TRU's president appeared before the Kamloops business community this week to pitch a new university-business partnership model. The details in the coverage are sparse, but the signal matters: TRU's leadership is in active stakeholder-engagement mode, reaching outward to the community rather than managing inward. That is often when institutions are most open to external voices and new relationships. If you haven't had a conversation at TRU recently, this week's news is a prompt. The door appears to be open.\n\nAlso locally: a Kamloops couple survived a house fire this week, crediting their smoke alarm with giving them enough time to escape. With the interior heading into another fire season, this is a useful reminder — not just emotionally, but practically — to check your own smoke and CO alarms at the Sun Peaks property and at home in Kamloops if you haven't done so recently.\n\nOn the AI front, a new market forecast puts the AI performance marketing sector at USD $38.7 billion by 2036. To be transparent: market forecast reports like this one should always be read with some scepticism about the precision of the number. But directionally, this kind of analysis serves a real purpose for you. When you are in a room with a prospective client — a university CMO, a brand director, a VP of enrolment — and they ask you why AI in marketing is worth their attention and budget, you now have a concrete anchor. The market is not treating AI-driven campaign automation as experimental. It is treating it as infrastructure. Cross-channel optimisation, automated media buying, AI-assisted creative testing — these are becoming table stakes, not competitive advantages. The consulting framing here is: your clients who move now build capability; the ones who wait will be buying catch-up.\n\nIn marketing strategy, a story from Adweek caught my eye that I think has genuine consulting utility. Penguin Random House runs an in-house food media brand called Taste — a newsletter and podcast — that started as a content marketing play and has evolved into something closer to a standalone media brand with its own audience and identity. The lesson for your clients isn't just about content marketing. It's about the architecture of owned media: when you invest in building an audience directly, rather than renting attention through paid channels, you create an asset that compounds. For Canadian universities, which are under pressure to justify marketing spend and build long-term community relationships, the owned-media argument is particularly strong. The question is whether their internal teams have the capability and permission to think at that scale — and if not, that's where external strategy comes in.\n\nAlso from Ad Age's monthly CMO tracker: nearly half of the 49 CMO appointments in April were first-time marketing chiefs. That's a notable statistic. First-time CMOs, almost by definition, are navigating the role without established playbooks. They tend to be more open to outside perspective, more likely to seek trusted advisors, and more likely to act quickly on strategic recommendations before their internal credibility is fully established. If you are building a consulting practice, this is the cohort to pay attention to. They are not looking for someone to confirm what they already know — they are looking for someone who can help them see the landscape clearly and move with confidence.\n\nAnd finally on the marketing front — a campaign worth knowing: Tecate and the agency LePub Mexico City launched a campaign called Welcome Back, Paisano, aimed at Mexicans being repatriated from the United States. The campaign uses humour to reframe a genuinely painful political moment, and it's a useful case study in what it looks like when a brand moves from purpose-statement to actual action. The risk of purpose-driven marketing is always that it stays at the level of values and doesn't connect to anything tangible. Tecate's bet here is that showing up for your community in a moment of real hardship — with warmth and wit rather than solemnity — is more resonant than a generic brand manifesto. Worth keeping in your back pocket as a reference when you're talking to clients about brand purpose.\n\nOne more note on the global picture before we close: on the hantavirus front, Canadian consular officials are now on the ground in the Canary Islands, where a cruise ship with four Canadians aboard has been diverted following a deadly hantavirus outbreak. This is an evolving public health situation — not a broad travel advisory yet, but worth watching if anyone in your family has cruise travel planned in the near term.\n\nFinally, a pair of items from The Lancet worth your attention. The first is a systematic audit of 2.5 million biomedical papers that found fabricated citations — AI-generated references to studies that do not exist — appearing at a measurable rate across the research literature. This is not a fringe problem. The implications reach into any field that relies on evidence synthesis, including health communications and, frankly, any AI-assisted research or content work. For you, as someone advising clients on AI in marketing and strategy, this is a useful grounding point: the integrity of AI outputs depends entirely on the quality of the inputs and the rigour of verification. That is a professional differentiator — knowing where AI can be trusted and where it needs a human in the loop.\n\nThe second Lancet item is more straightforwardly good news: the RTS,S malaria vaccine — Mosquirix — is delivering real mortality reductions in African children at the population level. This is the first vaccine ever approved against a parasitic human disease, and the implementation-stage data is confirming what the trials suggested. It is a genuine milestone in global health, and worth noting simply because we do not celebrate progress in global medicine often enough.\n\nThat is your Friday briefing, Midya. The week's dominant thread is Canadian higher education under structural pressure — and the clearest professional signal is that the institutions most likely to engage outside help right now are the ones actively reaching outward, like TRU. The AI and marketing numbers are reinforcing the thesis you're already building. Have a good weekend in the interior, and I'll see you Monday morning.",
   "topStories": [
     {
-      "id": "story-ai-0",
-      "category": "AI & Tech",
-      "headline": "Anthropic sees \"early signs\" of AI training its own successor — co-founder gives 60%+ odds by 2028",
-      "summary": "Anthropic's Jack Clark predicts a greater-than-60% chance an AI model will fully train its successor by end of 2028, with the company reporting early evidence of AI contributing to its own development — a potential inflection point in the speed of the entire technology curve.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/NiywoOjwZ_gN4L5JdXNu0bEwdF4=/320x320/smart/2024/11/13/210048-1731531648761.jpg"
-    },
-    {
-      "id": "story-ai-1",
-      "category": "AI & Tech",
-      "headline": "How Elon Musk went from calling Anthropic \"evil\" to doing a compute deal with them in three months",
-      "summary": "Musk's SpaceX is supplying Anthropic with compute capacity ahead of a SpaceX IPO, turning a competitive rivalry into strategic necessity — and underscoring how rapidly AI industry alliances are reshuffling as compute scarcity drives deal-making over ideology.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/07/musk-anthropic-compute-spacex-ai",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/INT8PStyEMtHxWyZWM75v7egp4Q=/85x0:1165x1080/320x320/2026/05/06/1778104817905.jpeg"
-    },
-    {
       "id": "story-intl_students_canada-0",
       "category": "Higher Ed",
-      "headline": "Ontario projected to lose more than a third of international students, per StatCan",
-      "summary": "Statistics Canada data shows Ontario facing a dramatic enrolment collapse driven by IRCC permit caps — a severe revenue and brand shock for the province's universities that will demand urgent strategic repositioning, making this a live consulting opportunity.",
-      "source": "Google News: Canada international students",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjBsQTdBMFYxNUdPeldldWpHS0NfbnNiN2dxUXZQRDRyVzY2TW1LZE5fbTNoU2RQamd6THVqZ1hLRzk2enUyLV91OG1IeUVhaWhRRy1sUDctSXJhcXNWSXFUVmduTHU0azJWcGcyMUdVcXljcjdXd2piZ3FTeDl6dlFaTnJzMVRWaWhVSlZtaXItM29HTnFiY1ZvM24tZ0Rwa1V3RVRfUjdyYnc?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    }
-  ],
-  "digestStories": [
-    {
-      "id": "story-ai-0",
-      "category": "AI & Tech",
-      "headline": "Anthropic sees \"early signs\" of AI training its own successor — co-founder gives 60%+ odds by 2028",
-      "summary": "Anthropic's Jack Clark predicts a greater-than-60% chance an AI model will fully train its successor by end of 2028, with the company reporting early evidence of AI contributing to its own development — a potential inflection point in the speed of the entire technology curve.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/NiywoOjwZ_gN4L5JdXNu0bEwdF4=/320x320/smart/2024/11/13/210048-1731531648761.jpg"
-    },
-    {
-      "id": "story-ai-1",
-      "category": "AI & Tech",
-      "headline": "How Elon Musk went from calling Anthropic \"evil\" to doing a compute deal with them in three months",
-      "summary": "Musk's SpaceX is supplying Anthropic with compute capacity ahead of a SpaceX IPO, turning a competitive rivalry into strategic necessity — and underscoring how rapidly AI industry alliances are reshuffling as compute scarcity drives deal-making over ideology.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/07/musk-anthropic-compute-spacex-ai",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/INT8PStyEMtHxWyZWM75v7egp4Q=/85x0:1165x1080/320x320/2026/05/06/1778104817905.jpeg"
-    },
-    {
-      "id": "story-intl_students_canada-0",
-      "category": "Higher Ed",
-      "headline": "Ontario projected to lose more than a third of international students, per StatCan",
-      "summary": "Statistics Canada data shows Ontario facing a dramatic enrolment collapse driven by IRCC permit caps — a severe revenue and brand shock for the province's universities that will demand urgent strategic repositioning, making this a live consulting opportunity.",
-      "source": "Google News: Canada international students",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjBsQTdBMFYxNUdPeldldWpHS0NfbnNiN2dxUXZQRDRyVzY2TW1LZE5fbTNoU2RQamd6THVqZ1hLRzk2enUyLV91OG1IeUVhaWhRRy1sUDctSXJhcXNWSXFUVmduTHU0azJWcGcyMUdVcXljcjdXd2piZ3FTeDl6dlFaTnJzMVRWaWhVSlZtaXItM29HTnFiY1ZvM24tZ0Rwa1V3RVRfUjdyYnc?oc=5",
+      "headline": "StatsCan: Ontario on track to lose over a third of international students from permit cap",
+      "summary": "New Statistics Canada data projects Ontario alone will shed more than 35% of its international student population — a sharper regional hit than the national 26% decline figure, underscoring how unevenly the cap is landing across institutions and provinces.",
+      "source": "CBC / Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkRnZDMwX1ozNlJKNnN5dEhMbFMwYnlqRXI4RGN5R1Zqb1JNaU9HZS10QjBDMXhNdGFzNUVDcE04Y2RuX2MxT1hBdTFTRWtVQmVTVDRKWVhLSmpmUWhrQUpQYVBmZWNESWlPWm5adnBSbEtlZHFkcGFjdzJZNkZPNmwtZFpRN0RoaWVzbnpGWElDY2lzdkNmb3I4MmFqbXBYX0l6Xw?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
@@ -89,70 +28,113 @@
     {
       "id": "story-intl_students_canada-1",
       "category": "Higher Ed",
-      "headline": "Atlantic Canada hit hardest by IRCC student visa cuts — local economies and workforce pipelines at risk",
-      "summary": "University Affairs reports that Atlantic provinces, which had become structurally dependent on international tuition and post-grad labour, are absorbing the deepest proportional cuts — creating acute demand for enrolment strategy and brand repositioning support at institutions like UPEI, Cape Breton, and Acadia.",
-      "source": "University Affairs (Canada)",
-      "url": "https://universityaffairs.ca/news/why-have-the-atlantic-provinces-been-hardest-hit-by-irccs-student-visa-cuts/",
+      "headline": "Full-time international students in Canadian public post-secondary down 26% nationally in 2025/26",
+      "summary": "StatsCan confirms a 26% year-over-year drop in full-time international enrolment across public institutions — the largest single-year decline on record, with downstream revenue and staffing consequences hitting institutions now. Potential client signal: any Canadian university not yet running an enrolment-recovery strategy is behind.",
+      "source": "Indo-Canadian Voice / Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUxPYU5kSHVRSFQ4YmY0N0J6NnNmanZlZDVGNDhGNEJEM1RiRG9CWlB2X2RMd1BFZzVjOGhvbTJ1Q1UxRVNlSE95ZUxuMkE0N01HaGJCY2RaeU5yVW1WOVFGRWZWZTNodmtHQkdsQVE3VS1COVRORktaNmx5UjVQaER1QUV6cnAwVXJONThXR19scU9lVDlWYlNuOXQ5WXZzRVdZSXYwUTRhbFh4djJ0U0ZGZU5fTEhuSFI3bA?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://universityaffairs.ca/wp-content/uploads/2026/05/1920x1268-Small-Provinces-scaled.jpg"
+      "thumbnailKind": "university"
     },
     {
       "id": "story-intl_students_canada-2",
       "category": "Higher Ed",
-      "headline": "US moves to cap international student study duration at four years, effective September 2026",
-      "summary": "A DHS rule nearing implementation would require most F, J, and I visa holders to complete degrees within four years or seek USCIS extensions — a significant deterrent that could redirect internationally mobile students toward Canadian institutions, though Canada's own caps complicate that narrative.",
-      "source": "ICEF Monitor",
-      "url": "https://monitor.icef.com/2026/05/us-moves-to-end-duration-of-status-for-f-j-and-i-visas-new-rule-could-limit-the-time-international-students-can-study-in-the-us/",
+      "headline": "US ending 'Duration of Status' for F, J, and I visas — international students face fixed study timelines",
+      "summary": "The US is scrapping the open-ended immigration status that allowed international students to stay as long as they were enrolled, replacing it with fixed visa windows — a policy shock that could redirect prospective students toward Canada, even as Canada manages its own cap. Potential client signal: Canadian universities with strong recruitment pipelines into the US market should be repositioning now.",
+      "source": "ICEF Monitor / Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTzJncURSRnctR0wwSU1JaDVUUnlzWWlYM3BGNmNvcGFjOFlGNEVqVXdRZTRaYmhMQ19EdUlFR0hLN25nUnhFSFlDLUx2WXBuWlZMT1RKV3lQWWRHRWZQX2JxVEg0RE5yY19KbmdDNi0zUExNWUp5NUJoaHRJODNUaEt0S3YyRjk4Yjg1RkQwV194b0F4NXZaTmdpTHVib0ZEV082OE1vbFkzWEJRcV9GS2FJM0ExRUpKR1ZnQm9ySk5uNG1CdXZDY29Yc0hGQXQ3Y1Z4QzdWVl9xdTJSaXVvNkF1Ymo0TWtOZ0pScVNTVEg5c1k?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/05/samuel-schroth-hyPt63Df3Dw-unsplash-1200.jpg"
+      "thumbnailKind": "university"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "StatsCan: Ontario on track to lose over a third of international students from permit cap",
+      "summary": "New Statistics Canada data projects Ontario alone will shed more than 35% of its international student population — a sharper regional hit than the national 26% decline figure, underscoring how unevenly the cap is landing across institutions and provinces.",
+      "source": "CBC / Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkRnZDMwX1ozNlJKNnN5dEhMbFMwYnlqRXI4RGN5R1Zqb1JNaU9HZS10QjBDMXhNdGFzNUVDcE04Y2RuX2MxT1hBdTFTRWtVQmVTVDRKWVhLSmpmUWhrQUpQYVBmZWNESWlPWm5adnBSbEtlZHFkcGFjdzJZNkZPNmwtZFpRN0RoaWVzbnpGWElDY2lzdkNmb3I4MmFqbXBYX0l6Xw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "Full-time international students in Canadian public post-secondary down 26% nationally in 2025/26",
+      "summary": "StatsCan confirms a 26% year-over-year drop in full-time international enrolment across public institutions — the largest single-year decline on record, with downstream revenue and staffing consequences hitting institutions now. Potential client signal: any Canadian university not yet running an enrolment-recovery strategy is behind.",
+      "source": "Indo-Canadian Voice / Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUxPYU5kSHVRSFQ4YmY0N0J6NnNmanZlZDVGNDhGNEJEM1RiRG9CWlB2X2RMd1BFZzVjOGhvbTJ1Q1UxRVNlSE95ZUxuMkE0N01HaGJCY2RaeU5yVW1WOVFGRWZWZTNodmtHQkdsQVE3VS1COVRORktaNmx5UjVQaER1QUV6cnAwVXJONThXR19scU9lVDlWYlNuOXQ5WXZzRVdZSXYwUTRhbFh4djJ0U0ZGZU5fTEhuSFI3bA?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "US ending 'Duration of Status' for F, J, and I visas — international students face fixed study timelines",
+      "summary": "The US is scrapping the open-ended immigration status that allowed international students to stay as long as they were enrolled, replacing it with fixed visa windows — a policy shock that could redirect prospective students toward Canada, even as Canada manages its own cap. Potential client signal: Canadian universities with strong recruitment pipelines into the US market should be repositioning now.",
+      "source": "ICEF Monitor / Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTzJncURSRnctR0wwSU1JaDVUUnlzWWlYM3BGNmNvcGFjOFlGNEVqVXdRZTRaYmhMQ19EdUlFR0hLN25nUnhFSFlDLUx2WXBuWlZMT1RKV3lQWWRHRWZQX2JxVEg0RE5yY19KbmdDNi0zUExNWUp5NUJoaHRJODNUaEt0S3YyRjk4Yjg1RkQwV194b0F4NXZaTmdpTHVib0ZEV082OE1vbFkzWEJRcV9GS2FJM0ExRUpKR1ZnQm9ySk5uNG1CdXZDY29Yc0hGQXQ3Y1Z4QzdWVl9xdTJSaXVvNkF1Ymo0TWtOZ0pScVNTVEg5c1k?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "AI performance marketing market projected to hit USD $38.7 billion by 2036",
+      "summary": "A new market forecast pegs AI-driven campaign automation and cross-channel optimisation at $38.7B within a decade — a number that frames AI-in-marketing not as a trend but as the default infrastructure for digital advertising, relevant to both Midya's consulting positioning and any pitch to Canadian university marketing teams.",
+      "source": "Morningstar / Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONEI0MTJyQmwzRUlhQlVudnBMTW1RaGFqaGhZV0ZxaFllMEU2c3FHS2xMMWhTV1llaXdhWE9vcEVZYTZxTzNQd0lnYngzdzhxTzVkd1hCVXpIRjJBX0k2a2ZZeGJ5U2FlUm5LV1BVQzZ1T25NckQ2MEJzbHB4aWlDaWg0UHBFUW9aVEtaWllfcENNaE1zWGM0aGdxMWM0SDFqMUxiVmZnYUxJR1Y3bTJOX3FhazdtQlJRZWx0dmNxeXYxNDZwSHhNaVp5WGFKcHQ0dkJjZTJXamswQzd6OERyT3R1bUZ4dXNDdi1nekhsajlXcFN0SEpwWDlXa2VpaWdGZ212eWI3Q0Y5bGs1TU1UQ3dBblF3bWNvZkZuTjNWMEc3TEVWQ3kyRUVIQ3J6N1hzN1ozcVQ4Y2pab0FNcFpDdjJvWmE?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Zillow's 20-year brand playbook: word-of-mouth first, media budget second",
-      "summary": "RISMedia breaks down how Zillow built a dominant brand by leading with a product that solved a real consumer problem — Zestimates generating organic conversation — rather than paid media, a template directly applicable to how you'd counsel real estate or consulting clients on brand-building.",
-      "source": "RisMedia",
-      "url": "https://www.rismedia.com/2026/05/06/zillow-20-year-brand-playbook-teach-agent/",
+      "headline": "Penguin Random House's in-house media brand 'Taste' crosses from content marketing into standalone brand",
+      "summary": "PRH's food-focused newsletter and podcast evolved from a marketing tool into an independent media brand generating its own audience and revenue — a case study in how content strategy can become a business unit, directly applicable to consulting clients considering owned-media plays.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/taste-food-media-brand-penguin-random-house/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://www.rismedia.com/wp-content/uploads/2026/05/brand_GettyImages-2269520030-1.jpg"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/Untitled-design-14.png?w=600&h=315&crop=1"
     },
     {
       "id": "story-marketing-1",
       "category": "Marketing",
-      "headline": "48% of US homeowners didn't consider moving last year; 83% want rates below 5% before they list",
-      "summary": "Point's housing sentiment study reveals a deeply locked-in market where renovation is replacing relocation — a dynamic playing out in Canada too, with implications for brokerage strategy and any real estate-adjacent clients weighing marketing spend.",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/homeowners-staying-put-point-study/",
+      "headline": "Nearly half of April's 49 CMO hires were first-time marketing chiefs — Ad Age tracker",
+      "summary": "Ad Age's monthly CMO moves report shows a surge of first-time chiefs entering the role, signalling both organisational willingness to promote internally and a widening talent market — useful intelligence for Midya's consulting positioning in a moment when many new CMOs will need outside strategic support.",
+      "source": "Ad Age / Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjF2Wll2SnpWVnFUWjlzcXRaYmdQUzhsMXNlM1hfSm16bGZocTBWWmttQWlHa1hzbXRHNXRMaEhxdzktVi1TSG41X3J2UmhiYlM0Szh6dUJ6akI4MnY0c3F4RzFfbVR4cXFCVldCRTJtZTlGRVZYNTFsTzlmeThwblFZUjh2aU9maGhBWnMtbC0?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-marketing-2",
+      "category": "Marketing",
+      "headline": "Tecate's 'Welcome Back, Paisano' campaign turns repatriation into brand purpose",
+      "summary": "Created with LePub Mexico City, Tecate's campaign uses sharp humour to support Mexicans being repatriated from the US — a sharp example of a brand moving from purpose-statement to tangible action in a politically charged moment.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/campaign-trail-tecate-empowers-repatriated-mexicans/819272/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/05/Point-moving-study-.jpg"
-    },
-    {
-      "id": "story-canadian_real_estate-0",
-      "category": "Real Estate",
-      "headline": "Housing market inertia deepens: nearly half of owners skipped moving plans, renovation spending rises",
-      "summary": "The same Point data reinforces a Canadian pattern — rate-locked sellers sitting tight, renovation budgets absorbing what would have been transaction activity — relevant for how brokerage networks like eXp should be framing agent value propositions right now.",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/homeowners-staying-put-point-study/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/05/Point-moving-study-.jpg"
+      "imageUrl": "https://imgproxy.divecdn.com/-wyyyhFV1RBqtp3cAYSpZ3S4fmTyOH_Vn8x8Aq_8Shs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LVl9UZWNhdGVfV2VsY29tZV9CYWNrX1BhaXNhbm83Ni5qcGc=.webp"
     },
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "Kamloops planning citywide evacuation drill as part of new wildfire preparedness push",
-      "summary": "The City of Kamloops is rolling out an expanded wildfire preparedness strategy that includes a planned citywide evacuation exercise — directly relevant as fire season approaches and worth knowing if family members are in the area.",
-      "source": "Google News: Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUVKOEtoU2x6UVhrb2VON1ctOTh1aVp0amlWZHdnSEpIY0lseV9KY24xdUl2QnVkOHFqWVVOM1hwUU8tV2NnekdidVJCLTF6bWhGWjdCellCUU1DX1A0OC1adHN4RGoxZXZlM2h4NjBCVktsTjBJLVVZS25QRjVpVHNjVGJXcmlZWXFpODdySjRGVlU4clBidURCUHNYWGsyYUVzQ0dPR1NTQjN0cFVRRWlXOENqMDA4aEUwT2U5dmg2R1JBbmZj?oc=5",
+      "headline": "TRU president pitches new university-business partnership model to Kamloops community",
+      "summary": "TRU's president presented a new collaborative framework to the Kamloops business community — a signal that the university is actively seeking external partnerships, which is a direct opening for consulting conversations. Potential client signal: TRU is in active stakeholder-engagement mode.",
+      "source": "Castanet Kamloops / Google News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbTVrcEhVZEJPcmFXdUZpdzhfYTZyc0JUYUNhSktRbElZejZYOVdSUFhhYUg1eWVmMTF4aFgwRDk4Nm1qMXpQTFR1MUVOeEtsM2VLcEcxWTdJVzJ0bWpHb2NLRmVzYjFSRTNLUkU3Zkd1LWNwVGxaRnBsWVlwY1AyVDNBWXNmNlQ0bjNsRWdrVHNwNFgta29ZN1lGNlgxdnRacHZIUUtFSUhSTGdfZG5qVTJKNnZnanF2YU9xRC1OSkhTOVNuWUtZ?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -160,21 +142,10 @@
     {
       "id": "story-kamloops_sun_peaks-1",
       "category": "Local News",
-      "headline": "Kamloops RCMP investigate suspected targeted homicide downtown",
-      "summary": "Kamloops RCMP are treating a downtown death as a suspected targeted homicide — local safety context worth noting.",
-      "source": "Google News: Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHowa21Mb21pckJGSHJud1VwdEczOHFWNlUwVkNQdVlaQk4wU2hqR1B2Z0hOeWgzcERCYndLeF95QzNnOUdMSjJJX21QamN2S1V6SzdlcWtlSklicGF4RWtCd21Oak9uN2ZPSmhBNTVWLWlGc0JHSDMwZl9iOXRtbVlaNmplUnFrX1lFODNQZTgxQzIwc29ERXMwSk1fNTQ?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "mountains"
-    },
-    {
-      "id": "story-kamloops_sun_peaks-2",
-      "category": "Local News",
-      "headline": "Red Dress Day event in Kamloops highlights push for Indigenous alert system in BC",
-      "summary": "A Red Dress Day gathering in Kamloops drew attention to the ongoing campaign for a dedicated Indigenous women's alert system in BC — a local civic moment with provincial policy implications.",
-      "source": "Google News: Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNF9ySjJGTk90YU84eW10MzFMcVFMT3oyeG96emQzamw5RTlnb1FXUXR2ZVppNkhYdE9QUjVUSzdyR2l5TnFSdXF6d1pzUXhIeVV4amp3Q3ZEM3VoQUxDc1Y2R1VVUk1JQU1GWnQ0cnVYQ3BQeVg2dFAtWXJnaTF2UW9jb0JoV1NHS3FCWUl0MzU3OTNYbl92emczQjdjelIzbXNTWHpxNldmMFJLZ3Zsdm9xM0R4bXo4dHlUTHlsTjl0Q2U0cDNYdU9QZ0dIS3VL?oc=5",
+      "headline": "Kamloops couple escapes house fire, credits smoke alarm with saving their lives",
+      "summary": "A Kamloops couple survived a residential fire after their smoke alarm gave them enough time to escape — a reminder, with wildfire season approaching in the interior, that home fire preparedness is front of mind locally.",
+      "source": "Castanet Kamloops / Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQnl2T0tCSVpwczc5bXJ3aURZd2JYUGhnb3o0Ny1xVWJ5WnpXT281LTc5VmlETW9ZcUpwcWdNcVNWSWhTSzdtVmNRMkxhS0hxNXNlN2JRN254YkFQcTJRR0o4LXZzREhGeU1qSXNRdE5jWWpSREtDQ1E1SHdLTktWbUQ1bW41S3BlUWFxa0FVaEQ3YzJJQlhUWldvalc2R1FOd1lhR3BZN3dMUmNkSmhrSEppVDlnQm1qTU1ucFRqRWhpWkRnbE1adXhzMWF1dktLdTA3WA?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -182,126 +153,114 @@
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Gas prices unlikely to return to pre-war levels even if US-Iran deal happens — $4.54/gallon now vs. $3 pre-war",
-      "summary": "Axios reports that even an optimistic US-Iran peace scenario leaves global oil markets in structural disruption through at least the midterms, with pump prices likely staying significantly elevated — a persistent input cost pressure for businesses and consumers across North America.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/07/gas-prices-iran-war-peace-deal",
+      "headline": "Global report ranks Canadian universities above US peers in research output",
+      "summary": "A new international ranking places Canada ahead of the United States on university research metrics — an underutilised brand asset for Canadian institutions competing for international students and research partnerships in a moment of enrolment stress.",
+      "source": "CIC News / Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGxJN3l1YXFoNkpJYmNWZEdtRDdINVc4ZUNITFp3ZjJNSnlYWXBIWTNPV3RfdXg5OWNzNmJHSXdNVGZtWDJYY19yQkRJYUpic0kzRjNoVDVuY2pHRUJKbVc3RWZqVlNGTXB4b2pVNjFocmhSNUpjTVhrRG1HSDRQUXlCeWxQRlE1b1FLVmt3TExGcmJKWWpGaVVxZGxmdmQyQ1VMazhtMGhqdXE10gGyAUFVX3lxTE45d3diTFRPNFFoN2hlN0JjOXZPbXIxR2ZQeGxJTTVjemY1MlRYWEJwOUhmT0dmUVFLTDVxOUxyNDFYWTRmRGVuSkZHWHpjRC1JWnpOY3RobWJFUjUwLWFSclpBM3I1ZlE1TnI4SV9TcVRTM2hMZ1pLTy1nMUVkeTRTdHNzSXY4VWVvVlU5UWxKWTVWUWxZVXRQRUhTZC0wMUtVNF9CX0xOdUJoc0lwcHFvOGc?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "globe",
-      "imageUrl": "https://images.axios.com/jB_Gh4CQuhOin6Y7KOow7QxZtcY=/320x320/smart/2023/07/24/195141-1690228301659.jpg"
+      "thumbnailKind": "globe"
     },
     {
-      "id": "story-global_business_tech-1",
-      "category": "Global",
-      "headline": "UK local elections deliver verdict on Keir Starmer's leadership amid rising Reform UK pressure",
-      "summary": "British voters cast ballots Thursday in local and regional elections widely read as a confidence test for the Labour government, with Nigel Farage's Reform UK expected to make significant gains — a signal of the same anti-establishment wave reshaping politics across Western democracies.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/05/06/polls-open-in-uk-local-elections-seen-as-a-verdict-on-keir-starmers-leadership-2/",
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "The Lancet: AI-fabricated citations found across 2.5 million biomedical papers in first systematic audit",
+      "summary": "The Lancet publishes the first large-scale audit of biomedical references, finding a measurable rate of fabricated citations across 2.5 million papers — a direct warning about AI-generated research integrity that matters for anyone using AI tools in evidence-based work or advising institutions on AI governance.",
+      "source": "The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00603-3/fulltext?rss=yes",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F89d3075e-8e7a-445f-b42f-d61f4d119ae1%2F46b9a5a5f5beaab8eda01656eafcbb96482c9934a16a55c576249fc53b910b28.jpg"
+      "thumbnailKind": "leaf"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "The Lancet: RTS,S malaria vaccine rollout showing real mortality reductions in African children",
+      "summary": "The Lancet commentary confirms WHO's Mosquirix malaria vaccine is delivering measurable mortality reductions at the implementation stage — the first parasitic-disease vaccine to demonstrate population-level impact, a significant global health milestone.",
+      "source": "The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00455-1/fulltext?rss=yes",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf"
     },
     {
       "id": "story-misc-0",
       "category": "Misc",
-      "headline": "Hantavirus cruise ship outbreak: scientists worried about under-studied pathogen, not a new pandemic",
-      "summary": "STAT News reports that public health experts are less alarmed about pandemic risk from the MV Hondius hantavirus outbreak than about how little is understood about the virus family — and that dozens of passengers departed before contact tracing, a legitimate concern for anyone with upcoming travel plans.",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/05/07/hantavirus-cruise-ship-outbreak-scientists-say-not-new-pandemic/?utm_campaign=rss",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "bars",
-      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/05/GettyImages-2274172746-645x645.jpg"
-    },
-    {
-      "id": "story-misc-1",
-      "category": "Misc",
-      "headline": "Most Canadians support banning social media and AI chatbots for children under 16, new poll shows",
-      "summary": "Over two-thirds of Canadians back age-16 restrictions on social media and AI chatbot access, per a new poll — a regulatory sentiment that will likely drive federal legislation and is directly relevant to any AI-in-marketing clients operating in youth-adjacent categories.",
+      "headline": "Canadian consular officials en route to Canary Islands to assist Canadians on hantavirus-stricken cruise ship",
+      "summary": "Four Canadians are among passengers aboard a cruise ship that has been diverted to the Canary Islands following a deadly hantavirus outbreak — consular officials are now on-site; worth monitoring if you have family with travel plans.",
       "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/05/07/most-canadians-want-social-media-ai-chatbot-ban-for-kids-under-16-poll-indicates/",
+      "url": "https://cfjctoday.com/2026/05/08/canadian-consular-officials-head-to-canary-islands-to-meet-hantavirus-cruise-ship/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F5493e14e-4dad-4320-b62b-0f2d527cb8eb%2Fd8b2af44eed2a8a7734f474167b19153b606bb0f506edbb0e682904a94b1db46.jpg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fe08a5154-ecf8-4806-97e1-8511159545d6%2F35983c6255b88064ad566ce397aef5c77f9c752fcc93c8449c917f65b94a1132.jpg"
     }
   ],
   "audioChapters": [
     {
       "id": "c1",
-      "title": "AI & Tech",
-      "category": "AI & Tech",
-      "duration": "1:56",
-      "startSeconds": 21
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "3:29",
+      "startSeconds": 12
     },
     {
       "id": "c2",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "2:43",
-      "startSeconds": 138
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:00",
+      "startSeconds": 221
     },
     {
       "id": "c3",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "1:59",
-      "startSeconds": 300
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "0:57",
+      "startSeconds": 281
     },
     {
       "id": "c4",
-      "title": "Real Estate & AirBnB",
-      "category": "Real Estate",
-      "duration": "0:54",
-      "startSeconds": 420
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "2:31",
+      "startSeconds": 338
     },
     {
       "id": "c5",
-      "title": "Local News",
-      "category": "Local News",
-      "duration": "1:32",
-      "startSeconds": 474
+      "title": "Global News",
+      "category": "Global",
+      "duration": "0:26",
+      "startSeconds": 489
     },
     {
       "id": "c6",
-      "title": "Global News",
-      "category": "Global",
+      "title": "Longevity",
+      "category": "Longevity",
       "duration": "1:20",
-      "startSeconds": 566
-    },
-    {
-      "id": "c7",
-      "title": "Misc",
-      "category": "Misc",
-      "duration": "1:18",
-      "startSeconds": 646
+      "startSeconds": 516
     }
   ],
   "upNext": {
-    "id": "story-ai-1",
-    "category": "AI & Tech",
-    "headline": "How Elon Musk went from calling Anthropic \"evil\" to doing a compute deal with them in three months",
-    "summary": "Musk's SpaceX is supplying Anthropic with compute capacity ahead of a SpaceX IPO, turning a competitive rivalry into strategic necessity — and underscoring how rapidly AI industry alliances are reshuffling as compute scarcity drives deal-making over ideology.",
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/05/07/musk-anthropic-compute-spacex-ai",
+    "id": "story-intl_students_canada-1",
+    "category": "Higher Ed",
+    "headline": "Full-time international students in Canadian public post-secondary down 26% nationally in 2025/26",
+    "summary": "StatsCan confirms a 26% year-over-year drop in full-time international enrolment across public institutions — the largest single-year decline on record, with downstream revenue and staffing consequences hitting institutions now. Potential client signal: any Canadian university not yet running an enrolment-recovery strategy is behind.",
+    "source": "Indo-Canadian Voice / Google News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUxPYU5kSHVRSFQ4YmY0N0J6NnNmanZlZDVGNDhGNEJEM1RiRG9CWlB2X2RMd1BFZzVjOGhvbTJ1Q1UxRVNlSE95ZUxuMkE0N01HaGJCY2RaeU5yVW1WOVFGRWZWZTNodmtHQkdsQVE3VS1COVRORktaNmx5UjVQaER1QUV6cnAwVXJONThXR19scU9lVDlWYlNuOXQ5WXZzRVdZSXYwUTRhbFh4djJ0U0ZGZU5fTEhuSFI3bA?oc=5",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "chip",
-    "imageUrl": "https://images.axios.com/INT8PStyEMtHxWyZWM75v7egp4Q=/85x0:1165x1080/320x320/2026/05/06/1778104817905.jpeg"
+    "thumbnailKind": "university"
   },
   "mainStory": {
-    "id": "story-ai-0",
-    "category": "AI & Tech",
-    "headline": "Anthropic sees \"early signs\" of AI training its own successor — co-founder gives 60%+ odds by 2028",
-    "summary": "Anthropic's Jack Clark predicts a greater-than-60% chance an AI model will fully train its successor by end of 2028, with the company reporting early evidence of AI contributing to its own development — a potential inflection point in the speed of the entire technology curve.",
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion",
+    "id": "story-intl_students_canada-0",
+    "category": "Higher Ed",
+    "headline": "StatsCan: Ontario on track to lose over a third of international students from permit cap",
+    "summary": "New Statistics Canada data projects Ontario alone will shed more than 35% of its international student population — a sharper regional hit than the national 26% decline figure, underscoring how unevenly the cap is landing across institutions and provinces.",
+    "source": "CBC / Google News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkRnZDMwX1ozNlJKNnN5dEhMbFMwYnlqRXI4RGN5R1Zqb1JNaU9HZS10QjBDMXhNdGFzNUVDcE04Y2RuX2MxT1hBdTFTRWtVQmVTVDRKWVhLSmpmUWhrQUpQYVBmZWNESWlPWm5adnBSbEtlZHFkcGFjdzJZNkZPNmwtZFpRN0RoaWVzbnpGWElDY2lzdkNmb3I4MmFqbXBYX0l6Xw?oc=5",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "chip",
-    "imageUrl": "https://images.axios.com/NiywoOjwZ_gN4L5JdXNu0bEwdF4=/320x320/smart/2024/11/13/210048-1731531648761.jpg"
+    "thumbnailKind": "university"
   },
-  "heroImageUrl": "https://images.axios.com/NiywoOjwZ_gN4L5JdXNu0bEwdF4=/320x320/smart/2024/11/13/210048-1731531648761.jpg"
+  "heroImageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/Untitled-design-14.png?w=600&h=315&crop=1"
 }
