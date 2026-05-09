@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 08 May 2026 11:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 11:37:08 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, May 8, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-08.html</link>
-      <description>Two structural shifts are converging on your consulting pipeline this week: Canadian post-secondary enrolment is contracting faster than many institutions admit — StatsCan's new 26% decline figure is the headline, but Ontario's projected loss of a third of its international stude...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-08.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-08.mp3" length="12428160" type="audio/mpeg"/>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, May 9, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-09.html</link>
+      <description>Two threads dominate your Saturday briefing, Midya, and both touch your consulting pipeline directly. The Canvas cyberattack has hit Canadian universities from coast to coast — U of T, UBC, Alberta, and others — right at final-exam season, which means risk-rattled provosts and CI...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-09.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-09.mp3" length="15773280" type="audio/mpeg"/>
+      <pubDate>Sat, 09 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
