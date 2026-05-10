@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 09 May 2026 11:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 11:36:41 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Saturday, May 9, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-09.html</link>
-      <description>Two threads dominate your Saturday briefing, Midya, and both touch your consulting pipeline directly. The Canvas cyberattack has hit Canadian universities from coast to coast — U of T, UBC, Alberta, and others — right at final-exam season, which means risk-rattled provosts and CI...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-09.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-09.mp3" length="15773280" type="audio/mpeg"/>
-      <pubDate>Sat, 09 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Sunday, May 10, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-10.html</link>
+      <description>Three threads converge for you this Sunday, Midya. The hantavirus outbreak on a cruise ship — with Canadians aboard — is escalating in a way that warrants attention, especially given STAT News is flagging the CDC's unusual absence. On the higher-ed front, the Conestoga College sp...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-10.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-10.mp3" length="13956960" type="audio/mpeg"/>
+      <pubDate>Sun, 10 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
