@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 2,
+  "date": "Monday, May 11, 2026",
+  "dateIso": "2026-05-11",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "12:50",
+  "currentTime": "0:00",
+  "remaining": "12 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Two threads dominate today that hit Midya's work directly: eXp World Holdings just reported Q1 2026 earnings that beat revenue estimates and announced the NextHome acquisition — meaningful intelligence for anyone tracking the brokerage industry's consolidation curve. Meanwhile, the CMO budget crunch story from Marketing Week is a gift for a consultant pivoting into AI-in-marketing, because it surfaces exactly the tension prospective clients are living — the pressure to deliver AI-powered strategy with shrinking resources. On the higher-ed front, the SFU-TRU collaboration is worth noting as a named-institution story with potential consulting implications for TRU specifically, given its proximity to Midya's home base in Kamloops.",
+  "digestReadingTime": "6 min read",
+  "whyItMatters": "Two threads dominate today that hit Midya's work directly: eXp World Holdings just reported Q1 2026 earnings that beat revenue estimates and announced the NextHome acquisition — meaningful intelligence for anyone tracking the brokerage industry's consolidation curve. Meanwhile, the CMO budget crunch story from Marketing Week is a gift for a consultant pivoting into AI-in-marketing, because it surfaces exactly the tension prospective clients are living — the pressure to deliver AI-powered strategy with shrinking resources. On the higher-ed front, the SFU-TRU collaboration is worth noting as a named-institution story with potential consulting implications for TRU specifically, given its proximity to Midya's home base in Kamloops. And the Trump-China-AI summit week is the macro geopolitical context shaping the AI governance conversation that underpins every AI consulting pitch.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-11.mp3",
+  "audioDurationSeconds": 770,
+  "audioScript": "Good morning, Midya. It's Monday, May eleventh, twenty twenty-six. Here's what matters today.\n\nLet's start with eXp World Holdings, because they dropped Q1 earnings this morning and the headline number is better than expected. eXp — now trading under the ticker AGNT — posted first-quarter revenue of just over one billion dollars against analyst estimates of nine hundred seventy-one million. That's a meaningful beat. They've guided full-year 2026 revenue to between four point eight five and five point one five billion dollars, which straddles the FactSet consensus right down the middle. But the number that I think deserves your attention is buried a little deeper: eXp has acquired NextHome in a cash-funded deal. NextHome is a significant independent brokerage network, and this acquisition signals something important about where eXp's strategy is actually heading. They've been an agent-first, cloud-native, commission-splitting machine since their founding — but acquiring an established brokerage brand with its own culture, identity, and agent base is a move toward consolidation and scale that looks more like a traditional brokerage rollup than the disruptive challenger model they built their reputation on. For you, tracking eXp as part of the broader brokerage industry landscape, this is the story to watch. The brokerage industry is consolidating, it's digitalising, and the companies that survive are going to be the ones that figure out how to build brand and culture across a distributed, virtual workforce. That is, incidentally, a marketing and brand strategy problem — and it's the kind of problem where external consulting expertise has real value.\n\nConnecting to that: Marketing Week published a survey this morning showing that most CMOs say they simply don't have the budget to execute their 2026 strategy. Let that land for a moment. The strategy exists. The mandate for AI-powered marketing exists. The board-level pressure to show returns from AI investment exists. What doesn't exist, for most marketing leaders, is the money to actually do it. This is a structural tension that is deeply useful for you to understand as you build your consulting practice. When internal teams are under-resourced, one of two things happens: either the initiative dies quietly, or it gets outsourced to someone who can come in, frame the problem, prioritise ruthlessly, and show fast ROI without adding permanent headcount. That second scenario is exactly the market you're targeting. CMOs who lack budget don't need another agency with a big retainer model — they need a trusted advisor who can work leaner and smarter. Your positioning as an AI-in-marketing specialist is well-timed, and this data point gives you a concrete piece of evidence you can use in business development conversations.\n\nAlso worth a note in the marketing section: Bumble announced a major product reinvention today, explicitly framing it as an AI-driven overhaul of the core interaction model. Whitney Wolfe Herd told Axios the swipe mechanic is effectively dead and that Bumble is rebuilding around AI-facilitated connection. Now, you're not in the dating app space, but this is a genuine case study in something you care about: how a consumer brand pivots its entire value proposition around AI when the original product mechanic loses cultural relevance. The language Wolfe Herd is using — new interaction models, AI bridging the gap between what users want and what the product delivers — is language you'll recognise from your own work with clients. Gen Z's relationship with digital products is fundamentally different from millennials', and brands across every category are going to face versions of this same reinvention question. Bumble is doing it publicly and in real time. Worth following.\n\nOn higher education, there are three stories today and together they paint an interesting picture.\n\nFirst and most local to you: Simon Fraser University and Thompson Rivers University have announced an enhanced inter-province collaboration. The details in the snippet are thin — this came through Education News Canada — but the signal is real. When two universities of this calibre formalise a partnership, it typically triggers a cascade of downstream work: communications strategy, brand alignment, joint programming marketing, stakeholder engagement across two institutions. TRU is literally in your backyard, Midya. If you don't already have a warm contact in TRU's marketing or strategic communications leadership, this is a good moment to create one. The story gives you a natural conversation opener — you can reach out to comment on the collaboration, share a perspective on how dual-institution partnerships tend to create brand complexity, and position yourself as someone who's thought about this. That's not opportunism; that's good consulting business development.\n\nSecond: Algoma University is actively recruiting international students at education fairs in the Gulf region. This matters in the context of the federal international student caps that have made enrolment strategy genuinely complicated for smaller Canadian universities over the past year. Algoma is doubling down rather than pulling back, which tells you something about their strategic posture. Universities that are investing in international recruitment right now are the ones that are most likely to need help thinking through how to differentiate their brand, how to communicate value to prospective students in competitive markets, and how to use digital and AI tools to reach those students more effectively. Again — a live consulting opportunity, if you're paying attention to which institutions are leaning in.\n\nThird, a global higher-ed story with structural implications for Canadian universities: Study Group, one of the largest international student pathway providers in the world, has been acquired by Arete Education, a venture backed by Global University Systems and Brightstar Capital Partners. Study Group operates the academic preparation programs that funnel tens of thousands of international students into university partnerships every year. When an organisation like that changes hands, the contractual and strategic relationships it has with partner universities get reviewed. Canadian universities that rely on Study Group pathways for international enrolment will be watching this closely. It's a market-structure story that affects the supply chain of international students, and it's worth understanding if you're positioning yourself as an expert in international student marketing and recruitment strategy.\n\nNow, AI — and today's AI stories are best understood together, because they're really two sides of the same conversation.\n\nJensen Huang, Nvidia's CEO and arguably the single most important executive in the AI infrastructure space right now, gave a commencement address at Carnegie Mellon yesterday. His message to graduates was unambiguous: run toward AI, don't walk. He described a once-in-a-generation opportunity to reindustrialise through AI infrastructure, and he did it at one of the world's premier technical universities, to an audience of people who will actually build this industry. Huang rarely speaks in abstractions; when he says demand for AI infrastructure is creating generational opportunity, he's not being inspirational for the sake of it — he's describing the order book at Nvidia. This matters for how you talk about AI in your consulting practice. The headline fear in the market is that AI will eliminate jobs. The counter-narrative — and the one that's better supported by the current data — is that AI is creating new categories of work, new industries, and new demand for people who understand how to deploy it. Knowing how to frame that for clients, and for the university audiences you're targeting, is a genuine differentiator.\n\nMeanwhile, Trump is heading to Beijing on Wednesday for what Axios is describing as one of the most consequential stretches of his presidency. Three things are converging: the unresolved US-Iran conflict, the trajectory of US-China relations, and — this is the part that's directly relevant to your work — the rules governing the global AI revolution. AI governance is explicitly on the agenda. Whatever framework or precedent comes out of this week will shape how AI is regulated, deployed, and competed over for years. Canada sits in an interesting position here — closely aligned with the US on trade and security, but with its own emerging AI policy framework and a genuine desire to be a player in AI rather than just a consumer of American or Chinese AI infrastructure. As you build a consulting practice in AI-in-marketing, understanding the governance landscape — not just the tools — is what separates a strategic advisor from a technician.\n\nAlso in the AI-and-governance space: Canada's Parliament has amended the bill that would criminalise sexual deepfakes, expanding the definition to include near-nude images. This is a meaningful legislative development. It's not just a social issue — it has direct implications for anyone working in digital marketing, content creation, or brand management who uses AI-generated imagery. The legal perimeter around synthetic media is being drawn right now, and it's being drawn in Canada, in real time. Knowing where those lines are is part of what makes an AI-in-marketing advisor credible and trustworthy.\n\nQuickly on global news: the UK is moving to formally nationalise British Steel this week. Keir Starmer will introduce legislation that brings the steelworks under permanent public ownership after nearly a year of government control. This is significant not because of steel per se, but because of what it signals about industrial policy in Western democracies. The appetite for government intervention in strategic industries is real and growing — in the UK, in Europe, and to some extent in Canada. That's a macro context worth holding as you think about how public institutions, including universities, are going to be funded and directed in the years ahead.\n\nLocally in Kamloops: Kamloops Fire Rescue has cleared the arson theory for the cluster of fires that hit the city in April. They found no evidence of a firebug, which is reassuring, but the city's Business Improvement Areas are still issuing a safety warning — suggesting there's ongoing concern in the business community about fire risk in the core. If you have family or property in the Kamloops area, it's worth a quick check-in with people on the ground to understand what specifically the warning covers.\n\nFinally, two items for awareness rather than action.\n\nThe hantavirus situation in Europe bears watching, specifically because hantavirus is endemic in BC's Interior. Two cruise ship passengers — a French woman and an American — have tested positive following an evacuation, with a third showing symptoms. European health authorities are scrambling to trace contacts. This is not an imminent threat to your family, but hantavirus transmission in BC typically spikes in spring when people are doing yard work, opening up storage spaces, and encountering rodent activity after winter. If you or family members are doing any spring cleaning in outbuildings or rural properties around Kamloops or Sun Peaks, it's a timely reminder to take precautions: ventilate before entering enclosed spaces, wear gloves, don't sweep dry rodent droppings.\n\nAnd the BC Amber Alert from this morning has been cancelled. RCMP issued a provincewide alert for two young children in Prince Rupert earlier today and then stood it down — the children are safe. No action required, but it's the kind of alert that's easy to miss when you're heads-down in a Monday morning and worth knowing was resolved well.\n\nThat's your Monday briefing, Midya. The through-line today is resource constraint — CMOs don't have budget, universities are navigating enrolment pressure, and the AI governance rules that will shape every industry are being written in real time in Washington and Beijing. Your edge as a consultant is being the person who understands all three of those pressures simultaneously and can help clients navigate the intersection. The TRU-SFU story and the eXp earnings are both worth following up on this week — one is a client development signal, the other is a market intelligence signal. Make the most of the week ahead.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Jensen Huang to Grads: \"Run, Don't Walk\" Toward AI",
+      "summary": "Nvidia's CEO told Carnegie Mellon graduates that AI infrastructure is creating a once-in-a-generation reindustrialisation opportunity — a rare piece of straight signal from the world's most powerful AI hardware company about where the labour market is actually heading.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/11/jensen-huang-carnegie-mellon-commencement-ai",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/9Z18FqWj-P4lgKwaAYtRiaS-gN0=/0x0:1264x1264/320x320/2026/05/11/1778463626870.jpeg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Iran, China, and AI Converge in Trump's Legacy-Defining Week",
+      "summary": "Trump heads to Beijing Wednesday as US-Iran conflict remains unresolved — and the rules governing the global AI revolution are explicitly on the agenda, making this the most consequential week for AI governance since the Paris AI Summit.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/11/trump-china-summit-iran-ai-xi-jinping",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/aXQbJrundRsqtoJptlX2w083_yY=/491x0:1571x1080/320x320/2026/05/08/1778273026548.jpeg"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Most CMOs Say They Lack Budget to Deliver Their 2026 Strategy",
+      "summary": "Marketing Week survey finds the majority of CMOs are being asked to execute AI-era strategy on pre-AI budgets — a structural tension that's a direct consulting entry point, since underfunded marketing teams increasingly need outside expertise to prioritise and sequence AI investments.",
+      "source": "Marketing Week (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MdXZjQ1U2NE9rbEgyZWlaQ0VYSkFrSzA5VmI3SWRWeF91cmZxaGprSmtwVXVHRmlneTZZa3N5TndqWEllc3hTYmFoSzVsMnpqUWdPWklqblQtbUNWRkZwc0tsaVVCcW8?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Jensen Huang to Grads: \"Run, Don't Walk\" Toward AI",
+      "summary": "Nvidia's CEO told Carnegie Mellon graduates that AI infrastructure is creating a once-in-a-generation reindustrialisation opportunity — a rare piece of straight signal from the world's most powerful AI hardware company about where the labour market is actually heading.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/11/jensen-huang-carnegie-mellon-commencement-ai",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/9Z18FqWj-P4lgKwaAYtRiaS-gN0=/0x0:1264x1264/320x320/2026/05/11/1778463626870.jpeg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Iran, China, and AI Converge in Trump's Legacy-Defining Week",
+      "summary": "Trump heads to Beijing Wednesday as US-Iran conflict remains unresolved — and the rules governing the global AI revolution are explicitly on the agenda, making this the most consequential week for AI governance since the Paris AI Summit.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/11/trump-china-summit-iran-ai-xi-jinping",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/aXQbJrundRsqtoJptlX2w083_yY=/491x0:1571x1080/320x320/2026/05/08/1778273026548.jpeg"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Most CMOs Say They Lack Budget to Deliver Their 2026 Strategy",
+      "summary": "Marketing Week survey finds the majority of CMOs are being asked to execute AI-era strategy on pre-AI budgets — a structural tension that's a direct consulting entry point, since underfunded marketing teams increasingly need outside expertise to prioritise and sequence AI investments.",
+      "source": "Marketing Week (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MdXZjQ1U2NE9rbEgyZWlaQ0VYSkFrSzA5VmI3SWRWeF91cmZxaGprSmtwVXVHRmlneTZZa3N5TndqWEllc3hTYmFoSzVsMnpqUWdPWklqblQtbUNWRkZwc0tsaVVCcW8?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Bumble Bets on AI to Reinvent Dating for Burned-Out Gen Z",
+      "summary": "Whitney Wolfe Herd says the swipe-based interaction model is dead and Bumble is rebuilding around AI-facilitated connection — a live case study in how a consumer brand repositions through AI when its core product mechanic loses cultural relevance.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/11/bumble-reset-gen-z-dating-apps",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://images.axios.com/oRAn5Ioj7N515X34YO5R3HJpPAQ=/128x128/smart/2026/05/11/1778460565376.png"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "SFU and Thompson Rivers University Announce Enhanced Inter-Province Collaboration",
+      "summary": "SFU and TRU have formalised a collaboration agreement designed to expand academic pathways and shared programming — a potential client signal, as institutional partnerships of this kind typically trigger strategic communications, brand alignment, and marketing reviews at both institutions.",
+      "source": "Education News Canada (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVEFiWS1SRGs2U0x0UTdFU1ZWcHdHcG1JWFZxRkktbTctN3BYUUwwTFlQWWp4dFlMTnJZUXVnQ1hJNUowQUVjaUlJTjBjTEM4VjZtVEdlNWk1RzkxNHE4LWhHZXExZ19sQ0hMU0tPZndadWdaaDBaYWdLUk5yRXZHazE1b2NTZzZUUHJZeWhwUVBGZG1oUDFOc0dBb1Q3OHFnVHRGT1VwX1hmRWQ5X1FfSHRabGU1Qzk5eWozbkdmOWM2b3pXNk9taFZtOGY4cmRNTEdlWUJVZVdNckszdmd2elVHWWhIU1p2clVEMzJncWJwZ0RSQW5mZHRRRDVQcDlsczNv?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "Algoma University Promotes Canada Study Pathways at International Education Fair",
+      "summary": "Algoma is actively recruiting internationally at Gulf-region education fairs, signalling that smaller Canadian universities are doubling down on international enrolment marketing despite federal cap pressures — a live demonstration of the kind of strategic positioning work where a consultant could add real value.",
+      "source": "Gulf News (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0xBWGxjLUtKNGJzWXJueTFfNmlRVk1kUEVvNl9yeTFFaW5EWjFueDVKX1ByUHpCRnlnc05oQzByNHg3RjlsSnR3ZGRoYkFTXzdWcGptMUJNQVY0VktMS0xVOHBtaV94bHNOVl9sRjl0UDBKejJLUnRRc1hCVVpXT2d4Y1pwOTk3NHVNMC1WT1RxYkZPcWdkejBXYTNLLXVMLS10bmxjTnowV1dHbWNONWNrZHNoMUlRRFB6MGJkNWlhUdIB1AFBVV95cUxOUXJhcFFodmo1UDNaVXZYemJRUFh5R1c3blNzNHkwUkE0TGxnbEozY1o0RDY5OTBHMGdwbXJWVWR4dk5SWlNiN1RMOUZldGNLY0hVUm8tNVJpN05rSF9PQkt5RkRTdDVCV3RwakprWlAxcTEzUk9lQUJlV1FrZXNweVFPMHBKdUFXY2JPT2J1TGdicEtoNm1vb2FlSkFyX1hkelZGMlRJbWJjaURMdlBkQ2pZMGxjS3pYUlh3WkZod0ZfNkVqdWJKVVl2ZzdMZ19GVjJiag?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-2",
+      "category": "Higher Ed",
+      "headline": "Study Group Acquired by Arete Education (GUS/Brightstar Backed)",
+      "summary": "Study Group — one of the largest international student pathway providers globally — has been sold to Arete Education, consolidating a major institutional recruitment pipeline under private equity control and reshaping how universities contract for international student services.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/study-group-sold-to-arete-education/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/05/iStock-2237658636-1.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "eXp World Holdings Beats Q1 Revenue, Announces NextHome Acquisition, Declares Dividend",
+      "summary": "eXp posted Q1 revenue of $1.01B (vs. $971M estimate), guided full-year 2026 to $4.85–$5.15B, and confirmed a cash-funded acquisition of NextHome — signalling that eXp is moving aggressively into brokerage consolidation even as the broader real estate market remains under pressure.",
+      "source": "Stock Titan / Yahoo Finance Canada (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0Y2SjZoRU5zMlJ4cEhkeTFTV0lXOHFGS3pHdjl5OVNNVmFSRUJJVjJFWUIwSnItWmZEYnN3TTRQY0JhTHBUZnBSUUpwVFE2dGl2SjlSdzJxSVNhRDBjYTBxZlp6VzhYRTd5bUNFQnJVTzhJeWJ0NEphQURmV3JSbFFES3V6NWZwMFBrUTZXaGNqMkVzVFpWMGZfQlBqYjhDeDZyU3RfZ0t3QTJ0bHlWNllB?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Kamloops Fire Rescue Finds No Evidence of Arson in April Fires; BIAs Issue Warning",
+      "summary": "Kamloops Fire Rescue has cleared the firebug theory for the cluster of April fires, but the city's Business Improvement Areas are still issuing a community safety warning — relevant for anyone with property or family in the city core.",
+      "source": "Castanet Kamloops (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ0hLR2hpWWtsbXRycE43TGotak50Njd3cUNNNWZLaDdzYklDYUswejNWRFpmSzNScXVUMUlHblM2Y0VaZW44UHQwNzhiLXpQM1F2Q0Iwcy1QNDEydE5GVjdhVnI1MDlKN3FkZTdDbkxGUjhtc2piek5QUTV0ejZoRDhZbl9oMU5vbS1xN1VVeDZjczk4ZkNERTc4NkxWeFlHejEzZmdPQ0xMc0k0OEJqdTFubFRLejFOT0RYRW8zalpOQ2xPNUJMZ2YyaE1lVkFGM2tPUlBFVmo?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "MPs Amend Deepfakes Bill to Cover 'Nearly Nude' Images",
+      "summary": "A House of Commons committee has broadened the proposed criminal prohibition on sexual deepfakes to include near-nude imagery — directly relevant to the AI governance conversation and to any marketing or communications professional whose clients create digital content at scale.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/05/11/mps-amend-bill-criminalizing-sexual-deepfakes-to-include-nearly-nude-images/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F70e6f252-1a80-4251-bef5-34d12b3d7aca%2F05617e8ef56b3f41e8730cfdbde2cfa97e133d47f3df78c6e45c5b7262030192.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "UK Announces Plans to Nationalise British Steel",
+      "summary": "Keir Starmer's government will introduce legislation this week to formally nationalise British Steel, marking one of the most significant industrial-policy reversals in a generation and a signal that Western governments are increasingly willing to intervene directly in strategic industries.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a9/live/68b3b2b0-4d22-11f1-b55d-0f258dce1735.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Two Cruise Ship Passengers Test Positive for Hantavirus as Third Shows Symptoms",
+      "summary": "A French woman and an American have tested positive for hantavirus following a cruise ship evacuation in Europe, with a third showing symptoms — a public health development worth watching given hantavirus is endemic in BC's Interior and Kamloops region.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/05/11/french-woman-evacuated-from-cruise-ship-tests-positive-for-hantavirus/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fc0a1b3c9-5f39-41bb-a658-40ef5b5a0a4c%2F5a1ead6054e37b6956f6d0ad9b8db3a72b341c0e8f07658d6bd4c2a1db1bd7b0.jpg"
+    },
+    {
+      "id": "story-misc-1",
+      "category": "Misc",
+      "headline": "B.C. Mounties Cancel Amber Alert for Twin Siblings",
+      "summary": "RCMP issued and then cancelled a provincewide Amber Alert for two young children in Prince Rupert — resolved safely, but a reminder that BC family safety alerts move quickly and are worth monitoring.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/05/11/cp-newsalert-b-c-rcmp-issue-amber-alert-for-two-young-children/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fc5954c3f-f977-408c-aada-d425dc5c5f67%2F919341885f8cc32aa5132fe9ba5220db07d1783ac12eee2c3ea8b22076e9b910.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:40",
+      "startSeconds": 6
+    },
+    {
+      "id": "c2",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "2:13",
+      "startSeconds": 105
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:55",
+      "startSeconds": 239
+    },
+    {
+      "id": "c4",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "2:54",
+      "startSeconds": 413
+    },
+    {
+      "id": "c5",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "0:41",
+      "startSeconds": 587
+    },
+    {
+      "id": "c6",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "0:32",
+      "startSeconds": 628
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "1:13",
+      "startSeconds": 660
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Iran, China, and AI Converge in Trump's Legacy-Defining Week",
+    "summary": "Trump heads to Beijing Wednesday as US-Iran conflict remains unresolved — and the rules governing the global AI revolution are explicitly on the agenda, making this the most consequential week for AI governance since the Paris AI Summit.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/05/11/trump-china-summit-iran-ai-xi-jinping",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/aXQbJrundRsqtoJptlX2w083_yY=/491x0:1571x1080/320x320/2026/05/08/1778273026548.jpeg"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Jensen Huang to Grads: \"Run, Don't Walk\" Toward AI",
+    "summary": "Nvidia's CEO told Carnegie Mellon graduates that AI infrastructure is creating a once-in-a-generation reindustrialisation opportunity — a rare piece of straight signal from the world's most powerful AI hardware company about where the labour market is actually heading.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/05/11/jensen-huang-carnegie-mellon-commencement-ai",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/9Z18FqWj-P4lgKwaAYtRiaS-gN0=/0x0:1264x1264/320x320/2026/05/11/1778463626870.jpeg"
+  },
+  "heroImageUrl": "https://images.axios.com/9Z18FqWj-P4lgKwaAYtRiaS-gN0=/0x0:1264x1264/320x320/2026/05/11/1778463626870.jpeg"
+}
