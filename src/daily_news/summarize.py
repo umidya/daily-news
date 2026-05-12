@@ -3,9 +3,11 @@ from __future__ import annotations
 import json
 import logging
 import re
+import time
 from dataclasses import dataclass
 from typing import Optional
 
+import anthropic
 from anthropic import Anthropic
 
 from .config import Config
@@ -14,6 +16,60 @@ from .models import Article
 log = logging.getLogger(__name__)
 
 CLAUDE_MODEL = "claude-sonnet-4-6"
+
+_TOPIC_KEYS = [
+    "ai",
+    "marketing",
+    "higher_ed_canada",
+    "higher_ed_global",
+    "intl_students_canada",
+    "canadian_real_estate",
+    "kamloops_sun_peaks",
+    "airbnb_policy",
+    "global_business_tech",
+    "longevity",
+    "misc",
+]
+
+# JSON Schema passed to the API via output_config.format. The API guarantees
+# the response is valid JSON matching this shape — eliminates the class of
+# JSONDecodeError failures we saw on 2026-05-12 when Claude's free-form JSON
+# had a subtle quoting bug deep in audio_script.
+_DIGEST_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "why_this_matters": {"type": "string"},
+        "sections": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {"type": "string"},
+                    "topic_key": {"type": "string", "enum": _TOPIC_KEYS},
+                    "stories": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "headline": {"type": "string"},
+                                "summary": {"type": "string"},
+                                "source": {"type": "string"},
+                                "url": {"type": "string"},
+                            },
+                            "required": ["headline", "summary", "source", "url"],
+                            "additionalProperties": False,
+                        },
+                    },
+                },
+                "required": ["name", "topic_key", "stories"],
+                "additionalProperties": False,
+            },
+        },
+        "audio_script": {"type": "string"},
+    },
+    "required": ["why_this_matters", "sections", "audio_script"],
+    "additionalProperties": False,
+}
 
 SYSTEM_PROMPT = """You are an executive news editor producing a personal morning briefing for one specific reader: Midya.
 
@@ -227,32 +283,22 @@ def _candidates_payload(articles: list[Article]) -> list[dict]:
     return out
 
 
-def _extract_json(text: str) -> dict:
-    """Claude is asked to return raw JSON, but be defensive in case it wraps it
-    in code fences or commentary."""
-    text = text.strip()
-    if text.startswith("```"):
-        # strip code fence
-        lines = text.splitlines()
-        if lines[0].startswith("```"):
-            lines = lines[1:]
-        if lines and lines[-1].startswith("```"):
-            lines = lines[:-1]
-        text = "\n".join(lines)
-    try:
-        return json.loads(text)
-    except json.JSONDecodeError:
-        # last-ditch: find first { and last }
-        start = text.find("{")
-        end = text.rfind("}")
-        if start >= 0 and end > start:
-            return json.loads(text[start:end + 1])
-        raise
-
-
 def _match_url_hashes(chosen_urls: list[str], candidates: list[Article]) -> list[str]:
     by_url = {a.url: a.url_hash for a in candidates}
     return [by_url[u] for u in chosen_urls if u in by_url]
+
+
+def _call_claude(client: Anthropic, user_msg: str) -> tuple[dict, str]:
+    """Single Claude call with schema-enforced JSON output. Returns (parsed, raw_text)."""
+    msg = client.messages.create(
+        model=CLAUDE_MODEL,
+        max_tokens=16000,
+        system=SYSTEM_PROMPT,
+        messages=[{"role": "user", "content": user_msg}],
+        output_config={"format": {"type": "json_schema", "schema": _DIGEST_SCHEMA}},
+    )
+    raw = next(b.text for b in msg.content if b.type == "text")
+    return json.loads(raw), raw
 
 
 def summarize(candidates: list[Article], cfg: Config, date_label: str) -> Optional[Digest]:
@@ -275,14 +321,27 @@ def summarize(candidates: list[Article], cfg: Config, date_label: str) -> Option
     )
 
     log.info("Sending %d candidates to Claude for summarization", len(candidates))
-    msg = client.messages.create(
-        model=CLAUDE_MODEL,
-        max_tokens=16000,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": user_msg}],
-    )
-    raw = msg.content[0].text  # type: ignore[union-attr]
-    parsed = _extract_json(raw)
+
+    # Up to 3 attempts. The API enforces JSON-schema validity, so json.loads
+    # should never raise. We retry on transient API errors (overload, 5xx)
+    # and on the off chance the SDK ever returns malformed JSON.
+    last_err: Exception | None = None
+    parsed: dict | None = None
+    raw: str = ""
+    for attempt in range(3):
+        try:
+            parsed, raw = _call_claude(client, user_msg)
+            break
+        except (anthropic.APIStatusError, anthropic.APIConnectionError, json.JSONDecodeError) as e:
+            last_err = e
+            wait = 2 ** attempt
+            log.warning(
+                "Claude summarize attempt %d/3 failed (%s: %s); retrying in %ds",
+                attempt + 1, type(e).__name__, e, wait,
+            )
+            time.sleep(wait)
+    if parsed is None:
+        raise RuntimeError(f"Claude summarize failed after 3 attempts: {last_err}") from last_err
 
     chosen_urls: list[str] = []
     for section in parsed.get("sections", []):
