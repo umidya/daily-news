@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 12 May 2026 14:18:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:37:28 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, May 12, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-12.html</link>
-      <description>Today's briefing has two dominant threads worth your strategic attention, Midya. The international student pipeline is under simultaneous pressure from multiple directions — visa uncertainty globally, a 20% US enrolment drop redirecting demand, and UK universities now facing inso...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-12.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-12.mp3" length="16757760" type="audio/mpeg"/>
-      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, May 13, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-13.html</link>
+      <description>Two threads run through today's news that directly affect your consulting pipeline and positioning, Midya. First, the international student market is visibly fracturing — visa uncertainty is now reshaping student decisions globally, enrolments at Canadian institutions are under s...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-13.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-13.mp3" length="15145920" type="audio/mpeg"/>
+      <pubDate>Wed, 13 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
