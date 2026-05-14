@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "date": "Thursday, May 14, 2026",
+  "dateIso": "2026-05-14",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "13:20",
+  "currentTime": "0:00",
+  "remaining": "13 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Three threads converge today that touch almost every part of your work, Midya. The SpaceX and OpenAI IPO pipeline — potentially $5 trillion hitting public markets — signals that the AI investment era is entering a new, more volatile phase, which matters for how you position AI-in-marketing consulting to clients who are watching budgets tighten or loosen with markets. On the higher-ed front, the US OPT crackdown and the Halifax Examiner's anatomy of Canadian universities' international-student dependency are two sides of the same pressure building on Canadian institutions — the kind of institutional anxiety that creates consulting openings for someone who can help them rethink enrolment and brand strategy.",
+  "digestReadingTime": "7 min read",
+  "whyItMatters": "Three threads converge today that touch almost every part of your work, Midya. The SpaceX and OpenAI IPO pipeline — potentially $5 trillion hitting public markets — signals that the AI investment era is entering a new, more volatile phase, which matters for how you position AI-in-marketing consulting to clients who are watching budgets tighten or loosen with markets. On the higher-ed front, the US OPT crackdown and the Halifax Examiner's anatomy of Canadian universities' international-student dependency are two sides of the same pressure building on Canadian institutions — the kind of institutional anxiety that creates consulting openings for someone who can help them rethink enrolment and brand strategy. And the King's College–Cranfield merger is a signal that globally, universities are consolidating to compete — Canadian institutions will face the same logic, and the ones without a differentiated brand story will be the most vulnerable. Keep an eye on energy: the Iran-AI energy squeeze story is the macro context behind everything from data-centre costs to your clients' operating budgets.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-14.mp3",
+  "audioDurationSeconds": 800,
+  "audioScript": "Good morning, Midya. It's Thursday, May fourteenth, twenty twenty-six. Three big threads converge today — AI's moral reckoning, a Canadian higher-ed crisis hiding in plain sight, and a global energy squeeze that ties everything else together. Let's get into it.\n\nLet's start with artificial intelligence, because today's AI story isn't about a product launch or a benchmark — it's about the Church.\n\nPope Leo XIV is expected to sign his first papal encyclical as early as tomorrow, and it is squarely aimed at artificial intelligence. The document, reportedly titled Magnifica Humanitas — \"Magnificent Humanity\" — is being released on the anniversary of Rerum Novarum, the eighteen ninety-one encyclical that defined the Catholic Church's response to industrial capitalism and factory labour. That timing is deliberate. Leo is making the argument explicitly: what happened to workers in the first industrial revolution is happening again, and AI is the machine at the centre of it.\n\nNow, you might wonder why this belongs in a morning briefing for a marketing executive. Here's why. The Catholic Church has one point four billion members. When the Vatican issues a moral framework — especially one that explicitly names AI as a labour and human-dignity crisis — it moves public opinion, it moves policy conversations in Europe, and it gives language to anxieties that millions of people feel but can't articulate. For a consultant specialising in AI in marketing, this is your new context. Clients will increasingly ask not just whether to use AI, but whether using it is consistent with their values and their brand. Leo just handed those conversations a vocabulary.\n\nThe second AI story is quieter but practically significant. The Verge has a thoughtful piece on what they're calling the \"vibe coding\" revolution — the idea that AI-assisted programming is finally making personalised, bespoke software accessible to people who cannot code. The tyranny of off-the-shelf software, where you bend your process to fit the tool, may genuinely be ending. For your consulting practice, this is worth thinking about concretely: the workflow tools you wish existed — a client intake system built exactly the way you think, a proposal generator trained on your brand voice, a research aggregator calibrated to your sectors — these are increasingly things you can build yourself in hours, not weeks. That changes what a solo or small consultancy can deliver.\n\nAnd then there's the governance question. Former Meta news chief Campbell Brown gave a candid interview to TechCrunch in which she pointed out the stark disconnect between how Silicon Valley thinks about AI content governance — as a technical and legal problem — and how actual consumers experience it — as a trust and truth problem. Her point: those two conversations are not happening in the same room. For any of your university clients thinking about adopting AI in student communications or admissions, this disconnect is the exact risk they need to understand before they deploy.\n\nOn the marketing side, two stories worth your attention.\n\nHousingWire published a sharp piece on what they call the \"first fifteen minutes\" problem in real estate brokerages. The argument is that most lost deals are invisible — they don't fail at negotiation or inspection. They fail in the gap between an inquiry landing and anyone doing something useful with it. The prospect reached out, nobody responded fast enough, and the moment was gone. No report captures it. No pipeline ever showed it. This is an AI-in-sales story dressed up as a brokerage operations story, and it's directly relevant to your consulting lens. The fix — intelligent, immediate, personalised lead response — is exactly where AI marketing tools are being deployed right now. If you're building service offerings around AI in marketing, this is one of the most concrete ROI stories you can bring to a client conversation.\n\nThe other marketing story: Cannes Lions has new entry rules this year, and agencies are describing the process as burdensome — but most say it was necessary. After last year's controversies around fabricated or exaggerated case studies, Cannes is requiring more documentation, more verification, more transparency about how campaigns actually performed. This is the awards industry grappling with the same authenticity crisis that's hitting AI-generated content everywhere. The standard for what counts as real, verifiable, honest creative work is being reset. As someone who might be advising clients on brand campaigns and how to think about award-worthy work, it's worth knowing that the bar is moving.\n\nHigher education now — and this is where I want you to lean in, because today's stories are unusually rich for your consulting pipeline.\n\nThe Halifax Examiner has published what sounds like an important long read on how international students became, in their words, \"cash cows\" for Canadian universities — and what happens now that the federal government has tightened study permit caps. The piece traces how institutions allowed themselves to become financially dependent on international tuition revenue in ways that were never sustainable, and how that dependency quietly hollowed out the infrastructure, housing, and support those students actually needed. We're now in the hangover phase. Enrolments are down, revenue is stressed, and institutions that built their financial model on international growth are facing hard questions about where the money comes from next. This is not just a policy story — it is a business model crisis. And a business model crisis at a university is exactly the moment when external consulting support becomes attractive. If you are targeting Canadian universities as clients, this piece is required reading. It names the wound. Your job is to help them figure out the strategy.\n\nThe US side of this story is also worth watching closely. ICE's acting director held a press conference this week to announce that immigration enforcement has found more than ten thousand cases of fraud in the Optional Practical Training programme — the post-study work programme that international graduates of American universities rely on to stay and work. He explicitly said more actions are coming. This matters for Canada in two ways. First, some of the talent that would have stayed in the US may now redirect to Canada — or to the UK. Second, Canadian universities watching the US crackdown are getting a preview of how aggressive enforcement can reshape enrolment patterns almost overnight. It is a cautionary tale and a market opportunity simultaneously.\n\nAnd then there's the merger that should be ringing alarm bells in boardrooms from Halifax to Victoria. King's College London and Cranfield University have announced a proposed merger to take effect in twenty twenty-seven. These are not small institutions — King's is one of the oldest and most prestigious universities in the UK, and Cranfield is a world leader in engineering, defence, and environmental science. The rationale is explicit: together they will be more globally competitive than apart. This is consolidation logic. The same logic applies to Canadian institutions, particularly mid-sized universities that are strong in specific areas but lack the scale or brand recognition to compete globally for students, faculty, and research funding. Watch this space. The institutions that don't have a clear differentiated brand story — who they are, what they stand for, why a student should choose them — will be the most vulnerable when the Canadian equivalent of this conversation begins.\n\nA brief but interesting real estate note. Realtor.com has published an analysis, using Pearl SCORE data, showing that newly built homes carry about a sixty-thousand-dollar list price premium over existing homes nationally in the US, but that new-home buyers actually come out ahead by more than twenty-five thousand dollars over the first ten years when you factor in lower energy costs and reduced major-system maintenance. The headline number — new homes are expensive — turns out to be misleading when you look at total cost of ownership. This is a framing story as much as a data story. It's the kind of analysis that changes how buyers think about what they're actually buying. For anyone in the brokerage world, it's a talking point worth having in your back pocket.\n\nGlobal picture now, and there are three stories that form a coherent macro frame for your week.\n\nFirst: SpaceX is expected to IPO next month at a valuation of up to two trillion dollars. That number alone is staggering, but the larger point is this — OpenAI and Anthropic are also expected to go public this year. Venture capitalist Paul Kedrosky estimates that these three companies could collectively add five trillion dollars in new value to public markets. Think about what that means for index composition, for institutional portfolios, for the gravitational pull these stocks will exert on how capital flows. We are about to enter a phase where AI companies are not just influential in private markets — they will be among the largest public companies on Earth. Every boardroom conversation about AI investment strategy is about to get a lot more concrete.\n\nSecond: Kevin Warsh was confirmed as the new chair of the Federal Reserve Wednesday, fifty-four to forty-five, on a largely partisan vote. Jerome Powell's term ends Friday. Warsh inherits an economy dealing with resurgent inflation, significant market uncertainty, and — importantly — a Federal Reserve whose independence is under more political pressure than at any point in modern history. Warsh has promised sweeping change at the institution. For Midya, the practical implication is simple: the person who sets American interest rates for the next four years is new, untested in this role at this moment, and signalling change. That affects the Bank of Canada's room to manoeuvre. It affects Canadian mortgage rates. It affects the real estate market you track.\n\nThird, and perhaps the most important macro frame of the day: Axios has a piece arguing that energy is now the world's singular binding constraint. Oil price risk from the Iran conflict and electricity demand from AI data centres are competing for the same global energy supply on a timeline that grids and supply chains were not designed for. This isn't abstract — energy costs are already embedded in data centre pricing, which is embedded in the cost of every AI tool you or your clients use. And oil price shocks from Iran will flow through to inflation, which flows through to interest rates, which flows through to housing. Everything is connected through energy right now.\n\nTwo longevity stories from solid sources today.\n\nNature Medicine published a study on advances to AMIE — the Articulate Medical Intelligence Explorer, a large language model built for diagnostic conversation. The upgrade allows the model to actively request, interpret, and reason across multimodal clinical data: text, imaging, lab results, all in a single diagnostic dialogue. This is genuinely meaningful progress. It moves AI from summarising clinical notes to actually participating in the reasoning process of diagnosis. For your broader interest in AI's expansion into regulated, high-stakes domains, this is a landmark paper. It's also a preview of the AI-in-healthcare debates that will intensify over the next few years.\n\nAnd from STAT News: Biogen is pressing forward with its tau-targeting Alzheimer's drug — diranersen — into Phase 3 trials, despite what the company itself describes as mixed results from Phase 2. The Alzheimer's field is in a difficult place. Amyloid-targeting drugs have had modest benefit at best and serious side-effect risks. The tau protein pathway is the next major hypothesis, and Biogen is betting on it despite the ambiguous data. This is not a clear win for patients yet, but it signals that the field is not giving up on finding a disease-modifying therapy for Alzheimer's — which matters enormously for all of us thinking about the health of ourselves and our parents over the coming decades.\n\nThat's your Thursday, Midya. The thread I'd carry into your day is this: the Canadian higher-education funding model is cracking in a way that is visible from the outside, and that visibility is your opening. The institutions that will move fastest to address it are the ones with leadership who already understand the problem — your job is to be in those conversations before the crisis becomes unavoidable. On the AI side, today's stories — from the Pope to vibe coding to the SpaceX IPO — are all telling the same story: AI is no longer a technology conversation, it's a civilisational one, and the advisors who can translate that into practical business terms will be the ones in demand. Go make it a good day.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Pope Leo XIV to release first papal encyclical framing AI as a moral and labour crisis",
+      "summary": "Pope Leo XIV is expected to sign \"Magnifica Humanitas\" as early as Friday, explicitly positioning AI as the defining human-dignity challenge of a new industrial revolution — the Church's most authoritative statement yet on AI ethics and labour.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/14/pope-leo-xiv-ai-first-encyclical",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/B9GPpViHYs0zqR2WMYiBwh1Tjf8=/128x128/smart/2026/05/12/1778598628243.jpg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Vibe coding is making personal software a reality for non-developers",
+      "summary": "The Verge argues that AI-assisted \"vibe coding\" is ending the era of one-size-fits-all software, letting non-programmers build tools tailored to their own workflows — a shift with direct implications for how marketing consultants build and sell bespoke client solutions.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268478_era_of_personal_software_CVirginia18.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Who controls what AI tells you? Campbell Brown's post-Meta perspective",
+      "summary": "Former Meta news chief Campbell Brown warns that Silicon Valley's internal conversation about AI content governance is completely disconnected from what consumers actually want and fear — a gap that matters enormously for brands using AI-generated content.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/55242809761_199f3d15fd_k.jpg?resize=1200,800"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Pope Leo XIV to release first papal encyclical framing AI as a moral and labour crisis",
+      "summary": "Pope Leo XIV is expected to sign \"Magnifica Humanitas\" as early as Friday, explicitly positioning AI as the defining human-dignity challenge of a new industrial revolution — the Church's most authoritative statement yet on AI ethics and labour.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/14/pope-leo-xiv-ai-first-encyclical",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/B9GPpViHYs0zqR2WMYiBwh1Tjf8=/128x128/smart/2026/05/12/1778598628243.jpg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Vibe coding is making personal software a reality for non-developers",
+      "summary": "The Verge argues that AI-assisted \"vibe coding\" is ending the era of one-size-fits-all software, letting non-programmers build tools tailored to their own workflows — a shift with direct implications for how marketing consultants build and sell bespoke client solutions.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268478_era_of_personal_software_CVirginia18.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Who controls what AI tells you? Campbell Brown's post-Meta perspective",
+      "summary": "Former Meta news chief Campbell Brown warns that Silicon Valley's internal conversation about AI content governance is completely disconnected from what consumers actually want and fear — a gap that matters enormously for brands using AI-generated content.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/55242809761_199f3d15fd_k.jpg?resize=1200,800"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Response speed is the hidden revenue leak killing brokerages — and most consultants",
+      "summary": "HousingWire's analysis of brokerage lead loss finds that most deals die in the first 15 minutes after inquiry — not on price or inventory — pointing to an AI-powered lead-response gap that is both a brokerage problem and a consulting opportunity.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/the-first-15-minutes-that-cost-brokerages-revenue/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/05/Contributors-Piece-5.png"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Cannes Lions tightens entry rules after year of scandal — agencies call it burdensome but necessary",
+      "summary": "New verification and transparency requirements for Cannes Lions entries are facing their first real test this year, reshaping how agencies document and prove campaign authenticity — relevant context for any consultant advising on award-worthy brand work.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/agencies/agencies-say-new-cannes-lions-entry-rules-are-burdensome-but-necessary/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/GettyImages-1237686771.jpg?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "How international students became cash cows for Canadian universities — and why that's now a crisis",
+      "summary": "The Halifax Examiner traces how Canadian universities built unsustainable financial dependence on international tuition, leaving institutions exposed now that federal caps have tightened — a structural vulnerability that creates real consulting demand around enrolment diversification and brand repositioning.",
+      "source": "Halifax Examiner",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2xub0pBanBVcXdtVUwtOXFoMEVoQlJBNVZQb24wcHZOT0JQV0F2WHNTYi1OYVVBRjZ6bllxS2RwMGkzX3Jzdm1kc3N6LVBncDJxLXVva1lkMDd6dUxYQWhkNTJsRVJpTU9nemtEZFRBVlYwVlNtTzh1RTdMSUZSbHVpTHlmZnVkeXNfbVJCZlF0WGN3LXF1TzdSN3Y4NEpkUk8tRThPWnNDSmdfa1d0LWNR?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "US ICE alleges 10,000-plus cases of OPT fraud, signals more enforcement coming",
+      "summary": "ICE's acting director publicly flagged widespread abuse of the Optional Practical Training post-study work programme and promised further action, adding pressure on international graduates already facing a hostile US immigration climate — and potentially redirecting talent flows toward Canada or the UK.",
+      "source": "ICEF Monitor",
+      "url": "https://monitor.icef.com/2026/05/us-immigration-officials-allege-opt-is-being-widely-abused-and-say-more-actions-are-forthcoming/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/05/ice-1200.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "King's College London and Cranfield University announce proposed 2027 merger",
+      "summary": "Two major UK institutions are merging to create a globally competitive university spanning engineering, defence, environmental science, and business — a consolidation signal Canadian universities cannot ignore as they compete for the same international students.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/kings-college-london-and-cranfield-announce-proposed-2027-merger/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.com/wp-content/uploads/2026/05/Kings-Cranfield.webp"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "New homes carry a 10-year total cost advantage over resale despite higher list price: Realtor.com",
+      "summary": "A Realtor.com analysis finds that despite a ~$60K list-price premium, new-construction buyers gain a $25K+ advantage in total cost of ownership over 10 years through lower energy and maintenance costs — a talking point reshaping how buyers and agents frame value.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/new-construction-10-year-total-cost-ownership-realtor-com-analysis/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2025/11/new-Homes_052024_story.jpg"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "SpaceX IPO expected next month at up to $2 trillion valuation — OpenAI and Anthropic to follow",
+      "summary": "The combined IPOs of SpaceX, OpenAI, and Anthropic could inject up to $5 trillion in AI-era stocks into public markets this year, fundamentally reshaping index composition and institutional portfolios in ways that will ripple through every sector's budget and boardroom.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/14/spacex-musk-sp-stocks",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/RmGky_Uv7o5FecvMYHqeKOSqEvg=/613x0:1693x1080/320x320/2026/05/13/1778711499956.jpeg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Kevin Warsh confirmed as Federal Reserve chair as Powell's term ends Friday",
+      "summary": "Warsh, confirmed 54–45 on largely partisan lines, inherits a Fed facing resurgent inflation, market volatility, and unprecedented political pressure on its independence — the monetary policy context behind every Canadian interest rate and mortgage decision for the next four years.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/13/warsh-fed-senate-trump",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/ZHvg_3_dbEAMk0M92PxACOd5GQg=/2006x0:6769x4763/320x320/2026/05/13/1778689794485.jpeg"
+    },
+    {
+      "id": "story-global_business_tech-2",
+      "category": "Global",
+      "headline": "Energy is the world's binding constraint — Iran war and AI boom are competing for the same electrons",
+      "summary": "Axios frames energy scarcity as the single thread connecting oil-price risk from the Iran conflict with the electricity demands of AI data centres, arguing grids and supply chains are unprepared for both pressures simultaneously.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/14/energy-squeeze-iran-ai-boom",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/51fSxJr8s_lTyH07CYW8-0gNORU=/320x320/smart/2021/09/09/211748-1631222268215.jpg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "Nature Medicine: Multimodal AI diagnostic model now reasons across text, images, and clinical data",
+      "summary": "Nature Medicine study: the AMIE large language model has been upgraded to request and interpret multimodal clinical data during diagnostic dialogue, advancing AI's role in real-world medical decision-making well beyond text-only interactions.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04371-0",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04371-0/MediaObjects/41591_2026_4371_Fig1_HTML.png"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "STAT News: Biogen moves tau-targeting Alzheimer's drug to Phase 3 despite mixed mid-stage results",
+      "summary": "STAT News reports Biogen is advancing diranersen to Phase 3 despite ambiguous Phase 2 data, reflecting the field's urgent pressure to find any viable Alzheimer's therapy beyond amyloid — relevant given family dementia-risk planning horizons.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/05/14/biogen-alzheimers-tau-diranersen-midstage-study-mixed-results/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Biogen01-645x645.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "2:53",
+      "startSeconds": 16
+    },
+    {
+      "id": "c2",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:40",
+      "startSeconds": 189
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "3:05",
+      "startSeconds": 289
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "0:48",
+      "startSeconds": 474
+    },
+    {
+      "id": "c5",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "2:24",
+      "startSeconds": 522
+    },
+    {
+      "id": "c6",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:30",
+      "startSeconds": 666
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Vibe coding is making personal software a reality for non-developers",
+    "summary": "The Verge argues that AI-assisted \"vibe coding\" is ending the era of one-size-fits-all software, letting non-programmers build tools tailored to their own workflows — a shift with direct implications for how marketing consultants build and sell bespoke client solutions.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268478_era_of_personal_software_CVirginia18.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Pope Leo XIV to release first papal encyclical framing AI as a moral and labour crisis",
+    "summary": "Pope Leo XIV is expected to sign \"Magnifica Humanitas\" as early as Friday, explicitly positioning AI as the defining human-dignity challenge of a new industrial revolution — the Church's most authoritative statement yet on AI ethics and labour.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/05/14/pope-leo-xiv-ai-first-encyclical",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/B9GPpViHYs0zqR2WMYiBwh1Tjf8=/128x128/smart/2026/05/12/1778598628243.jpg"
+  },
+  "heroImageUrl": "https://images.axios.com/B9GPpViHYs0zqR2WMYiBwh1Tjf8=/128x128/smart/2026/05/12/1778598628243.jpg"
+}

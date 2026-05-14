@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 13 May 2026 11:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 11:37:00 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, May 13, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-13.html</link>
-      <description>Two threads run through today's news that directly affect your consulting pipeline and positioning, Midya. First, the international student market is visibly fracturing — visa uncertainty is now reshaping student decisions globally, enrolments at Canadian institutions are under s...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-13.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-13.mp3" length="15145920" type="audio/mpeg"/>
-      <pubDate>Wed, 13 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, May 14, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-14.html</link>
+      <description>Three threads converge today that touch almost every part of your work, Midya. The SpaceX and OpenAI IPO pipeline — potentially $5 trillion hitting public markets — signals that the AI investment era is entering a new, more volatile phase, which matters for how you position AI-in...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-14.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-14.mp3" length="16008000" type="audio/mpeg"/>
+      <pubDate>Thu, 14 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
