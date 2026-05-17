@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 2,
+  "date": "Sunday, May 17, 2026",
+  "dateIso": "2026-05-17",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "11:51",
+  "currentTime": "0:00",
+  "remaining": "11 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Two threads dominate today that sit directly at the intersection of your work and your world: the Taiwan-chip risk story is not just geopolitics — if Xi moves on Taiwan in the next five years, the AI infrastructure your consulting practice depends on gets choked at the source, and every Canadian university client betting on AI transformation faces the same exposure. Meanwhile, the PGWP language-confusion rejections are active damage to the international student pipeline that Canadian institutions are already struggling to manage post-cap, which is both a policy problem and a real consulting opening. Closer to home, TRU's professor is publicly flagging data-security gaps in the wake of a global cyberattack — a named local institution, a reputational risk story, and a potential entry point for a technology or risk-communications mandate.",
+  "digestReadingTime": "6 min read",
+  "whyItMatters": "Two threads dominate today that sit directly at the intersection of your work and your world: the Taiwan-chip risk story is not just geopolitics — if Xi moves on Taiwan in the next five years, the AI infrastructure your consulting practice depends on gets choked at the source, and every Canadian university client betting on AI transformation faces the same exposure. Meanwhile, the PGWP language-confusion rejections are active damage to the international student pipeline that Canadian institutions are already struggling to manage post-cap, which is both a policy problem and a real consulting opening. Closer to home, TRU's professor is publicly flagging data-security gaps in the wake of a global cyberattack — a named local institution, a reputational risk story, and a potential entry point for a technology or risk-communications mandate. The Ebola PHEIC declaration from WHO is worth watching for your family's situational awareness, even though Canada's direct risk is currently low.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-17.mp3",
+  "audioDurationSeconds": 711,
+  "audioScript": "Good morning, Midya. It's Sunday, May seventeenth, twenty twenty-six. Here's what's shaping your week before it even begins.\n\nLet's open with the story that has the longest shadow over everything else you're tracking — and it's not what the headline writers are leading with. Axios is reporting, citing sources inside Trump's own advisory circle, that some of the president's closest advisers left the Beijing summit genuinely alarmed. Not reassured — alarmed. The concern is that Xi Jinping used the pageantry of the visit to send a message, and the message was: China is no longer positioning itself as a rising power. It's positioning itself as an equal. And Taiwan is China's. One adviser is quoted saying Xi is essentially declaring, \"Taiwan is mine\" — not as bluster, but as strategic framing that signals movement, potentially within five years. Now, why does this matter to you specifically, beyond the obvious geopolitical dimension? Because if China moves on Taiwan, the first casualty for the global technology economy is semiconductor supply. Taiwan Semiconductor Manufacturing Company — TSMC — produces the overwhelming majority of the advanced chips that power AI. Every foundation model, every AI product your clients are deploying or exploring, every consulting engagement built on the assumption that AI infrastructure is stable and accessible — all of it runs on chips that, in a Taiwan conflict scenario, become a choke point overnight. This is not a distant risk to file away. It's the kind of systemic exposure that a senior AI strategy adviser should be building into scenario planning for any client conversation about technology investment. So keep this one close.\n\nAlso in global news: the WHO has declared a public health emergency of international concern — a PHEIC — over the Ebola outbreak spreading from the Democratic Republic of the Congo into Uganda. The strain involved is Bundibugyo Ebola, and this is the highest-level alert the WHO can issue. Canada's direct risk is currently low, but a PHEIC triggers global containment protocols, international funding mechanisms, and travel advisory reviews. I'm flagging it for family situational awareness rather than immediate alarm — but it's worth knowing the formal status has escalated. STAT News has the clearest reporting on it.\n\nAnd briefly: Senator Bill Cassidy of Louisiana — who chaired the Senate health committee — was knocked out of his own Republican primary on Saturday. Trump endorsed his challenger after Cassidy voted to convict during the impeachment trial. The two Trump-aligned candidates now go to a runoff on June twenty-seventh. The practical consequence is that Senate health and pharmaceutical regulatory policy moves further into Trump-aligned hands. For your higher-ed and healthcare-adjacent clients, the downstream effects on research funding and FDA posture are worth watching.\n\nOn the AI front, TechCrunch published an analysis this weekend that deserves more attention than its relatively quiet Saturday posting suggests. The piece examines what they're calling the haves and have-nots of the AI gold rush — and the core finding is that the economic benefits of the current boom are concentrating sharply among a very small tier of well-capitalised companies, while the vast middle of the market, including mid-size enterprises and most workers, are either being disrupted without being compensated or are simply being left behind. This is directly relevant to your consulting positioning. If you're going in to Canadian universities or mid-market organisations to advise on AI strategy, understanding this bifurcation is essential — because your clients are almost certainly in the \"have-not\" tier by resource comparison to the hyperscalers, and the pitch can't be \"do what OpenAI does.\" It has to be about leverage, about finding the specific places where AI creates asymmetric advantage for organisations that can't just write a hundred-million-dollar cheque. That framing is a consulting differentiator worth sharpening.\n\nThe second AI story is actually a higher-education crossover that I'll elaborate on more in that section, but the headline is: ArXiv — the preprint server that is, frankly, the backbone of academic research distribution in AI and the sciences — has announced it will ban authors for a full year if they allow AI to generate their entire submission. This is significant. It's not a ban on AI assistance; it's a ban on AI authorship. The distinction matters enormously for every university that is currently drafting AI-use policies, academic integrity frameworks, and research guidelines. The institution that gets its policy architecture right — that draws the right line between augmentation and replacement — will be in a much stronger position for accreditation, for faculty retention, and for research credibility. If you're walking into a Canadian university as a consulting prospect, this is a live conversation you can lead with.\n\nNow to higher education, which has two stories today and both of them have real teeth. The first is a Global News report on what's happening with post-graduation work permits — PGWPs. The short version is that ambiguous language in the permit requirements is resulting in IRCC rejections for students who genuinely believed they were compliant. They followed the rules as they understood them, they completed their programs, they applied — and they're being rejected because the language of the policy is sufficiently unclear that interpretation varies. This is active damage to Canada's international student value proposition at exactly the wrong moment. Universities have already absorbed the blow of the intake caps. They're already navigating a reduced international pipeline. And now the pathway that makes Canada attractive — the post-graduation work opportunity — is producing rejection stories that will circulate in the source markets: India, China, the Philippines, Nigeria. Prospective students talk to former students. If the PGWP is unreliable, the calculus for choosing Canada over Australia or the UK shifts. Every Canadian institution needs to be monitoring this and communicating proactively with current and prospective students about what it means. That is a communications and strategy mandate, and it's one where an outside consultant with a clear point of view on international student retention could walk in the door with immediate value.\n\nThe second story is even closer to home. A Thompson Rivers University professor — your own local institution — is publicly calling for a systemic review of how schools handle data security, in the wake of a global cyberattack. The professor's public comments signal that TRU is feeling exposed and is aware of the reputational dimension of this. Cybersecurity incidents at universities are not just IT problems; they are brand problems, trust problems, and increasingly, enrolment problems — because students and families choosing an institution are paying attention to how institutions handle their data. A university that gets ahead of this with a credible public communications strategy and a demonstrated commitment to security review is in a better position than one that goes quiet and hopes nobody notices. If you have any existing relationship with TRU, or are building one, this is an organic entry point. The professor's public statement is effectively an invitation for institutional leadership to engage.\n\nFor real estate, two stories worth your attention this Sunday. The first is on Real Brokerage — the Canadian-founded tech-forward brokerage that competes in the same space as eXp Realty. Investor analysts are flagging it this week on the back of what they're describing as strong earnings momentum and credible expansion plans. It's worth tracking because the competitive dynamics between Real Brokerage and eXp in the Canadian market are genuinely interesting — Real has a home-court advantage in Canadian brand recognition, while eXp has deeper global infrastructure. As eXp's direction continues to evolve, knowing how its closest Canadian competitor is positioning matters.\n\nThe second is from HousingWire in the US, but it's a useful leading indicator for Canada: despite mortgage rates hitting their highest levels of the year and ten-year Treasury yields approaching four-point-six percent, pending home sales and purchase applications actually rose seven percent year-over-year. What that tells you is that pent-up demand in the market is real and is stubbornly persistent even in a high-rate environment. Canada is watching the Bank of Canada's rate path closely, and if the US is demonstrating that demand doesn't collapse even when rates stay elevated, that has implications for Canadian housing market expectations through the rest of twenty twenty-six. Not a dramatic story, but a useful data point for anyone tracking the sector.\n\nLocally, two things worth knowing. First, Kamloops is hosting what's being described as the first-of-its-kind BC outdoor recreation conference next week. This is a meaningful signal about Kamloops's positioning in the provincial economy — the city is increasingly being seen as a hub for outdoor recreation strategy and policy, which connects directly to Sun Peaks' profile and the broader Thompson-Okanagan tourism corridor. Worth knowing if you're tracking local economic development or building any community relationships in Kamloops.\n\nAnd on a lighter note: a historic Kamloops church has reopened after restoration following a fire. Small story, but it's the kind of community milestone that matters for local cohesion — and it's the sort of thing worth being aware of if you're active in the community.\n\nFinally, two items under the miscellaneous flag, both of which have a BC family safety dimension. The Vancouver Sun is reporting that BC is having its worst wildfire season start on record — the worst on record — and El Niño conditions are forecast to intensify through the summer. For anyone with family or property in the interior, including the Kamloops and Sun Peaks area, this is the time to confirm your emergency preparedness is in order: evacuation routes, go-bags, insurance documentation, and registration with local emergency alerts if you haven't already. This is not alarmism — it's the kind of thing that is easy to delay until it isn't.\n\nThe second item: a Canadian couple from the Yukon, aboard a cruise ship, has a confirmed Hantavirus case being managed on Vancouver Island. Hantavirus is rare, serious, and spread through rodent contact — not person-to-person. BC public health is monitoring. The reason I'm including it is not to generate concern, but because it's the kind of unusual public health development in BC that it's useful to know about, especially heading into summer when outdoor activity and cabin use increases. If your family spends time in rural or forested areas around Kamloops or Sun Peaks, the seasonal reminder about rodent-proofing and avoiding nesting sites is always timely.\n\nThat's your Sunday briefing, Midya. The Taiwan-chip story and the PGWP rejections are the two I'd sit with longest today — one is a long-range systemic risk to your AI thesis, and the other is an active client-opening in Canadian higher education that is unfolding right now. Have a grounded Sunday, and go into the week knowing where the real leverage points are.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Trump advisers fear China could target Taiwan within five years — and AI chip supply is the stakes",
+      "summary": "Close Trump advisers warn that Xi used the Beijing summit to signal Taiwan is \"his\" and that a move within five years would cut off the semiconductor supply powering American AI — a systemic risk for every company and institution betting on AI transformation.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/17/trump-xi-summit-china-taiwan-invasion",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/-1Wuvuks--Byi_Dxt-tXM0qnjGY=/728x0:3360x2632/320x320/2026/05/16/1778892649289.jpg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "The haves and have-nots of the AI gold rush",
+      "summary": "TechCrunch's analysis finds the AI boom's benefits are concentrating sharply among a small tier of well-capitalised players, with most companies and workers on the outside looking in — a dynamic with direct implications for how consulting practices position AI offerings.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "ArXiv will ban authors for a year if AI writes all their work",
+      "summary": "The world's largest preprint server is now enforcing a one-year ban on authors who use LLMs to generate entire submissions, signalling that the research and academic community is drawing a hard line on AI authorship — relevant to any university client developing AI-use policy.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg?resize=1200,800"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Trump advisers fear China could target Taiwan within five years — and AI chip supply is the stakes",
+      "summary": "Close Trump advisers warn that Xi used the Beijing summit to signal Taiwan is \"his\" and that a move within five years would cut off the semiconductor supply powering American AI — a systemic risk for every company and institution betting on AI transformation.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/17/trump-xi-summit-china-taiwan-invasion",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/-1Wuvuks--Byi_Dxt-tXM0qnjGY=/728x0:3360x2632/320x320/2026/05/16/1778892649289.jpg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "The haves and have-nots of the AI gold rush",
+      "summary": "TechCrunch's analysis finds the AI boom's benefits are concentrating sharply among a small tier of well-capitalised players, with most companies and workers on the outside looking in — a dynamic with direct implications for how consulting practices position AI offerings.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "ArXiv will ban authors for a year if AI writes all their work",
+      "summary": "The world's largest preprint server is now enforcing a one-year ban on authors who use LLMs to generate entire submissions, signalling that the research and academic community is drawing a hard line on AI authorship — relevant to any university client developing AI-use policy.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg?resize=1200,800"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "PGWP language confusion is triggering real rejections for international graduates",
+      "summary": "Ambiguous wording in post-graduation work permit requirements is causing IRCC rejections for students who believed they were compliant — a live policy failure that is eroding trust in Canada's international student value proposition and directly stressing enrolment pipelines at every Canadian institution.",
+      "source": "Global News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yQnU5dnN0QXNCaW5OUkh0bU1ydVpoemwwZXZkeW9KalQ1Sjd4emM3T1IzZm1vV0pQSlJ2ckd5ZmhaREtWNVNfSlUtdTBGMkYxckNWQ2xLMWUtT0NVbXQ3WDNlanBiTDhBWDF4MFRoelhlMWY2dzlHOTVZeUEwdw",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "TRU professor calls for urgent review of school data-security rules after global cyberattack",
+      "summary": "A Thompson Rivers University professor is publicly urging an overhaul of how educational institutions handle data security following a major international cyberattack — a reputational and operational risk story for TRU specifically, and a potential consulting signal for institutions needing communications or risk strategy support.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN3RzcGdJbkVodlhPRWV0UVR2UExGYUZBUkJYc1A2X2RhTS0xUFRWQldyck40aklHVDFkNmU5V3hZVDdRcGFIcThOd0dPU0hOSldrejZSdUpZUGxJcC1ZeFBrLXFrR1AzTHcwbFYwdDVxZENSeGlPeUp4cEJfSmcxUm1PeGsxOFpLaWhFVGdKc3ZKZDVPbkVMMUVhZloxSGNCNGlVSlpjaWlKN0pidmtQNU1PMDZEVTl1T1lkV0k5NkhMZ2d5aGlLSm1EVG5LQUgzYkJfUk0zWQ",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Real Brokerage earnings momentum and expansion plans drawing investor focus",
+      "summary": "Real Brokerage — the Canadian-founded competitor to eXp Realty — is attracting fresh investor attention on the back of strong earnings and announced expansion, worth tracking as it signals where the tech-forward brokerage segment is heading.",
+      "source": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONVVVTWd4SnpaQUxpUnFYandqY0VSb1hwTVplR2N5b1N4OXJqMjRHLTdoOTY0SlI4NnNDbHVZZzczb1hNZzBuWmNmUzFta0hYV2tWeWZHMXdic3lQUm9OMnRTVUdYb3NvTnAyNWRiamtyV1JTbzNXV2pHQ0x6Z0c3b3dsQ3lXcDFIaVJBU1RLZi15UklmaTg4TDdxVEdRQXRROFdGNVFTVXJrdy1vay16N3dGakpnenRZdUUtaGlMalhQak5NRUZtNHhB",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "US mortgage rates at yearly highs but purchase applications still rising",
+      "summary": "Despite rates near multi-year highs and 10-year yields approaching 4.60%, pending home sales and purchase applications rose 7% year-over-year in the US — a signal that pent-up demand remains real even in a high-rate environment relevant to Canada's own rate trajectory watch.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/mortgage-rates-are-at-yearly-highs-but-housing-demand-is-still-positive/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2023/11/house-e1693820290684.jpg"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "First-of-its-kind BC outdoor recreation conference coming to Kamloops next week",
+      "summary": "Kamloops is hosting a inaugural province-wide outdoor recreation conference next week, positioning the city as a hub for the sector — relevant to Sun Peaks' regional profile and any local economic development you track.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnI3ZDlLcU5IcjJ1RVpKLU4yTXRoU2VXcDZDb2lsWWx1R21EWl8yNnJ0Mlh1NDd1RGtSWldQMjlhcEs2RHJTcnczNkU3ZXE1TmpFWkVzbUFIWm96TVVwbFZEX21mR1QydEVmdVRlNHFpMk04TTVPWU1UOUNRXy0yR2RiZTV5SXBPOVZWRWtmbVhtTVk1RTd6cF96OGJzWEs5MzJ5UGVGczVSbldxT1FmQ1YzV3BIVW9UdV96c2NpdzAtOVBlb1doSWVxRWROMXdFa2lfQWhsaw",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Historic Kamloops church reopens after fire",
+      "summary": "A historic Kamloops church has reopened its doors following restoration after a fire — a small but positive community milestone in the city.",
+      "source": "Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1fX2xmRFd4eTFqZEl6YTd4elRxSThTMVRnS2NIQm1jbE9SbUZyYm11UnF6WFFpUGRLR2dfajhtUmh1UG1jU1VRYVB2a2pGU1NSU19sNnUxNVhVVkZJbndkdUlwLUl5UWZBMFphbFo3MzNrVmQ2MEswaWFsc1V6UWE2c1I",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "WHO declares Ebola outbreak in DRC and Uganda a global public health emergency",
+      "summary": "The WHO has issued a PHEIC for the Bundibugyo Ebola strain spreading across the DRC and into Uganda — the highest-level international health alert, signalling the outbreak has crossed borders and global containment response is now mobilised.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/05/17/who-ebola-drc-uganda-bundibugyo-pheic-public-health-emergency/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/03/GettyImages-2188633931-645x645.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Trump's loyalty purge reaches the Senate: Cassidy ousted in Louisiana primary",
+      "summary": "Senator Bill Cassidy — chair of the Senate health committee — was decisively eliminated from Louisiana's Republican primary after Trump campaigned against him for his impeachment vote, with the runoff now between two Trump allies; this consolidates executive-branch control over health and regulatory policy direction.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/17/louisiana-senate-republicans-cassidy-letlow-fleming",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/QZ3PIuzGus0H9KAryWr70Uqwn20=/662x0:4662x4000/320x320/2026/05/14/1778780521001.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "BC wildfire season off to worst start on record as El Niño threatens; Ottawa-Alberta pipeline tensions add pressure",
+      "summary": "BC is reporting its worst wildfire season start on record with El Niño conditions forecast to intensify conditions this summer — critical situational awareness for anyone with family or property in the interior, including the Kamloops and Sun Peaks corridors.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-to-may-17-26",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars"
+    },
+    {
+      "id": "story-misc-1",
+      "category": "Misc",
+      "headline": "Canadian cruise passenger tests positive for Hantavirus on Vancouver Island",
+      "summary": "A Yukon couple aboard a cruise ship has a confirmed Hantavirus case on Vancouver Island — a rare but serious rodent-borne illness; BC public health is monitoring, and it's worth noting given family in BC.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/canadian-cruise-passenger-isolating-on-vancouver-island-tests-positive-for-hantavirus",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "2:52",
+      "startSeconds": 8
+    },
+    {
+      "id": "c2",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "2:11",
+      "startSeconds": 180
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:36",
+      "startSeconds": 311
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:30",
+      "startSeconds": 466
+    },
+    {
+      "id": "c5",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "0:50",
+      "startSeconds": 557
+    },
+    {
+      "id": "c6",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "1:22",
+      "startSeconds": 607
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "The haves and have-nots of the AI gold rush",
+    "summary": "TechCrunch's analysis finds the AI boom's benefits are concentrating sharply among a small tier of well-capitalised players, with most companies and workers on the outside looking in — a dynamic with direct implications for how consulting practices position AI offerings.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Trump advisers fear China could target Taiwan within five years — and AI chip supply is the stakes",
+    "summary": "Close Trump advisers warn that Xi used the Beijing summit to signal Taiwan is \"his\" and that a move within five years would cut off the semiconductor supply powering American AI — a systemic risk for every company and institution betting on AI transformation.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/05/17/trump-xi-summit-china-taiwan-invasion",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/-1Wuvuks--Byi_Dxt-tXM0qnjGY=/728x0:3360x2632/320x320/2026/05/16/1778892649289.jpg"
+  },
+  "heroImageUrl": "https://images.axios.com/-1Wuvuks--Byi_Dxt-tXM0qnjGY=/728x0:3360x2632/320x320/2026/05/16/1778892649289.jpg"
+}
