@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 17 May 2026 11:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 11:36:42 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, May 17, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-17.html</link>
-      <description>Two threads dominate today that sit directly at the intersection of your work and your world: the Taiwan-chip risk story is not just geopolitics — if Xi moves on Taiwan in the next five years, the AI infrastructure your consulting practice depends on gets choked at the source, an...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-17.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-17.mp3" length="14238240" type="audio/mpeg"/>
-      <pubDate>Sun, 17 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, May 18, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-18.html</link>
+      <description>Two threads deserve your sharpest attention this Monday, Midya. First, the AI-in-marketing space is crystallising in real time: a founder building a full agency on 27 AI agents, plus new data showing 91% of marketers distrust their own platform metrics — these are exactly the pai...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-18.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-18.mp3" length="14436960" type="audio/mpeg"/>
+      <pubDate>Mon, 18 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
