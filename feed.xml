@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 18 May 2026 11:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:36:23 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, May 18, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-18.html</link>
-      <description>Two threads deserve your sharpest attention this Monday, Midya. First, the AI-in-marketing space is crystallising in real time: a founder building a full agency on 27 AI agents, plus new data showing 91% of marketers distrust their own platform metrics — these are exactly the pai...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-18.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-18.mp3" length="14436960" type="audio/mpeg"/>
-      <pubDate>Mon, 18 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, May 19, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-19.html</link>
+      <description>Three threads deserve your full attention today, Midya. First, the Musk-Altman trial wrapping up on procedural grounds is more than tech drama — it's a public trust signal that should shape how you position AI advisory work with risk-averse institutions like Canadian universities...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-19.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-19.mp3" length="14004960" type="audio/mpeg"/>
+      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
