@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 19 May 2026 11:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 11:36:48 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, May 19, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-19.html</link>
-      <description>Three threads deserve your full attention today, Midya. First, the Musk-Altman trial wrapping up on procedural grounds is more than tech drama — it's a public trust signal that should shape how you position AI advisory work with risk-averse institutions like Canadian universities...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-19.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-19.mp3" length="14004960" type="audio/mpeg"/>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, May 20, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-20.html</link>
+      <description>Today's threads point in a few important directions simultaneously, Midya. Google's move to reinvent search around AI conversational agents isn't just a tech story — it's a direct challenge to how brands get found, which reshapes the brief you'd write for any Canadian university ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-20.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-20.mp3" length="16296000" type="audio/mpeg"/>
+      <pubDate>Wed, 20 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
