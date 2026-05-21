@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 20 May 2026 11:36:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:37:13 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, May 20, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-20.html</link>
-      <description>Today's threads point in a few important directions simultaneously, Midya. Google's move to reinvent search around AI conversational agents isn't just a tech story — it's a direct challenge to how brands get found, which reshapes the brief you'd write for any Canadian university ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-20.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-20.mp3" length="16296000" type="audio/mpeg"/>
-      <pubDate>Wed, 20 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, May 21, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-21.html</link>
+      <description>Two forces are converging this week that touch almost everything on your plate, Midya: a historic AI news cycle — OpenAI cracking a math olympiad problem autonomously, Google betting its entire product empire on AI, Meta funding it all through layoffs — and a global tightening of...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-21.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-21.mp3" length="16000320" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
