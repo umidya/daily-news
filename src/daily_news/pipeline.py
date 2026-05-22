@@ -16,7 +16,7 @@ from .db import (
     record_digest,
     recent_titles,
 )
-from .fetch import fetch_feeds, fetch_searches
+from .fetch import combined_searches, fetch_feeds, fetch_searches
 from .app_export import write_app_briefing
 from .render import write_digest_assets, write_index, write_podcast_feed
 from .score import score_and_filter
@@ -78,10 +78,15 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
 
     # 1. Fetch
     feed_articles = fetch_feeds(cfg.feeds)
-    search_articles = fetch_searches(cfg.searches)
+    all_searches = combined_searches(cfg)
+    search_articles = fetch_searches(all_searches)
     fetched: list[Article] = feed_articles + search_articles
-    log.info("Fetched %d total items (%d feeds, %d searches)",
-             len(fetched), len(feed_articles), len(search_articles))
+    static_count = len(cfg.searches)
+    watchlist_count = len(all_searches) - static_count
+    log.info(
+        "Fetched %d total items (%d feeds, %d static searches, %d watchlist searches)",
+        len(fetched), len(feed_articles), static_count, watchlist_count,
+    )
 
     # 2. Persist + dedup against history
     new_articles: list[Article] = []

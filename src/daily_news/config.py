@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import logging
 import os
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -7,6 +8,8 @@ from typing import Any
 
 import yaml
 from dotenv import load_dotenv
+
+log = logging.getLogger(__name__)
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_CONFIG_DIR = PROJECT_ROOT / "config"
@@ -49,6 +52,33 @@ class ScoringWeights:
 
 
 @dataclass
+class WatchlistOrg:
+    """One org Midya wants the briefing to track — a client, prospect, or peer.
+
+    Population by section:
+      - clients   → posture set (active | wrapping | past); aliases for dedup
+      - prospects → stage set (from Notion 🎯 Leads pipeline)
+      - peer_orgs → relationship set (e.g. consortium_peer, competitor)
+    """
+    org: str
+    aliases: list[str] = field(default_factory=list)
+    industry: str = ""
+    posture: str | None = None
+    stage: str | None = None
+    relationship: str | None = None
+    notes: str = ""
+
+
+@dataclass
+class Watchlist:
+    clients: list[WatchlistOrg] = field(default_factory=list)
+    prospects: list[WatchlistOrg] = field(default_factory=list)
+    peer_orgs: list[WatchlistOrg] = field(default_factory=list)
+    thought_leadership_themes: list[str] = field(default_factory=list)
+    generated_at: str | None = None
+
+
+@dataclass
 class Config:
     feeds: list[FeedConfig]
     searches: list[SearchConfig]
@@ -66,11 +96,57 @@ class Config:
     public_dir: Path = DEFAULT_PUBLIC_DIR
     templates_dir: Path = DEFAULT_TEMPLATES_DIR
     static_dir: Path = DEFAULT_STATIC_DIR
+    watchlist: Watchlist | None = None
 
 
 def _load_yaml(path: Path) -> Any:
     with path.open("r", encoding="utf-8") as f:
         return yaml.safe_load(f)
+
+
+def load_watchlist(path: Path) -> Watchlist | None:
+    """Read the auto-generated watchlist file.
+
+    Returns None (with a warning) when the file is missing or malformed so the
+    pipeline runs with no watchlist enrichment rather than failing the build.
+    """
+    if not path.exists():
+        return None
+    try:
+        raw = _load_yaml(path)
+    except yaml.YAMLError as e:
+        log.warning("watchlist YAML failed to parse at %s: %s", path, e)
+        return None
+    if not isinstance(raw, dict):
+        log.warning("watchlist YAML at %s did not parse to a mapping", path)
+        return None
+
+    def _orgs(key: str) -> list[WatchlistOrg]:
+        items = raw.get(key) or []
+        out: list[WatchlistOrg] = []
+        for it in items:
+            if not isinstance(it, dict) or "org" not in it:
+                continue
+            out.append(WatchlistOrg(
+                org=str(it["org"]),
+                aliases=[str(a) for a in (it.get("aliases") or [])],
+                industry=str(it.get("industry", "") or ""),
+                posture=it.get("posture"),
+                stage=it.get("stage"),
+                relationship=it.get("relationship"),
+                notes=str(it.get("notes", "") or ""),
+            ))
+        return out
+
+    return Watchlist(
+        clients=_orgs("clients"),
+        prospects=_orgs("prospects"),
+        peer_orgs=_orgs("peer_orgs"),
+        thought_leadership_themes=[
+            str(t) for t in (raw.get("thought_leadership_themes") or [])
+        ],
+        generated_at=raw.get("generated_at"),
+    )
 
 
 def load_config(config_dir: Path = DEFAULT_CONFIG_DIR) -> Config:
@@ -115,6 +191,8 @@ def load_config(config_dir: Path = DEFAULT_CONFIG_DIR) -> Config:
         novelty=float(sw["novelty"]),
     )
 
+    watchlist = load_watchlist(config_dir / "watchlist.yaml")
+
     return Config(
         feeds=feeds,
         searches=searches,
@@ -126,4 +204,5 @@ def load_config(config_dir: Path = DEFAULT_CONFIG_DIR) -> Config:
         anthropic_api_key=os.environ.get("ANTHROPIC_API_KEY", ""),
         openai_api_key=os.environ.get("OPENAI_API_KEY", ""),
         base_url=os.environ.get("DAILY_NEWS_BASE_URL", "").rstrip("/"),
+        watchlist=watchlist,
     )

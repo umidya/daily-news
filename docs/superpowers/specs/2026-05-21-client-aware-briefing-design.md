@@ -25,7 +25,7 @@ Make the morning briefing meaningfully sharper for Midya's current business real
 - Changing the dedup/scoring/recency formula math.
 - Touching the Expo mobile app.
 - Building a private/auth'd briefing channel (explicitly deferred — keep on GitHub Pages, neutral framing handles privacy).
-- Per-day length increase. Existing 1600–2400 word audio target stands.
+- ~~Per-day length increase.~~ **Updated 2026-05-21 post-design:** audio budget grows to **~2400–3200 words (15–20 minutes)** to give the new Watchlist section room without starving existing sections.
 
 ---
 
@@ -113,7 +113,7 @@ Inputs:
 
 Behavior:
 1. For each client folder: extract org name from the H1, classify industry by keyword match against the CLAUDE.md body, determine posture from the Status block.
-2. Notion: fetch all 🎯 Leads not in stage `lost` or `closed-won`. Extract org name + stage + classified industry.
+2. Notion: fetch all 🎯 Leads not in stage `lost` (include `closed-won` and all in-flight stages — past wins remain on the watchlist for ongoing news context). Extract org name + stage + classified industry.
 3. Merge with peer_orgs.yaml + thought_leadership_themes.yaml.
 4. Write `config/watchlist.yaml` with the timestamp + source attribution header.
 
