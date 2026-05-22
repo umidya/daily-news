@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 21 May 2026 11:37:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:37:20 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, May 21, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-21.html</link>
-      <description>Two forces are converging this week that touch almost everything on your plate, Midya: a historic AI news cycle — OpenAI cracking a math olympiad problem autonomously, Google betting its entire product empire on AI, Meta funding it all through layoffs — and a global tightening of...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-21.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-21.mp3" length="16000320" type="audio/mpeg"/>
-      <pubDate>Thu, 21 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, May 22, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-22.html</link>
+      <description>The dominant thread this Friday is acceleration on two fronts that directly intersect your work: AI is moving from product announcements to civilisational-scale claims — Google DeepMind's CEO used the word 'singularity' at I/O this week, and the AI backlash is quietly becoming a ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-22.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-22.mp3" length="15538080" type="audio/mpeg"/>
+      <pubDate>Fri, 22 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

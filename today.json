@@ -1,136 +1,112 @@
 {
   "schemaVersion": 2,
-  "date": "Thursday, May 21, 2026",
-  "dateIso": "2026-05-21",
+  "date": "Friday, May 22, 2026",
+  "dateIso": "2026-05-22",
   "greeting": "Good morning, Midya",
-  "totalDuration": "13:20",
+  "totalDuration": "12:56",
   "currentTime": "0:00",
-  "remaining": "13 min total",
+  "remaining": "12 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Two forces are converging this week that touch almost everything on your plate, Midya: a historic AI news cycle — OpenAI cracking a math olympiad problem autonomously, Google betting its entire product empire on AI, Meta funding it all through layoffs — and a global tightening of international student pipelines that is reshaping the very market your Canadian university consulting targets depend on. The Apple Intelligence class-action in Canada is a sharp reminder that AI marketing claims now carry legal liability, directly relevant to your AI-in-marketing work. On the ground in Kamloops, a woman is missing in a fast-moving river — worth watching if family is near waterways.",
-  "digestReadingTime": "8 min read",
-  "whyItMatters": "Two forces are converging this week that touch almost everything on your plate, Midya: a historic AI news cycle — OpenAI cracking a math olympiad problem autonomously, Google betting its entire product empire on AI, Meta funding it all through layoffs — and a global tightening of international student pipelines that is reshaping the very market your Canadian university consulting targets depend on. The Apple Intelligence class-action in Canada is a sharp reminder that AI marketing claims now carry legal liability, directly relevant to your AI-in-marketing work. On the ground in Kamloops, a woman is missing in a fast-moving river — worth watching if family is near waterways. The week's dominant thread is this: AI is moving from hype to infrastructure, and institutions that haven't built a strategy will feel it in enrolment, budget, and brand simultaneously.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-21.mp3",
-  "audioDurationSeconds": 800,
-  "audioScript": "Good morning, Midya. It's Thursday, May twenty-first, twenty twenty-six. Yesterday afternoon, the AI industry had what might have been its most concentrated two hours of news ever — and the ripples reach directly into your consulting work, your university clients, and your marketing practice. Let's get into it.\n\nStart with AI, because this is the lead story of the week.\n\nOn Wednesday afternoon, in roughly a two-hour window, three things happened simultaneously that, taken together, crystallise exactly where we are in this technology arc. OpenAI announced that one of its general-purpose reasoning models autonomously solved a problem from the International Mathematical Olympiad — a competition that defeats most trained mathematicians. That's not a party trick. Autonomous reasoning on novel, formally difficult problems has been the benchmark separating \"large language model\" from \"general reasoning engine.\" The fact that it happened quietly, mid-week, almost as a footnote in a broader news cycle, tells you how fast the bar is moving.\n\nAt the same moment, OpenAI's revenue figures were circulating — explosive growth, the kind that makes the company's valuation look defensible rather than speculative. And separately, reports emerged of staggering infrastructure demand: data centres, power contracts, chip orders at a scale that makes this feel less like a software company and more like a new utility sector being built from scratch.\n\nMeanwhile, Google used its I/O developer conference this week to go all-in on AI in a way that should concern anyone who assumed the search giant would be slow to adapt. Google is revamping its core search product to handle both traditional short queries and open-ended conversational AI tasks — in the same interface. Think about what that means for a second. Search advertising is the engine that funds almost everything Google does. They are deliberately disrupting that engine because the alternative — losing a generation of users to ChatGPT and Claude — is worse. That's a company that has looked at the existential risk and decided that controlled demolition of its own business model is the rational move. For you, as someone advising brands on AI in marketing, that shift in Search is not abstract. The way clients reach customers through Google is changing structurally, and that creates a consulting need right now.\n\nAnd then there's Meta. The company has reportedly notified thousands of employees of layoffs, and the internal memo was explicit: this is to offset the cost of AI investment. Meta is spending so aggressively on AI infrastructure that it is laying off the humans who built the platform that made it one of the most profitable advertising companies in history. That is a remarkable sentence to say out loud. The social and advertising infrastructure your clients use every day is being restructured — its workforce, its priorities, its product roadmap — entirely around AI. If you're advising on marketing strategy and you're not centering AI in that conversation, you're already behind the story.\n\nOn the marketing and business front, the story I want to flag most sharply is the Apple class-action in Canada.\n\nConsumer Law Group filed suit in Ontario Superior Court on May eleventh, alleging that Apple deceptively marketed Apple Intelligence features on the iPhone 16 — features that were advertised but either didn't work as described or weren't available in Canada as promised. A separate suit was filed for Quebec residents. This case matters beyond Apple. It's the first significant Canadian legal test of the principle that AI feature claims in marketing must be deliverable, verifiable, and accurate. If you're working with any brand — or advising a university — that is marketing AI-powered tools or AI-enhanced services, this is your cautionary precedent. Overpromising AI capabilities isn't just bad brand strategy anymore. In Canada, it may now be actionable.\n\nAlso worth your attention: Ally Financial's new brand campaign targeting millennials and Gen Z. Developed with Anomaly LA, the 'Life Today' campaign explicitly mocks the brick-and-mortar banking model — a playful but pointed positioning move for a digital-native financial brand. The reason it's interesting isn't Ally specifically. It's the strategic move: taking a structural disadvantage of your competitors and turning it into their liability. That's a framework applicable to any category. Canadian universities, for example, could flip the \"we're smaller than Toronto\" or \"we're not in a major metro\" narrative into a differentiation asset if the positioning is right. Keep this one in your back pocket.\n\nOne more on the business side: Nvidia's earnings. The chip giant reported another record quarter, and the stock still fell after-hours. That's a market signal, not a business one. Investors are starting to ask whether Nvidia can sustain this trajectory against rising competition — from AMD, from custom chips being built by Google, Amazon, and Meta internally. For your purposes, the practical implication is that AI infrastructure costs, which have been exploding, may moderate over a two to three year horizon as competition arrives. That affects how you counsel clients on the timeline and cost of building AI capabilities.\n\nLet's move to higher education, because the pipeline story is getting more serious.\n\nGlobal News is reporting this morning that Ontario colleges are struggling to attract international students in the wake of Canada's visa changes — and the word \"struggling\" is doing real work in that headline. These aren't modest enrolment dips. Colleges that built entire program portfolios, staffing models, and capital plans around international student revenue are now facing structural shortfalls. If you are approaching Ontario colleges as consulting clients, this is the moment. Not to capitalise on their pain, but because they genuinely need help rethinking their value proposition and their marketing strategy for a changed market. The need is real, the urgency is high, and the institutions that invest in strategic marketing now will be better positioned when the pipeline eventually recovers.\n\nOn the same theme, Canada's high commissioner to India gave a notable signal this week: Canadian institutions are preparing for a deeper physical presence in India through branch campuses, joint degrees, and talent partnerships. This is the government trying to rebuild the India-Canada education relationship after a very difficult two years. For your clients, this is an early signal of where future international enrolment growth will likely come from — and institutions that are building their India partnerships now will have a head start. If you're advising a BC university on international strategy, the India play is worth putting on the agenda.\n\nNow pull back to the global picture. UNESCO released its first-ever Higher Education Global Trends Report, and it confirms something that's been building for a few years: intra-regional student mobility is growing. Countries like Türkiye, Egypt, Japan, and Gulf states are gaining share of international student enrolments that used to flow automatically to Canada, the UK, Australia, and the US. Traditional destinations are no longer the default. Students in the Global South are increasingly choosing a regional hub over a long-haul anglophone destination — especially when visa uncertainty is high and cost of living is punishing.\n\nThe UK data makes this concrete. Study visa issuance in the UK fell thirty-two percent in Q1 twenty twenty-six compared to a year earlier. Thirty-two percent. That's not a policy blip — that's a structural signal. The UK restricted post-study work rights, tightened visa scrutiny, and is now watching its international education sector contract in real time. Canada made many of the same moves. The UK experience is about eighteen months ahead of where Canada is now, and the trajectory is a warning. The question for your university clients isn't whether enrolments will recover automatically — it's whether they're building the brand and the partnerships to earn their share of a smaller and more competitive global market.\n\nA quick note on the real estate side.\n\nThere's a profile worth reading from RISMedia on the director of marketing at REAL New York, who oversaw the launch of a three-hundred-and-eleven-unit luxury Manhattan tower in twenty twenty-five. The reason it's in your briefing isn't the specific property — it's the framing. His approach centres on storytelling that matches the values and aspirations of luxury buyers, not just the features of the building. It's brand strategy applied to real estate, and the articulation is clean and transferable. If you're consulting to any real estate adjacent client — or if eXp's Canadian market presence comes up in conversations — having sharp examples of marketing-driven sales strategy at hand is useful. This is one of those.\n\nLocally, two things from Kamloops worth knowing.\n\nSearch crews are working on a difficult situation: a woman is missing after a vehicle crash, and a fast-moving river has forced them to revise their search strategy. If you or family are near local waterways right now, river conditions are running fast — that's worth keeping in mind as spring runoff continues.\n\nSeparately, an inaugural BC outdoor recreation conference just wrapped with accessibility and land access as the headline themes. For Sun Peaks specifically, these are live issues — mountain resort land use, trail access, and accommodation policy all feed into the region's long-term planning. Not an urgent story, but one to track if you're following local development.\n\nTwo global stories that deserve sixty seconds each.\n\nFirst, Ebola. Aid organisations in Congo are warning that the current outbreak is gaining momentum, and public health experts are now connecting the dots between the spread and the Trump administration's dismantlement of USAID and withdrawal from the World Health Organisation. The rapid-response networks that would normally be activated in an outbreak like this have been weakened. India and the African Union have already postponed the India-Africa Forum Summit in response. This isn't a distant story — Ebola outbreaks that aren't rapidly contained have a history of escalating, and the degradation of global health infrastructure makes containment harder. Worth monitoring.\n\nSecond, SpaceX filed its IPO prospectus this week for what is expected to be the largest initial public offering in history, targeting a valuation of one point seven five trillion dollars. But the prospectus tells a more complicated story: the current underlying business doesn't justify that number. The valuation is a bet on future growth — Starlink expansion, Mars ambitions, continued government contracts. If that growth doesn't materialise at the pace investors are pricing in, the IPO will be a significant recalibration moment for the broader tech and AI investment cycle. Worth watching as a barometer of how much speculative capital is still flowing into the frontier technology ecosystem.\n\nOne longevity story today, and it's a meaningful one.\n\nSTAT News — which is on the approved source list for its rigorous clinical coverage — is reporting results from an Eli Lilly trial of retatrutide, their next-generation obesity drug. This is a so-called triple-G agonist, meaning it targets three hormonal pathways simultaneously, compared to the dual-pathway approach of drugs like tirzepatide. The trial results show weight loss comparable to bariatric surgery — which is the clinical benchmark that the entire obesity pharmacology field has been chasing. The catch: a notable number of patients discontinued the drug due to side effects, which is a real signal that needs to be understood before this class of drug becomes widespread. GLP-1 and its successors are moving from specialist medicine into mainstream conversation faster than most people expected two years ago. If this is personally relevant to you or your family, it's worth a conversation with your physician about what the next generation of these medications looks like.\n\nThat's your Thursday briefing, Midya. The through-line today is acceleration — AI systems are moving faster than institutions are adapting, international student markets are contracting faster than universities have planned for, and the legal and regulatory environment around AI marketing claims is firming up faster than most brands have prepared for. All three of those gaps are consulting opportunities. The organisations that understand the shift early and build a response will pull away from those that wait for the dust to settle. You're in a position to help them do that — and today's news gives you sharper tools to make that case. Have a strong Thursday.",
+  "digestIntro": "The dominant thread this Friday is acceleration on two fronts that directly intersect your work: AI is moving from product announcements to civilisational-scale claims — Google DeepMind's CEO used the word 'singularity' at I/O this week, and the AI backlash is quietly becoming a real investment and adoption risk worth naming in client conversations. On the higher-ed and international-student side, Canada's numbers are in sharp decline in 2026, which is both a consulting signal (universities are scrambling) and a personal professional signal about where your pipeline sits. Real estate and short-term rental policy are quieter today, but the longevity space has a noteworthy biotech funding milestone worth watching given your interest in that space.",
+  "digestReadingTime": "6 min read",
+  "whyItMatters": "The dominant thread this Friday is acceleration on two fronts that directly intersect your work: AI is moving from product announcements to civilisational-scale claims — Google DeepMind's CEO used the word 'singularity' at I/O this week, and the AI backlash is quietly becoming a real investment and adoption risk worth naming in client conversations. On the higher-ed and international-student side, Canada's numbers are in sharp decline in 2026, which is both a consulting signal (universities are scrambling) and a personal professional signal about where your pipeline sits. Real estate and short-term rental policy are quieter today, but the longevity space has a noteworthy biotech funding milestone worth watching given your interest in that space. Use this Friday briefing to frame your weekend thinking: where is the consulting pitch sharpest right now, and which of your Canadian university targets is most exposed to the enrolment crisis?",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-22.mp3",
+  "audioDurationSeconds": 776,
+  "audioScript": "Good morning, Midya. It's Friday, May twenty-second, twenty twenty-six. The week ends with two converging signals you should carry into the weekend: AI is being framed in increasingly civilisational terms by the people building it, and Canada's international student pipeline is contracting in ways that are now showing up in hard numbers — both of which have direct implications for your consulting pivot.\n\nLet's start with AI, because the framing shift this week is significant and you'll want language for it in client conversations.\n\nAt Google I/O on Tuesday, Demis Hassabis — the CEO of Google DeepMind, one of the most credible technical voices in the field — said, and I'm quoting directly, that we are currently standing in the foothills of the singularity. The singularity, for context, is the theoretical future moment when AI exceeds human intelligence and begins transforming the world at a pace humans can no longer track or control. MIT Technology Review's analysis of the keynote argues that the more substantive signal isn't the philosophical provocation — it's the pivot toward AI-driven science as the proof point. DeepMind is leaning hard into AI accelerating drug discovery, materials science, and fundamental research as the evidence that we're entering genuinely new territory, not just incremental product improvement.\n\nFor you, Midya, this matters on two levels. First, when you're in a room with a university client — say, a VP Academic or a CMO at a Canadian institution — the question of AI's role in research output is no longer theoretical. Universities that aren't actively building an AI strategy for research productivity are going to look slow within eighteen months. That's a consulting door. Second, when you're in conversations about AI in marketing, the Hassabis framing gives you a credibility anchor: the people closest to the technology are signalling acceleration, not plateau. Your advice to lean in is not hype — it's aligned with the most informed technical consensus available.\n\nThe second AI story this week is one you should absolutely have in your back pocket, because it's the counter-narrative your clients will raise. Axios is reporting that the AI backlash is quietly becoming a material business risk — not just a PR headache. Executives at major AI companies are getting booed at public events. Workers are threatening strikes. Protests are physically blocking data centre development in several markets. And here's the remarkable detail: even SpaceX's prospectus — a document threaded with AI hype — now formally warns investors that if AI technologies are perceived as significantly disruptive to society, it could trigger regulatory intervention that slows adoption.\n\nInvestors are currently treating this as noise, but Axios makes the case that they may be underpricing it. For your consulting practice, this is the sophisticated move: yes, AI is accelerating, and yes, the backlash is real, and both can be true simultaneously. The clients who will get the most value from you are the ones who need to navigate the internal politics of AI adoption — not just the technical implementation. That's the human-centred AI strategy pitch, and it's more relevant than ever right now.\n\nNow to international students and Canadian higher education, because the data is getting harder to ignore.\n\nThe Toronto Star is reporting a sharp decline in both international students and temporary worker arrivals to Canada in 2026. The piece doesn't just flag a trend — it quantifies the drop, and by all accounts the numbers are substantial. This is the direct consequence of the federal cap on international student permits that's been phased in over the past two years, combined with the PGWP rule changes and the general uncertainty that has made Canada a less predictable destination for prospective students doing their planning two or three years out.\n\nLayered on top of that, ImmigCanada is reporting that study visa concerns are actively changing student plans — meaning it's not just that fewer people are being approved, it's that students are redirecting their ambitions toward other destinations before they even apply. Australia, the UK, Germany — they're all picking up students who would have previously defaulted to Canada.\n\nThis is your consulting signal, Midya. Canadian universities that over-indexed on international tuition revenue over the past decade are now facing a structural revenue gap. They need strategy help — on domestic recruitment, on retention, on brand positioning in markets where Canada's reputation has softened, on how to make the case to prospective students that the policy environment is stabilising. The institutions most exposed are mid-sized comprehensive universities in provinces like BC, Ontario, and Nova Scotia that built enrolment projections on international tuition growth continuing indefinitely. Those are your potential clients, and the urgency is real right now.\n\nTo complete the picture globally: The PIE News has a sharp analysis out today on Australia's international education policy problem. The argument is that a growing maze of acronyms, visa restrictions, and political uncertainty is making Australia less attractive as a study destination — and the framing is explicitly a warning about over-regulating a sector that depends on trust and predictability. Canada is on exactly the same trajectory. If you're building a consulting pitch deck for a Canadian university, that PIE piece is worth reading as comparative context — it gives you the language for why policy instability isn't just an IRCC problem, it's a brand and positioning problem.\n\nOn the marketing and business front, two stories worth your attention this Friday.\n\nZevia's CMO gave Marketing Dive a detailed look at how the brand is repositioning around what they're calling being radically real — a better-for-you soda brand that's doubled marketing spend as a percentage of revenue over the last two years and recently brought on Cardi B as a partner. The reason this is worth your attention isn't the celebrity deal — it's the strategic logic the CMO is articulating. The investment thesis is that increasing the marketing-to-revenue ratio in a constrained category is the lever that drives both brand awareness and customer trust simultaneously. That's a useful case study to have in your toolkit when you're advising clients — including universities — on why pulling back on marketing spend during a downturn is usually the wrong move. The brands that invest through difficulty come out the other side with compounded advantage.\n\nThe second story sits at the intersection of business and AI infrastructure: Samsung's semiconductor workers negotiated average annual bonuses of three hundred and forty thousand dollars to avert a threatened eighteen-day strike at the memory chip division. The context is that Samsung's semiconductor business has surged on AI chip demand, but the bonus structure hadn't kept pace. The deal was struck. What this tells you is that the AI infrastructure buildout is now creating wage pressure and talent competition throughout the hardware supply chain — not just at the model-training layer. For your AI consulting thesis, this is a data point on how broadly AI investment is flowing: it's not confined to software companies. Every institution and organisation that depends on AI infrastructure — including universities running AI research — is eventually going to feel the talent and cost pressure from this dynamic.\n\nOne global story worth your attention this morning, and it sits at the intersection of longevity, technology, and regulation in a way that's genuinely interesting.\n\nThe inaugural Enhanced Games opened this week in Las Vegas, with forty-two athletes competing in an event where participants are explicitly encouraged to take performance-enhancing drugs. The organisers are framing it as a human performance experiment — a way to understand the ceiling of what the human body can achieve when you remove the anti-doping rules. Sports scientists and anti-doping agencies are sharply critical. The Lancet has a report on it this week as well, noting the scientific concerns are substantial.\n\nWhy does this matter beyond sports? Because the Enhanced Games are deeply embedded in the same Silicon Valley biohacking culture and longevity investment ecosystem that's putting money into companies like Retro Biosciences. The event is backed by tech investors who view it as data collection — what happens when elite athletes optimise for performance with no constraints? For you, Midya, it's a signal about where the longevity and human optimisation conversation is heading culturally. The boundary between legitimate health science and performance experimentation is being actively contested right now, and that's going to show up in boardrooms and campus conversations sooner than most people expect.\n\nA quick local note for you — not alarming, but worth being aware of.\n\nCFJC Today is reporting that a public health expert is urging Canada to remain vigilant about the ongoing Ebola outbreak in Africa, specifically because the FIFA World Cup begins in two weeks and Canada is a host nation. The concern is that the volume of international travel into Canadian cities — including cities in BC — creates an elevated surveillance requirement. The expert's position isn't that there's an active risk to Canadians, but that public health systems should be actively monitoring and that travel medicine services should be prepared. Given that you split your time between Kamloops and Sun Peaks, and with family in BC, it's worth knowing this is on the radar of public health officials. Standard precautions apply; no cause for concern beyond awareness.\n\nTwo longevity items to close the week, and they're quite different from each other.\n\nFirst: STAT News is reporting that Retro Biosciences — the longevity startup backed by Sam Altman — has closed a new funding round at a valuation of one point eight billion dollars. Retro is focused on the science of extending healthy human lifespan, and the fact that it's attracting institutional capital at this scale — not just billionaire passion projects — is meaningful. This is the longevity sector growing up. For you personally, this is worth watching because the science coming out of well-funded longevity labs over the next five to ten years is likely to produce actionable insights faster than we've seen from traditional pharmaceutical timelines. It's also a sector where AI and biology are converging — Retro and companies like it are using machine learning to accelerate their research in exactly the way Hassabis was describing at Google I/O.\n\nSecond: The Lancet has a commentary this week on how we measure the burden of mental disorders — specifically the argument that standard metrics like DALYs (disability-adjusted life years) and YLDs (years lived with disability) are technically useful but fundamentally reductive. They can compare mental illness burden across populations, but they can't capture what it actually costs a family when a parent is paralysed by paranoid ideation, or when a child is watching a parent deteriorate. The reason I'm flagging this for you specifically is that Canadian universities are in the middle of a student mental health crisis that's directly connected to the enrolment pressures we discussed earlier — international students navigating visa uncertainty and financial stress are among the most at-risk populations on campus. The metric debate in the Lancet is a reminder that the way institutions measure mental health need often underestimates the actual burden, which has implications for how they resource student services. Another potential consulting thread.\n\nThat's your Friday briefing, Midya. The through-line this week is acceleration and disruption landing simultaneously in the two places most central to your work: AI is shifting from tool to civilisational force in the language of its builders, and Canada's higher-ed sector is entering a revenue and enrolment contraction that will create real demand for strategic help. Both of those trends favour someone with exactly your profile — AI marketing expertise combined with Canadian institutional knowledge. Use the weekend to think about which two or three universities you'd most want to be in conversation with by Canada Day, and what the opening offer looks like. Have a good one.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Two hours that changed AI: OpenAI cracks math olympiad, revenues soar, federal government scrambles",
-      "summary": "In a single two-hour window Wednesday, OpenAI announced a reasoning model that autonomously solved a landmark math problem, while exploding revenues and staggering infrastructure demands crystallised the full architecture of the emerging AI order.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+      "headline": "Google DeepMind CEO says we're 'in the foothills of the singularity' — and AI-driven science is the proof",
+      "summary": "At Google I/O, Demis Hassabis made the striking claim that AI is approaching the theoretical moment it exceeds human intelligence, pointing to AI-accelerated scientific discovery as the leading evidence — a shift in framing from product demos to civilisational claims.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/XCsf2onH8IVjLEUH0MIQa8Iedcg=/128x128/smart/2026/05/21/1779331107849.png"
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/io-scientist.jpg?resize=1200,600"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "How Google plans to win the AI war",
-      "summary": "At Google I/O, the company revealed it's revamping core Search to handle both traditional queries and open-ended AI tasks — a high-stakes bet that disrupts its own multibillion-dollar ad engine to avoid being disrupted by OpenAI and Anthropic.",
+      "headline": "AI backlash is mounting — and investors may be underpricing the risk",
+      "summary": "Executives are being booed, workers are striking, and data centre protests are stalling development; Axios reports that even SpaceX's prospectus now flags societal AI backlash as a material business risk, though capital flows haven't slowed yet.",
       "source": "Axios",
-      "url": "https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war",
+      "url": "https://www.axios.com/2026/05/22/ai-data-centers-stocks-jobs",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/NzRUukaZ2WnP5Nx3GK15_50nUoc=/128x128/smart/2026/05/20/1779311314529.jpg"
+      "imageUrl": "https://images.axios.com/MiUvCFcQtVisKQuG2q2kTjuQ19k=/437x0:1517x1080/320x320/2026/02/26/1772138102837.jpeg"
     },
     {
-      "id": "story-ai-2",
-      "category": "AI & Tech",
-      "headline": "Meta lays off thousands of employees to offset AI investments",
-      "summary": "Meta has notified thousands of employees of layoffs, framing the cuts explicitly as efficiency measures to fund its massive ongoing AI infrastructure spending.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Zevia doubles marketing spend as a percentage of revenue, signs Cardi B in 'radically real' brand push",
+      "summary": "The better-for-you soda brand's CMO details how dramatically increasing marketing investment — not just creative — is the strategic lever behind Zevia's repositioning, a useful case study for consulting pitches on brand transformation ROI.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/zevias-cmo-on-how-the-radically-real-soda-is-stepping-up-marketing/820512/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/bq-gEkUypO25-3KVLczLqZG6NT83N7S9QwIcL4dr9Qk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9aZXZpYV9Qcm9kdWN0X1Nob3RfMS5qcGc=.webp"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Two hours that changed AI: OpenAI cracks math olympiad, revenues soar, federal government scrambles",
-      "summary": "In a single two-hour window Wednesday, OpenAI announced a reasoning model that autonomously solved a landmark math problem, while exploding revenues and staggering infrastructure demands crystallised the full architecture of the emerging AI order.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+      "headline": "Google DeepMind CEO says we're 'in the foothills of the singularity' — and AI-driven science is the proof",
+      "summary": "At Google I/O, Demis Hassabis made the striking claim that AI is approaching the theoretical moment it exceeds human intelligence, pointing to AI-accelerated scientific discovery as the leading evidence — a shift in framing from product demos to civilisational claims.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/XCsf2onH8IVjLEUH0MIQa8Iedcg=/128x128/smart/2026/05/21/1779331107849.png"
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/io-scientist.jpg?resize=1200,600"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "How Google plans to win the AI war",
-      "summary": "At Google I/O, the company revealed it's revamping core Search to handle both traditional queries and open-ended AI tasks — a high-stakes bet that disrupts its own multibillion-dollar ad engine to avoid being disrupted by OpenAI and Anthropic.",
+      "headline": "AI backlash is mounting — and investors may be underpricing the risk",
+      "summary": "Executives are being booed, workers are striking, and data centre protests are stalling development; Axios reports that even SpaceX's prospectus now flags societal AI backlash as a material business risk, though capital flows haven't slowed yet.",
       "source": "Axios",
-      "url": "https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war",
+      "url": "https://www.axios.com/2026/05/22/ai-data-centers-stocks-jobs",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/NzRUukaZ2WnP5Nx3GK15_50nUoc=/128x128/smart/2026/05/20/1779311314529.jpg"
-    },
-    {
-      "id": "story-ai-2",
-      "category": "AI & Tech",
-      "headline": "Meta lays off thousands of employees to offset AI investments",
-      "summary": "Meta has notified thousands of employees of layoffs, framing the cuts explicitly as efficiency measures to fund its massive ongoing AI infrastructure spending.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+      "imageUrl": "https://images.axios.com/MiUvCFcQtVisKQuG2q2kTjuQ19k=/437x0:1517x1080/320x320/2026/02/26/1772138102837.jpeg"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Canadian iPhone users join class-action over deceptive Apple Intelligence marketing",
-      "summary": "Consumer Law Group filed suit in Ontario Superior Court alleging Apple falsely advertised Apple Intelligence features on iPhone 16 and select iPhone 15 models — a landmark case for AI feature marketing claims in Canada.",
-      "source": "Daily Hive Vancouver",
-      "url": "https://dailyhive.com/vancouver/class-action-apple-iphone-canada",
+      "headline": "Zevia doubles marketing spend as a percentage of revenue, signs Cardi B in 'radically real' brand push",
+      "summary": "The better-for-you soda brand's CMO details how dramatically increasing marketing investment — not just creative — is the strategic lever behind Zevia's repositioning, a useful case study for consulting pitches on brand transformation ROI.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/zevias-cmo-on-how-the-radically-real-soda-is-stepping-up-marketing/820512/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/05/class-action.jpg?format=auto"
+      "imageUrl": "https://imgproxy.divecdn.com/bq-gEkUypO25-3KVLczLqZG6NT83N7S9QwIcL4dr9Qk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9aZXZpYV9Qcm9kdWN0X1Nob3RfMS5qcGc=.webp"
     },
     {
       "id": "story-marketing-1",
       "category": "Marketing",
-      "headline": "Ally courts millennials and Gen Z with new brand platform that mocks brick-and-mortar banking",
-      "summary": "Ally's Anomaly LA-developed 'Life Today' campaign takes direct aim at traditional bank branches — a sharp example of brand differentiation through audience-specific digital-native positioning.",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/ally-billboard-marketing-gen-z-millennials-digital-banking-branches/820727/",
+      "headline": "Samsung semiconductor workers secure average $340K bonuses after threatened strike — signalling AI chip talent wars intensifying",
+      "summary": "A tentative deal averts an 18-day strike at Samsung's memory chip division, where bonuses tied to surging AI chip demand had become a flashpoint — underlining how AI infrastructure investment is reshaping compensation benchmarks across the supply chain.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://imgproxy.divecdn.com/inBRrfnzyVtwnMPtjMbzjrSiITeXNK3KcLtLagfA2pg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTA1Ny5qcGc=.webp"
-    },
-    {
-      "id": "story-marketing-2",
-      "category": "Marketing",
-      "headline": "Nvidia's record results fail to impress investors as competition looms",
-      "summary": "Nvidia posted another stellar earnings quarter but shares fell after-hours as markets question whether its pace of growth is sustainable against rising chip competition — a signal worth tracking for AI infrastructure investment timelines.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6224/live/df6bd4b0-54f6-11f1-8285-a5e1daabf896.jpg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2272013055.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.56851276178%2C100%2C74.86297447644&amp;w=1200"
     },
     {
       "id": "story-intl_students_canada-0",
       "category": "Higher Ed",
-      "headline": "Ontario colleges struggling to attract international students after visa changes",
-      "summary": "Global News reports that Ontario colleges are seeing significant enrolment shortfalls as IRCC visa restrictions filter through — a direct threat to institutional revenues and a potential consulting entry point for colleges needing enrolment marketing strategy.",
+      "headline": "Canada sees sharp decline in international students and temporary worker arrivals in 2026",
+      "summary": "Toronto Star reports the drop is substantial, confirming that Canada's post-cap policy environment is translating into real enrolment losses — directly compressing revenues at institutions that over-indexed on international tuition, and opening urgent demand for enrolment strategy consulting.",
       "source": "Google News: Canada international students",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1AydWpodEVubkJsLWRiaXVHZ1k5WUhITTJlN3lKMzl1NE1yRE1HQkk1YVozODhhUEFNNFVkU3djR21CMGkxbndlQWRuZ2lIOXJLTlNncXhjV0huVExCelBkOXZxQ0s1cEFrMUxRZExJbXhFSEhhOUJlUWNEZlJ4dlZQTU9MaVlxRjNJT2ln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPNmJZR04wclJiV21NZ05ZUzg1dkZ4UjNTRmwzNE5oOWpobld1d1V4RVdYLXdoY0hEamFtLTlMcnFHVWQ3ZFNNZTEwUGFzTU5iNzVKTm5BdXNLLW5QWFN2NzRMZm12LVdoMnNQeFJsT29Cc3M0bHdZV0MtT2JJWjFVeTZhYWdYNU5GVDkzdVdCUHkxWEpTdGJkTThJaDhOM0pER3JzUE0zU1l2TWg4MFdQSGVodzhGUlJtSmYzdXNJdnBpY2FvMGlYODhVOVc5OGE5dW1icmpuNW5SdGxRNVd6ZnVUWnhwMWphYlJtUDM2aTJ3VEVmdHJYeHY5WnRvTlR3NHY4cVY5VjUyM0JQZzY2VER6M3JfQ0QwaVh0ckNHVl82bUdvRUdubXBJU1ZOQ1VObVVjWmNCMU9NdkE?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
@@ -138,108 +114,72 @@
     {
       "id": "story-intl_students_canada-1",
       "category": "Higher Ed",
-      "headline": "Canada envoy signals India push with open campuses and joint degrees",
-      "summary": "Canada's high commissioner to India says institutions are preparing branch campuses and joint degree partnerships as the two countries rebuild education ties — a strategic pivot Midya's university clients should be watching and potentially building proposals around.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/open-campuses-joint-degrees-canada-envoy-signals-india-push/",
+      "headline": "Canada study visa concerns are actively changing international students' plans",
+      "summary": "ImmigCanada reports prospective students are redirecting away from Canada due to visa uncertainty — the downstream effect on university pipelines is already being felt, signalling a window for institutions to rethink recruitment and retention strategy.",
+      "source": "Google News: post-graduation work permit Canada",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVnliYzBkWFNrOEx5Tk9wdndFcGkyVUh2aW9pc2xES2tjZUxDaGdodDU3Wm5iUm9nWjhja0FHR25EaVBBZVplLUJ4ME9lNHJGX0lIUEttUWp2cXZSdlIyREIyS05vUTRGcXRSZHctbkRqc1dnTm9nLWpZQmtjSk1LTEZnTGxuRU1hd0pRUFZsaw?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.com/wp-content/uploads/2024/10/Canada-India.jpg"
+      "thumbnailKind": "university"
     },
     {
       "id": "story-intl_students_canada-2",
       "category": "Higher Ed",
-      "headline": "UNESCO confirms growing intra-regional student mobility is reshaping global flows",
-      "summary": "UNESCO's first Higher Education Global Trends Report shows countries like Türkiye, Egypt, and Japan gaining share from traditional destinations like Canada, the UK, and Australia — the competitive landscape for Canadian institutions is broadening fast.",
-      "source": "ICEF Monitor",
-      "url": "https://monitor.icef.com/2026/05/unesco-confirms-growing-trend-of-intra-regional-student-mobility/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/05/meredith-spencer-sr4xtO90tUM-unsplash-1200.jpg"
-    },
-    {
-      "id": "story-intl_students_canada-3",
-      "category": "Higher Ed",
-      "headline": "UK study visa issuance falls 32% in Q1 2026",
-      "summary": "A third fewer UK study visas were issued in Q1 2026 year-over-year, compounding a 6% drop in foreign enrolments already recorded by HESA — a cautionary parallel for Canadian institutions navigating their own visa tightening.",
+      "headline": "Australia's international education policy maze is undermining its appeal as a study destination",
+      "summary": "A PIE News analysis argues that proliferating acronyms, visa restrictions, and political uncertainty are eroding Australia's competitive position — a cautionary tale directly relevant to Canada, which is on the same trajectory.",
       "source": "The PIE News",
-      "url": "https://thepienews.com/uk-study-visa-issuance-falls-32/",
+      "url": "https://thepienews.com/alphabetti-spaghetti-and-australias-international-education-policy-problem/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2022/07/iStock-1050933730-1.jpg"
-    },
-    {
-      "id": "story-canadian_real_estate-0",
-      "category": "Real Estate",
-      "headline": "Luxury real estate marketing: telling the right stories for high-end buyers",
-      "summary": "REAL New York's marketing director shares how sharp brand storytelling drove the launch of a 311-unit luxury Manhattan tower — applicable frameworks for any brokerage or real estate consulting practice focused on premium positioning.",
-      "source": "RisMedia",
-      "url": "https://www.rismedia.com/2026/05/20/newsmakers-spotlight-md-kamruzzaman-real-ny/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "house",
-      "imageUrl": "https://www.rismedia.com/wp-content/uploads/2026/05/NM26_Spotlight_Md_Kamruzzaman.png"
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/05/iStock-930273620.jpg"
     },
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "Fast-moving river forces rethink in search for Kamloops woman missing after crash",
-      "summary": "Search crews in Kamloops have had to revise their strategy after a fast-moving river complicated the search for a woman missing following a vehicle crash — conditions worth monitoring if family is near local waterways.",
-      "source": "Google News: Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmU0QnJ3MTFsc2hodDZVMU80dVNjZEFSQTIzZWxEa3liUGE0dHUtc1FDTU1PMk1xX0VRSGlaNi0weEZYaWRJUzRjQ1hrUzdIRWtocUxTSi1laDZtV3Z1M3dTTThjZmwtc2JXcWEycVVPT2tfM1oxR1VIY1p6ak10NUJneEtXTkdHaHpBeFRQQXhOOUhCNjhyUVZ2UUtzOXJzclpaVWVsM29pYnVJaHdwU0QxdXJ1QS01UW1MdVNmM0RzZzQtcl9wbzltNHlRdHRu?oc=5",
+      "headline": "Ebola vigilance urged in Canada as FIFA World Cup arrives in two weeks",
+      "summary": "A public health expert warns Canada needs active surveillance protocols for Ebola given the Africa outbreak and the imminent arrival of hundreds of thousands of international visitors for the FIFA World Cup — relevant for BC communities hosting events.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/05/22/expert-canada-should-be-vigilant-about-ebola-with-world-cup-coming-in-two-weeks/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "mountains"
-    },
-    {
-      "id": "story-kamloops_sun_peaks-1",
-      "category": "Local News",
-      "headline": "Accessibility and land access headline inaugural BC outdoor recreation conference",
-      "summary": "A first-of-its-kind BC outdoor recreation conference covered accessibility and land access — relevant context for Sun Peaks and Kamloops as resort and recreation planning continues in the region.",
-      "source": "Google News: Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM2M3SU1vQ0oxQ184dHVPeXJlUUZSS2NOUEZEQzVJbFgwa0RGbFZIX2xiMXBoZVVYYWtyS3RsTVQ0NVpPY2JMTTRUSjJKODlTZ1JIdjI1Wlg5eGVRNVlmNFZxUzZoYXpTVGtVUVAweDBRMEJ3UFNUZzlDcGFnbEVMNEpnWVg1dmJYRWp2Y25FOGVuTkdDVU9SamI5TjN4MjAwNEFUcU1od3BUb2JtSmxHY2tFS0FKdFM1N2Z3Yi0wTEctUDZLcmZqWW85MjB6YTN5Q3hN?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "mountains"
+      "thumbnailKind": "mountains",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fa898c06f-440e-4744-b70c-e34fdb46f104%2Fae867ca11529aefa47ac0c463b77628b46c771ca75cdf44f8ab42ed9bb35809b.jpg"
     },
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Ebola outbreak raises alarms as Trump's USAID dismantlement weakens global health response",
-      "summary": "Public health experts warn that cutting USAID and withdrawing from the WHO has degraded the rapid-response networks needed to contain the current Ebola outbreak in a densely populated, politically unstable part of Congo.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/21/ebole-response-trump-health-cuts",
+      "headline": "The Enhanced Games open in Las Vegas — 42 athletes competing while openly using performance-enhancing drugs",
+      "summary": "The inaugural event, backed by tech investors and framed as a longevity and human-performance experiment, has drawn sharp criticism from sports scientists and anti-doping agencies, and sits at the intersection of biohacking culture and regulatory grey zones.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://images.axios.com/xHuATjc9jlfN4UxpQS0LWI7mvl4=/143x0:1223x1080/320x320/2026/05/20/1779305190439.jpeg"
-    },
-    {
-      "id": "story-global_business_tech-1",
-      "category": "Global",
-      "headline": "SpaceX IPO prospectus reveals weaker-than-expected underlying business",
-      "summary": "SpaceX filed for what could be the largest IPO ever at a $1.75 trillion target valuation, but the prospectus shows the figure depends heavily on future growth expectations rather than current cash flows — a reality check on Musk's empire.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/21/spacex-ipo-musk-ai",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "globe",
-      "imageUrl": "https://images.axios.com/RmGky_Uv7o5FecvMYHqeKOSqEvg=/613x0:1693x1080/320x320/2026/05/13/1778711499956.jpeg"
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/enhanced-swim.jpg?resize=1200,600"
     },
     {
       "id": "story-longevity-0",
       "category": "Longevity",
-      "headline": "Lilly's 'triple-G' drug delivers bariatric-surgery-level weight loss in trial",
-      "summary": "STAT News clinical trial report: Eli Lilly's next-generation retatrutide drove weight loss comparable to bariatric surgery, though a notable portion of patients discontinued due to side effects — a meaningful benchmark in the GLP-1 evolution.",
+      "headline": "Sam Altman-backed longevity startup Retro Biosciences reaches $1.8 billion valuation in latest fundraising round",
+      "summary": "STAT News reports Retro Biosciences — focused on extending healthy human lifespan — has closed new funding at a $1.8B valuation, signalling that longevity biotech is attracting serious institutional capital alongside the tech-billionaire backing that has defined the sector.",
       "source": "STAT News",
-      "url": "https://www.statnews.com/2026/05/21/eli-lilly-retatrutide-triple-g-weight-loss-obesity-discontinuations-trial/?utm_campaign=rss",
+      "url": "https://www.statnews.com/2026/05/22/retro-biosciences-longevity-valuation/?utm_campaign=rss",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "leaf",
-      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/08/GettyImages-2092473213-645x645.jpg"
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/05/STAT-Summit-West-01308-645x645.jpg"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "The Lancet: Quantifying mental disorder burden — DALYs and YLDs capture disease load but miss lived experience",
+      "summary": "The Lancet commentary argues that standard disability metrics systematically undercount the real human cost of mental illness, with implications for how health systems prioritise and fund mental health care — relevant as Canadian universities grapple with student mental health crises.",
+      "source": "The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00818-4/fulltext?rss=yes",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf"
     }
   ],
   "audioChapters": [
@@ -247,75 +187,68 @@
       "id": "c1",
       "title": "AI & Tech",
       "category": "AI & Tech",
-      "duration": "2:52",
-      "startSeconds": 19
+      "duration": "2:56",
+      "startSeconds": 25
     },
     {
       "id": "c2",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "2:18",
-      "startSeconds": 191
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:31",
+      "startSeconds": 201
     },
     {
       "id": "c3",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "3:02",
-      "startSeconds": 329
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:56",
+      "startSeconds": 352
     },
     {
       "id": "c4",
-      "title": "Real Estate & AirBnB",
-      "category": "Real Estate",
-      "duration": "0:47",
-      "startSeconds": 510
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:27",
+      "startSeconds": 468
     },
     {
       "id": "c5",
       "title": "Local News",
       "category": "Local News",
-      "duration": "0:46",
-      "startSeconds": 558
+      "duration": "0:53",
+      "startSeconds": 555
     },
     {
       "id": "c6",
-      "title": "Global News",
-      "category": "Global",
-      "duration": "1:30",
-      "startSeconds": 603
-    },
-    {
-      "id": "c7",
       "title": "Longevity",
       "category": "Longevity",
-      "duration": "1:06",
-      "startSeconds": 693
+      "duration": "2:06",
+      "startSeconds": 608
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "How Google plans to win the AI war",
-    "summary": "At Google I/O, the company revealed it's revamping core Search to handle both traditional queries and open-ended AI tasks — a high-stakes bet that disrupts its own multibillion-dollar ad engine to avoid being disrupted by OpenAI and Anthropic.",
+    "headline": "AI backlash is mounting — and investors may be underpricing the risk",
+    "summary": "Executives are being booed, workers are striking, and data centre protests are stalling development; Axios reports that even SpaceX's prospectus now flags societal AI backlash as a material business risk, though capital flows haven't slowed yet.",
     "source": "Axios",
-    "url": "https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war",
+    "url": "https://www.axios.com/2026/05/22/ai-data-centers-stocks-jobs",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://images.axios.com/NzRUukaZ2WnP5Nx3GK15_50nUoc=/128x128/smart/2026/05/20/1779311314529.jpg"
+    "imageUrl": "https://images.axios.com/MiUvCFcQtVisKQuG2q2kTjuQ19k=/437x0:1517x1080/320x320/2026/02/26/1772138102837.jpeg"
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "Two hours that changed AI: OpenAI cracks math olympiad, revenues soar, federal government scrambles",
-    "summary": "In a single two-hour window Wednesday, OpenAI announced a reasoning model that autonomously solved a landmark math problem, while exploding revenues and staggering infrastructure demands crystallised the full architecture of the emerging AI order.",
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+    "headline": "Google DeepMind CEO says we're 'in the foothills of the singularity' — and AI-driven science is the proof",
+    "summary": "At Google I/O, Demis Hassabis made the striking claim that AI is approaching the theoretical moment it exceeds human intelligence, pointing to AI-accelerated scientific discovery as the leading evidence — a shift in framing from product demos to civilisational claims.",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://images.axios.com/XCsf2onH8IVjLEUH0MIQa8Iedcg=/128x128/smart/2026/05/21/1779331107849.png"
+    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/io-scientist.jpg?resize=1200,600"
   },
-  "heroImageUrl": "https://images.axios.com/XCsf2onH8IVjLEUH0MIQa8Iedcg=/128x128/smart/2026/05/21/1779331107849.png"
+  "heroImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/io-scientist.jpg?resize=1200,600"
 }
