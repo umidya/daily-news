@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 2,
+  "date": "Saturday, May 23, 2026",
+  "dateIso": "2026-05-23",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "14:49",
+  "currentTime": "0:00",
+  "remaining": "14 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Two threads dominate today that connect directly to your work, Midya. Google's new omni-modal AI model and OpenAI's move into advertising signal that the AI-in-marketing landscape is accelerating faster than most brands are ready for — your consulting positioning as an AI-marketing specialist is landing at exactly the right moment, and both stories give you concrete proof points for client conversations. On the higher-ed side, the University Affairs piece on over-securitization of China partnerships and Brock's national provost summit are quiet signals that Canadian institutions are wrestling with strategic identity questions — the kind of uncertainty that opens doors for outside advisers.",
+  "digestReadingTime": "9 min read",
+  "whyItMatters": "Two threads dominate today that connect directly to your work, Midya. Google's new omni-modal AI model and OpenAI's move into advertising signal that the AI-in-marketing landscape is accelerating faster than most brands are ready for — your consulting positioning as an AI-marketing specialist is landing at exactly the right moment, and both stories give you concrete proof points for client conversations. On the higher-ed side, the University Affairs piece on over-securitization of China partnerships and Brock's national provost summit are quiet signals that Canadian institutions are wrestling with strategic identity questions — the kind of uncertainty that opens doors for outside advisers. Closer to home, high fuel prices are already hitting Kamloops-area tourism, which matters for Sun Peaks-adjacent business planning, and a tentative deal averting a BC nurses' strike is good news for your family's access to healthcare. The macro backdrop — a fragile economic outlook, a newly installed Fed chair under political pressure, and US immigration tightening — creates the kind of uncertainty that makes institutional clients cautious but also hungry for strategic clarity.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-23.mp3",
+  "audioDurationSeconds": 889,
+  "audioScript": "Good morning, Midya. It's Saturday, May twenty-third, twenty twenty-six. A lot came in overnight, and some of it connects directly to moves you should be thinking about this weekend.\n\nLet's start with AI, because two stories out this morning crystallize exactly why your positioning as an AI-marketing specialist is so timely — and one of them has some genuinely unsettling implications that go well beyond marketing.\n\nGoogle published a hands-on look at its new Gemini Omni model, and the headline capability is something they're calling anything-to-anything AI. You give it text, it gives you video. You give it audio, it gives you images. The model can move fluidly between any media modality with enough fidelity that The Verge's reviewer was able to create convincing deepfakes — in their case, making a stuffed deer look like it was on vacation, which sounds cute, but the underlying capability is profound and a little alarming. Think about what this means for brand integrity. Any client brand can now be convincingly put in situations it never sanctioned. Any spokesperson can be made to say things they never said. For you as a consultant walking into Canadian university marketing departments or corporate brand teams, this is a concrete, real-world example of why they need an AI-in-marketing strategy right now, not next year. The threat surface for brand reputation just expanded enormously, and the tools to create that threat are freely available.\n\nThe second AI story is from TechCrunch and it's a strange one, but it matters for the same underlying reason. Researchers used AI to reconstruct cockpit voice recordings from crash investigations — not from the audio itself, which is sealed, but from spectrogram images that were publicly accessible in the NTSB's online docket. The NTSB had to temporarily shut down public access to its entire records system in response. Why does this matter beyond aviation? Because it's another demonstration that AI is finding ways to extract sensitive information from data that nobody considered sensitive. Spectrograms were academic artifacts. Nobody thought of them as a security vulnerability. The lesson for any institution — universities, corporations, government agencies — is that their AI governance frameworks need to account for second-order data risks they haven't imagined yet. Another strong proof point for consulting conversations.\n\nAnd on the foundational model side, NVIDIA quietly published research on Nemotron-Labs diffusion language models on Hugging Face. The claim is near-instant, speed-of-light text generation using a diffusion approach rather than the standard autoregressive token-by-token method most current models use. This is more technical but important to track: if diffusion-based language models prove out at scale, inference costs drop dramatically, which changes the economics of AI deployment for every business. Keep this on your radar as a technology shift that could make AI tools substantially cheaper and faster within the next twelve to eighteen months.\n\nNow, the marketing story of the week, which arrived quietly on Friday: OpenAI is hiring a senior marketing executive specifically to build and promote its advertising business. The job posting explicitly aims to position OpenAI as, quote, a leading voice on the future of advertising. This is a big deal. OpenAI entering the ads business means the company that builds the AI tools your clients are using is now also going to be competing in the attention economy — selling ad placements, building advertiser relationships, and shaping how brands appear inside AI-generated experiences. For you as a consultant, this has two implications. First, it's a new channel to understand and eventually advise clients on. Second, it's a sign that the blurring between AI platform and media company is accelerating faster than most brand strategists have prepared for. When you're pitching universities or corporate clients on an AI-marketing strategy, the OpenAI-as-ad-platform angle is a compelling hook.\n\nConnected to this: Microsoft's chief consumer marketing officer, Yusuf Mehdi, announced he'll be leaving after thirty-five years with the company. Mehdi was the CMO most closely associated with consumer-facing products — Bing, Xbox, Surface — and his exit is the latest in a pattern of senior marketing talent departing Microsoft as the company restructures its entire product identity around AI. This is a broader signal worth noting: the AI transition isn't just changing what products do, it's reshuffling who holds marketing power inside large organizations. For someone building a consulting practice right now, the instability at the CMO level inside large tech firms is actually an opportunity — companies in transition need outside strategic perspective.\n\nAnd on the creative side, a quieter but pointed story from Marketing Dive: Skittles' new campaign, developed by TBWA backslash Chiat backslash Day, was shot deliberately without CGI or AI. That's a creative decision, but it's also a brand statement — and the agency made sure people knew about it. In an environment where AI-generated content is proliferating, choosing to be visibly, demonstrably human-made is itself a brand differentiator. This is worth filing as a case study when you're advising clients on how to think about authenticity in their AI-era creative strategy. Not every brand should avoid AI in production, but every brand should have a conscious, articulable position on it.\n\nThree higher education stories worth your attention this morning, and all three have a client-development dimension.\n\nUniversity Affairs ran an opinion piece asking whether Canadian universities are over-securitizing their relationships with China — and in doing so, cutting themselves off from valuable transnational education partnerships. The argument is that risk-averse security framing, driven partly by federal government pressure and partly by reputational caution, is causing institutions to pull back from collaborations that would otherwise be academically and financially productive. This is a genuinely complex strategic tension, and it's exactly the kind of thing university leadership teams are quietly wrestling with but rarely address publicly or coherently. If you're positioning yourself as a strategic adviser to Canadian universities, this is a conversation you can walk into with a point of view. Institutions that have retreated from China partnerships need a clear narrative for how they're replacing that international engagement pipeline — that's a marketing and strategy problem, not just a policy problem.\n\nBrock University hosted a national summit of Canadian university provosts. The snippet is light, but the significance is real: Brock is actively investing in national leadership visibility right now. Provosts are often the decision-makers on academic strategy and, increasingly, on institutional partnerships and consulting engagements. Brock putting itself at the centre of a national conversation is a signal that this institution is in an expansionist, forward-leaning mode. Worth a note in your CRM if Brock isn't already on your target list.\n\nOn the immigration front — which directly affects the international student pipeline that most Canadian universities depend on — IRCC's Express Entry backlog has hit an all-time low. Processing speeds are improving, which modestly improves the outlook for international graduates navigating the PGWP and Permanent Residency pathway. It's not a dramatic policy change, but it's a positive signal for universities that have been worried about international student retention post-graduation. When you're in front of a university enrolment or international office, having current knowledge of IRCC processing trends is a credibility marker.\n\nThe real estate and macro-economic picture is genuinely worrying right now, and it's directly relevant to anyone tracking Canadian housing, mortgage rates, or the brokerage industry.\n\nRISMedia's leading economic indicators piece paints a fragile picture. The US-Iran War — now in its ongoing energy shock phase — is keeping global oil prices elevated, which is feeding inflation across North America. The Federal Reserve has signalled willingness to raise rates further if inflation continues. That's a direct headwind for housing affordability on both sides of the border. For anyone watching Canadian real estate or the brokerage landscape, the trajectory right now is: elevated rates, softening demand, and a consumer who is cautious. Not a crisis, but not a recovery either.\n\nAnd speaking of the Fed: Kevin Warsh was sworn in as the seventeenth Federal Reserve Chair on Friday at the White House. He inherits what Axios describes as the most politically fraught Fed environment in recent memory. Trump is publicly pressuring Warsh to cut rates, but the economic conditions — soaring energy-driven inflation, a still-tight labour market — make cuts hard to justify. Warsh reportedly told Trump: don't look at me, don't look at anybody. Whether that independence holds under sustained political pressure is the question to watch. For Canadian markets, the Bank of Canada watches the Fed closely. If the Fed holds or raises, the BoC's room to cut narrows, and the mortgage rate relief that would unlock the housing market stays out of reach.\n\nThree things from your home territory this morning.\n\nHigh fuel prices are already hitting the Kamloops-area tourism sector. Local operators are reporting that energy cost spikes — again, connected to the US-Iran conflict — are squeezing margins and beginning to affect visitor planning for the summer season. For Sun Peaks, which depends heavily on summer tourism alongside its ski season, this is worth watching closely. If visitors are price-sensitive on fuel for road trips from the Lower Mainland, a resort that's a four-hour drive from Vancouver feels that in occupancy numbers before most other indicators move.\n\nA long-haul trucker has been sentenced in connection with the fiery Highway 5 crash north of Kamloops that killed two people. This closes a significant legal chapter in a case that affected the corridor you travel regularly. No further details in the snippet, but the sentencing has been handed down.\n\nAnd Kamloops is opening public consultation on the long-delayed Red Bridge replacement, with frustration visibly growing among residents over how stalled the project has been. This is a key piece of city infrastructure and a long-running source of community tension. If you have clients or contacts in city planning or development in Kamloops, this is an active file.\n\nTwo global stories worth a brief pause.\n\nA coal mine gas explosion in Shanxi province, China, killed at least ninety people — making it one of the country's deadliest industrial accidents in recent years. Beyond the immediate human tragedy, this adds pressure to already strained global energy supply chains at a moment when energy prices are already elevated by the US-Iran conflict. The compounding effect on global energy markets is worth noting.\n\nAnd the United States has tightened its Green Card rules, introducing a new requirement that visa applications be processed overseas rather than domestically. The practical effect is a significant reshaping of immigration mobility globally. For higher education specifically, this makes the US a less attractive destination for international students who are weighing their options — and Canada, despite its own recent policy turbulence, picks up relative attractiveness. When you're talking to Canadian university international enrolment teams, this US policy tightening is a genuine recruitment tailwind worth naming explicitly.\n\nOne longevity story today, and it's worth your time precisely because it warns against the noise rather than adding to it.\n\nSTAT News — a rigorous clinical and scientific outlet — published an expert analysis of what it calls the perimenopause movement: the wave of influencers, supplement brands, and wellness content creators who have built a substantial industry around perimenopause awareness. Two clinical experts interviewed for the piece argue that the movement, while it has raised legitimately important awareness about a historically under-discussed phase of women's health, has also spawned significant misinformation — unvalidated hormone protocols, supplements with no clinical evidence, and advice that can be actively harmful. The framing from one expert was: there's a whole industry that seems to have sprung up. For anyone navigating perimenopause — or supporting family members who are — the practical takeaway is: be sceptical of anything you're seeing from non-clinical sources, and bring specific questions to a physician rather than an algorithm or an influencer.\n\nFinally, one piece of genuinely good news for BC families.\n\nBC's nurses and the provincial government reached a tentative deal overnight, averting a strike that had been looking increasingly likely after nurses voted in historically overwhelming numbers in favour of strike action. The deal still needs to be ratified by union members, but a tentative agreement is on the table. For anyone in BC — and especially for your family — continuity of nursing care is not an abstract concern. A nurses' strike in BC would have affected everything from emergency departments to surgical waitlists. This is a welcome outcome, and it's worth monitoring the ratification vote in the coming weeks.\n\nThat's your Saturday briefing, Midya. The dominant thread today is acceleration — AI capabilities moving faster than governance, marketing structures shifting faster than CMOs can adapt, and economic conditions tightening faster than rate-setters want to admit. The institutions and leaders who are going to navigate this well are the ones who get ahead of it with clear-eyed strategy rather than reactive scrambling. That's precisely the advisory capacity you're building. Use the weekend to sit with the OpenAI-into-advertising story and the Google Gemini Omni piece together — they're two sides of the same coin, and the synthesis is a compelling conversation-opener with any marketing or university client you're approaching this month. Have a good one.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Google's New Gemini Omni Model Does Anything-to-Anything — Including Convincing Deepfakes",
+      "summary": "Google's updated Gemini model can convert between any media types — text, image, video, audio — with enough fidelity to produce realistic deepfakes, raising both creative and safety stakes for marketers and brands.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-19.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "AI Is Being Used to Resurrect the Voices of Dead Pilots — and It's Already Causing Legal Problems",
+      "summary": "Researchers used AI on cockpit recording spectrograms to reconstruct audio from crash investigations, prompting the NTSB to temporarily shut down public access to its docket — a stark example of AI outrunning regulatory frameworks.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "NVIDIA's Nemotron Diffusion Language Models Promise Near-Instant Text Generation",
+      "summary": "NVIDIA's Nemotron-Labs diffusion approach to language modelling claims dramatically faster text generation speeds, a foundational shift that could change inference costs and real-time AI application economics.",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-labs-diffusion.png"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Google's New Gemini Omni Model Does Anything-to-Anything — Including Convincing Deepfakes",
+      "summary": "Google's updated Gemini model can convert between any media types — text, image, video, audio — with enough fidelity to produce realistic deepfakes, raising both creative and safety stakes for marketers and brands.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-19.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "AI Is Being Used to Resurrect the Voices of Dead Pilots — and It's Already Causing Legal Problems",
+      "summary": "Researchers used AI on cockpit recording spectrograms to reconstruct audio from crash investigations, prompting the NTSB to temporarily shut down public access to its docket — a stark example of AI outrunning regulatory frameworks.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "NVIDIA's Nemotron Diffusion Language Models Promise Near-Instant Text Generation",
+      "summary": "NVIDIA's Nemotron-Labs diffusion approach to language modelling claims dramatically faster text generation speeds, a foundational shift that could change inference costs and real-time AI application economics.",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-labs-diffusion.png"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "OpenAI Is Hiring a Senior Marketing Executive to Build Its Ads Business — and Position Itself as 'a Leading Voice on the Future of Advertising'",
+      "summary": "OpenAI is actively staffing up a dedicated advertising function, signalling its intent to compete in the ad-tech and brand-marketing space — a major structural shift that will reshape how AI is sold to marketers.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/openai-is-hiring-for-a-top-marketing-exec-to-promote-its-ads-business/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/openai-ads-2026.png?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Microsoft's Chief Consumer Marketing Officer Yusuf Mehdi Exits After 35 Years",
+      "summary": "Mehdi's departure is the latest in a wave of senior Microsoft marketing talent leaving as the company restructures around AI products, signalling how deeply the AI transition is reshuffling CMO-level leadership across big tech.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/ai-battle-microsoft-yusuf-mehdi/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/Medhi-HERO.png?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-2",
+      "category": "Marketing",
+      "headline": "Skittles' New Campaign Shoots Without CGI or AI — A Deliberate Brand Statement",
+      "summary": "TBWA\\Chiat\\Day's latest work for Skittles explicitly avoids AI and CGI, a creative choice that itself becomes a brand signal as the industry debates authenticity in an AI-saturated content environment.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/campaign-trail-skittles-stays-surreal-for-uncomfortably-soft-gummies/820683/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/6x02Kl7vnWhcKHX4-xnAJtD8viIj-O423Nv3rOmOOm4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYW5nYXJvby5qcGc=.webp"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "Are Canadian Universities Over-Securitizing China Partnerships and Losing Strategic Ground?",
+      "summary": "University Affairs asks whether risk-averse security framing is causing Canadian universities to retreat from valuable transnational education opportunities with China — a strategic debate with real enrolment and revenue implications. Potential client signal: institutions navigating this tension need clearer international partnership communications strategies.",
+      "source": "University Affairs (Canada)",
+      "url": "https://universityaffairs.ca/opinion/the-dangers-of-over-securitization/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://universityaffairs.ca/wp-content/uploads/2026/05/1920x1268-China-Security-scaled.jpg"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "Brock University Hosts National Summit of University Provosts",
+      "summary": "Brock convened provosts from across Canada for a national leadership summit, signalling active peer-network activity among institutional decision-makers — a warm environment for consulting introductions. Potential client signal: Brock is visibly investing in leadership positioning right now.",
+      "source": "Google News: Canadian universities",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGd4Vlg2NUxCNFE3UjdpaWNDd3ZjN2RCRVhnY3djMkFRVDZlVExaQ1F5eWJQZ19WcTVMWHdDU3czMjZMckduT0p2cE9sYUxXZWRmUXdrVWJrekJOZnJ1OHNGSHJMZTFmNVpzaEJ0VnR4MXRDNHVMQ0pHcHk0d1hCT2hJdWxZdFhZLUx1Qjc2cy1oSXljbjVhWXM3Zmk?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-2",
+      "category": "Higher Ed",
+      "headline": "IRCC's Express Entry Application Backlog Hits All-Time Low",
+      "summary": "Canada's Express Entry backlog has dropped to a record low, suggesting improved processing speed that could modestly ease the pathway for international students and graduates navigating PGWP and PR transitions.",
+      "source": "Google News: study permit Canada",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmNhdEdzR1BtWmk4c2RwTXZKLXNQSnNxOXdCcjIteERxQ3RnbFJsdnFzMWM5QmNCSnlWdjIyZVVCazkyQmpTQ0szZXNCUjE3ZGpVcUJfdkZDOWRZRlFTWXhrZjJnMHl4bDM2TUZKTGZTUDBQN3FDSXV4dy15Q3RfRGZxaVM1X0JOV3JuaWpGQ1podC1oTzVuUDNhZmR4c0llSkZIbUt2TVc0Q0JUZWJtUEhjdFJPbDhWTm13T1pMUdIBxAFBVV95cUxQM2U0MDNRcEI5U0tjWjdFLUhtZTVFdVNRc05Fd3FmTGNrcUVUSE9xa1RkQi1XNWVRVXJOREpIWUVSWUlLZ0lMVVJNQ05DWjF2Ti1YZThsY3VDOHhyMFNFWndjdXloY2lPek80QUJEZmpPOUZTdjFaLUZHdnJES2lkOHdoZ0Z3XzVYcUhmT0lrMWdscW1ZYWdXUFNUZmJhT2ZFNEJyM0lCeEd4c0t2b29IeU5PejlVNnJKNmNLbzRmclpIR3gt?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Leading Economic Indicators Show 'Fragile' Outlook as Inflation and Mortgage Rates Rise",
+      "summary": "Ongoing US-Iran War energy shocks are driving inflation and pushing mortgage rates upward, with the Fed signalling possible rate hikes — a direct headwind for Canadian housing affordability and brokerage activity.",
+      "source": "RisMedia",
+      "url": "https://www.rismedia.com/2026/05/22/leading-economic-signals-continue-to-show-fragile-outlook/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.rismedia.com/wp-content/uploads/2026/05/052226_EconomicIndicators.png"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "New Fed Chair Kevin Warsh Sworn In Under Intense Political Pressure to Cut Rates",
+      "summary": "Warsh inherits soaring inflation and a Middle East energy shock that makes rate cuts economically unjustifiable, even as Trump openly pressures him — the most politically fraught Fed moment in a generation, with direct implications for Canadian rate expectations.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/22/warsh-trump-federal-reserve",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://images.axios.com/pjZ_jBSTKO-u0BV1ka60rWQA7PA=/700x0:3787x3087/320x320/2026/05/22/1779466009957.jpg"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "High Fuel Prices Hurting Kamloops-Area Tourism Sector",
+      "summary": "Energy cost spikes tied to the US-Iran conflict are squeezing tourism operators in the Kamloops region, with direct implications for Sun Peaks visitor volumes and hospitality businesses heading into summer.",
+      "source": "Google News: Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbU1YQk82Ny1qa0xZWkFxSl9QTjNiblZ6Y1pNcEl3TzZDck5sYTN3T0g2bGpWbzdOajkwYWVjT01fQlR2NXkwcEhEMmZLV0ViM2wwajRnQy1zdC04bGtQaEt1WDNESDJHSnZXWWgtRFJndEl4RWZBcGhHRWVha0Z4LU9Id1lRRXU1bWw5WWlHTnc?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Long-Haul Trucker Sentenced for Fiery Highway 5 Crash North of Kamloops That Killed Two",
+      "summary": "A sentencing has been handed down in the fatal Highway 5 collision — a route Midya regularly travels between Kamloops and Sun Peaks — closing a significant local road-safety case.",
+      "source": "Google News: Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONnhGZnljclJPQTYzN1ZWM25zbFVockRuVnphVW5fM3dZcEU5N0E3elNDQkpKdDFFWENCNWJ4UW5HTlNDaVhmdjhGRmZaRnR0YTN0ZFlUaXYtMHFhY0xmeVdKbE9MS2hkQVZ3MzJRcm1XOXdwSmllN0hORlNRT1ZUR1NfVVZXSGNIbVdkSVNURG94LUtxOVVac3k4TjNkUEE4bUI0RDFpTTZPOF9acGxsS1pZS2FBeVpKNG1FRVBzc2NkbEZFSUVLdGlNZEZ1X0w0TUlDNVVvbzY?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-2",
+      "category": "Local News",
+      "headline": "Public Consultation Opens on Stalled Red Bridge Replacement in Kamloops",
+      "summary": "Frustration is mounting among residents as the long-delayed Red Bridge replacement finally enters a public consultation phase, a key infrastructure file for Kamloops connectivity.",
+      "source": "Google News: Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWVZWdXk1a0dpSmo4cXhaYlpBQm41T205Sm1JaDRRQm9HRW9USGJ6ZF81SWZFbVhQMnQ3VDVSNy14QTBnSTZOVVFZa0g1V3V6TDBid0dzVnJ0WFNIMGJpeVA3eWw3S2hCcm5fRFNQWmxXWWF5TlhzTE5WZkJVQlN5NDFRenp2QlBibm1DY1JkTzZrVkJDbUg2aXcwM0lTMExmd2hCUEVlUkdHaklKYjJ3MVhoQ181NEstT0ZUWFZHa1JEcUE?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Coal Mine Explosion in China's Shanxi Province Kills 90 People",
+      "summary": "A gas explosion at a coal mine in northern China killed at least 90 people in one of the country's deadliest industrial accidents in years, adding pressure to already strained global energy supply chains.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/05/22/coal-mine-gas-explosion-in-china-kills-82-people-state-media-say/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F061af080-3743-4aee-bb7b-05c2e17c7095%2Fe4d75e3d0cb6a241686edb0271f48a4ee1f083551faf46fd589a4ed65da2ae84.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "US Tightens Green Card Rules with New Overseas Visa Application Requirements",
+      "summary": "New US immigration rules requiring overseas visa applications are reshaping mobility pathways globally, with knock-on effects for international students weighing US versus Canadian study and work options.",
+      "source": "Google News: international student visa policy",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVWRXbGRfakxjSkRmVzNhcExHWmpoeldPVGN2eldIQ3J2d09DT1JocFg3R3cxVm1pNlpWNmV1eUNTanBEMGo5YVdQSWtzRG1lN1VBZlFjVUtEbEF0aW0xaU10YkVwRVIyVlU2LWpn?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "STAT News Expert Analysis: How the Perimenopause Wellness Industry Is Spreading Misinformation",
+      "summary": "STAT News, citing two clinical experts, warns that a proliferating industry of influencers and supplement marketers is exploiting perimenopause awareness with unvalidated products and hormonal claims — relevant for any woman navigating this life stage.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/05/23/perimenopause-misinformation-influencers-supplements-hormones/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/05/FOP_051326_Wordpress_Transcript_Featured_Image-1-645x645.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "BC Nurses and Provincial Government Reach Tentative Deal, Strike Averted",
+      "summary": "A tentative agreement has been reached between BC's nurses' union and the provincial government following an overwhelming strike mandate, protecting continuity of healthcare services across the province.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/nurses-b-c-government-agree-on-tentative-deal-to-avoid-strike",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:00",
+      "startSeconds": 11
+    },
+    {
+      "id": "c2",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "2:32",
+      "startSeconds": 190
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:25",
+      "startSeconds": 342
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:36",
+      "startSeconds": 487
+    },
+    {
+      "id": "c5",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:21",
+      "startSeconds": 583
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:08",
+      "startSeconds": 664
+    },
+    {
+      "id": "c7",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:08",
+      "startSeconds": 731
+    },
+    {
+      "id": "c8",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:43",
+      "startSeconds": 799
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "AI Is Being Used to Resurrect the Voices of Dead Pilots — and It's Already Causing Legal Problems",
+    "summary": "Researchers used AI on cockpit recording spectrograms to reconstruct audio from crash investigations, prompting the NTSB to temporarily shut down public access to its docket — a stark example of AI outrunning regulatory frameworks.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Google's New Gemini Omni Model Does Anything-to-Anything — Including Convincing Deepfakes",
+    "summary": "Google's updated Gemini model can convert between any media types — text, image, video, audio — with enough fidelity to produce realistic deepfakes, raising both creative and safety stakes for marketers and brands.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-19.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+  },
+  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-19.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+}

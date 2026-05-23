@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 22 May 2026 11:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 11:37:38 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, May 22, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-22.html</link>
-      <description>The dominant thread this Friday is acceleration on two fronts that directly intersect your work: AI is moving from product announcements to civilisational-scale claims — Google DeepMind's CEO used the word 'singularity' at I/O this week, and the AI backlash is quietly becoming a ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-22.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-22.mp3" length="15538080" type="audio/mpeg"/>
-      <pubDate>Fri, 22 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, May 23, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-23.html</link>
+      <description>Two threads dominate today that connect directly to your work, Midya. Google's new omni-modal AI model and OpenAI's move into advertising signal that the AI-in-marketing landscape is accelerating faster than most brands are ready for — your consulting positioning as an AI-marketi...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-23.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-23.mp3" length="17786400" type="audio/mpeg"/>
+      <pubDate>Sat, 23 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
