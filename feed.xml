@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 24 May 2026 11:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 11:36:50 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, May 24, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-24.html</link>
-      <description>The dominant signal this Sunday is geopolitical: the US-Iran deal is either hours from being signed or from collapsing, and the Strait of Hormuz outcome will ripple through energy costs and global supply chains — relevant to every client conversation you'll have this week. Closer...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-24.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-24.mp3" length="11058720" type="audio/mpeg"/>
-      <pubDate>Sun, 24 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, May 25, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-25.html</link>
+      <description>Midya, two themes deserve your attention this Monday. First, the trust gap between small businesses deploying AI in marketing and their sceptical customers is becoming a real consulting opportunity — brands need someone who can bridge that credibility divide, and that's squarely ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-25.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-25.mp3" length="14200800" type="audio/mpeg"/>
+      <pubDate>Mon, 25 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
