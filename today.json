@@ -1,219 +1,256 @@
 {
   "schemaVersion": 2,
-  "date": "Monday, May 25, 2026",
-  "dateIso": "2026-05-25",
+  "date": "Tuesday, May 26, 2026",
+  "dateIso": "2026-05-26",
   "greeting": "Good morning, Midya",
-  "totalDuration": "11:50",
+  "totalDuration": "13:31",
   "currentTime": "0:00",
-  "remaining": "11 min total",
+  "remaining": "13 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Midya, two themes deserve your attention this Monday. First, the trust gap between small businesses deploying AI in marketing and their sceptical customers is becoming a real consulting opportunity — brands need someone who can bridge that credibility divide, and that's squarely your lane. Second, the Iran-U.S.",
-  "digestReadingTime": "7 min read",
-  "whyItMatters": "Midya, two themes deserve your attention this Monday. First, the trust gap between small businesses deploying AI in marketing and their sceptical customers is becoming a real consulting opportunity — brands need someone who can bridge that credibility divide, and that's squarely your lane. Second, the Iran-U.S. peace signals are pushing oil below $100 a barrel for the first time in months, which ripples into Canadian inflation, rate expectations, and ultimately mortgage renewal decisions — relevant both to your real estate tracking and to university clients managing operating costs. On the higher-ed front, the shift in international student decision-making toward outcomes over destination is a strategic signal for any Canadian institution trying to recruit; if you're pitching enrolment marketing consulting, this framing is your opening. Locally, Parliament's return and the western premiers meeting in Kananaskis are the political context shaping the funding environment your university clients will be operating in.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-25.mp3",
-  "audioDurationSeconds": 710,
-  "audioScript": "Good morning, Midya. It's Monday, May twenty-fifth, 2026. A lot moved over the weekend, and a few of today's threads connect directly to your consulting pivot — so let's get into it.\n\nLet's start where your work lives: AI and marketing. There's a Forbes story out this morning with a headline that should genuinely interest you — \"Small Businesses Trust AI With Marketing. Their Customers Do Not.\" It's not a long read, but the finding is significant. Small businesses have embraced AI-generated content at scale — social posts, ad copy, email campaigns — because the cost and speed advantages are obvious. But consumer trust in that content is measurably eroding. People can tell, or they suspect, and the suspicion alone is doing damage. Here's why this matters for you specifically: you are not a small business. You're a senior strategist who can build the bridge between AI efficiency and brand authenticity. That gap — between \"we used AI\" and \"it feels real\" — is exactly where a good consultant earns her fees. If you're building your consulting pitch deck this summer, this data point deserves a slide. The trust deficit is the problem, and human-guided AI strategy is the solution you're selling.\n\nStaying in the AI space: TechCrunch ran a piece this weekend noting that even Google is navigating AI security in real time — improvising governance as it goes. The framing is \"we're all in the transition period.\" This is actually a reassuring and honest message for the Canadian university market you're targeting. When a CMO or VP Communications at a mid-size Canadian institution says \"we're not ready for AI,\" the answer isn't \"yes you are.\" The answer is \"nobody is fully ready — the question is whether you have a guide.\" Positioning yourself as someone who helps institutions move thoughtfully through that transition, rather than someone selling a fully formed AI solution, is probably the right pitch in 2026.\n\nOn the applied side in real estate tech: HousingWire wrote about an AI platform called Power Mentor that gives every real estate agent access to a personal AI coach — twelve different coaching personas covering everything from objection handling to mindset. This matters for your eXp Realty tracking. EXp's entire model depends on agent performance at scale, and AI-powered coaching is a natural fit for a distributed brokerage. If Power Mentor or something like it gets integrated into brokerage platforms at scale, it accelerates the commoditisation of basic agent training — which pushes the value of human coaching and brand strategy higher, not lower. Watch this space.\n\nOn the marketing and business side, Axios has a genuinely interesting piece about what they're calling the \"nones\" problem in political campaigns. Nearly thirty percent of Americans now identify as religiously unaffiliated — no church, no mosque, no synagogue — and that makes them enormously expensive to reach. Political campaigns have historically relied on religious community networks as cheap, trusted distribution channels. Without them, they're spending heavily on digital ads and canvassing to reach a dispersed, hard-to-find audience. The direct campaign application might feel distant, but the underlying dynamic is universal: every marketer is facing the collapse of trusted community anchors that used to carry messages for free. The question of how you reach people who have no shared institutional home is the defining challenge of the decade. For anyone consulting on brand strategy, understanding audience fragmentation at this structural level — not just as a media-buying problem, but as a social-fabric problem — is what separates sharp thinking from tactical advice.\n\nLet's move to higher education, because today there are two stories worth your attention, and the first one is the most strategically important for your consulting pipeline.\n\nThe PIE News published a piece this morning called \"Outcome over geography: the new student compass.\" The core finding is that Indian students — still the largest international student cohort in the world — are increasingly choosing institutions based on post-graduation employment outcomes, not on the prestige of the destination country or the brand of the university. Studying in the US or UK is still a dream for many, but the weight of that geography in the decision is declining. What's rising is: will this degree get me a job? What's the placement rate? Can I get a work permit? Will this credential be recognised?\n\nFor Canadian universities, this is both a threat and an opening. It's a threat because Canada's immigration policy has become less predictable over the past two years — PGWP changes, study permit caps, all of it — which undermines the outcome story. But it's an opening because any Canadian institution that can credibly tell a specific, data-backed outcomes story has a genuine advantage. \"Our graduates have a ninety percent employment rate within six months\" beats \"we're ranked X globally\" in this new environment. If you're walking into a Canadian university as a consulting prospect, this is the framing: help them build and tell their outcomes narrative to international prospective students. That's the work.\n\nThe second higher-ed story: Canadian Colleges for a Resilient Recovery — C2R2 — and eCampusOntario have announced a strategic partnership to expand online upskilling pathways nationally. This is colleges moving aggressively into the continuing education and workforce development market. It's not about traditional degree enrolment; it's about credential stacking, micro-credentials, and keeping working adults engaged with post-secondary learning throughout their careers. This market is growing fast, and it needs marketing. If your consulting practice targets not just universities but colleges — and it probably should, given the pipeline — this partnership signals active institutional appetite for reach and visibility in new audiences.\n\nReal estate this morning. There are two stories worth noting.\n\nCP24 has a practical personal-finance piece asking whether now is the right time to blend-and-extend your mortgage before renewal. The context is the Bank of Canada's uncertain rate trajectory — the Iran situation, which we'll get to in a moment, may give the BoC more room to cut if energy prices ease, but the timing is genuinely unclear. If you're tracking your own mortgage renewal or advising family members, the blend-and-extend math is worth running: you give up the option to take a lower rate at renewal in exchange for certainty now. Given where oil prices are moving today, waiting a few weeks to see if the BoC signals a cut might be worth it.\n\nThe second real estate story is from HousingWire — a pointed opinion piece arguing that the mortgage industry's obsession with software integrations has actually created a fragility problem. Loan origination systems now have three hundred or more integrations, and instead of making workflows smarter, those connections create hidden dependencies and bottlenecks. The argument is for consolidation onto fewer, more coherent platforms. For your eXp tracking, this is relevant because brokerage tech stacks have the same problem — agents using eight different tools that don't talk to each other is a productivity killer. Watch for consolidation plays in proptech over the next twelve months.\n\nGlobally, the biggest story this weekend was the movement on U.S.-Iran peace talks. Crude oil dropped roughly five dollars a barrel Sunday evening after tentative deal outlines emerged. Brent crude is now trading below a hundred dollars a barrel, down from levels that had been significantly higher since the Strait of Hormuz situation developed. Trump publicly mentioned the strait reopening as part of any deal. This matters economically on multiple levels: global energy costs ease, inflation pressure comes off, and central banks including the Bank of Canada get more flexibility. It's not a done deal — these things move fast in both directions — but the direction of travel over the weekend was clearly positive.\n\nAlso worth a moment of attention: BBC Business ran a piece this weekend called \"I don't think I'll ever be able to retire\" — profiles of people in their seventies who cannot afford to stop working. It's not a cheerful read, but it's an important one. The retirement crisis is real and it's intersecting with longevity. People are living longer but their savings aren't keeping pace. This has a direct connection to the upskilling market Canadian colleges are chasing — if people are working into their seventies, they need to keep learning. It also has implications for your own financial planning horizon as you build a consulting practice, which tends to have a less predictable income curve than a senior executive role.\n\nLocally, a few things from Kamloops worth your awareness.\n\nThe murder trial in the 2024 killing of Tatjana Stefanski begins today in Kamloops. Vitali Stefanski, her estranged husband, is charged with second-degree murder. This is a significant local proceeding — it received considerable regional coverage when it happened, and the trial will be a presence in local news for the coming weeks.\n\nOn a practical note: the Thompson-Nicola Regional District is launching free wood-chipping days starting today. This is a wildfire-preparedness program — residents can have woody debris chipped and removed at no cost. Given where we are in the fire season calendar, and that Sun Peaks sits in terrain that has seen fire risk in past summers, this is worth taking advantage of if you have accumulation on your property.\n\nFinally, the big political story that touches Kamloops and the broader Interior: the western premiers conference is underway in Kananaskis today. BC Premier David Eby is there alongside counterparts from Alberta, Saskatchewan, Manitoba, and the territories. The unusual political charge this year is Alberta sovereignty sentiment — talk of separation has been louder than usual. The outcomes of this meeting could affect federal-provincial relations, infrastructure funding, and post-secondary transfer arrangements. For your university consulting clients, the political mood between Ottawa and the western provinces shapes the funding environment they operate in. Worth monitoring the communiqué.\n\nFinally, one more national story to note: Parliament reconvenes today for the final sitting days before the summer recess. A federal budget bill is on the docket along with a Conservative opposition motion. The fiscal decisions made over the next few sitting weeks will set the parameters for federal transfers to provinces — including post-secondary education funding — and determine whether any adjustments to international student policy get legislated before the fall. If you're working on consulting proposals for Canadian university clients this summer, knowing the federal fiscal posture matters.\n\nThat's your Monday briefing, Midya. The thread I'd carry with me today is the trust gap in AI marketing — it's not a problem to worry about, it's a consulting brief waiting to be written. If you can articulate clearly why AI-augmented strategy done thoughtfully produces more trustworthy brand content than AI deployed carelessly, you have a differentiated pitch for any Canadian institution or brand that's trying to move forward without losing its audience. Have a strong start to the week.",
+  "digestIntro": "Two threads dominate today that sit right at the intersection of your work and life, Midya. First, MIT Technology Review is running serious, data-backed analysis on AI and the labour market — not the usual hysteria — and the entry-level work piece has direct implications for how you frame AI consulting value to university clients who are training the next generation of knowledge workers. Second, the US green-card policy shift forcing international students to leave American soil is a redirect signal for Canadian institutions: students already weighing the US-versus-Canada decision are getting another push northward, which is both a recruitment opportunity and a messaging story for any Canadian university you pitch.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Two threads dominate today that sit right at the intersection of your work and life, Midya. First, MIT Technology Review is running serious, data-backed analysis on AI and the labour market — not the usual hysteria — and the entry-level work piece has direct implications for how you frame AI consulting value to university clients who are training the next generation of knowledge workers. Second, the US green-card policy shift forcing international students to leave American soil is a redirect signal for Canadian institutions: students already weighing the US-versus-Canada decision are getting another push northward, which is both a recruitment opportunity and a messaging story for any Canadian university you pitch. Keep an eye on the Bank of Canada rate path story — uncertainty there keeps the housing market in a holding pattern that affects your BC real estate tracking. And the TRU-Williams Lake campus closure talks deserve your attention as a local stakeholder and potential TRU consulting contact.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-26.mp3",
+  "audioDurationSeconds": 811,
+  "audioScript": "Good morning, Midya. It's Tuesday, May twenty-sixth, twenty twenty-six. Here's what matters today.\n\nLet's start with AI, because today MIT Technology Review dropped something genuinely useful — a reality check on the jobs hysteria that has been dominating headlines. The short version: despite the wave of layoffs at Coinbase, Meta, Cisco, and others, aggregate employment in developed economies remains broadly stable. Researchers looking at the actual data have found limited evidence that AI has meaningfully shifted the headline employment numbers. Now, that's not a reason to exhale and move on — the researchers are careful to say the story is more nuanced than either the doomers or the boosters are letting on. But if you're in a room with a client who's panicking about AI replacing their entire team, you now have solid data-backed grounds to redirect that conversation toward something more strategic and less reactive.\n\nThe companion piece, though, is where it gets really interesting for you specifically. MIT is arguing that while mass unemployment hasn't arrived, AI is quietly hollowing out the entry-level layer of knowledge work — the junior analyst roles, the first-year associate positions, the early-career work that used to build the foundational skills people carry for decades. Think about what that means for Canadian universities. They are producing graduates who are walking into a labour market where the traditional on-ramp has been partially dismantled. That is a real, urgent challenge for institutional strategy, and it is exactly the kind of insight that opens doors in a consulting conversation. When you're pitching a Canadian university — and we'll talk more about that in the higher-ed section — framing AI not just as a classroom tool but as a structural workforce disruption their graduates face is a sharper, more differentiated angle than almost anyone else is bringing to those conversations right now.\n\nMeanwhile, Sundar Pichai sat down with The Verge's Nilay Patel right after Google I/O, and it's the fifth year they've done this post-I/O conversation, so there's genuine depth to it. Pichai is talking about the future of search, what AI-generated answers mean for the open web, and YouTube's evolving role. For you, as someone whose consulting practice will inevitably touch on how brands get discovered, this is required listening. The era of SEO as the primary lever for institutional and brand visibility is not dead, but it is changing faster than most marketing leaders are acknowledging. If Google's own CEO is publicly wrestling with what search looks like in two years, your clients should be too — and you should be the person in the room who brings that framing.\n\nOn the marketing front, Cannes Lions is approaching fast — the festival runs in mid-June — and Adweek has published its pre-Cannes prediction roundup with nineteen campaigns that creative directors are flagging as contenders. It's a useful read not just for what's winning, but for the patterns: lo-fi aesthetics, darkly comedic musicals, and meta movie marketing are recurring threads this year. What that tells you about the broader direction of brand creativity — leaning into authenticity, irony, and self-awareness — is worth filing away for any brand strategy conversations you're having. Cannes tends to validate and amplify trends that forward-looking CMOs are already acting on, so arriving at a client meeting the week of the festival with a sharp point of view on the winners is never a bad move.\n\nThe Inside Higher Ed piece on building a great campaign brand in higher education is one I want you to actually read rather than just note. It frames institutional fundraising campaigns around three clarifying questions that cut through the usual brand committee noise. I'll flag it here because its implications go beyond fundraising: the same discipline — forcing clarity on what an institution actually stands for before it asks for anything — applies directly to enrolment marketing and external positioning work. If you are developing a consulting proposal for a Canadian university, this is the kind of intellectual scaffolding that distinguishes a marketing strategist from a communications vendor. The questions the piece poses are ones you could walk into a discovery meeting with.\n\nNow, to international students — and this is a significant one. The US government has issued new policy guidance that would require international students and workers to physically leave American soil before applying for permanent residency. Previously, many students and graduates were able to adjust their status from within the US. This change, if it holds, meaningfully raises the cost, complexity, and risk of the American immigration pathway for international students. You need to sit with what that means for Canadian recruitment.\n\nWe've been in a moment where Canadian institutions have faced headwinds — federal caps on study permits, tightened PGWP rules, the general uncertainty that followed the policy turbulence of the last couple of years. But the competitive landscape just shifted again. A student in India, Nigeria, or the Philippines who is weighing the US versus Canada as a destination now has a materially harder path to staying in the US long-term. Canada's pathway, for all its recent complications, still looks cleaner. Any Canadian university that is not actively updating its international recruitment messaging to reflect this contrast is leaving a genuine competitive advantage on the table. If you're in a room with a VP Enrolment or a VP International at a Canadian institution in the next few weeks, this policy shift is the opening line of your value proposition.\n\nThe ICEF Monitor piece on student support in transnational education is a softer but still relevant complement to that story. As more students move across multiple study jurisdictions — doing part of a credential in one country and part in another — the institutions that differentiate on wrap-around support, not just academic quality, are the ones retaining students and building reputation. For a Canadian university trying to compete without being the cheapest option, this is the right conversation to be having.\n\nStaying in Canadian higher education: a US-based university has opened its first Canadian campus in York Region, Ontario. The snippet is thin on detail, but the fact of it matters. American institutions entering the Canadian market is not a new phenomenon, but it is an accelerating one, and it raises real competitive questions for domestic universities in the Greater Toronto Area corridor. An American brand with existing recognition — particularly among immigrant communities who may have family connections to that institution — can draw students who might otherwise have enrolled at a local university. That's a positioning and differentiation challenge, and again, it's the kind of strategic pressure point that makes consulting conversations easier to initiate.\n\nAnd locally — the Williams Lake campus situation at TRU. The mayor of Williams Lake came away from a meeting with TRU officials feeling, quote, very positive, suggesting the threatened closure of the Williams Lake campus may not be a done deal. This is worth watching for a few reasons. TRU is your local institution, and any significant strategic decision — whether it's closing a regional campus or restructuring to survive enrolment pressures — tends to create downstream consulting needs: community engagement, communications strategy, brand repositioning, stakeholder management. It's also just important local news given your ties to the Kamloops area.\n\nOn real estate: two stories worth having on your radar. The Toronto market analysis from Storeys is a useful mid-year check-in. TRREB's own forecast called for a tame 2026 — restrained price growth, high inventory, cautious buyers — and the first-half data is tracking with that prediction. The interesting signal is in the second half: if economic uncertainty eases, the pent-up buyer demand that has been sitting on the sidelines could move relatively quickly. For BC, which tends to lag Toronto directionally but is tracking similar macro forces, the implication is that the window of softer market conditions may not be permanent.\n\nThe Bank of Canada rate path story is the macro overlay on all of that. The Financial Post is flagging that the BoC's next move is genuinely unclear, because the job market is changing in ways that complicate the inflation picture. Specifically, the structural weakening of entry-level work that MIT was writing about — if it starts showing up in employment data — could read as labour market softening even if consumer spending stays strong. That is exactly the kind of ambiguous signal that makes central bank decisions difficult to predict. For anyone carrying variable-rate mortgage exposure, or watching the market for a buying or selling opportunity, the honest answer right now is that the BoC's next move is harder to call than it has been in years.\n\nLocally in Kamloops: two stories worth noting. In court this week, a judge heard testimony that a BC Transit driver chased a stolen bus on foot through downtown Kamloops after a theft. It's the kind of story that would be almost funny if it weren't a genuine public safety situation — and it speaks to the ongoing challenges transit agencies face in managing security on their vehicles and in transit hubs. The case is before the courts, so more will emerge.\n\nAnd sadly, there was a fatal vehicle collision at 12th Street and Tranquille Road on the North Shore overnight Monday. The intersection was closed for several hours. No further details yet, but worth being aware of if that's a route you or family members use regularly.\n\nGlobally: BP has ousted its board chair, Albert Manifold, citing serious concerns about governance standards, oversight, and conduct. This is remarkable context: BP lost its CEO, Murray Auchincloss, in December, and now within six months it has also lost its board chair. New CEO Meg O'Neill only took the helm in April. For a company that is in the middle of a major strategic pivot — trying to reposition as the energy transition reshapes its core business — this level of leadership turmoil is genuinely disruptive. It's a cautionary governance story that will be studied in business schools, but it's also worth watching because BP's direction affects energy markets broadly.\n\nThe Verge's deep investigation into AI warfare is the other global story I want to flag. It's a longer read, but the core finding is sobering: autonomous weapons systems have moved from UN thought experiments to active battlefield deployment, and the international governance frameworks — the Convention on Certain Conventional Weapons, the Geneva process — are years behind the technology. For anyone thinking about AI policy and the responsible deployment of AI systems, this is the hard end of the conversation. It's also a useful frame for the AI ethics discussions that increasingly come up in institutional and corporate AI strategy work.\n\nFinally, two health stories worth your attention. STAT News is reporting on early Phase 1 data from Eli Lilly's gene-editing therapy for cholesterol. At a high dose, it reduced cholesterol levels by sixty-two percent in trial participants. That is a striking number for a single-treatment approach — not a daily pill, but a one-time genetic intervention. Phase 1 is early, and the jump from early safety trials to clinical approval is long and uncertain. But if this line of research holds, it represents a potential paradigm shift in how we manage cardiovascular risk, which remains the leading cause of mortality in most developed countries. Worth watching as this progresses.\n\nSTAT News's morning rounds also flagged the worsening Ebola outbreak, with particular concern about disproportionate impact on women and girls. The outbreak is still geographically contained, but the trajectory is in the wrong direction. There's also a headline number in there — 1.17 billion people globally are living with mental health disorders — from new estimates that were released this week. That's not new news in the sense of a policy change, but it reframes the scale of the challenge at a moment when mental health support at Canadian universities is itself a significant and growing issue.\n\nThat's your Tuesday briefing, Midya. The through-line today is that the big structural shifts — in AI, in international student flows, in the Canadian higher-ed landscape — are all moving in ways that create genuine consulting opportunities if you're positioned to name them clearly. The US green-card policy change and the entry-level work disruption story are two things I'd have a sharp perspective on before any client conversation this week. Stay close to the TRU situation locally — that one has the potential to develop quickly. Have a focused and productive Tuesday.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Small Businesses Trust AI With Marketing — Their Customers Do Not",
-      "summary": "Forbes flags a widening credibility gap: SMBs are embracing AI-generated marketing content, but consumer trust in that content is eroding — a structural problem that favours consultants who can build authentic AI-augmented brand strategy.",
-      "source": "Forbes via Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWoyczBHXzA1VWhmUnlxeElYY01rLTVuUzZvY2FzZU9GWGwzTk1ob2hYeDNqSnhxWFYxQ0poQVFPM29DN1JiNjl5cmNnT3IyMkdMQmFPTWtvZ3psMVJlajhpRHVGUU1hU3BqR2dlRVZTUTNTYzJuSHpXV19rN3I2TUhKM2RONmZQMmtSaVBPei1ydDgxR1FVZkVsX0d4anBGWE5Xb0F4RjhUUVJ2cTdLUFEyV2V0R3FsclE?oc=5",
+      "headline": "A reality check on the AI jobs hysteria",
+      "summary": "MIT Technology Review finds scant large-scale evidence that AI has shifted aggregate employment numbers — the white-collar apocalypse narrative is running well ahead of the actual data.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip"
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/ai-jobs1b.jpg?resize=1200,600"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Everyone Is Navigating AI Security in Real Time — Even Google",
-      "summary": "TechCrunch notes that even the most sophisticated AI deployers are improvising on security protocols, underscoring that \"AI maturity\" is a spectrum and no organisation has fully solved governance — relevant context for any consulting pitch on responsible AI adoption.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "headline": "The looming crisis in entry-level work",
+      "summary": "AI hasn't caused mass unemployment yet, but it is quietly eroding the first rung of the career ladder — the junior roles that used to build foundational skills for knowledge workers.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024"
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/ladder3b.jpg?resize=1200,600"
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "Meet the AI Platform Giving Every Real Estate Agent a Personal Coach",
-      "summary": "Power Mentor's 12-persona AI coaching tool signals how AI is moving from back-office automation into front-line agent performance management in real estate — a preview of where AI-in-marketing consulting will go next in brokerage.",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/meet-the-ai-platform-giving-every-agent-a-personal-coach/",
+      "headline": "Sundar Pichai on AI, the future of search, and what's happening to the web",
+      "summary": "Google's CEO, speaking post-I/O, addresses how AI is reshaping search and the open web — essential listening for anyone whose clients depend on search-driven discovery.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/05/AIcoach.jpg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_2026.05.26_Sundar_Google.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Small Businesses Trust AI With Marketing — Their Customers Do Not",
-      "summary": "Forbes flags a widening credibility gap: SMBs are embracing AI-generated marketing content, but consumer trust in that content is eroding — a structural problem that favours consultants who can build authentic AI-augmented brand strategy.",
-      "source": "Forbes via Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWoyczBHXzA1VWhmUnlxeElYY01rLTVuUzZvY2FzZU9GWGwzTk1ob2hYeDNqSnhxWFYxQ0poQVFPM29DN1JiNjl5cmNnT3IyMkdMQmFPTWtvZ3psMVJlajhpRHVGUU1hU3BqR2dlRVZTUTNTYzJuSHpXV19rN3I2TUhKM2RONmZQMmtSaVBPei1ydDgxR1FVZkVsX0d4anBGWE5Xb0F4RjhUUVJ2cTdLUFEyV2V0R3FsclE?oc=5",
+      "headline": "A reality check on the AI jobs hysteria",
+      "summary": "MIT Technology Review finds scant large-scale evidence that AI has shifted aggregate employment numbers — the white-collar apocalypse narrative is running well ahead of the actual data.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip"
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/ai-jobs1b.jpg?resize=1200,600"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Everyone Is Navigating AI Security in Real Time — Even Google",
-      "summary": "TechCrunch notes that even the most sophisticated AI deployers are improvising on security protocols, underscoring that \"AI maturity\" is a spectrum and no organisation has fully solved governance — relevant context for any consulting pitch on responsible AI adoption.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "headline": "The looming crisis in entry-level work",
+      "summary": "AI hasn't caused mass unemployment yet, but it is quietly eroding the first rung of the career ladder — the junior roles that used to build foundational skills for knowledge workers.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024"
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/ladder3b.jpg?resize=1200,600"
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "Meet the AI Platform Giving Every Real Estate Agent a Personal Coach",
-      "summary": "Power Mentor's 12-persona AI coaching tool signals how AI is moving from back-office automation into front-line agent performance management in real estate — a preview of where AI-in-marketing consulting will go next in brokerage.",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/meet-the-ai-platform-giving-every-agent-a-personal-coach/",
+      "headline": "Sundar Pichai on AI, the future of search, and what's happening to the web",
+      "summary": "Google's CEO, speaking post-I/O, addresses how AI is reshaping search and the open web — essential listening for anyone whose clients depend on search-driven discovery.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/05/AIcoach.jpg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_2026.05.26_Sundar_Google.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Campaigns Pay the Price for America's Secular Shift — and the 'Nones' Problem",
-      "summary": "With 29% of Americans now religiously unaffiliated and lacking church-network reach, political campaigns are paying a steep premium for digital targeting — a microcosm of the broader fragmentation challenge that every brand marketer is facing as community anchors dissolve.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/25/religious-nones-political-campaigns-church-ads",
+      "headline": "Creative leaders place their bets on 19 campaigns to win at Cannes Lions 2026",
+      "summary": "Adweek's pre-Cannes roundup highlights the campaigns — from lo-fi game aesthetics to darkly funny musicals — that creative directors are calling as Lions contenders, a useful pulse-check before the festival.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/creativity/creative-leaders-place-their-bets-on-19-campaigns-to-win-at-cannes-lions-2026/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://images.axios.com/4olqqOJcos8TN7hNNqFRiyAqbQo=/128x128/smart/2026/05/15/1778876202658.jpg"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/CannesPredictions2026.png?w=600&h=315&crop=1"
     },
     {
-      "id": "story-intl_students_canada-0",
-      "category": "Higher Ed",
-      "headline": "Outcome Over Geography: The New Student Compass Reshaping International Enrolment",
-      "summary": "Indian students — the world's largest international-student cohort — are increasingly choosing institutions based on post-graduation employment outcomes rather than prestige or destination country, a strategic shift Canadian universities must reframe their marketing around; potential client signal for any institution without a clear ROI narrative.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/outcome-over-geography-the-new-student-compass/",
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "The making of a great campaign brand in higher education",
+      "summary": "Inside Higher Ed's column lays out three clarifying questions every institutional fundraising campaign brand must answer — directly applicable to any Canadian university consulting pitch Midya is developing.",
+      "source": "Inside Higher Ed",
+      "url": "https://www.insidehighered.com/opinion/columns/call-action/2026/05/26/strong-higher-ed-campaign-brands-answer-these-questions",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/05/Students-Turn-Outcome-Oriented-Fueling-Shift-to-New-Education-Destinations.webp"
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
     },
     {
-      "id": "story-intl_students_canada-1",
+      "id": "story-higher_ed_canada-0",
       "category": "Higher Ed",
-      "headline": "C2R2 and eCampusOntario Announce Strategic Partnership to Expand Upskilling Across Canada",
-      "summary": "Canadian Colleges for a Resilient Recovery and eCampusOntario are partnering to scale online upskilling pathways nationally, signalling that colleges are moving aggressively into continuing-education markets — a space where AI-enabled marketing and enrolment consulting would find ready buyers.",
-      "source": "Education News Canada via Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOVjhyMHZPVEVodmZGZTRRaFdrZVBhYVFDT0FqYTZiZ3JrOG95eXQ1S19GX0hkYmVQdW1QaXllN1JEUGU3WDhjQXNoZFRJZ0tHRkZ2MTF0eVJIV0VldnBFc2ROWlI1ekRiMVU4a3B5UFkwMHNYd05vX3hRREcybzJrQ3ZDS2c4S2tDeFRqTHc0MmtBRURPT0czdTF0MmNjcVppVTFDZUN3a1hSc3NtZXJvM0JVTU1vVkI5UHpFaWI2X1pablFlLWtVQ1hDNGxPd3N4VUxZQVpnSnIxRUJESlo4WnJFY1dMRE05Vm1CT0dkTC1pRXgxeGlaREFsY0lfRC05aVJESUtZRjl3UDQzR3ptc1VDZjMtLUZCMTJ6d1djOTEzQUh6?oc=5",
+      "headline": "U.S.-based university opens first Canadian campus in York Region",
+      "summary": "A US institution planting its flag in Ontario signals growing confidence in the Canadian market and raises competitive questions for domestic universities — potential client signal for institutions rethinking positioning in the GTA corridor.",
+      "source": "Google News: Canadian universities",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3JJNWotZXVxZTJ0UWNHM0RkeWM2M01HOFhYZEtMeUVLeEk1bm5VWTk0dzdVTzZmd0dJV0lHaDZROGhTVXBNWVNaRjBsM2d5ZlkweDJab295OUJMREs0eWNFdnJoblB3a200Y3FxekM1dU1US04yNmV2QU1UdnJfeC1wSDhMZkQ2RUtKdHQwSV9iRGhwMHR3dW5ma2JzU1pJa284R082MUFqVnd1T3p0Sg?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
     },
     {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "Williams Lake mayor 'very positive' after meeting with TRU officials amid closure talks",
+      "summary": "The Williams Lake mayor left a meeting with Thompson Rivers University leadership feeling optimistic, suggesting the threatened campus closure may not be inevitable — a story to watch for anyone with TRU ties.",
+      "source": "Google News: Thompson Rivers University",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdEV0dmFYZkZMZ0t6NU5tZk1SVUc5REVONzdlNTVLR3JJdVFhcXZqM3hxTDhCb1BjVmpkOWlWcTdFQU5uRU5YQnZCOGRLZXZXNEpOU0FuaXRqNlNEQXphQlpJa004LXBwc1JQVVVwRmNoUVkzN0t0ZVVCUGNvUklSYksyN2VNZVc4ZXdGNG1JQ3JPU3NFVm9VZXMza3pjTVp0OHRJUU5MNmlzUnpwX0lVRTg3b3EtR0Z5Qkw1Q2x3WjBwN25jNE9hQkRIVnJuLXM0M1llSkdB?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "International students must leave US to apply for green card",
+      "summary": "New US policy guidance now requires international students and workers to depart American soil before applying for permanent residency, significantly raising the cost and risk of the US immigration pathway — and making Canada's route comparatively more attractive.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/international-students-must-leave-us-to-apply-for-green-card/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2024/11/pexels-jmeyer1220-1600162-scaled.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "Beyond borders: Why student support matters more than ever in transnational education",
+      "summary": "As more students study across multiple jurisdictions, the quality of wrap-around support — not just academics — is emerging as a key differentiator for institutions competing internationally.",
+      "source": "ICEF Monitor",
+      "url": "https://monitor.icef.com/2026/05/beyond-borders-why-student-support-matters-more-than-ever-in-transnational-education/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/05/chenhsi-duan-TSCDDkGHH8U-unsplash-1200.jpg"
+    },
+    {
       "id": "story-canadian_real_estate-0",
       "category": "Real Estate",
-      "headline": "Should You Blend and Extend Your Mortgage Before Renewal?",
-      "summary": "CP24 breaks down when a blend-and-extend makes sense in the current rate environment — practically useful for Midya given the BC real estate market and the Bank of Canada's uncertain path ahead.",
-      "source": "CP24 via Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFBYcFM0djZJU2Q4M1FJdTJvWGI4cU1xM2ZjX2NnWEJkdGVSdlB3cHoxY2NQR1JQX2dqX3lOM2VoRjNiRk5RcWVOMzYyYmJ3UUV1LVN4Z3NuaGx3d1ZLSWVoenpvOTFmNWFNQ3BHU0Z3bW9FX1k1U1ZzTFcxZExkNWVwMk9JODRoeWd5U0RVTnh0UUpLYTJOd3YwN2YwNWwxVjltd2FHVkNfdG1UUUxUOVZuQzVDeVc4?oc=5",
+      "headline": "'There's nothing to wait for anymore': What's driving Toronto's summer market",
+      "summary": "TRREB data points to restrained price growth and high inventory in the first half of 2026, but a potential sentiment shift later in the year if economic uncertainty eases — buyers who've been waiting may start moving.",
+      "source": "Storeys",
+      "url": "https://storeys.com/toronto-market-spring-summer-2026/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://storeys.com/media-library/toronto-islands-in-the-summer-shutterstock.jpg?id=34012233&width=980"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "Bank of Canada's interest rate path clouded by changing job market",
+      "summary": "The BoC's next rate move is increasingly uncertain as a shifting labour market complicates the inflation picture — directly relevant to anyone tracking mortgage costs and BC housing affordability.",
+      "source": "Google News: Bank of Canada interest rate",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOakY3ZjV6NEZEdDNMZmRVLVF2REl0ckQ3cWIyYWk3ZTAtV1EzQS1hSjlZenlDOTNpRnd1V0ExcU42cHEtMnVSOFNvNXFWdVZsSktjU1MwSTBJWWVQR1RyeFpKQklpcTVyeG04TW0zLUhfYmNGQWl4TFp0aTdjc0VudlM1eGRzcnpLZGJodlR0c0ZlOEtoN1NfNG1yTEtMLVlyb3c?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house"
     },
     {
-      "id": "story-canadian_real_estate-1",
-      "category": "Real Estate",
-      "headline": "Your LOS Has 300 Integrations — That's the Problem",
-      "summary": "HousingWire argues the mortgage tech stack's obsession with integrations is creating fragile, inefficient workflows, and that the future is unified platform architecture — relevant to anyone tracking where brokerage and proptech are heading, including eXp Realty's tech positioning.",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/los-integrations-ai-future/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/05/Contributors-Piece-98.png"
-    },
-    {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "Murder Trial in 2024 Killing of Tatjana Stefanski Begins in Kamloops",
-      "summary": "The second-degree murder trial of Vitali Stefanski, charged in the death of his ex-wife in rural B.C., opens in Kamloops today — a high-profile local proceeding worth monitoring.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/05/25/murder-trial-in-2024-killing-of-tatjana-stefanski-in-rural-b-c-is-set-to-begin/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "mountains",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fd6d1daa4-a5c8-464c-9dd7-70c550c5d351%2Fb35e9528f0a4f910ddf847f9e64c1469be243dc9e21e0b4e63077bd167f37a9f.jpg"
-    },
-    {
-      "id": "story-kamloops_sun_peaks-1",
-      "category": "Local News",
-      "headline": "TNRD Free Chipping Days Begin Monday in Kamloops Region",
-      "summary": "The Thompson-Nicola Regional District is launching free wood-chipping days starting today — a practical wildfire-preparedness program directly relevant to residents in and around Sun Peaks and Kamloops.",
-      "source": "Castanet Kamloops via Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUEzdXBBODlBVnlZY2NjS1hzTXhnRTE1MUJLRTZWcG90T0hHSkVYUERxVElaVGhtSGo1ZExGTUVkbWRROTdJRG1wRklsczdnemluSmFQei1wZVhNSUlOS20xUEZVclFUMndXOHFCZW10S0QwaUtRMlhqNWQzYXkzYUR4cFZNeU1Sck9BdndTVE93ZjdBdnBrSHhCbXJ4T2I3Q0IzaFhSU1kzanl1QWNLeg?oc=5",
+      "headline": "BC Transit driver chased stolen bus on foot after downtown Kamloops theft, judge told",
+      "summary": "Court testimony revealed a BC Transit driver pursued a stolen bus on foot through downtown Kamloops — a striking local crime story currently before the courts.",
+      "source": "Google News: Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQXRraDgxRUYzOXJPTWhISmFsQmZjNXpZaXdQVmd5emhodFVLMGZITGlLUUZWS2NrYjVsTlRxbkEyS29pVXhRamo1SmcweUlKS2h0cHNCbXh2MUtoYVlsNnJFYVI0dkt3VHU3V3JFWlBhc1Z3bHRzdXdYSUpaMTI4Z2ROU1lFWTc2ZjhRSG44dzF4ajcwTUx6TE53bTRLOFhkeTVyXzQ1Ykp1R3o5SWxiWF9QNV94OHNzelhxbl9ORXVtdTFlNmhhdjN5eVZTVlJuWlVhRw?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
     },
     {
-      "id": "story-kamloops_sun_peaks-2",
+      "id": "story-kamloops_sun_peaks-1",
       "category": "Local News",
-      "headline": "Western Canadian Premiers Gather in Kananaskis Amid Alberta Separation Talk",
-      "summary": "BC Premier David Eby joins counterparts in Kananaskis today for the annual western premiers conference, with Alberta sovereignty sentiment adding unusual political tension — the outcomes could affect federal-provincial funding flows relevant to BC post-secondary institutions.",
+      "headline": "One person dead in vehicle collision that closes North Shore intersection overnight",
+      "summary": "A fatal collision at 12th Street and Tranquille Road on Kamloops's North Shore closed the intersection overnight Monday into Tuesday.",
       "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/05/25/western-canadian-premiers-to-gather-for-annual-meeting-amid-alberta-separation-talk/",
+      "url": "https://cfjctoday.com/2026/05/26/one-person-dead-in-vehicle-collision-that-closes-north-shore-intersection-overnight/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F3b633120-b3fc-4579-96b8-4d101b1e7b4a%2F3705bf04b246a86f27b90b0dd079e44f09eaff10835aa4920a8df60ed3c93906.jpg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2311/files/2026/05/dfb72f2b-85b2-418a-abf6-86c147bbb3f5.png"
     },
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Oil Prices Sink Below $100 on Signs of U.S.-Iran Peace Deal",
-      "summary": "Crude dropped roughly $5 a barrel after tentative outlines of a U.S.-Iran deal emerged, including potential reopening of the Strait of Hormuz — if it holds, it could meaningfully ease global energy costs and give the Bank of Canada more room to cut rates, supporting Canadian housing affordability.",
+      "headline": "BP removes board chair, citing 'conduct' concerns",
+      "summary": "BP ousted chair Albert Manifold over governance and conduct concerns — the company has now lost both its CEO and board chair within six months, deepening a leadership crisis during a major strategic pivot.",
       "source": "Axios",
-      "url": "https://www.axios.com/2026/05/24/oil-prices-iran-war-hormuz-strait-trump-tehran-peace-talks",
+      "url": "https://www.axios.com/2026/05/26/bp-ousts-chairman-manifold-conduct",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://images.axios.com/BSo_pu6R-mW4h2BFTQs8IyFFKNE=/407x0:1487x1080/320x320/2026/04/16/1776351079822.jpeg"
+      "imageUrl": "https://images.axios.com/U4Yv6bngMFEdC4h0GAgGkT4wQPc=/0x0:853x853/320x320/2026/05/26/1779800844123.jpg"
     },
     {
       "id": "story-global_business_tech-1",
       "category": "Global",
-      "headline": "'I Don't Think I'll Ever Be Able to Retire' — Working Into Your 70s Becomes the New Normal",
-      "summary": "BBC Business profiles a growing cohort of people in their 70s who cannot afford to stop working, a trend with direct implications for longevity planning, retirement savings strategy, and the upskilling market Canadian colleges are racing to serve.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cd6pn9y36p8o?at_medium=RSS&at_campaign=rss",
+      "headline": "AI warfare is already here",
+      "summary": "A detailed investigation into how lethal autonomous weapons have moved from UN hypotheticals to active deployment, with international governance frameworks lagging dangerously behind the technology.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d470/live/db9f7cf0-5452-11f1-bc99-1d37de959855.jpg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268475_AIs_red_line_JMac2.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     },
     {
-      "id": "story-misc-0",
-      "category": "Misc",
-      "headline": "Parliament Returns: Final Sitting Days Before Summer Include Budget Bill and Conservative Motion",
-      "summary": "MPs reconvene today for the last stretch before summer recess, with a federal budget bill on the docket — the fiscal decisions made this week will shape post-secondary funding levels and immigration targets that directly affect Midya's university clients.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/05/25/mps-return-for-ottawa-to-begin-the-final-sitting-days-before-summer-break/",
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "Eli Lilly gene-editing therapy reduces cholesterol by 62% in Phase 1 trial",
+      "summary": "STAT News reports Lilly's gene-editing therapy achieved a 62% cholesterol reduction at high dose in early human trials — a potentially transformative single-treatment approach to cardiovascular risk if it holds in larger studies.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/pharmalot/2026/05/26/lilly-gene-therapy-for-cholesterol-three-new-lilly-deals/?utm_campaign=rss",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F2ca0372d-d979-4704-8dbf-13a724f4463d%2Fe0586bc04aa8d85aa5d87f3ea1bcf3e6bb3658596353fc8ba1b62abbaa7ad6c6.jpg"
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-645x645.jpg"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "Ebola outbreak continues to worsen, with new collateral risks for girls and women",
+      "summary": "STAT News's Morning Rounds flags a worsening Ebola outbreak with disproportionate impact on women and girls, alongside a new acting FDA head defying early expectations and updated global mental health burden data.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/05/26/health-news-ebola-outbreak-continues-to-worsen/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/01/GettyImages-1206592385-645x645.jpg"
     }
   ],
   "audioChapters": [
@@ -221,74 +258,82 @@
       "id": "c1",
       "title": "AI & Tech",
       "category": "AI & Tech",
-      "duration": "2:29",
-      "startSeconds": 12
+      "duration": "2:43",
+      "startSeconds": 5
     },
     {
       "id": "c2",
       "title": "Marketing & Business",
       "category": "Marketing",
-      "duration": "1:08",
-      "startSeconds": 161
+      "duration": "1:40",
+      "startSeconds": 169
     },
     {
       "id": "c3",
       "title": "Higher Education",
       "category": "Higher Ed",
-      "duration": "2:20",
-      "startSeconds": 229
+      "duration": "2:00",
+      "startSeconds": 269
     },
     {
       "id": "c4",
-      "title": "Real Estate & AirBnB",
-      "category": "Real Estate",
+      "title": "Higher Education",
+      "category": "Higher Ed",
       "duration": "1:29",
-      "startSeconds": 369
+      "startSeconds": 389
     },
     {
       "id": "c5",
-      "title": "Global News",
-      "category": "Global",
-      "duration": "1:30",
-      "startSeconds": 458
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:28",
+      "startSeconds": 478
     },
     {
       "id": "c6",
       "title": "Local News",
       "category": "Local News",
-      "duration": "1:35",
-      "startSeconds": 548
+      "duration": "0:46",
+      "startSeconds": 566
     },
     {
       "id": "c7",
-      "title": "Misc",
-      "category": "Misc",
-      "duration": "0:37",
-      "startSeconds": 643
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:23",
+      "startSeconds": 612
+    },
+    {
+      "id": "c8",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:21",
+      "startSeconds": 694
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "Everyone Is Navigating AI Security in Real Time — Even Google",
-    "summary": "TechCrunch notes that even the most sophisticated AI deployers are improvising on security protocols, underscoring that \"AI maturity\" is a spectrum and no organisation has fully solved governance — relevant context for any consulting pitch on responsible AI adoption.",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "headline": "The looming crisis in entry-level work",
+    "summary": "AI hasn't caused mass unemployment yet, but it is quietly eroding the first rung of the career ladder — the junior roles that used to build foundational skills for knowledge workers.",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024"
+    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/ladder3b.jpg?resize=1200,600"
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "Small Businesses Trust AI With Marketing — Their Customers Do Not",
-    "summary": "Forbes flags a widening credibility gap: SMBs are embracing AI-generated marketing content, but consumer trust in that content is eroding — a structural problem that favours consultants who can build authentic AI-augmented brand strategy.",
-    "source": "Forbes via Google News",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWoyczBHXzA1VWhmUnlxeElYY01rLTVuUzZvY2FzZU9GWGwzTk1ob2hYeDNqSnhxWFYxQ0poQVFPM29DN1JiNjl5cmNnT3IyMkdMQmFPTWtvZ3psMVJlajhpRHVGUU1hU3BqR2dlRVZTUTNTYzJuSHpXV19rN3I2TUhKM2RONmZQMmtSaVBPei1ydDgxR1FVZkVsX0d4anBGWE5Xb0F4RjhUUVJ2cTdLUFEyV2V0R3FsclE?oc=5",
+    "headline": "A reality check on the AI jobs hysteria",
+    "summary": "MIT Technology Review finds scant large-scale evidence that AI has shifted aggregate employment numbers — the white-collar apocalypse narrative is running well ahead of the actual data.",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "chip"
+    "thumbnailKind": "chip",
+    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/ai-jobs1b.jpg?resize=1200,600"
   },
-  "heroImageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024"
+  "heroImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/ai-jobs1b.jpg?resize=1200,600"
 }
