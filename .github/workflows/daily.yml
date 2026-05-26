@@ -2,13 +2,26 @@ name: Daily news digest
 
 on:
   schedule:
-    # Tertiary backup only. The PRIMARY trigger is a Cloudflare Worker Cron
-    # (production-grade SLA) that fires workflow_dispatch at 11:30 UTC daily.
-    # GitHub Actions free-tier scheduled crons are unreliable, so we keep
-    # ONE off-peak fallback at 14:00 UTC (07:00 PT) — most likely time to
-    # actually fire under load. Same-day skip guard prevents duplicate runs
-    # if both the Worker and this cron fire on the same day.
-    - cron: "0 14 * * *"
+    # PRIMARY trigger is a Cloudflare Worker Cron at 11:30 UTC that fires
+    # workflow_dispatch. The crons below are independent fallbacks: if the
+    # Worker misses (as on 2026-05-26), these provide multiple shots so the
+    # briefing still publishes before Midya's breakfast.
+    #
+    # GitHub Actions free-tier crons are delayed 3-7h under load, and a single
+    # entry can be delayed catastrophically. Multiple independent entries get
+    # independent scheduling decisions, so the probability all are severely
+    # late approaches zero. Off-hour minutes (avoid :00) reduce contention.
+    #
+    # The same-day skip guard in pipeline.py exits in ~30s once today.json
+    # has been published with >=6 stories, so duplicate fires cost ~nothing.
+    - cron: "23 10 * * *"   # 03:23 PT
+    - cron: "53 10 * * *"   # 03:53 PT
+    - cron: "23 11 * * *"   # 04:23 PT — just before Worker should fire
+    - cron: "53 11 * * *"   # 04:53 PT
+    - cron: "23 12 * * *"   # 05:23 PT
+    - cron: "53 12 * * *"   # 05:53 PT
+    - cron: "23 13 * * *"   # 06:23 PT
+    - cron: "47 13 * * *"   # 06:47 PT — last shot before 7am wake
   workflow_dispatch:  # manual trigger; this is what the Cloudflare Worker calls
     inputs:
       force:
