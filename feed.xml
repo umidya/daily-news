@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 26 May 2026 14:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 14:51:16 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, May 26, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-26.html</link>
-      <description>Two threads dominate today that sit right at the intersection of your work and life, Midya. First, MIT Technology Review is running serious, data-backed analysis on AI and the labour market — not the usual hysteria — and the entry-level work piece has direct implications for how ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-26.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-26.mp3" length="16230240" type="audio/mpeg"/>
-      <pubDate>Tue, 26 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, May 27, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-27.html</link>
+      <description>Today's digest clusters around two forces that directly shape your consulting pipeline: Canada's international student ecosystem is in active flux — policy changes, processing backlogs, and ApplyBoard's reckoning all signal that Canadian universities are under mounting enrolment ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-27.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-27.mp3" length="14599680" type="audio/mpeg"/>
+      <pubDate>Wed, 27 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
