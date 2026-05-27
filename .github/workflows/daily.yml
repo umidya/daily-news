@@ -84,20 +84,9 @@ jobs:
       - name: Run digest pipeline
         run: python -m daily_news run
 
-      - name: Save state branch
-        run: |
-          mkdir -p state-wt
-          if [ ! -d state-wt/.git ]; then
-            git worktree add -b state state-wt 2>/dev/null || git worktree add state-wt state || true
-          fi
-          cp data/articles.db state-wt/articles.db
-          cd state-wt
-          git config user.name "daily-news-bot"
-          git config user.email "bot@daily-news.local"
-          git add articles.db
-          git commit -m "state: $(date -u +%FT%TZ)" || echo "No changes to commit."
-          git push origin HEAD:state
-
+      # Publish FIRST so a transient hiccup in the internal state-branch push
+      # (a known GitHub server-side "fatal error in commit_refs" class) can
+      # never block today's briefing from reaching the app.
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -107,3 +96,62 @@ jobs:
           user_name: daily-news-bot
           user_email: bot@daily-news.local
           commit_message: "publish: ${{ github.run_id }}"
+
+      # Internal dedup state. Marked continue-on-error: a failure here would
+      # only cost cross-day dedup quality for one day — the user-facing
+      # briefing is already published above. Retry absorbs transient errors.
+      - name: Save state branch
+        continue-on-error: true
+        run: |
+          set +e
+          # state-wt exists as a worktree from "Restore state branch" iff the
+          # remote state branch already exists. Otherwise create a fresh orphan.
+          if [ ! -e state-wt ]; then
+            git worktree add -b state state-wt
+          fi
+          cp data/articles.db state-wt/articles.db
+          cd state-wt
+          git config user.name "daily-news-bot"
+          git config user.email "bot@daily-news.local"
+          git add articles.db
+          if git diff --cached --quiet; then
+            echo "No changes to articles.db; nothing to push."
+            exit 0
+          fi
+          git commit -m "state: $(date -u +%FT%TZ)"
+          for attempt in 1 2 3; do
+            if git push origin HEAD:state; then
+              echo "State branch pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; sleeping $((attempt * 10))s..."
+            sleep $((attempt * 10))
+          done
+          echo "::warning::State branch push failed after 3 attempts. Today's briefing is already published; only cross-day dedup is affected."
+          exit 1
+
+      # Loud verification: if anything in the chain ever breaks again such
+      # that today.json on Pages is not today's date, fail the job so Midya
+      # gets a GitHub failure notification instead of silently seeing stale
+      # content in the app.
+      - name: Verify today.json on Pages
+        if: ${{ !cancelled() }}
+        run: |
+          set -euo pipefail
+          BASE_URL="${DAILY_NEWS_BASE_URL:-https://umidya.github.io/daily-news}"
+          EXPECTED_DATE="$(date -u +%F)"
+          echo "Verifying ${BASE_URL}/today.json reports date=${EXPECTED_DATE}..."
+          # gh-pages deploy is async; poll for up to ~3 minutes with cache-busting.
+          for attempt in $(seq 1 18); do
+            ACTUAL_DATE="$(curl -fsSL "${BASE_URL}/today.json?t=$(date -u +%s%N)" 2>/dev/null \
+              | python3 -c 'import json,sys;print(json.load(sys.stdin).get("date",""))' 2>/dev/null \
+              || echo "")"
+            if [ "${ACTUAL_DATE}" = "${EXPECTED_DATE}" ]; then
+              echo "OK: today.json reports date=${ACTUAL_DATE}."
+              exit 0
+            fi
+            echo "Attempt ${attempt}/18: today.json reports date='${ACTUAL_DATE}' (want ${EXPECTED_DATE}); waiting 10s..."
+            sleep 10
+          done
+          echo "::error::today.json on ${BASE_URL} did not reach ${EXPECTED_DATE} after 3 minutes. The app will show yesterday's briefing."
+          exit 1
