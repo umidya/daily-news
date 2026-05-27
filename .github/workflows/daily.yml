@@ -131,27 +131,32 @@ jobs:
           exit 1
 
       # Loud verification: if anything in the chain ever breaks again such
-      # that today.json on Pages is not today's date, fail the job so Midya
-      # gets a GitHub failure notification instead of silently seeing stale
-      # content in the app.
+      # that today.json on Pages is not today's briefing, fail the job so
+      # Midya gets a GitHub failure notification instead of silently seeing
+      # stale content in the app. Checks the machine-readable dateIso field
+      # (the human-readable "date" field is "Wednesday, May 27, 2026") and
+      # that the digest actually contains stories.
       - name: Verify today.json on Pages
         if: ${{ !cancelled() }}
         run: |
           set -euo pipefail
           BASE_URL="${DAILY_NEWS_BASE_URL:-https://umidya.github.io/daily-news}"
           EXPECTED_DATE="$(date -u +%F)"
-          echo "Verifying ${BASE_URL}/today.json reports date=${EXPECTED_DATE}..."
-          # gh-pages deploy is async; poll for up to ~3 minutes with cache-busting.
-          for attempt in $(seq 1 18); do
-            ACTUAL_DATE="$(curl -fsSL "${BASE_URL}/today.json?t=$(date -u +%s%N)" 2>/dev/null \
-              | python3 -c 'import json,sys;print(json.load(sys.stdin).get("date",""))' 2>/dev/null \
-              || echo "")"
-            if [ "${ACTUAL_DATE}" = "${EXPECTED_DATE}" ]; then
-              echo "OK: today.json reports date=${ACTUAL_DATE}."
+          echo "Verifying ${BASE_URL}/today.json reports dateIso=${EXPECTED_DATE} with stories..."
+          # gh-pages deploy is async; poll for up to ~5 minutes with cache-busting.
+          for attempt in $(seq 1 30); do
+            STATUS="$(curl -fsSL "${BASE_URL}/today.json?t=$(date -u +%s%N)" 2>/dev/null \
+              | python3 -c 'import json,sys;d=json.load(sys.stdin);print(d.get("dateIso",""), len(d.get("digestStories") or []), len(d.get("topStories") or []))' \
+              2>/dev/null || echo "")"
+            ACTUAL_DATE="$(echo "$STATUS" | awk '{print $1}')"
+            DIGEST_N="$(echo "$STATUS" | awk '{print $2}')"
+            TOP_N="$(echo "$STATUS" | awk '{print $3}')"
+            if [ "${ACTUAL_DATE}" = "${EXPECTED_DATE}" ] && [ "${DIGEST_N:-0}" -gt 0 ]; then
+              echo "OK: today.json dateIso=${ACTUAL_DATE}, digestStories=${DIGEST_N}, topStories=${TOP_N}."
               exit 0
             fi
-            echo "Attempt ${attempt}/18: today.json reports date='${ACTUAL_DATE}' (want ${EXPECTED_DATE}); waiting 10s..."
+            echo "Attempt ${attempt}/30: dateIso='${ACTUAL_DATE}' digestStories=${DIGEST_N:-0} (want dateIso=${EXPECTED_DATE} with >0 stories); waiting 10s..."
             sleep 10
           done
-          echo "::error::today.json on ${BASE_URL} did not reach ${EXPECTED_DATE} after 3 minutes. The app will show yesterday's briefing."
+          echo "::error::today.json on ${BASE_URL} did not reach dateIso=${EXPECTED_DATE} with stories after 5 minutes. The app will show yesterday's briefing."
           exit 1
