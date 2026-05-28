@@ -1,274 +1,319 @@
 {
   "schemaVersion": 2,
-  "date": "Wednesday, May 27, 2026",
-  "dateIso": "2026-05-27",
+  "date": "Thursday, May 28, 2026",
+  "dateIso": "2026-05-28",
   "greeting": "Good morning, Midya",
-  "totalDuration": "12:09",
+  "totalDuration": "13:38",
   "currentTime": "0:00",
-  "remaining": "12 min total",
+  "remaining": "13 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today's digest clusters around two forces that directly shape your consulting pipeline: Canada's international student ecosystem is in active flux — policy changes, processing backlogs, and ApplyBoard's reckoning all signal that Canadian universities are under mounting enrolment and revenue pressure, which is exactly when they need external strategic help. On the AI front, the pace of capability launches (AI trading agents, creative model releases) is accelerating faster than most institutions can absorb, reinforcing your thesis that the gap between AI potential and organizational readiness is the consulting opportunity right now. The China AI talent story is a slow-burn geopolitical signal worth tracking for its long-term implications on Canada's research ecosystem and your higher-ed clients.",
-  "digestReadingTime": "6 min read",
-  "whyItMatters": "Today's digest clusters around two forces that directly shape your consulting pipeline: Canada's international student ecosystem is in active flux — policy changes, processing backlogs, and ApplyBoard's reckoning all signal that Canadian universities are under mounting enrolment and revenue pressure, which is exactly when they need external strategic help. On the AI front, the pace of capability launches (AI trading agents, creative model releases) is accelerating faster than most institutions can absorb, reinforcing your thesis that the gap between AI potential and organizational readiness is the consulting opportunity right now. The China AI talent story is a slow-burn geopolitical signal worth tracking for its long-term implications on Canada's research ecosystem and your higher-ed clients. And the Kailera triple-G drug news from STAT is worth a glance — GLP-1 successor compounds are moving faster than most people realize, with downstream effects on everything from healthcare costs to productivity.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-27.mp3",
-  "audioDurationSeconds": 729,
-  "audioScript": "Good morning, Midya. It's Wednesday, May twenty-seventh, twenty twenty-six. Here's what matters today.\n\nLet's start where your consulting pipeline lives — Canadian higher education and international student policy — because there's a cluster of stories today that, taken together, paint a picture of an ecosystem under genuine structural stress, which is exactly the condition that creates demand for outside strategic counsel.\n\nThe most technically important story is a regulatory blind spot that's just been surfaced by The PIE News. Canada's Basic Compliance Assessment framework — the system that assigns universities a RAG rating based on how their international students are performing on visa compliance — has a six-month processing backlog in its administrative review channel. Here's the problem: students who dispute a visa decision through administrative review appear to be excluded from BCA calculations entirely while their case is pending. With that backlog now stretching half a year, you have a growing cohort of students sitting in a compliance grey zone that isn't being counted. For universities, this means their RAG ratings may not reflect their actual risk profile — either inflating or obscuring compliance performance depending on how you look at it. Any Canadian institution that's navigating DLI status reviews right now needs to understand this gap, and if you're in conversations with compliance or enrolment leadership at a university, this is a credible, timely thing to raise. It signals that you're tracking the policy environment at a level of granularity that most external advisors aren't.\n\nThe second story that deserves serious attention is the ApplyBoard reckoning piece from The Logic. ApplyBoard was, for several years, the defining platform of Canada's international student recruitment boom — a technology-forward aggregator that made it dramatically easier for students in South Asia, Africa, and Southeast Asia to apply to Canadian institutions at scale. The bust is now real. Study permit caps, political headwinds on immigration, and a general cooling of international student enthusiasm for Canada have cut into ApplyBoard's pipeline in ways the company is visibly struggling to absorb. Why does this matter beyond sympathy for a Canadian edtech story? Because any Canadian university that built its international recruitment strategy around platform dependency — whether ApplyBoard or similar — is now sitting with a structural gap it hasn't fully confronted. The marketing question is: what does diversified, institution-led international recruitment look like in a capped, more competitive environment? That is a genuine consulting brief, and it's available right now.\n\nIRCC also published its May 2026 update on off-campus work rules for international students, and while the snippet is thin on specifics, any change to work eligibility is a live variable in how students evaluate Canadian study destinations. Universities marketing post-graduation pathways need to be current on this. And separately, IRCC is planning to add a language test field to the post-graduation work permit application portal — a procedural change, but one that signals continued tightening of PGWP eligibility criteria. These incremental policy moves accumulate into the story Canadian universities are struggling to tell: that Canada is still a competitive, welcoming destination.\n\nOn that note, there's an ImmigCanada piece arguing Canada is back as a top study destination — and while the headline is optimistic, treat it with scepticism until you see the underlying data. The structural cap on study permits hasn't been lifted; what may have shifted is relative positioning as the UK and Australia tighten simultaneously. Which brings us to the ICEF Monitor story on the UK.\n\nUK sponsored study visa issuances are down, and rejection rates are climbing — and the divergence by source country is becoming significant. What this means in practice is that students from certain origin markets who would have defaulted to the UK are now having that option foreclosed for them. Some will redirect to Canada, some to Australia, some to continental Europe. The Canadian institutions that are well-positioned to capture this redirected demand are the ones with fast, transparent application processes, clear post-graduation work pathway messaging, and active recruitment presence in the markets the UK is effectively shutting out. That's a marketing strategy conversation, not just an admissions conversation — and it's one worth having with your university contacts right now.\n\nAlso worth flagging: Canada's first Inuit-led university is advancing in Nunavut. This isn't a near-term client opportunity, but it is a structural shift in how Canadian post-secondary education conceptualizes Indigenous governance and institution-building. For any university working on Indigenization strategy — which is now essentially every Canadian university — understanding this model matters. It will shape the expectations Indigenous communities bring to partnership conversations.\n\nNow to AI, where the pace continues to accelerate in ways that are relevant to your practice.\n\nThe Robinhood AI agent story is the one I'd sit with longest. Robinhood has opened its trading platform to autonomous AI agents — not as a simulation or a paper trading exercise, but with real money in a dedicated sub-account. A trader sets a budget, defines parameters, and the agent executes live buy and sell orders across the market. This is a meaningful threshold being crossed. We've spent two years talking about AI agents as a near-future concept; Robinhood just moved it into live financial consequence at retail scale. The implications for your AI-in-marketing thesis are indirect but real: if AI agents are now executing high-stakes decisions autonomously in financial services — one of the most regulated, liability-sensitive industries there is — the argument that AI can only assist, not act, in marketing contexts becomes harder to sustain. The direction of travel is toward agents that don't just recommend but execute. Campaign deployment, budget allocation, bid management, content scheduling — the autonomous agent layer is coming to marketing faster than most CMOs are ready for. This is exactly the kind of cross-sector signal that makes for a compelling opening in a consulting conversation.\n\nThe China AI talent story from TechCrunch is slower-burning but strategically important. Beijing is increasingly successful at retaining its world-class AI researchers domestically — through financial incentives, national mission framing, and what appears to be growing informal restrictions on emigration for high-value technical talent. The downstream effect for Canada is twofold. First, the pool of Chinese-origin AI researchers available to Canadian universities and tech firms is likely to shrink over the medium term. Second, Canada's own AI talent advantage — which has rested partly on being a destination for global talent that the US makes difficult and China is now reclaiming — needs active policy reinforcement. University Affairs' argument that science must become a pillar of Canadian foreign policy lands harder when you read it alongside this story.\n\nElevenLabs' new music generation model is worth a quick note for anyone in content and brand. The capability to switch genres mid-track and regenerate specific sections without affecting the rest of a composition is not a toy feature — it's a workflow capability. For marketing teams producing video content, social audio, or brand experiences at scale, AI-native audio tools are now genuinely competitive with bespoke production. The question for your clients isn't whether to use these tools; it's how to build governance and brand-voice standards around them before teams start using them without guardrails.\n\nOn the real estate front, today's candidate set is thin on substantive Canadian housing or brokerage news, but there's one story worth your sixty seconds. The Vancouver Sun's op-ed on Vancouver's affordability crisis isn't new ground — but the framing is sharp. The argument is that what's being priced out isn't just housing units; it's the social willingness to show up for community. Rents keep rising, people work more or move further out, and the civic glue thins. For you, tracking BC real estate as someone living between Kamloops and Sun Peaks, this is relevant context for understanding migration patterns out of Metro Vancouver into Interior BC communities — a dynamic that shapes everything from Sun Peaks resort demand to Kamloops housing pressure. Worth a quick read.\n\nTwo global stories deserve your attention today.\n\nUganda has closed its border with the Democratic Republic of Congo with immediate effect following a surge in cases of a rare Ebola variant. This is early-stage and the situation is still developing, but any Ebola outbreak in East Africa triggers international public health surveillance protocols, and with global mobility at current levels, these situations escalate faster than they used to. Not an immediate Canadian concern, but worth monitoring if you have family or professional connections with travel to the region — and worth being aware of as a leader who tracks global risk.\n\nThe University Affairs piece arguing that science must become a pillar of Canadian foreign policy is more than an academic opinion. The timing is pointed: US science funding is contracting under the current administration, international researchers are looking for stable, values-aligned host countries, and Canada has a genuine window to position itself as the leading open-science destination in the G7. The argument is that IRCC, Global Affairs, and the research funding councils need to coordinate more deliberately. For your higher-ed clients, this is a reputational and recruitment positioning conversation — the Canadian university that gets ahead of this narrative has a real international brand advantage.\n\nOne longevity story today that's genuinely worth your attention.\n\nSTAT News — which is on the allowlist and covers this space with rigour — is reporting early signals on Kailera's triple-receptor agonist drug, what's being called a triple-G compound targeting GLP-1, GIP, and glucagon receptors simultaneously. The early efficacy data is described as very powerful — outperforming existing GLP-1 drugs like semaglutide on weight loss metrics. We are now in the second generation of metabolic drugs, and the gap between what the public conversation has absorbed about GLP-1s and what's actually in the pipeline is significant. If the triple-G compounds deliver on their early signals, the implications are broad: healthcare system costs, insurance and benefits design, productivity, and even consumer behaviour at a population level. As a senior leader and someone who tracks health and longevity, keeping a watching brief on this class of drugs is worthwhile — not because you need to act now, but because the mainstream conversation will arrive at this point in twelve to eighteen months and you'll want to have been tracking it.\n\nThat's your Wednesday briefing, Midya. The through-line today is pressure and opportunity arriving at the same address: Canadian universities are navigating enrolment uncertainty, regulatory complexity, and reputational headwinds — all at once, all right now. That's a difficult moment for institutions, and a clarifying one for consultants who can walk in with a current, evidence-based point of view. The AI and international student policy stories today are your sharpest entry points. Stay close to both. Have a focused and productive Wednesday.",
+  "digestIntro": "Two converging themes demand your attention today, Midya. First, the AI ROI reckoning is no longer theoretical — Microsoft cancelling Claude licences and Uber's COO questioning costs signals that the 'just adopt AI' phase is over and the 'prove it pays' phase has begun, which is precisely the consulting value proposition you should be sharpening right now. Second, the international student policy environment remains in flux across multiple anglophone destinations simultaneously — UK rejections surging 56% and Canada's off-campus work rules updating in May 2026 are signals your higher-ed clients are navigating in real time, making your policy literacy a competitive advantage.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Two converging themes demand your attention today, Midya. First, the AI ROI reckoning is no longer theoretical — Microsoft cancelling Claude licences and Uber's COO questioning costs signals that the 'just adopt AI' phase is over and the 'prove it pays' phase has begun, which is precisely the consulting value proposition you should be sharpening right now. Second, the international student policy environment remains in flux across multiple anglophone destinations simultaneously — UK rejections surging 56% and Canada's off-campus work rules updating in May 2026 are signals your higher-ed clients are navigating in real time, making your policy literacy a competitive advantage. On the local front, Kamloops real estate is showing quiet resilience despite the slow condo market, worth watching if you're tracking BC property values. The graduation-season backlash against AI is also a cultural data point: universities and their students are not monolithic AI boosters, which shapes how you'd frame any AI consulting pitch to a Canadian institution.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-28.mp3",
+  "audioDurationSeconds": 818,
+  "audioScript": "Good morning, Midya. It's Thursday, May twenty-eighth, twenty twenty-six. Here's what matters today.\n\nLet's start where the real action is this morning — and that's the AI ROI reckoning. Because something shifted this week that is directly relevant to the consulting practice you're building.\n\nAxios is reporting what a lot of people in enterprise tech have been whispering for months: corporate America is starting to ask hard questions about whether the AI spend is actually delivering returns. And the stories backing this up are striking. Microsoft cancelled most of its Claude Code licences — not because Claude is a bad product, but because of cost. Uber's COO went on record saying AI costs are, quote, \"harder to justify.\" And an AI consultant told Axios that one of their clients spent half a billion dollars — half a billion — in a single month after failing to put usage limits on Claude licences for employees. That's not a technology failure. That's a governance failure. And it's exactly the kind of failure that a senior consultant who understands both marketing and AI implementation can walk into and fix.\n\nHere's why this matters specifically to you, Midya. The market for AI enthusiasm is saturated. Everyone has an AI strategy deck. What organizations don't have — and are now desperately starting to want — is someone who can help them figure out which AI investments are actually moving the needle and which ones are expensive theatre. Your background in brand strategy and marketing gives you a lens that most AI consultants lack: you know what meaningful outcomes look like for a communications-driven organization, whether that's a university, a real estate brokerage, or a hospitality brand. The ROI conversation is your entry point. Frame your consulting offer around AI accountability, not AI adoption, and you'll be speaking the language of the room as of right now.\n\nThere's a cultural footnote to this story worth sitting with. MIT Technology Review's AI Hype Index this week flagged something quietly significant: when former Google CEO Eric Schmidt told the graduating class of 2026 at the University of Arizona that their job is to help shape AI, the crowd booed him. Booed him. That is a data point. The generation entering the workforce right now is not buying the utopian narrative. They've watched AI hype cycles come and go during their entire university careers. They are skeptical, and in some cases actively hostile. For you, this is relevant both to your higher-ed consulting work — because universities are trying to figure out how to talk to this generation about AI — and to any marketing strategy that assumes younger audiences are AI enthusiasts. They are not, or at least not uniformly. Nuance here is a competitive advantage.\n\nAnd on a more practical AI note: YouTube is rolling out the ability to ask an AI to build you a custom video feed based on a natural language description of what you want to watch. You can describe your mood, your interest, your topic, and pin the resulting feed to your homepage. This sounds like a consumer convenience feature, but its implications for content marketing are significant. If YouTube's algorithm is increasingly mediated by AI rather than by raw engagement metrics, the way brands think about channel strategy — what they publish, when, at what cadence, for what described audience — needs to evolve. Worth watching closely.\n\nIn marketing proper, there are two stories worth your time this morning, and they make an interesting contrast.\n\nThe first is Unilever. They've launched what they're calling their largest-ever sports activation around the 2026 World Cup — more than thirty-five of their brands are collaborating with creators and influencers globally. What's notable here isn't the scale, it's the architecture. This isn't a traditional sponsorship play where Unilever buys logo placement and calls it a day. It's a distributed creator strategy where individual brands each have their own creator relationships, but they're coordinated under a single World Cup umbrella. This is the model that's winning right now: localized, creator-native, emotionally authentic at the brand level, globally coherent at the portfolio level. If you ever get in front of a marketing team at a Canadian university thinking about international student recruitment, this is a useful framework — not because they have thirty-five brands, but because the logic of \"many authentic voices, one strategic direction\" translates directly to how universities should think about student ambassadors and alumni storytelling.\n\nThe second marketing story is lighter but instructive. Coors Banquet and Wrangler have launched co-branded jeans where the musical chords are printed using beer-infused ink. They're promoting a co-branded song called Connie Lou that mentions both brands. It's a bit absurd, but it's not stupid. What they're doing is using sensory novelty and cultural specificity — country music, denim, beer — to reach Gen Z not through advertising but through a cultural artifact. The jeans are the ad. The song is the ad. And neither of them feels like an ad. The lesson for any brand targeting a younger, values-driven audience is that the creative vehicle needs to be worth engaging with on its own terms. This is as true for a university recruitment campaign as it is for a beer brand.\n\nBefore we leave business news: CEO confidence dropped twelve points in Q2 to forty-seven, according to the Conference Board. Anything below fifty means more pessimism than optimism, and the driver is the Iran conflict dragging on economic sentiment. For a consultant building a new practice, this is a flag. When senior leaders are pessimistic, discretionary spending tightens. Not necessarily a reason to slow down — actually, well-scoped consulting with clear ROI is often the last thing to get cut — but it's worth calibrating your pitch to acknowledge the environment and lead with efficiency and risk reduction, not transformation for its own sake.\n\nOn to higher education, which touches you on multiple levels today.\n\nThe May twenty twenty-six update on off-campus work rules for international students in Canada is out via CIC News. If you're advising any Canadian post-secondary institution on student experience or retention, you need to know this policy cold — because students absolutely do, and the gap between what institutions communicate and what students actually understand about their work entitlements is a recurring source of friction and even attrition. A university that proactively communicates these updates clearly and compassionately signals that it understands the full student experience, not just academic programming. That's a small but real consulting signal.\n\nOn the global comparison front: UK student visa rejections have surged fifty-six percent as that government tightens its international student policies. This is significant context for Canadian institutions, because the competitive landscape for international students is shifting in real time. When the UK tightens, students who might have chosen Edinburgh or London reconsider. When Canada also tightens — as it has with the study permit caps — the question becomes which institutions within Canada are positioned to attract the students who remain. Universities with strong brand reputation, clear post-graduation pathways, and well-communicated support services will win a disproportionate share of a smaller pie. That's not a consolation prize — it's a strategic opportunity, and it's the kind of reframing a good consultant can bring to a leadership team that's stuck in a scarcity mindset.\n\nAnd the Globe and Mail is running an opinion piece today on AI and the death of the university essay. This is a conversation that every single Canadian university is having internally right now — and most of them haven't landed on a coherent institutional position, let alone a communications strategy around it. The faculty are divided. The students are divided. Administrators are nervous. This is a genuinely useful entry point for a consultant who understands AI and understands higher education. You don't need to have all the answers; you just need to be the person who can facilitate the right conversation and help an institution develop a position they can actually communicate. That's worth flagging every time you see this story gaining mainstream traction — and it is.\n\nQuickly on real estate, two notes.\n\nLocally, Kelson Group says sales in their new twenty-four storey tower in Kamloops are meeting expectations despite the softer condo market broadly. That's a quietly bullish data point for Kamloops specifically — the market isn't collapsing, it's adjusting. Worth keeping an eye on if you're tracking BC property values for your own planning.\n\nAnd HousingWire has a piece this morning on AI paralysis in real estate — the phenomenon where professionals aren't AI skeptics, they're just overwhelmed and don't know where to start. The advice is simple and actually correct: ignore the transformation narrative and start with the one friction point that annoys you most today. Use AI to fix that. This is advice that applies well beyond real estate, frankly. If you're coaching clients on AI adoption — whether at a university, a brokerage, or a marketing team — this is the right framing. Small, concrete, friction-reducing. Not a moonshot. Not a strategy deck. A solution to a problem they already have.\n\nOne Kamloops story that's more than a curiosity: RCMP are appealing for public video after someone on a boat allegedly sprayed a homeless encampment along the Kamloops waterfront. This is an escalation of a local public-safety dynamic that's been building for a while, and it reflects tensions around housing and homelessness that are playing out in mid-sized BC cities in ways that don't always make provincial headlines. Something to track if you're plugged into local community conversations.\n\nTwo global stories deserve your attention.\n\nFirst, the Iran war is creating what analysts are calling a multi-year missile defence gap. The conflict is draining US and allied weapons stockpiles — particularly Patriot interceptors — far faster than factories can replace them. Ukraine's Zelensky sent an urgent letter to President Trump this week requesting interceptors to counter expected Russian missile barrages, but Iran has taken strategic priority. The implication is that the US and its partners in Europe and the Pacific — including Taiwan — are facing a structural vulnerability that won't be resolved quickly. This is the kind of macro-geopolitical risk that shapes the CEO confidence numbers we discussed earlier, and it's background context for any senior leader thinking about global supply chains or investment timelines.\n\nOn a more forward-looking note, MIT Technology Review has a useful piece on the wave of climate tech IPOs happening right now in the US. Solv Energy, a solar and battery company, went public in February at a six billion dollar valuation. X-energy, which is building small modular nuclear reactors, listed in April and saw its stock surge on day one. A wave of energy infrastructure companies are following. This isn't directly in your wheelhouse, but it's worth knowing: clean energy investment is not retreating despite the political headwinds in Washington. And for Canada, where the federal government is actively pitching itself as a stable investment destination — Prime Minister Carney was in New York this week making exactly that pitch — the energy tech story is part of a broader economic narrative.\n\nTwo genuinely substantive health stories this morning.\n\nSTAT News is reporting new clinical trial data on an experimental GSK drug for chronic hepatitis B. The results are striking: nearly one in five patients — about twenty percent — achieved what's called a functional cure, meaning they cleared the hepatitis B surface antigen. Current standard-of-care treatments can suppress the virus but rarely achieve this. For the estimated 296 million people living with chronic hepatitis B globally, this is potentially transformative. It's early-stage data and will need further validation, but the signal is strong.\n\nAlso from STAT News: the American Society of Clinical Oncology — ASCO — is holding its annual meeting in Chicago this week, which is essentially the Super Bowl of cancer research. STAT is previewing the key data readouts to watch, spanning breast cancer, lung cancer, and gastrointestinal cancers. If you have family members who are navigating cancer diagnoses or follow oncology for any personal reason, the ASCO meeting is where the treatment landscape shifts. Worth keeping an eye on the coverage over the next few days.\n\nThat's your Thursday briefing, Midya. The through-line today is a kind of maturation moment — in AI, in higher education, in geopolitics. The phase of easy enthusiasm is closing, and the phase of harder, more accountable questions is opening. That's actually a good environment for a consultant who leads with rigour and specificity rather than hype. Position accordingly, and have a purposeful day.",
   "topStories": [
-    {
-      "id": "story-intl_students_canada-0",
-      "category": "Higher Ed",
-      "headline": "BCA Blind Spot: Admin Review Backlog Hits Six Months, Creating Visa Calculation Gap",
-      "summary": "A processing flaw means international students disputing visa decisions via administrative review may be excluded from Basic Compliance Assessment calculations, potentially distorting university RAG ratings at a moment when institutions are already under scrutiny — a regulatory and reputational risk your university clients need to understand.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/bca-blind-spot-as-admin-review-backlog-reaches-six-months/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/05/pexels-towfiqu-barbhuiya-3440682-11350076-scaled.jpg"
-    },
-    {
-      "id": "story-intl_students_canada-1",
-      "category": "Higher Ed",
-      "headline": "ApplyBoard Faces a Reckoning as Canada's Immigration Boom Turns to Bust",
-      "summary": "ApplyBoard, once Canada's flagship edtech recruitment platform, is navigating a sharp contraction as study permit caps and policy tightening drain the pipeline that fuelled its growth — a cautionary signal for any Canadian university still over-reliant on single-channel international recruitment.",
-      "source": "The Logic",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jNkVSNG1Rb2NtZHhIbVgtRlREajF2T2pQcXZOTm1EUnIwWEpUUVJ5Y2VwbE4zUmhoUnZTYXJBdDQ4VFRYWS1rT29ySnFvZEYwMWhrWV9ZTTNXRDFld3kwZWVTYzVha1lfdDE1RF9Da1poNEg1dWswN3VVSXdrUQ?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    },
-    {
-      "id": "story-intl_students_canada-2",
-      "category": "Higher Ed",
-      "headline": "Off-Campus Work Rules for International Students: May 2026 Update",
-      "summary": "IRCC's updated off-campus work eligibility rules are now in effect for May 2026, with changes that affect both student decisions and university marketing messaging around post-study pathways.",
-      "source": "CIC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFlYNm1YaV9kd3MtMHlmUlZlUzF5akFjUjJmY00tcl9nV2JqZEczVk43M0ZRdVVURlhRNGJhQXNMcFYtV0w0Y0JkTlFja3B2alFGYmJFZlJVa3pTTXZOa0JkTUVwRmluS3JPanRfemZZTVJTRnBXYWs4RExLWGlFemhQQTd5MVpCeGx2alFQM2puazY0WDNYYUEtVmFZMk9mQkRWNXZFMHRyY1o1MlJvYjZyWdIBuAFBVV95cUxNVG4teTdPZUpYZElIekFHU3RBXzRtcUNEMzN6WjF0RFMyWk9udmZ1SjgtaHRhMVdVSURUeFlSdnQ2Rmx3a3pleEZMMmxlTWtEMmlOZ1hUWGVTb2p3TjBaQzFmeFBERlBaTlZEUHRvbWc4R214RFJlSVlkMDA3bTFwcUUtZmI5Z29NV3h4aV9ZUnpDWEV3MG44aUZoaEF2UEdhb0FHOTJ3ZTJTM2ZDb1RWSlhKWk1NUVJr?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    }
-  ],
-  "digestStories": [
-    {
-      "id": "story-intl_students_canada-0",
-      "category": "Higher Ed",
-      "headline": "BCA Blind Spot: Admin Review Backlog Hits Six Months, Creating Visa Calculation Gap",
-      "summary": "A processing flaw means international students disputing visa decisions via administrative review may be excluded from Basic Compliance Assessment calculations, potentially distorting university RAG ratings at a moment when institutions are already under scrutiny — a regulatory and reputational risk your university clients need to understand.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/bca-blind-spot-as-admin-review-backlog-reaches-six-months/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/05/pexels-towfiqu-barbhuiya-3440682-11350076-scaled.jpg"
-    },
-    {
-      "id": "story-intl_students_canada-1",
-      "category": "Higher Ed",
-      "headline": "ApplyBoard Faces a Reckoning as Canada's Immigration Boom Turns to Bust",
-      "summary": "ApplyBoard, once Canada's flagship edtech recruitment platform, is navigating a sharp contraction as study permit caps and policy tightening drain the pipeline that fuelled its growth — a cautionary signal for any Canadian university still over-reliant on single-channel international recruitment.",
-      "source": "The Logic",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jNkVSNG1Rb2NtZHhIbVgtRlREajF2T2pQcXZOTm1EUnIwWEpUUVJ5Y2VwbE4zUmhoUnZTYXJBdDQ4VFRYWS1rT29ySnFvZEYwMWhrWV9ZTTNXRDFld3kwZWVTYzVha1lfdDE1RF9Da1poNEg1dWswN3VVSXdrUQ?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    },
-    {
-      "id": "story-intl_students_canada-2",
-      "category": "Higher Ed",
-      "headline": "Off-Campus Work Rules for International Students: May 2026 Update",
-      "summary": "IRCC's updated off-campus work eligibility rules are now in effect for May 2026, with changes that affect both student decisions and university marketing messaging around post-study pathways.",
-      "source": "CIC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFlYNm1YaV9kd3MtMHlmUlZlUzF5akFjUjJmY00tcl9nV2JqZEczVk43M0ZRdVVURlhRNGJhQXNMcFYtV0w0Y0JkTlFja3B2alFGYmJFZlJVa3pTTXZOa0JkTUVwRmluS3JPanRfemZZTVJTRnBXYWs4RExLWGlFemhQQTd5MVpCeGx2alFQM2puazY0WDNYYUEtVmFZMk9mQkRWNXZFMHRyY1o1MlJvYjZyWdIBuAFBVV95cUxNVG4teTdPZUpYZElIekFHU3RBXzRtcUNEMzN6WjF0RFMyWk9udmZ1SjgtaHRhMVdVSURUeFlSdnQ2Rmx3a3pleEZMMmxlTWtEMmlOZ1hUWGVTb2p3TjBaQzFmeFBERlBaTlZEUHRvbWc4R214RFJlSVlkMDA3bTFwcUUtZmI5Z29NV3h4aV9ZUnpDWEV3MG44aUZoaEF2UEdhb0FHOTJ3ZTJTM2ZDb1RWSlhKWk1NUVJr?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    },
-    {
-      "id": "story-intl_students_canada-3",
-      "category": "Higher Ed",
-      "headline": "Canada's First Inuit-Led University Coming to Nunavut",
-      "summary": "A new Inuit-governed university institution is advancing in Nunavut, marking a structural shift in Indigenous post-secondary access in Canada — a sector development with long-term implications for how Canadian higher ed defines inclusion and community partnerships.",
-      "source": "Yellowknifer",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQldtaGhwOXlaMDJnN28yZDY3bG1jOTNZVjdhQlZyUk55LUJPVFhjRDl1SmFSbUs1VS1UZVJnRGg1QUZDcmJfMUx5WGRZb3UwMGpOZHl0LWVhOFIxUFRjNzlicGp4MURoR0NPakhFcVp6YUNrRzdHb3JxYkxTaENCUklBeEp5LXd6S0RoSkJlVng3bklNVHQ4YTdrenBrdERKc0dISHJFZ3MwMW9CcE45enJROWpIdw?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    },
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Robinhood Opens Trading Platform to AI Agents — With Real Money",
-      "summary": "Robinhood now lets traders create a dedicated sub-account for an AI agent to autonomously buy and sell stocks, a landmark step in AI autonomy moving from demo to live financial consequence.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "headline": "Corporate America enters its AI reckoning — ROI scrutiny arrives",
+      "summary": "Microsoft cancelled most Claude Code licences over ballooning costs, Uber's COO called AI spend 'harder to justify,' and one client reportedly burned half a billion dollars in a single month — the enterprise AI honeymoon is ending and measurable ROI is now the bar.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acastro_STK049_03.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+      "imageUrl": "https://images.axios.com/G94oAHsUtUxPbe72AjC3nHDcQVU=/779x0:1859x1080/320x320/2026/05/27/1779901367550.jpeg"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "China Is Increasingly Keeping Its Best AI Talent to Itself",
-      "summary": "Beijing's tightening grip on its world-class AI researchers — through incentives, restrictions, and national pride — is reshaping the global talent map in ways that will eventually hit Canadian research universities and tech-sector hiring.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "headline": "AI Hype Index: Graduates boo AI at their own convocations",
+      "summary": "When Eric Schmidt told University of Arizona's class of 2026 their job is to 'help shape AI,' he was met with audible boos — MIT Tech Review flags this as a leading indicator of cultural fatigue with AI triumphalism entering the workforce.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/china-flag-shanghai.jpg?resize=1200,801"
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MJ26-Thumb.jpg?resize=1200,600"
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "ElevenLabs Launches Music Generation Model with Mid-Track Genre Switching",
-      "summary": "ElevenLabs' new model enables genre transitions and surgical section regeneration within a single track, pushing AI-native content creation further into territory that should be on every marketing creative director's radar.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+      "headline": "YouTube launches AI-generated custom video feeds",
+      "summary": "YouTube users can now describe what they want to watch in natural language and have an AI build and pin a personalised feed to their homepage — a meaningful shift in how algorithmic discovery works for content marketers and brand channels.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/YouTube-AI-custom-feeds.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Corporate America enters its AI reckoning — ROI scrutiny arrives",
+      "summary": "Microsoft cancelled most Claude Code licences over ballooning costs, Uber's COO called AI spend 'harder to justify,' and one client reportedly burned half a billion dollars in a single month — the enterprise AI honeymoon is ending and measurable ROI is now the bar.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/G94oAHsUtUxPbe72AjC3nHDcQVU=/779x0:1859x1080/320x320/2026/05/27/1779901367550.jpeg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "AI Hype Index: Graduates boo AI at their own convocations",
+      "summary": "When Eric Schmidt told University of Arizona's class of 2026 their job is to 'help shape AI,' he was met with audible boos — MIT Tech Review flags this as a leading indicator of cultural fatigue with AI triumphalism entering the workforce.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MJ26-Thumb.jpg?resize=1200,600"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "YouTube launches AI-generated custom video feeds",
+      "summary": "YouTube users can now describe what they want to watch in natural language and have an AI build and pin a personalised feed to their homepage — a meaningful shift in how algorithmic discovery works for content marketers and brand channels.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/YouTube-AI-custom-feeds.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "UK Sponsored Study Visa Issuances Down, Rejection Rates Up",
-      "summary": "UK visa approval rates are falling sharply for international students, and the divergence by source country is hardening — a competitive dynamics shift that redirects mobile students toward Canada and Australia, directly affecting how Canadian universities should reframe their recruitment marketing right now.",
-      "source": "ICEF Monitor",
-      "url": "https://monitor.icef.com/2026/05/uk-sponsored-study-visa-issuances-down-rejection-rates-up-and-more/",
+      "headline": "Unilever deploys creator-first World Cup strategy across 35+ brands",
+      "summary": "Unilever's largest-ever sports activation pairs 35-plus brands with global creators and influencers around the 2026 World Cup — a textbook case study in scaled creator marketing for any consulting pitch on brand activation strategy.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/unilevers-creator-marketing-strategy-takes-center-stage-at-world-cup/821182/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/05/david-monaghan-J-wEJwSiAbQ-unsplash-1200.jpg"
+      "imageUrl": "https://imgproxy.divecdn.com/B9WW42ttgJXo6_hY3TvWBwMOP6rXhI37xwGE-QGSZuI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OWUNfSE9GX0V4dGVyaW9yX05pZ2h0LmpwZw==.webp"
     },
     {
       "id": "story-marketing-1",
       "category": "Marketing",
-      "headline": "VIBE Magazine Returns to Print After More Than a Decade",
-      "summary": "VIBE's relaunch as a quarterly print edition signals renewed advertiser and audience confidence in tangible brand experiences — a counterintuitive data point for any marketing strategist advising on channel mix.",
-      "source": "CFJC Today",
-      "url": "https://cfjctoday.com/2026/05/27/vibe-magazine-returns-to-print-after-more-than-a-decade/",
+      "headline": "Coors Banquet and Wrangler co-create beer-infused jeans for Gen Z country fans",
+      "summary": "The collab — jeans printed with musical chords using beer-infused ink — promotes a co-branded song, illustrating how heritage brands are using sensory novelty and music to reach Gen Z through culture rather than ads.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/coors-banquet-wrangler-up-bid-to-gen-z-country-fans-with-beer-infused-jean/821255/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://media-cdn.socastsrm.com/uploads/station/1985/fbShare.png?r=55959"
+      "imageUrl": "https://imgproxy.divecdn.com/8iEKf4uF-YPQW-QYYMCOLmNGkuel3PqgRbhFTCQ5h0M/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZWVyX0Nob3Jkc18xNng5LmpwZw==.webp"
+    },
+    {
+      "id": "story-marketing-2",
+      "category": "Marketing",
+      "headline": "CEO confidence drops 12 points as Iran war drags on economic sentiment",
+      "summary": "The Conference Board's Q2 survey shows CEO confidence fell to 47 — below the neutral threshold — driven by the Iran conflict, signalling that senior leaders are likely to freeze discretionary spending including consulting and marketing budgets.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/28/ceo-confidence-iran-conference-board",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://images.axios.com/kb9-AuJkx7sVA4XCcdrRC1Moxik=/128x128/smart/2026/05/27/1779923261710.png"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "Off-campus work rules for international students: May 2026 update",
+      "summary": "CIC News has published the current off-campus work hour rules for international students in Canada as of May 2026 — essential reading for any higher-ed client managing enrolment communications or student retention strategy.",
+      "source": "CIC News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFlYNm1YaV9kd3MtMHlmUlZlUzF5akFjUjJmY00tcl9nV2JqZEczVk43M0ZRdVVURlhRNGJhQXNMcFYtV0w0Y0JkTlFja3B2alFGYmJFZlJVa3pTTXZOa0JkTUVwRmluS3JPanRfemZZTVJTRnBXYWs4RExLWGlFemhQQTd5MVpCeGx2alFQM2puazY0WDNYYUEtVmFZMk9mQkRWNXZFMHRyY1o1MlJvYjZyWdIB6wFBVV95cUxNdk5mcmVVWVBTM090dXJZS0FhX09MRXA3eFJYMlFLX093aHlMMU95U01SZHUxdXFibVRDdFhXa045QkxES2ZWZ2t6a0ExV2ZkdHZFM0YyNGE4MWhSQ1FiTERBVjFxeU5pUmJUSHNlUU1PMjc2MF96Qk41bzh3SE9VMTFaVEMxWWpQbHNwZGZuelhKZk9rc2o1RzNhX1hFX1hYZWQyMFJQWmlfU2lDXzltenJvLU13TGxTYjFQSTdfeWtQVVNoT2RFU0IwZXdmdXMtcmxtUjNscjUwRW1yV1doT2hsa2EyNjJRSS1r",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "UK visa rejections surge 56% as restrictive policies tighten international student access",
+      "summary": "UK student visa rejections are up 56%, reinforcing the broader trend of anglophone destinations simultaneously restricting international students — Canadian institutions navigating their own cap environment should monitor competitor positioning carefully.",
+      "source": "streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQjMyejJlMlM1OHo4NTZiV2xOTDQ0WF9pejBac1htY2tGWnZ5QkZidTA5LXoweklVTXlwNVFsQU9WR1RNTFc0ZnZfbzYtb0RfdUYyeER4TFlLRzE5OUFhN25yU2UxTzdiY2Mtelg1dHN6MGVGNXo0bTJuUlJZa1RTUEUzOEUyR29fR2xYZ1dnLXdqa1NlWUZzczdBRV9KYUw0",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "Globe and Mail opinion: AI is killing the university essay",
+      "summary": "A high-profile op-ed in the Globe frames AI as fundamentally disrupting academic assessment in Canadian universities — a conversation every university president and provost is having, and a natural entry point for a consultant bridging AI and institutional strategy.",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLUNxSWJKdkh4TmE2ekJHMkh2c00wVi1BYWpualR1UVdieU1sLUQ4X2FZV2gwb0lFOXczNTB1ZmgyWHh4OU1TWkp3T1M5QkFXdEFTQ19saTYwWHI2blVBMFA3dHZIZVpSeVhBejZTMURrblRYVlEteW51MTVsZ09WSzg5RzRQclRrSHF5M3gxOEdLeTBnMjNGdzlBaFA2V0NTd2ctNUl6Zmk0elk",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
     },
     {
       "id": "story-canadian_real_estate-0",
       "category": "Real Estate",
-      "headline": "Opinion: Vancouver Is Pricing the Willingness to Show Up for Each Other Out of Existence",
-      "summary": "A pointed Vancouver Sun op-ed argues that relentless rent increases are eroding the civic fabric of the city — relevant context for any BC-based real estate or community development conversation.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/vancouver-beautiful-city-people-no-longer-have-time-to-love",
+      "headline": "Kelson's 24-storey Kamloops tower hitting sales targets despite slow condo market",
+      "summary": "Developer Kelson Group reports sales in its new Kamloops high-rise are meeting expectations even as the broader condo market softens — a locally relevant data point for BC real estate watchers.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWGpYOUVickpiRkpsQ3JTd20yTkc1WTdFakNaLUZBVTc0alQ5bjFHVmJHSzNUUFdSdkNLcmpGeGFYV2NCM0dqaXk3eE1vZ19YaXU5Zkw4Sk9ySVNIYldFRlliZjlESnB3ZGtoX1pLLWJtNTR6cm1BS3gtQVJ1YVA0SmVuazNOWFhjTmFiYkh3eWVwMGxrM3BuWXJyY3FVWDZqZ3lqOUhmNFZhdWJVWi1mUW9XT2VBMUhTNWN4V1VDbDd4SzNUUUFlRjN1dHFuUG16bk9sbm9n",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house"
     },
     {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "AI paralysis in real estate: how professionals can start using AI today",
+      "summary": "HousingWire argues that most real estate professionals aren't AI-sceptics but are simply overwhelmed — and the fix is ignoring transformation narratives and starting with one friction point in daily workflow.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/move-past-ai-paralysis/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/05/Contributors-Piece-67.png"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Kamloops RCMP seek video after homeless encampment sprayed from a boat",
+      "summary": "RCMP are appealing for public video evidence after a person on a boat allegedly sprayed a homeless encampment in Kamloops — an escalating local public-safety and housing issue.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjJOcy1CVFFfVEdnSXZlUElZSnNoeVpiejJXNGF6UnltUWhpQjFIaldjX1hyeDBNOWNjUlp6Mi1zVTk0VmFsVVJ4WTVDQTRVZ25VRS1oeWNKa0lwaEE0Wm9hR1ZBakRmTS1FUXU0emszYUtnblpnZ1hLbGp6WGZ1NkN3ZWpnTDNuUkYyNkRuMklMdWNJSjViLUZ5S3RRTExQalFkNmVDWDJrZ1NhOGlyekktYS1Pc0lEODlFZGVOMjdqM0tsRFN6Mg",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Uganda Closes Border with Congo as Rare Ebola Type Cases Surge",
-      "summary": "Uganda has ordered an immediate border closure with the Democratic Republic of Congo following a surge in a rare Ebola variant — a developing public-health situation with potential international travel implications worth monitoring.",
-      "source": "AP via CFJC Today",
-      "url": "https://cfjctoday.com/2026/05/27/uganda-closes-its-border-with-congo-as-cases-of-a-rare-ebola-type-surge-2/",
+      "headline": "Iran war is creating a multi-year missile defence gap affecting Ukraine, Taiwan, and US allies",
+      "summary": "The Iran conflict is draining US and allied weapons stockpiles faster than factories can replenish them, with Zelensky urgently requesting interceptors as Pentagon analysts warn the shortfall will persist for years — a structural shift in global security risk.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/28/iran-missile-defense-patriot-ukraine-taiwan",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F1dbdb391-f82c-4ffb-9926-5526929a919c%2Fe47e4e51599753288cdd52976065dc4bb391695143bda6202b22a539fe98fcef.jpg"
+      "imageUrl": "https://images.axios.com/QlyZeFQMTorc8afSO7s4y2s1xQE=/443x0:1523x1080/320x320/2026/03/09/1773093926281.jpeg"
     },
     {
       "id": "story-global_business_tech-1",
       "category": "Global",
-      "headline": "Science Must Become a Pillar of Canadian Foreign Policy",
-      "summary": "A University Affairs argument that Canada's foreign policy apparatus systematically undervalues science diplomacy — at a moment when US research retrenchment creates a rare opening for Canada to lead globally, with direct implications for how Canadian universities position themselves internationally.",
-      "source": "University Affairs",
-      "url": "https://universityaffairs.ca/opinion/science-must-become-a-pillar-of-canadian-foreign-policy/",
+      "headline": "Climate tech IPOs surge: solar, batteries, and small modular nuclear go public",
+      "summary": "Solv Energy ($6B IPO), X-energy's small modular nuclear debut, and a wave of clean-energy listings signal investor appetite for energy infrastructure is outpacing the broader IPO market's caution.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://universityaffairs.ca/wp-content/uploads/2026/05/1920x1268-Sceince-diplomacy-scaled.jpg"
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP24177191447994.jpg?resize=1200,600"
     },
     {
       "id": "story-longevity-0",
       "category": "Longevity",
-      "headline": "Kailera's Triple-G Drug Shows Powerful Early Results",
-      "summary": "STAT News reports Kailera's triple-receptor GLP-1/GIP/glucagon agonist is showing outsized efficacy signals in early data, potentially outperforming existing GLP-1s — the next generation of metabolic drugs is moving faster than the public conversation has caught up to.",
+      "headline": "GSK experimental hepatitis B drug achieves 'functional cure' in nearly 1 in 5 patients",
+      "summary": "STAT News: Clinical trial data show GSK's experimental treatment achieved functional cure rates — defined as loss of surface antigen — in roughly 20% of chronic hepatitis B patients, vastly outperforming current standard-of-care.",
       "source": "STAT News",
-      "url": "https://www.statnews.com/2026/05/27/biotech-news-kailera-triple-g-drug-looks-very-powerful/?utm_campaign=rss",
+      "url": "https://www.statnews.com/2026/05/28/hepatitis-b-treatment-gsk-clinical-trials/?utm_campaign=rss",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "leaf",
-      "imageUrl": "https://www.statnews.com/wp-content/uploads/2024/12/AdobeStock_835071542-645x645.jpeg"
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/09/Hep-b-645x645.jpg"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "ASCO 2026 preview: what to watch at cancer research's flagship conference",
+      "summary": "STAT News previews the American Society of Clinical Oncology annual meeting in Chicago, flagging the key data readouts in breast, lung, and GI cancers that will shape treatment guidelines in the year ahead.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/05/28/asco-preview-cancer-meeting/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/04/ASCO-logo-645x645.jpg"
     }
   ],
   "audioChapters": [
     {
       "id": "c1",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "3:52",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:25",
       "startSeconds": 6
     },
     {
       "id": "c2",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "1:20",
-      "startSeconds": 237
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "2:42",
+      "startSeconds": 211
     },
     {
       "id": "c3",
-      "title": "AI & Tech",
-      "category": "AI & Tech",
-      "duration": "2:54",
-      "startSeconds": 317
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:31",
+      "startSeconds": 373
     },
     {
       "id": "c4",
       "title": "Real Estate & AirBnB",
       "category": "Real Estate",
-      "duration": "0:49",
-      "startSeconds": 491
+      "duration": "1:04",
+      "startSeconds": 525
     },
     {
       "id": "c5",
-      "title": "Global News",
-      "category": "Global",
-      "duration": "1:25",
-      "startSeconds": 540
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "0:31",
+      "startSeconds": 589
     },
     {
       "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:43",
+      "startSeconds": 620
+    },
+    {
+      "id": "c7",
       "title": "Longevity",
       "category": "Longevity",
       "duration": "1:11",
-      "startSeconds": 625
+      "startSeconds": 723
     }
   ],
   "upNext": {
-    "id": "story-intl_students_canada-1",
-    "category": "Higher Ed",
-    "headline": "ApplyBoard Faces a Reckoning as Canada's Immigration Boom Turns to Bust",
-    "summary": "ApplyBoard, once Canada's flagship edtech recruitment platform, is navigating a sharp contraction as study permit caps and policy tightening drain the pipeline that fuelled its growth — a cautionary signal for any Canadian university still over-reliant on single-channel international recruitment.",
-    "source": "The Logic",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jNkVSNG1Rb2NtZHhIbVgtRlREajF2T2pQcXZOTm1EUnIwWEpUUVJ5Y2VwbE4zUmhoUnZTYXJBdDQ4VFRYWS1rT29ySnFvZEYwMWhrWV9ZTTNXRDFld3kwZWVTYzVha1lfdDE1RF9Da1poNEg1dWswN3VVSXdrUQ?oc=5",
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "AI Hype Index: Graduates boo AI at their own convocations",
+    "summary": "When Eric Schmidt told University of Arizona's class of 2026 their job is to 'help shape AI,' he was met with audible boos — MIT Tech Review flags this as a leading indicator of cultural fatigue with AI triumphalism entering the workforce.",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "university"
+    "thumbnailKind": "chip",
+    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MJ26-Thumb.jpg?resize=1200,600"
   },
   "mainStory": {
-    "id": "story-intl_students_canada-0",
-    "category": "Higher Ed",
-    "headline": "BCA Blind Spot: Admin Review Backlog Hits Six Months, Creating Visa Calculation Gap",
-    "summary": "A processing flaw means international students disputing visa decisions via administrative review may be excluded from Basic Compliance Assessment calculations, potentially distorting university RAG ratings at a moment when institutions are already under scrutiny — a regulatory and reputational risk your university clients need to understand.",
-    "source": "The PIE News",
-    "url": "https://thepienews.com/bca-blind-spot-as-admin-review-backlog-reaches-six-months/",
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Corporate America enters its AI reckoning — ROI scrutiny arrives",
+    "summary": "Microsoft cancelled most Claude Code licences over ballooning costs, Uber's COO called AI spend 'harder to justify,' and one client reportedly burned half a billion dollars in a single month — the enterprise AI honeymoon is ending and measurable ROI is now the bar.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "university",
-    "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/05/pexels-towfiqu-barbhuiya-3440682-11350076-scaled.jpg"
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/G94oAHsUtUxPbe72AjC3nHDcQVU=/779x0:1859x1080/320x320/2026/05/27/1779901367550.jpeg"
   },
-  "heroImageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/05/pexels-towfiqu-barbhuiya-3440682-11350076-scaled.jpg"
+  "heroImageUrl": "https://images.axios.com/G94oAHsUtUxPbe72AjC3nHDcQVU=/779x0:1859x1080/320x320/2026/05/27/1779901367550.jpeg"
 }

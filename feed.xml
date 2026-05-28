@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 27 May 2026 14:51:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 11:37:14 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, May 27, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-27.html</link>
-      <description>Today's digest clusters around two forces that directly shape your consulting pipeline: Canada's international student ecosystem is in active flux — policy changes, processing backlogs, and ApplyBoard's reckoning all signal that Canadian universities are under mounting enrolment ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-27.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-27.mp3" length="14599680" type="audio/mpeg"/>
-      <pubDate>Wed, 27 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, May 28, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-28.html</link>
+      <description>Two converging themes demand your attention today, Midya. First, the AI ROI reckoning is no longer theoretical — Microsoft cancelling Claude licences and Uber's COO questioning costs signals that the 'just adopt AI' phase is over and the 'prove it pays' phase has begun, which is ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-28.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-28.mp3" length="16366080" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
