@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 28 May 2026 11:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 11:36:43 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, May 28, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-28.html</link>
-      <description>Two converging themes demand your attention today, Midya. First, the AI ROI reckoning is no longer theoretical — Microsoft cancelling Claude licences and Uber's COO questioning costs signals that the 'just adopt AI' phase is over and the 'prove it pays' phase has begun, which is ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-28.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-28.mp3" length="16366080" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, May 29, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-29.html</link>
+      <description>Two threads dominate today that sit right at the intersection of your work: Anthropic's near-trillion-dollar valuation reshuffle signals that the AI infrastructure race is entering a new phase — one where enterprise Claude integrations will accelerate, which is directly relevant ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-29.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-29.mp3" length="16459200" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

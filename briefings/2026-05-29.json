@@ -1,0 +1,303 @@
+{
+  "schemaVersion": 2,
+  "date": "Friday, May 29, 2026",
+  "dateIso": "2026-05-29",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "13:42",
+  "currentTime": "0:00",
+  "remaining": "13 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Two threads dominate today that sit right at the intersection of your work: Anthropic's near-trillion-dollar valuation reshuffle signals that the AI infrastructure race is entering a new phase — one where enterprise Claude integrations will accelerate, which is directly relevant to how you position AI-in-marketing consulting services. Meanwhile, the Canadian higher-ed squeeze is sharpening: Studio 58 at Langara has been shut down by international-student revenue loss, Ontario universities are being pushed to co-ordinate on AI strategy, and TRU — your home institution — is generating national-profile research on wildfire forecasting. Each of these is either a client signal or a community story worth tracking.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Two threads dominate today that sit right at the intersection of your work: Anthropic's near-trillion-dollar valuation reshuffle signals that the AI infrastructure race is entering a new phase — one where enterprise Claude integrations will accelerate, which is directly relevant to how you position AI-in-marketing consulting services. Meanwhile, the Canadian higher-ed squeeze is sharpening: Studio 58 at Langara has been shut down by international-student revenue loss, Ontario universities are being pushed to co-ordinate on AI strategy, and TRU — your home institution — is generating national-profile research on wildfire forecasting. Each of these is either a client signal or a community story worth tracking. On the macro side, Canada's Q1 GDP drops today and will show the Iran-war and tariff impact for the first time — watch that number carefully if any of your consulting conversations involve budget cycles at institutions or marketing departments exposed to the broader economy.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-05-29.mp3",
+  "audioDurationSeconds": 822,
+  "audioScript": "Good morning, Midya. It's Friday, May twenty-ninth, twenty twenty-six. Here's what matters today.\n\nLet's start with the biggest structural story of the week, because it reshapes the landscape you're advising clients to navigate. Anthropic is now the most valuable AI startup on earth. Yesterday's announcement of a sixty-five-billion-dollar Series H round — led by Sequoia, Altimeter, Dragoneer, and Greenoaks — puts Anthropic's post-money valuation at nine hundred and sixty-five billion dollars. That leapfrogs OpenAI, which was most recently valued at seven hundred and thirty billion. To put that in perspective: Anthropic was worth around sixty billion dollars less than two years ago. This is one of the largest private funding rounds in the history of technology.\n\nWhat makes this more than a financial footnote is where the money is going. The company says it will fund safety and interpretability research — which is Anthropic's core brand differentiation — expand compute capacity, and critically, scale Claude products and partnerships. That last piece is what should have your attention. Claude is increasingly the enterprise AI of choice for organisations that want capability without the reputational and governance risk of moving too fast. When you're in a room with a marketing director at a Canadian university or a mid-size brand, and the question comes up about which AI platform to build on, the fact that the market has just placed a near-trillion-dollar bet on Anthropic's safety-first positioning is a meaningful data point. It validates the responsible-AI consulting frame rather than undermining it.\n\nThe run-rate revenue figure is equally striking: forty-seven billion dollars annually, crossed just this month. That's real commercial traction, not just venture optimism. Whatever happens to OpenAI — and the competitive pressure on them is now intense — Claude is embedded in enough enterprise workflows that this valuation is at least partially grounded in actual usage.\n\nAlso in AI today, and directly relevant to your higher-ed consulting pipeline: the Globe and Mail is reporting that Ontario universities are being urged to co-ordinate their approach to AI rather than each institution building its own fragmented strategy. This is significant. When a provincial system collectively acknowledges it doesn't have AI figured out and needs a co-ordinated framework, that's an open door for external advisors who can bring both strategic clarity and practical implementation experience. If you're targeting Ontario institutions alongside your BC relationships, this story is worth flagging as a conversation-starter. The question it raises — how do you build a coherent AI strategy across a multi-campus, multi-stakeholder institution — is precisely the kind of problem a consulting practice built at the intersection of AI and marketing can answer.\n\nRounding out the AI section: The Verge published a hands-on review of Adobe's new conversational AI image assistant. The verdict is nuanced — more collaborative than other AI image tools, because it keeps the human in the loop rather than just spitting out a finished product — but still limited enough to be described as a mediocre design intern. That framing is actually useful for you. When clients ask whether AI is going to replace their creative teams, the honest answer in mid-twenty-twenty-six is still: it's a junior collaborator, not a replacement. Adobe, of all companies, has skin in the game to get this right, and they're not there yet. That's a grounding data point.\n\nOn the marketing and business front, two stories worth sitting with this morning.\n\nAxios is reporting on what they're calling the pitchfork moment for AI billionaires. As the AI boom mints new trillionaires while displacing workers, Silicon Valley's wealthiest are quietly developing their own prescriptions — pre-emptive tax proposals, displacement funds, public-messaging strategies — to defuse what they see as a coming populist revolt. This matters for your consulting work in a specific way: the brands and institutions you advise are going to be operating in an increasingly charged political environment around AI. The question of whether your client is seen as using AI responsibly — preserving jobs, sharing gains, being transparent — is moving from a nice-to-have ethical positioning to a genuine reputational risk-management issue. The playbook is being written right now, and the clients who get ahead of it will be in a stronger position than those who wait for the backlash.\n\nThe second story is from MIT Technology Review, and it's not what you'd expect from a tech publication. Pope Leo the Fourteenth has issued a new AI encyclical — Magnifica Humanitas, or Magnificent Humanity — and the lead statement is blunt: technology is never neutral. The document is a call for courage and solidarity in the face of AI transformation, framing it as a human-values question before it's a productivity question. Now, you may not be advising Catholic institutions, but this matters because the Pope commands an audience of more than a billion people, and the framing he's chosen — AI as a moral question, not just a technical one — will shape how a significant portion of the world's population, including executives and board members, thinks about AI adoption. For a senior marketing leader pivoting into consulting, having a crisp perspective on the values dimension of AI — not just the capability dimension — is increasingly what differentiates the advisor from the vendor.\n\nNow to higher education, and the news here is sobering.\n\nThe most concrete story of the week in Canadian post-secondary is Studio 58 at Langara College in Vancouver — the college's long-running, highly regarded professional theatre training program — announcing its closure. The statement from Studio 58 is direct: federal government changes have required colleges and universities to adapt to a new financial climate. That's careful language for what is, in plain terms, a revenue collapse driven by the international-student cap. Langara is a named BC institution, and this is the kind of visible, program-ending consequence that makes the enrollment crisis tangible in a way that aggregate statistics don't. If you're in conversations with any BC college about marketing strategy or student recruitment, this story is live ammunition for why they need a proactive approach to domestic student retention and alternative revenue — not just a reactive response to IRCC policy.\n\nOn the visa side, the Toronto Star is reporting that dozens of Chinese students are stranded because of IRCC processing backlogs, and summer internships are slipping away. This is a reputation story as much as an operational one. International students choose Canada based partly on the promise of a smooth pathway — work experience, post-graduation options. When the system fails them at the internship stage, the story travels through student networks globally. For any institution still recruiting heavily in China, this is an active reputational risk.\n\nAlso worth noting: UBC is in the news for refusing to reimburse a Scottish midwife for fees paid toward a bridging course that, it appears, didn't deliver what was promised. The Times Colonist has the details. UBC is a named institution, and the story cuts at the core of international student trust — the sense that Canadian universities are taking fees without delivering value. Even if the specifics here are complex, the optics land badly.\n\nTaken together, these three stories form a consistent picture: the international-student funding model is not just under pressure, it's actively producing visible harms — closed programs, stranded students, trust violations. The institutions that come out of this transition strongest will be the ones that found a consulting partner who helped them rebuild their value proposition and domestic-student strategy before the crisis became existential.\n\nA quick but important flag on real estate this morning. Morningstar is asking why Canadian bond yields are rising — and the answer matters for anyone tracking BC housing or thinking about mortgage-rate exposure. Bond yields drive fixed mortgage rates, and if yields are moving up while the Bank of Canada's policy rate is still being watched carefully, it creates an uncomfortable squeeze: variable-rate borrowers get some relief from rate cuts, but fixed-rate buyers face rising costs. For anyone in your orbit who is timing a purchase or renewal in the Kamloops or Sun Peaks market, this is the signal to watch going into the summer selling season. The Q1 GDP number dropping from StatsCan today will add another data point — if the economy came in weaker than expected because of tariffs and the Iran-war disruption, the Bank of Canada may have more room to cut, which would eventually feed through to bond markets. Worth keeping an eye on both numbers together.\n\nThree things from your backyard this morning.\n\nThe TRU story is genuinely worth celebrating. Researchers at Thompson Rivers University have developed a new wildfire forecasting tool with the potential to prevent wildfires and improve emergency response across Canada. This is national-profile research coming out of your home institution, and in the context of BC wildfire seasons that have directly affected the Sun Peaks and Kamloops area, it's both personally relevant and institutionally significant. TRU as a research university with real-world impact is a more compelling story than TRU as a teaching institution managing enrollment decline — and that positioning matters if you're ever in a conversation about TRU's strategic communications or brand.\n\nKamloops city council is also exploring how to tax and extract community benefits from proposed AI data centres in the area. This is a fascinating local-governance story because it sits at the intersection of the AI infrastructure boom — which we talked about at the top — and the practical question of what communities actually get when hyperscale compute lands in their backyard. Data centres bring jobs, tax revenue, and electricity demand. Council is clearly thinking ahead about how to make sure the community captures value rather than just bearing the costs.\n\nAnd for the weekend: Sun Peaks has previewed its summer lineup, and it looks strong — including the Rockin' in the Peaks Canadian rock festival in July. If you're heading up the mountain this summer, worth keeping that on the calendar.\n\nTwo global stories you should have on your radar.\n\nChina's foreign minister Wang Yi is in Ottawa today — the first visit of this kind in a decade — meeting with Prime Minister Carney and Minister Anand. The diplomatic context is significant: Canada is trying to diversify its trade relationships as US tariff pressure persists, and China is the world's largest source of international students to Canadian universities. Any shift in the Canada-China relationship — positive or negative — flows directly into enrollment pipelines, visa policy, and the financial health of institutions you may be consulting for. Watch the tone of the communiqué coming out of today's meetings.\n\nThe other global story is the Ebola outbreak in the Democratic Republic of Congo. MIT Technology Review reports that the Bundibugyo variant — one of the deadlier Ebola strains — has already killed healthcare workers in Ituri Province and is proving difficult to contain with standard protocols. This is early-stage, and the DRC has dealt with multiple Ebola outbreaks before, but the combination of a high-mortality variant, a strained healthcare system, and an active conflict zone makes this worth watching. Bundibugyo is not as well studied as the Zaire strain, and the uncertainty around containment is the part that elevates this above routine outbreak news.\n\nOne longevity story this morning, and it's a useful one.\n\nSTAT News — a trusted source — is running a physician opinion piece from a weight-loss doctor warning about GLP-1 microdosing. The trend of taking tiny, sub-therapeutic doses of semaglutide or tirzepatide for cosmetic weight loss — rather than clinical obesity treatment — has exploded on social media, and the doctor's concern is straightforward: we have absolutely no long-term safety data on what these doses do. The GLP-1 evidence base is built on therapeutic dosing in metabolically compromised patients. Extrapolating to healthy people taking a fraction of that dose for aesthetics is, the physician argues, a clinical experiment being run on a mass population without anyone's knowledge or consent. If you or anyone in your family is hearing about microdosing as a wellness trend, this is the piece to read and share.\n\nThat's your Friday briefing, Midya. The throughline today is acceleration and its costs: Anthropic's near-trillion-dollar valuation is the acceleration, Studio 58's closure is one of the costs. The higher-ed system is being reshaped faster than most institutions can adapt, and that gap is where your consulting practice lives. Have a strong close to the week — and if you're heading to Sun Peaks this weekend, the mountain has a full summer ahead of it.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Anthropic overtakes OpenAI as the world's most valuable AI startup at $965B",
+      "summary": "A $65B Series H — led by Sequoia, Altimeter, and Dragoneer — vaults Anthropic past OpenAI's $730B valuation, with run-rate revenue now at $47B; funding targets safety research, compute, and Claude product expansion.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/28/anthropic-ai-fundraising-openai",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/mHnJudwl4YzaMNS1EfOTVQy74fg=/317x0:1397x1080/320x320/2026/01/29/1769720226782.jpeg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Ontario universities urged to co-ordinate AI approach",
+      "summary": "The Globe and Mail reports a push for Ontario post-secondaries to develop a unified AI strategy — a potential consulting-entry signal for any institution still working on its own fragmented approach.",
+      "source": "Google News: Canadian universities",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmJGQzlSSk5vMVJUYnVoM052dEpodXdOYVYxVjlRbktGYVA3VDBZb1l5YlZkb3BydFEyREZ6UWtrV2hhVFZySTN4NWdrUlIzR1VKdlpCc2ZyR25NLUdQcE45QmtRaFBmRk5VZklScVBRM1Vwc0l3OTFBWUN2ZldOcm50VzVYQXZSVDIyY2Q4SU55TlZpenZlMlVsdC1LekxLcFNZ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Adobe's conversational AI agent reviewed: capable but still a mediocre design intern",
+      "summary": "The Verge's hands-on finds Adobe's new AI image assistant more collaborative than rivals but still limited — a useful calibration point for anyone advising brands on AI-assisted creative workflows.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Anthropic overtakes OpenAI as the world's most valuable AI startup at $965B",
+      "summary": "A $65B Series H — led by Sequoia, Altimeter, and Dragoneer — vaults Anthropic past OpenAI's $730B valuation, with run-rate revenue now at $47B; funding targets safety research, compute, and Claude product expansion.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/28/anthropic-ai-fundraising-openai",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/mHnJudwl4YzaMNS1EfOTVQy74fg=/317x0:1397x1080/320x320/2026/01/29/1769720226782.jpeg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Ontario universities urged to co-ordinate AI approach",
+      "summary": "The Globe and Mail reports a push for Ontario post-secondaries to develop a unified AI strategy — a potential consulting-entry signal for any institution still working on its own fragmented approach.",
+      "source": "Google News: Canadian universities",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmJGQzlSSk5vMVJUYnVoM052dEpodXdOYVYxVjlRbktGYVA3VDBZb1l5YlZkb3BydFEyREZ6UWtrV2hhVFZySTN4NWdrUlIzR1VKdlpCc2ZyR25NLUdQcE45QmtRaFBmRk5VZklScVBRM1Vwc0l3OTFBWUN2ZldOcm50VzVYQXZSVDIyY2Q4SU55TlZpenZlMlVsdC1LekxLcFNZ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Adobe's conversational AI agent reviewed: capable but still a mediocre design intern",
+      "summary": "The Verge's hands-on finds Adobe's new AI image assistant more collaborative than rivals but still limited — a useful calibration point for anyone advising brands on AI-assisted creative workflows.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "\"The pitchforks are here\": Tech billionaires scramble to contain AI's populist backlash",
+      "summary": "As the AI boom concentrates wealth at historic speed, Silicon Valley's richest are privately strategising on taxes and worker displacement — the political and reputational environment your enterprise clients will increasingly have to navigate.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://images.axios.com/WftKC1uGAs-nCtw3CvHswv4AmIA=/506x0:1586x1080/320x320/2026/05/27/1779915893886.jpeg"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Pope Leo XIV's AI encyclical Magnifica Humanitas: \"Technology is never neutral\"",
+      "summary": "The Vatican's first AI doctrine frames the technology as a profound human-values question, not just a productivity tool — the kind of ethical framing that will shape how brand leaders talk publicly about AI adoption.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26148386379363.jpg?resize=1200,600"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "Studio 58 at Langara College forced to close after decades — international student revenue cited",
+      "summary": "Langara's acclaimed professional theatre training program is shutting down, directly attributable to federal international-student caps draining the college's financial base — a stark, named-institution case study of the funding crisis hitting BC colleges.",
+      "source": "Daily Hive Vancouver",
+      "url": "https://dailyhive.com/vancouver/vancouver-langara-college-studio-58-program-closed",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/05/Langara-College.jpg?format=auto"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "Dozens of Chinese students stranded by Canadian visa delays as summer internships near",
+      "summary": "Toronto Star reports IRCC processing backlogs are now costing international students paid internship placements — a reputational and retention risk for Canadian institutions recruiting in China.",
+      "source": "Google News: Canada international students",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOOVdSc05KVG9SeXpxTVhVRlFVYjRhajMxUEVTa3ZTa29QWVV5N2Rpb0ZKcUo4X002TEQ3dG5lWWM0Zm9qRVNMQUloT0FaeERSb2JmSjRpT0RmX1dTS1ZBMU5KdWMzalo4SlR3bnQyemJSaHR0dEk5OTI2Z2xMczVxbjhIV2VUbmVqVXdSNXhnaURaVHBfQnhxd3ExeWdVd25fSUtWMmFuc2haYnMyUFhRWGM5QjJpei1kV2JqZmpUVmJWZDY4MEZVMHNfa1hFOEhlRTBuMmVZaENGRXNJN0JqRldmX1dfNlQwSHpFOUdvMGhJSmJwM3dwT20zWkcxWTdxZGZUTWxOSTJYd2tVMVF4YmJOQ1dOc0xfRzdmTUdEdjlNYldtRktzVQ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "UBC won't reimburse Scottish midwife's fees for bridging course",
+      "summary": "A Times Colonist investigation into UBC's handling of international bridging-course fees surfaces the kind of international-student trust and transparency issue that is quietly damaging Canadian institutions' global reputations.",
+      "source": "Google News: post-graduation work permit Canada",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcHlxZTQ5MlNGV0Y0S2pQUzlnU0RhTGpSVGVMYWRFdzF3aEMxWGdzUzZPR3pwZ3VqU0toazlMNWxKLWlsMWJ6bWhmNFBaUjN2eFZSX1FkUDdETmtReFVvamJBNG5ZbHFWang4a2tZYlJUWWNiaFd3TktSU1BKWnE4bzRMYTUzUHlVSG5vZXdQdUZJWW1JdGJtQng5YmJud2ZWN2wtbmxoX3NiTjBLZkV1aA?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Why are Canadian bond yields rising? — Morningstar analysis",
+      "summary": "Rising Canadian bond yields signal upward pressure on fixed mortgage rates just as the housing market attempts to stabilise — directly relevant to anyone tracking BC real estate or advising clients on timing.",
+      "source": "Google News: Bank of Canada interest rate",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREVpSTRGeUlyXzBMRjRmMjlqZk16bXoxOU1xVU0wb3VZVzhnbUxsQW82QURMVXRmM2k2QWhSTUJzejJrN3ZpSmdveXJTZlNid3FTNHNhdzFDVFFhdmdpeHJtbEFGVkxFQWpYRF9hb285ODdXLVBiVWlxaFZJVGtVUUUwbjdHaFk?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "TRU's new wildfire forecasting tool could transform emergency response across Canada",
+      "summary": "Thompson Rivers University researchers have developed a predictive wildfire tool with national application — a high-profile research win for TRU that raises the institution's profile and is directly relevant to BC fire-season safety.",
+      "source": "Google News: Thompson Rivers University",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTjV6TWpqVFdJVjZaM0p4VlU0SnpYbEtLUEs1Z2JIQ3FhV0lzS295eWpmMGJ4WFo2aVhHWkF4VHB3T0tEb0piNmZJNTVHbWNraU1qa2pnUVhuUXBHRTlJelhfMVJKN3NhaFpTc3Z6TmtheV9VOXJ4NDYwNllmUDJCaTZOUVZhMU9ZeDV3WGY0M0dUOExZWlQ3dVdaNF9USGk5dl9HeFhiYXU2dlJEMUViUkI2QmUxLWVJMzhQb3RLVjVLRGVBWlk3MnYyZE1xeTQ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Kamloops city council exploring taxation and community benefits tied to AI data centres",
+      "summary": "Council is examining how to capture tax revenue and community benefits from proposed AI data centre development in Kamloops — a local governance story with real implications for the city's economic and infrastructure direction.",
+      "source": "Google News: Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ1hkb2k0VVZERUJDeTZrclpDMWpKa1NiY3hjWWEwaUFMWlNGTWZVOW14VThHeUoxblVMMnlDT2hONmNIbm81ZThKNVowTDlLc2g3cWctYWhCODJpYVRXZmxJRVZZZ1Zxdl9ZUDg5UFhaQUxvX1ZOWmJvcmRObk5HbC04ZXJKb2ZWbDVSVVBPNDdPOEdLV0dFZUtVSDdlcFI5OXlaODZROF9iXy1HMDlUR3VaYXlDS2dEMXFPTktjck0wUDRrMEtnbHJDQXRXb3dWSWdUSXhKSlE?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-2",
+      "category": "Local News",
+      "headline": "Sun Peaks summer lineup preview — what's on the mountain this July",
+      "summary": "Sun Peaks Independent News runs through the full summer events calendar, including the Rockin' in the Peaks Canadian rock festival in July.",
+      "source": "Google News: Sun Peaks",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wdzAtNlZtTnlxck9yRjQxbUpjcmdWeVB6d2tZU3FLSmFJT0RQc0NzY0d1YndadWx3YlBTeDNZNlpKM2pacmxmOWdVeEtDY3J4Zi1KWWItMWxnSnlrRVE?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "China's foreign minister Wang Yi meets PM Carney and Minister Anand in Ottawa — first such visit in a decade",
+      "summary": "Wang Yi's three-day Ottawa visit, the highest-level Chinese diplomatic engagement in Canada in ten years, comes as Canada tries to diversify trade relationships amid ongoing US tariff pressure and a Canada-China relationship that directly affects international-student flows.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/05/29/chinas-foreign-minister-wang-yi-set-to-meet-carney-anand-today/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F37eea675-0e2a-4009-810c-2eadf766db19%2F6ca37814802b50f47cb9382bc883c76fea1e6a8b72a14197adec85db9c996834.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "The Ebola Bundibugyo outbreak in DRC is proving difficult to contain",
+      "summary": "MIT Technology Review reports the Bundibugyo variant — deadlier than Sudan strain — has already killed healthcare workers in Ituri Province and is resisting standard containment, raising the prospect of a broader humanitarian crisis.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/GettyImages-2277597061.jpg?resize=1200,600"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "STAT News physician opinion: GLP-1 'microdoses' for cosmetic weight loss are unsupported by evidence",
+      "summary": "A weight-loss doctor writing in STAT News warns that the long-term safety profile of sub-therapeutic GLP-1 dosing is entirely unknown — a timely caution as microdosing trends spread well beyond clinical populations.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/05/29/glp-1-microdose-popular-but-unsupported-by-evidence/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/05/AdobeStock_1898568139_Editorial_Use_Only-645x645.jpeg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:36",
+      "startSeconds": 6
+    },
+    {
+      "id": "c2",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "2:03",
+      "startSeconds": 222
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:32",
+      "startSeconds": 345
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:01",
+      "startSeconds": 497
+    },
+    {
+      "id": "c5",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:38",
+      "startSeconds": 557
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:24",
+      "startSeconds": 655
+    },
+    {
+      "id": "c7",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "0:55",
+      "startSeconds": 739
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Ontario universities urged to co-ordinate AI approach",
+    "summary": "The Globe and Mail reports a push for Ontario post-secondaries to develop a unified AI strategy — a potential consulting-entry signal for any institution still working on its own fragmented approach.",
+    "source": "Google News: Canadian universities",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmJGQzlSSk5vMVJUYnVoM052dEpodXdOYVYxVjlRbktGYVA3VDBZb1l5YlZkb3BydFEyREZ6UWtrV2hhVFZySTN4NWdrUlIzR1VKdlpCc2ZyR25NLUdQcE45QmtRaFBmRk5VZklScVBRM1Vwc0l3OTFBWUN2ZldOcm50VzVYQXZSVDIyY2Q4SU55TlZpenZlMlVsdC1LekxLcFNZ?oc=5",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Anthropic overtakes OpenAI as the world's most valuable AI startup at $965B",
+    "summary": "A $65B Series H — led by Sequoia, Altimeter, and Dragoneer — vaults Anthropic past OpenAI's $730B valuation, with run-rate revenue now at $47B; funding targets safety research, compute, and Claude product expansion.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/05/28/anthropic-ai-fundraising-openai",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/mHnJudwl4YzaMNS1EfOTVQy74fg=/317x0:1397x1080/320x320/2026/01/29/1769720226782.jpeg"
+  },
+  "heroImageUrl": "https://images.axios.com/mHnJudwl4YzaMNS1EfOTVQy74fg=/317x0:1397x1080/320x320/2026/01/29/1769720226782.jpeg"
+}
