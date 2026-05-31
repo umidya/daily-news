@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 30 May 2026 11:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 11:36:38 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Saturday, May 30, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-30.html</link>
-      <description>Two threads demand your strategic attention this Saturday. First, the immigration automation story — Federal Court backlogs quadrupling since 2020 — directly affects the international student pipeline that feeds the Canadian universities you're targeting as consulting clients; en...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-30.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-30.mp3" length="15146400" type="audio/mpeg"/>
-      <pubDate>Sat, 30 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Sunday, May 31, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-05-31.html</link>
+      <description>The Southern Interior flood warnings are your most time-sensitive item today — if you have family or property near the Thompson or any tributary, check evacuation alerts now. On the policy front, immigration officials are being pressed hard on whether international student permit...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-31.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-31.mp3" length="15237600" type="audio/mpeg"/>
+      <pubDate>Sun, 31 May 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
