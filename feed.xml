@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 31 May 2026 11:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 11:37:55 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, May 31, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-05-31.html</link>
-      <description>The Southern Interior flood warnings are your most time-sensitive item today — if you have family or property near the Thompson or any tributary, check evacuation alerts now. On the policy front, immigration officials are being pressed hard on whether international student permit...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-05-31.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-05-31.mp3" length="15237600" type="audio/mpeg"/>
-      <pubDate>Sun, 31 May 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, June 1, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-01.html</link>
+      <description>Today is June first — a date with real policy teeth for international students in Canada, with new visa and work-permit rule changes taking effect this morning. That lands squarely in Midya's higher-ed consulting pipeline and is worth tracking closely, because every Canadian univ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-01.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-01.mp3" length="15745920" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
