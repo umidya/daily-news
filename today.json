@@ -1,136 +1,136 @@
 {
   "schemaVersion": 2,
-  "date": "Tuesday, June 2, 2026",
-  "dateIso": "2026-06-02",
+  "date": "Wednesday, June 3, 2026",
+  "dateIso": "2026-06-03",
   "greeting": "Good morning, Midya",
-  "totalDuration": "13:08",
+  "totalDuration": "11:35",
   "currentTime": "0:00",
-  "remaining": "13 min total",
+  "remaining": "11 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Two signals are converging that directly affect your consulting pipeline this week: Anthropic's IPO filing amid a corporate AI-spend backlash is the clearest sign yet that the \"AI ROI\" conversation is moving from boardroom anxiety to procurement decisions — and that's the exact gap a marketing-focused AI consultant can walk into. Meanwhile, TRU's move to build AI-resistant assessment tools puts your own backyard institution on the map as one that's actively wrestling with AI strategy, which is a door worth knocking on. On the international student side, rising travel costs and Ontario's closed PR streams are compressing the September intake window for Canadian universities — institutions that haven't yet re-built their enrolment marketing for this new reality are vulnerable, and that's a consulting opportunity.",
+  "digestIntro": "Two threads deserve your full attention today, Midya. First, the OpenAI brand crisis story is a masterclass in the limits of marketing — and a gift for your consulting pitch on AI brand strategy, because it illustrates exactly why CMO hires alone can't fix structural trust problems. Second, the UK's CMA ruling forcing Google to let publishers opt out of AI Overviews is a quiet earthquake for content and SEO strategy: every Canadian university marketing team you're targeting will need to rethink their digital presence, and you can walk in the door with a point of view on that.",
   "digestReadingTime": "8 min read",
-  "whyItMatters": "Two signals are converging that directly affect your consulting pipeline this week: Anthropic's IPO filing amid a corporate AI-spend backlash is the clearest sign yet that the \"AI ROI\" conversation is moving from boardroom anxiety to procurement decisions — and that's the exact gap a marketing-focused AI consultant can walk into. Meanwhile, TRU's move to build AI-resistant assessment tools puts your own backyard institution on the map as one that's actively wrestling with AI strategy, which is a door worth knocking on. On the international student side, rising travel costs and Ontario's closed PR streams are compressing the September intake window for Canadian universities — institutions that haven't yet re-built their enrolment marketing for this new reality are vulnerable, and that's a consulting opportunity. Keep one eye on the Kamloops mayor story; a bank foreclosure at city hall creates political instability that filters into local business and real estate sentiment in ways worth watching.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-06-02.mp3",
-  "audioDurationSeconds": 788,
-  "audioScript": "Good morning, Midya. It's Tuesday, June second, twenty twenty-six. Here's what matters today — and there's a lot that connects directly to your consulting pivot, your AI thesis, and what's happening right in your backyard.\n\nLet's start with AI, because the most important story in your world this morning isn't a new model announcement or a flashy product launch — it's a financial reckoning that has real implications for the work you're trying to build.\n\nAnthropic filed its IPO paperwork yesterday, and the timing could not be more revealing. Hours after the filing dropped, OpenAI CEO Sam Altman went on CNBC and said that corporate concern over AI return on investment is, quote, \"the most fair criticism of AI so far.\" That's the CEO of the dominant AI company essentially acknowledging what procurement teams have been whispering for months. Bain released a survey of nearly a thousand companies showing that after investing in AI, forty percent said the value didn't arrive. Forty percent. Anthropic's biggest customers are enterprises. If those enterprises are pulling back on AI spend — or demanding clearer ROI frameworks before signing renewals — that hits Anthropic's revenue right as they're trying to impress public markets. This is the AI sticker shock phase, and it's very real.\n\nNow here's the flip side for you personally: this is not bad news for an AI marketing consultant — it's an opening. When companies can't articulate AI value, they need someone who can help them build a business case, redesign their workflows, and connect AI tools to measurable brand and revenue outcomes. That is exactly the consulting thesis you've been developing. The enterprises that are disappointed? They mostly bought tools without strategy. That's the gap you fill. Watch Anthropic's S-1 disclosures carefully when they come — the customer concentration and churn data will tell you a lot about where enterprise AI confidence actually stands.\n\nOn a related front, OpenAI released new data showing that knowledge workers now make up roughly one-fifth of Codex users — and they're growing three times faster than the developer segment. This matters because Codex was originally positioned as a coding tool. OpenAI is now openly pivoting its narrative: agents don't just write code, they help office workers navigate siloed workplace artifacts — documents, emails, dashboards, decks. If you're building an AI-in-marketing practice, this is the product trajectory you need to track. The question your future clients will ask is no longer \"should we use AI\" — it's \"which agents, for which tasks, and how do we govern them.\" That's a consulting conversation, not a vendor conversation.\n\nAlso from MIT Technology Review this morning: a genuinely useful piece on how small businesses can leverage AI across accounting, design, market research and product development. This one is worth reading not just for the content but for the framing — it's a reminder that the most practical AI value right now is in task substitution at the margins of a business, not transformational replacement. For a solo consulting practice, that's actually encouraging. You can move faster and more practically than a large agency.\n\nOn the marketing and business side, three things caught my eye.\n\nHyundai's CMO gave Marketing Dive a detailed breakdown of how they're activating their official World Cup sponsorship under the campaign name \"Next Starts Now.\" The campaign layers TV advertising, social content, and experiential activations — but what's more interesting is the CMO's mental model for how to sequence those channels around a live event that generates organic cultural attention. This is a transferable framework. Whether you're advising a Canadian university on an awareness campaign, or a regional brand on a major sponsorship, the discipline of mapping paid, owned and earned channels against a cultural moment is exactly the kind of strategic thinking that differentiates senior consultants. World Cup kicks off on North American soil this month — this is the most high-profile marketing laboratory running in real time right now.\n\nAdweek has a sharp piece on a new tool from agentic marketing startup Hightouch that lets advertisers bypass identity intermediaries entirely by directly linking The Trade Desk's exposure data logs to their own first-party datasets. In plain English: it cuts out the middlemen who typically sit between ad measurement and brand data. This matters for your practice because first-party data strategy is increasingly the conversation CMOs want to have — and the technical complexity of actually executing it is what separates consultants who advise on it versus those who can help implement it.\n\nAnd Axios published a piece today built around the 2026 Edelman Trust Barometer finding that employers are now the world's most trusted institution — seventy-eight percent trust their employer, more than they trust government, media, or organized religion. The piece frames this as an obligation for CEOs, not just a trophy. For marketing consultants, this is a gift of a data point: internal brand and employee communications are now load-bearing structures in corporate reputation, not afterthoughts. If you're building service offerings, employer brand strategy and internal communications consulting have rarely been more relevant.\n\nNow higher education — and honestly, this section has more consulting-relevant signal than any other this morning.\n\nLet's start locally. Thompson Rivers University — your institution, in Kamloops — is building a new assessment model specifically designed to make online courses and exams resistant to AI. This is reported by Castanet Kamloops this morning. Think about what this tells you: TRU is actively investing in AI strategy, they're doing it at the academic integrity layer, and they're doing it publicly. That's a leadership signal that the institution is ready to engage with AI seriously. Now, the question TRU hasn't yet answered — because no Canadian university has — is how you market to prospective students in a world where AI fluency is a selling point but AI academic integrity is a crisis. That tension is a consulting brief waiting to be written. If you have any existing relationship with TRU, this story is a conversation starter.\n\nThe Peak ran a piece this morning with the blunt headline \"Canadian universities are falling behind.\" The argument is that Canadian institutions are losing ground on global research rankings, graduate employability outcomes, and funding resilience simultaneously. This is not new but it is intensifying — and it maps directly to the consulting opportunity in front of you. Universities that are falling behind on perception metrics are exactly the institutions that need help rebuilding their brand narrative, repositioning their value proposition, and rethinking their enrolment marketing strategy. Institutions in crisis are institutions with budgets for outside help.\n\nOn the international student side: The PIE News is reporting this morning that rising airfares and visa processing delays are creating genuine uncertainty ahead of the September intake. Students and families are navigating affordability pressure on top of the existing anxiety around Canada's immigration policy environment. At the same time, Ontario has quietly closed its most popular Provincial Nominee Program streams, cutting off a key post-graduation pathway that international students planned their educational decisions around. These two stories together paint a picture of compounding friction in the Canadian international student pipeline — and universities that haven't yet rebuilt their enrolment marketing for this new reality are in a difficult position. If an institution is still running the same international recruitment marketing it ran in twenty-twenty-two, it is targeting a student psychology that no longer exists.\n\nBriefly on real estate — two structural stories worth your attention.\n\nHousingWire published a strong opinion piece arguing that Compass is using cooperative MLS access rules as a weapon against Zillow — cutting off listing feeds not because it helps consumers, but because Compass can't compete on product merit or profitability. The piece argues this fragments the market and threatens the integrity of the MLS system itself. For anyone tracking the brokerage industry and eXp Realty's positioning specifically, this is important context. The Compass-Zillow fight is essentially a proxy war over who controls listing distribution — and that distribution question is one eXp will have to navigate as the largest agent-count brokerage in the world.\n\nHousingWire also ran an analysis asking whether the mortgage industry is broken or simply structurally misaligned. The conclusion is the latter: technology adoption is the key variable, and the complexity we see is a consequence of an industry that digitised processes without redesigning them. If you're tracking Canadian real estate macro trends, the U.S. mortgage industry typically leads structural shifts by eighteen to twenty-four months. Worth knowing where it is.\n\nLocal news from Kamloops — and there's a genuinely significant story here.\n\nKamloops Mayor Reid Hamer-Jackson is facing a bank foreclosure on his car dealership, and a judge has given him a three-month window to repay a four hundred fifty thousand dollar debt. This was reported by both iNFOnews and Castanet Kamloops yesterday. This is a material local governance story — a sitting mayor under active financial legal proceedings while managing a city budget, a downtown core redevelopment, and relationships with the business community. Political instability at the municipal level creates uncertainty that filters through into local business confidence and real estate sentiment. It's also a story that will continue to develop. If you're doing any community-facing work in Kamloops, it's worth understanding the political temperature right now.\n\nKamloops RCMP are also seeking information on a missing teenage girl as of yesterday evening. No further details were available in the available reporting, but it is an active public safety situation.\n\nTwo global stories to keep on your radar.\n\nRussia launched one of its largest recent attacks on Ukraine overnight — hundreds of drones and dozens of missiles against Kyiv and multiple other Ukrainian cities, killing at least eighteen people, including children who were trapped under rubble. This is a significant escalation in the pattern of strikes, and it will continue to affect global energy prices, European security posture, and North American trade policy discussions in ways that filter through into the business environment here.\n\nCloser to home: a new report released in Ottawa ahead of Canada's national AI strategy reveals that three U.S. technology companies control eighty-five percent of Canada's publicly available cloud infrastructure. This is both a national sovereignty question and a competitive risk signal. As the federal government develops its AI strategy, this concentration issue will shape public procurement policy, data residency requirements, and potentially the incentive landscape for Canadian AI startups. For someone at the intersection of AI strategy and Canadian institutional clients, this is a policy thread worth following closely.\n\nOne health story this morning, from STAT News.\n\nMultiple U.S. states are introducing legislation that targets the corporate ownership structures underlying most direct-to-consumer telehealth platforms — the legal framework that allows companies like Hims and similar operators to deliver virtual prescriptions and remote care at scale. Growing regulatory scrutiny could disrupt access to telehealth services that millions of Canadians and Americans now rely on for primary care, mental health support, and GLP-1 prescriptions. This isn't imminent, but it's the kind of structural healthcare access story worth tracking for yourself and your family.\n\nThat's your Tuesday briefing, Midya. The thread running through today's news is really about transition friction — AI investments not yet delivering, Canadian universities losing ground globally, international student pipelines under pressure, and a local mayor in financial jeopardy. Each of those represents an institution or a market at an inflection point, and inflection points are where good consultants earn mandates. The Anthropic ROI story and the TRU assessment story together are worth sitting with this week — they're a two-sentence consulting pitch looking for someone to write it. Make it a good day.",
+  "whyItMatters": "Two threads deserve your full attention today, Midya. First, the OpenAI brand crisis story is a masterclass in the limits of marketing — and a gift for your consulting pitch on AI brand strategy, because it illustrates exactly why CMO hires alone can't fix structural trust problems. Second, the UK's CMA ruling forcing Google to let publishers opt out of AI Overviews is a quiet earthquake for content and SEO strategy: every Canadian university marketing team you're targeting will need to rethink their digital presence, and you can walk in the door with a point of view on that. On the real estate side, the Edmonton rental acquisition data confirms the international-student demand drop is reshaping purpose-built rental fundamentals — watch this as both a market signal and a higher-ed enrolment story. Locally, the TRU faculty restructuring advisory is worth tracking closely; institutional stress at a named Kamloops client target often precedes consulting engagement openings.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-06-03.mp3",
+  "audioDurationSeconds": 695,
+  "audioScript": "Good morning, Midya. It's Wednesday, June third, twenty twenty-six. Here's what matters today.\n\nLet's start with marketing and brand strategy, because there's a story out this morning that I think you should bring into every senior AI-marketing conversation you have over the next few months.\n\nAdweek is running a piece called \"OpenAI Needs Two CMOs Because It Has a Problem Marketing Can't Solve.\" The headline is deliberately provocative, but the argument is sharp. OpenAI is simultaneously preparing for an IPO while projecting fourteen billion dollars in losses by end of year. They're hiring not one but two CMOs. And the piece makes the case that no amount of marketing firepower can fix a structural brand credibility problem — the tension between being a safety-focused nonprofit in origin and a commercial juggernaut in practice is baked into the company's identity, and consumers and enterprise buyers can feel it.\n\nWhy does this matter to you specifically? Because if you're walking into a Canadian university or a mid-size enterprise and pitching AI-integrated marketing consulting, this story is your first slide. It demonstrates that AI companies themselves are struggling with brand trust — and it makes the case that the most valuable thing a senior marketing strategist brings to the AI conversation isn't prompt engineering, it's brand architecture thinking. The question isn't \"how do we market our AI?\" It's \"do we have the organizational integrity and clarity of positioning to support what we're claiming?\" That's a consulting conversation, not a CMO hire.\n\nAlso worth your time in the marketing section: McDonald's Global CMO Morgan Flatley has a piece out on how the company killed its first World Cup concept and rebuilt from scratch around a fan-first strategy. The tactical detail is interesting — they scrapped a concept late, bet on fan emotion over product placement, and committed to the rebuild — but the more transferable lesson is about senior creative courage. Flatley's framing of why they walked away from the first idea is the kind of case study that resonates in boardrooms when you're arguing for strategic restraint over executional momentum.\n\nAnd Kraft Heinz CMO Todd Kaplan is talking about what he calls \"the algorithm-driven future of discovery\" — how legacy brands stay culturally relevant when the feed, not the shelf, is where brand encounters happen. His NFL and TikTok integration framing is practically useful for any brand navigating the attention economy, and it maps well onto how Canadian institutions need to think about reaching prospective students and donors.\n\nMoving to AI and tech — and the story that I think has the most direct strategic implication for your higher-ed consulting work.\n\nThe UK's Competition and Markets Authority ruled Wednesday that Google must allow website owners to opt their content out of AI Overviews and similar AI search features. This is significant. Right now, Google scrapes your content and surfaces a generated summary — and the user never clicks through to your site. Publishers and institutions have had no recourse. The CMA just gave them one.\n\nHere's why this matters for your consulting pipeline: every Canadian university has a content and SEO strategy built on the assumption that high-quality web content drives organic traffic and brand authority. AI Overviews have been quietly cannibalizing that traffic for the past year. This ruling — even though it's UK-specific for now — is the first regulatory signal that the opt-out framework is coming, and institutions that aren't thinking proactively about whether to opt in or out are flying blind. You can walk into a university marketing conversation and say: here's what this ruling means for your digital strategy, here's what you should audit, here's the decision framework. That's a differentiated point of view.\n\nAlso in AI infrastructure: Google published a water-use framework Wednesday in response to growing community backlash against data centres. The commitments include returning more water to local watersheds than its data centres consume by 2030, and avoiding water-intensive cooling in water-stressed regions. This is partly PR, partly genuine policy — but what's notable is that it's Google trying to set the industry standard proactively, before regulators do it for them. As someone who thinks about AI's institutional footprint, it's worth tracking how this \"environmental credibility\" narrative evolves. We saw ESG become a marketing strategy; AI infrastructure accountability is on the same trajectory.\n\nAnd briefly: InMobi and Scope3 have launched what they're calling a sell-side AI agent for autonomous media buying — essentially removing human intermediaries from premium programmatic transactions. If AI agents are now making buy-side and sell-side decisions in real time, the implications for how brands plan media — and what media planners actually do — are worth watching closely.\n\nOn the Canadian higher-education front, two stories that connect directly to your client development work.\n\nFirst: Castanet is reporting that Thompson Rivers University's unique faculty cohort — the group of faculty in a distinct employment stream — has been advised to restructure, though no formal process is currently underway. This is thin on detail at this point, but institutional restructuring signals at a named university in your backyard deserve attention. When a Canadian university is navigating internal organizational stress, that's frequently a precursor to external consulting engagement — strategy reviews, communication support, program rationalization work. File this one and watch for a follow-up story.\n\nSecond: the Asian Pacific Post is running a piece connecting Canada's immigration and international student cuts to a deepening national labour crunch. The argument is that the federal government tightened intake to ease housing pressure and political optics, but the downstream effect is now showing up as skills shortages in healthcare, trades, and technology. This matters for your work in two ways. One, it's reshaping how Canadian universities are making the case for international enrolment — the framing is shifting from \"diversity\" to \"economic necessity,\" and institutions that haven't updated their messaging to reflect that shift are behind. Two, it reinforces that the IRCC cap environment is not a short-term blip; it's a structural constraint that universities need multi-year marketing and enrolment strategy to navigate.\n\nA quick read on real estate.\n\nStoreys has a notable piece this morning on Upfield Capital — a Vancouver-based firm — acquiring a 181-unit purpose-built rental townhome community in Edmonton. The acquisition memo explicitly cites the drop in international student demand as a macro driver of vacancy in the sector. This is worth noting: the IRCC international student cap, which you track through the higher-ed lens, is now showing up as a direct pricing and acquisition signal in the purpose-built rental market. The Upfield thesis is that the softening is concentrated in high-rise formats, not ground-oriented family housing — which is an interesting counter-read on where demand holds.\n\nAnd US housing economists are coalescing around a stagnation thesis for 2026 — not a crash, but a slow grind, with affordability constraints and sticky rates keeping transaction volumes depressed. That's directionally consistent with what we're seeing in BC markets, and it argues against any near-term rate-driven recovery in sales activity.\n\nLocally in Kamloops: Castanet is reporting that Mayor Ken Christian missed a foreclosure hearing on a city-owned property and has cited council compensation cuts as context for his explanation. The details are still emerging, but any governance story at the municipal level in Kamloops is worth tracking — especially given that TRU, city hall, and regional development are all interconnected in ways that affect the consulting and institutional landscape you operate in.\n\nTwo global stories worth your awareness as a senior leader.\n\nFirst: Iranian drones struck Kuwait's main airport Wednesday, causing significant damage to a terminal and prompting a brief airport closure. US and Iranian forces have traded strikes in the Persian Gulf, further testing what's described as a fragile ceasefire. This is a live geopolitical flashpoint — the oil and energy implications are real, and for anyone running a consulting practice that involves enterprise clients with global supply chains, it's worth knowing the Gulf situation is actively deteriorating.\n\nSecond: the US has announced a new round of tariffs specifically tied to forced-labour concerns, coming after the Supreme Court rolled back many of the earlier Trump-era duties earlier this year. Canada is watching this closely — any US tariff escalation, regardless of its stated justification, creates ripple effects in cross-border trade and business planning. If you're advising clients with US exposure, the trade policy environment remains unstable.\n\nOne health story today that clears the source bar.\n\nSTAT News is reporting on a coalition of leading ultra-processed food researchers who are calling for sweeping policy change. Their survey data shows UPF concern is cross-partisan — this isn't a left-right issue in public opinion — and yet regulatory action remains slow. The researchers are pushing for labelling reform, marketing restrictions, and school nutrition policy. The practical note for you and your family: the evidence base on UPFs and cardiometabolic risk is now strong enough that the research community is treating it as a public health emergency. The policy system is lagging, which means individual-level decisions matter more in the near term.\n\nAnd one story that doesn't fit a clean category but deserves your attention.\n\nCFJC Today is reporting that the head of pancreatic oncology at Princess Margaret Cancer Centre in Toronto says she expects to open Canadian clinical trials for a pill that doubled survival time in early research. Pancreatic cancer has historically had one of the poorest prognoses of any cancer type — the five-year survival rate is around twelve percent — so a treatment candidate that doubled survival in early data is genuinely significant. Clinical trials opening in Canada means Canadians will have access to enrolment. Worth flagging to anyone in your family network who tracks cancer research.\n\nThat's your Wednesday briefing, Midya. The through-line today is a simple one: the institutions — AI companies, search platforms, universities, rental developers — that built their strategies on assumptions from two or three years ago are all being forced to restructure right now. That's exactly the environment in which clear-headed, senior consulting advice is most valuable. The CMA ruling, the OpenAI brand piece, the TRU restructuring signal — these aren't separate stories, they're the same story told three different ways. Walk into every client conversation this week with that frame and you'll be well ahead of the room.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Anthropic faces AI spending backlash before IPO",
-      "summary": "Anthropic filed IPO paperwork just as 40% of surveyed companies report their AI investments haven't delivered expected value — OpenAI's Sam Altman called the ROI gap \"the most fair criticism of AI so far,\" signalling a reckoning for enterprise AI adoption.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage",
+      "headline": "Google Must Let Publishers Opt Out of AI Search Features, Rules UK Regulator",
+      "summary": "The UK's Competition and Markets Authority has ordered Google to give website owners the right to exclude their content from AI Overviews and similar AI search features — a landmark ruling that directly affects every publisher and institution investing in organic search traffic.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/14luotRVh1zsTWpuqAtdNM3sxEA=/447x0:1527x1080/320x320/2026/06/01/1780340701992.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "OpenAI's Codex is rapidly expanding beyond developers to knowledge workers",
-      "summary": "Knowledge workers now make up roughly one-fifth of Codex users and are growing three times faster than developers, as OpenAI bets agents can help office staff make sense of siloed documents and workplace data.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/02/openai-codex-knowledge-workers",
+      "headline": "Google Releases Industry Water-Use Framework Amid Data Centre Backlash",
+      "summary": "Google published five commitments on data centre water consumption — including returning more water to local watersheds than it uses by 2030 — as communities across North America push back against AI infrastructure expansion.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/6grFmLLyL73cbhn_Ew3sAPFL34o=/193x0:1273x1080/320x320/2025/07/14/1752519557064.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "How small businesses can leverage AI",
-      "summary": "MIT Technology Review's applied LLM newsletter outlines practical AI use cases across accounting, design, market research and product development — unusually grounded guidance for a solo consulting practice.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "headline": "InMobi and Scope3 Launch AI Agent for Autonomous Sell-Side Media Buying",
+      "summary": "InMobi and Scope3 are betting that AI agents will replace traditional programmatic pipes for premium media transactions, signalling an accelerating shift in how ad inventory is bought and sold without human intervention.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/inmobi-scope3-debut-sell-side-agent-for-autonomous-media-buying/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/4729b751-06a4-3828-9bb4-1983e460947d.jpg?resize=1200,600"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/06/agentic-advertising-ai-ads-scope3-inmobi-2026.png?w=600&h=315&crop=1"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Anthropic faces AI spending backlash before IPO",
-      "summary": "Anthropic filed IPO paperwork just as 40% of surveyed companies report their AI investments haven't delivered expected value — OpenAI's Sam Altman called the ROI gap \"the most fair criticism of AI so far,\" signalling a reckoning for enterprise AI adoption.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage",
+      "headline": "Google Must Let Publishers Opt Out of AI Search Features, Rules UK Regulator",
+      "summary": "The UK's Competition and Markets Authority has ordered Google to give website owners the right to exclude their content from AI Overviews and similar AI search features — a landmark ruling that directly affects every publisher and institution investing in organic search traffic.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/14luotRVh1zsTWpuqAtdNM3sxEA=/447x0:1527x1080/320x320/2026/06/01/1780340701992.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "OpenAI's Codex is rapidly expanding beyond developers to knowledge workers",
-      "summary": "Knowledge workers now make up roughly one-fifth of Codex users and are growing three times faster than developers, as OpenAI bets agents can help office staff make sense of siloed documents and workplace data.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/02/openai-codex-knowledge-workers",
+      "headline": "Google Releases Industry Water-Use Framework Amid Data Centre Backlash",
+      "summary": "Google published five commitments on data centre water consumption — including returning more water to local watersheds than it uses by 2030 — as communities across North America push back against AI infrastructure expansion.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/6grFmLLyL73cbhn_Ew3sAPFL34o=/193x0:1273x1080/320x320/2025/07/14/1752519557064.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "How small businesses can leverage AI",
-      "summary": "MIT Technology Review's applied LLM newsletter outlines practical AI use cases across accounting, design, market research and product development — unusually grounded guidance for a solo consulting practice.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "headline": "InMobi and Scope3 Launch AI Agent for Autonomous Sell-Side Media Buying",
+      "summary": "InMobi and Scope3 are betting that AI agents will replace traditional programmatic pipes for premium media transactions, signalling an accelerating shift in how ad inventory is bought and sold without human intervention.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/inmobi-scope3-debut-sell-side-agent-for-autonomous-media-buying/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/4729b751-06a4-3828-9bb4-1983e460947d.jpg?resize=1200,600"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/06/agentic-advertising-ai-ads-scope3-inmobi-2026.png?w=600&h=315&crop=1"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Hyundai's CMO on maximising an official World Cup sponsorship",
-      "summary": "Hyundai's \"Next Starts Now\" campaign spans TV, social and experiential activations — the CMO's framework for layering paid, owned and earned around a mega-event is a transferable model for any brand facing a high-stakes sponsorship moment.",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/hyundais-cmo-on-how-to-make-the-most-of-an-official-world-cup-sponsorship/821395/",
+      "headline": "OpenAI Needs Two CMOs Because It Has a Problem Marketing Can't Solve",
+      "summary": "OpenAI is hiring dual CMOs while projecting $14 billion in losses and preparing for an IPO — Adweek argues the brand's credibility crisis is structural, not a messaging problem that more marketing firepower can fix.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/openai-needs-two-cmos-because-it-has-a-problem-marketing-cant-solve/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://imgproxy.divecdn.com/hzKUGIm34ByREegJvqt2j65ERsLGZWqDHxju5FQMFUE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CUl9ITUFfMjZGSUZBXzM3NDhfU1RFTExBX1BvcnRyYWl0LmpwZw==.webp"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-at-12.47.44 PM-e1749487746814.png?w=600&h=315&crop=1"
     },
     {
       "id": "story-marketing-1",
       "category": "Marketing",
-      "headline": "New tool links Trade Desk data directly with brands' first-party IDs, cutting out identity providers",
-      "summary": "Agentic marketing startup Hightouch built a solution that bypasses identity intermediaries by matching Trade Desk exposure logs with brands' own first-party datasets — a meaningful shift in how advertisers control attribution and audience strategy.",
+      "headline": "McDonald's Global CMO on Killing the First Concept for Its Biggest-Ever World Cup Push",
+      "summary": "Morgan Flatley explains how McDonald's scrapped its original campaign and rebuilt around a fan-first strategy for the 2026 World Cup — a useful case study in senior creative decision-making under high-stakes brand pressure.",
       "source": "Adweek",
-      "url": "https://www.adweek.com/media/this-new-tool-cuts-out-identity-providers-by-linking-trade-desk-data-with-brands-first-party-ids/",
+      "url": "https://www.adweek.com/creativity/how-a-scrapped-idea-kicked-off-mcdonalds-biggest-ever-world-cup-push/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/ttd-hightouch-identity-2026.png?w=600&h=315&crop=1"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/06/zocdoc-cmo-3.jpg?w=600&h=315&crop=1"
     },
     {
       "id": "story-marketing-2",
       "category": "Marketing",
-      "headline": "Six ways today's CEOs can meet the moment — and why employer trust is now the highest-stakes asset",
-      "summary": "The 2026 Edelman Trust Barometer shows employers are now the world's most trusted institution at 78%, more than government or media — a compelling hook for any consulting pitch centred on brand and internal communications strategy.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/02/ceo-leadership-employees-communication",
+      "headline": "Kraft Heinz CMO on the Algorithm-Driven Future of Brand Discovery",
+      "summary": "Todd Kaplan details how Kraft Heinz is keeping legacy brands culturally relevant through TikTok and NFL partnerships, framing algorithmic discovery — not paid media alone — as the new brand battleground.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/from-the-pantry-to-game-day-how-kraft-heinz-keeps-iconic-brands-at-the-center-of-culture/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://images.axios.com/bC6Q-LI_DK3FupU32QvUkRorBkk=/790x0:1870x1080/320x320/2026/05/26/1779824232846.jpeg"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/06/speed-of-culture-kraft-heinz-Todd-Kaplan.png?w=600&h=315&crop=1"
     },
     {
       "id": "story-higher_ed_canada-0",
       "category": "Higher Ed",
-      "headline": "TRU developing new assessment model to make online courses and exams resistant to AI",
-      "summary": "Thompson Rivers University — Midya's home institution in Kamloops — is building an AI-resistant assessment framework for online learning, signalling active institutional investment in AI strategy where a marketing and AI consultant could add real value.",
-      "source": "Google News: Thompson Rivers University",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbXBRRTVfbUlxcFZqSk1VZkppSHdxQ0drWE5yUEFXTVY4TVdDTVZnNW9fYlhOaWZQeGItdEdrMGZMaUVtWXlLQkZaZFVhN0tjMkdOTW55WmlfNkdLX0Z3SzVzZWwxMGZUTjluZDFGWndMTGpPMEpnczdYbngydzNtYm1IbjNQWFFvWDlGdnVlS3NtUHVDRmYzd0ZRZnJuRnp6N3RzaWczeHZ2SEFEX1o4c0NrLWNLVzdxNG02ZVFLUVhnWUt6dTNtajUyZkxORlE",
+      "headline": "TRU Faculty Advised to Restructure, No Formal Process Yet Underway",
+      "summary": "Thompson Rivers University's unique faculty cohort has been advised to restructure, though Castanet reports no formal process is currently in place — a potential client signal worth monitoring as institutional stress often precedes strategic consulting engagement.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGtmZ0I1LUhDZ1BhRDFkd1J4QVZXOEMtYXMyZkd0MFFhcTctcTNMeEhCS29rVWxrak83MWVfMnpKR3Z2eFFkckUycHktbHZOUFMwNlRYZWd1VG9GZ2pXSTdKNURGMkYzbGhXMVJzOFpKTWZvcklvWS16VW5BUmQ0Wl9NcHJ3U25nbzVGUGZVR3lyWE42VXE2eE1TbUZ5NHJxSmxvNTY5a1JfWDhYTWJDY3IyNnczNWtQY1BjR1pUOFF2RTJY?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
@@ -138,33 +138,10 @@
     {
       "id": "story-higher_ed_canada-1",
       "category": "Higher Ed",
-      "headline": "Canadian universities are falling behind",
-      "summary": "A new analysis argues Canadian universities are losing ground globally on research output, graduate employability and funding resilience — a sector-wide vulnerability that opens the door for strategic consulting on brand positioning and enrolment marketing.",
-      "source": "Google News: Canadian universities",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZa0ZpWHJmazRqc3g2bldtS0E3TVM2QTBLeUF4VHB1cVpfcERRMm5vYVgwTm1HT2dMdVlDNjVqdE9JNFlaYzFkMzE5WEFqOGZYcGREMFRLR0RoSWxXY0JNNzJYMjNnUkhYVkc4Vk1vM2RFNlRleU1iVkFR",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    },
-    {
-      "id": "story-higher_ed_canada-2",
-      "category": "Higher Ed",
-      "headline": "Rising travel costs add to uncertainty ahead of September student arrivals",
-      "summary": "Institutions are bracing for visa delays, affordability pressures and rising airfares that could depress the crucial September intake — Canadian universities without adaptive enrolment marketing strategies face compounding risk this cycle.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/rising-travel-costs-add-to-uncertainty-ahead-of-september-student-arrivals/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2020/09/pexels-photo-912050-1.jpg"
-    },
-    {
-      "id": "story-higher_ed_canada-3",
-      "category": "Higher Ed",
-      "headline": "Ontario has closed its most popular immigration streams for Canada PR",
-      "summary": "Ontario's closure of key Provincial Nominee Program streams is eliminating a major post-graduation pathway that international students counted on, likely further dampening enrolment demand and accelerating existing anxiety around studying in Canada.",
-      "source": "Google News: study permit Canada",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbzg0S0w0dTdIT2Eyd1kyd2laUkdHU21WRnV6c1U1TXBxVkQzdGZyeU4zNExPd2tBWWx2Ni14Qng4ZElhTnl5WmlxbTlNNkRqdElzUnpaWWhzSm4zQlRiYUFPcVJBWU9ySVoxVG1UWG1KMm5XZWpTSlB0ZDRWUERFNllPdGNmdHJoTHlqQS1PV0d4SXMwdU0wLWpYYlpWM1JqbHo3aS1PSDR0U212VkhaUDNiMDNrQ0VNSGo2bjdGZ292cHoxU2NkTWQtMm9DVWwtbDRSS3oxRdIB3AFBVV95cUxPTVR4QnR2dlVrQ1NWWjNXZndDZE9UMzh1SExRem9yTWdmRzNfNkM1V0ZpZmhOYW45eDhhek9yQ3V4QWF3Qk9ZVjBJa05JSldEVmFtUXNkZlJCaXBaNG0xWXF6elRXUldpLVBINTBSY3ROdmtDckR1eXZud29BcFJ3Z2gtWk5ZXzVIMW9ySUVzcmxXZzJjZF9NbXVqeE9ISk9SRzExZHhMaGNPblNYeXAweHpwT09IejQzVXctVk5wZjNpWnh3aTZlR1RnLXRyeEZORlFBamtvaTVXVnFj",
+      "headline": "Immigration Cuts Are Deepening Canada's Labour Crunch",
+      "summary": "Reduced international student and immigration intake is now being cited as a direct contributor to labour shortages in key sectors — reinforcing the enrolment-to-workforce pipeline debate Canadian universities are navigating in real time.",
+      "source": "Asian Pacific Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR210YXZaY2xqV01QanB1VWRMcHF4UUNGZGMzNndPdVBxYkk5dXk1T1RnZENGWC1EVDIyUG5JSFFwcFcydExWZDliSTNTTS02eFpZMkh6SW5CNkp3dlZVenkxcll2VjNBSy1mYWRzaEYyU2xUQWJZT2hIU3FSMENrTEM4elM0ckRYWEpkeXpiQUZzSHY0VkVIVTIwNVIwRDFqdmRrcw?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
@@ -172,45 +149,33 @@
     {
       "id": "story-canadian_real_estate-0",
       "category": "Real Estate",
-      "headline": "Opinion: Compass has made the MLS its proxy in battle with Zillow",
-      "summary": "Compass is using cooperative MLS rules to cut listing feeds to Zillow rather than competing on product merit — a fragmentation strategy that threatens consumer transparency and could accelerate regulatory scrutiny of brokerage market structures relevant to eXp's positioning.",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/compass-zillow-mls-listing-access/",
+      "headline": "Vancouver Firm Acquires Edmonton Rental Community as International Student Demand Drop Reshapes Market",
+      "summary": "Upfield Capital's acquisition of a 181-unit Edmonton townhome rental explicitly cites weaker demand from declining international students as a macro driver — a signal that the IRCC cap fallout is now visibly repricing purpose-built rental assets.",
+      "source": "Storeys",
+      "url": "https://storeys.com/upfield-arrowleaf-cornerstone-uplands-rentals/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/06/Featured-Image-compass-zillow-mls-listing-access.png"
+      "imageUrl": "https://storeys.com/media-library/image.jpg?id=66851099&width=980"
     },
     {
       "id": "story-canadian_real_estate-1",
       "category": "Real Estate",
-      "headline": "Is the mortgage industry broken — or structurally misaligned?",
-      "summary": "A HousingWire analysis argues the mortgage industry's cost and complexity problems are rooted in structural misalignment rather than broken fundamentals, with technology adoption as the key variable — relevant context for tracking where brokerage and lending models are heading.",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/mortgage-industry-structural-misalignment/",
+      "headline": "Economists See Stagnation, Not Crash, for US Housing in 2026",
+      "summary": "US housing economists are coalescing around a slow-grind thesis rather than a correction, with affordability constraints and rate stickiness keeping both buyers and sellers on the sidelines — a dynamic with clear parallels for BC markets.",
+      "source": "MSN / Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV21uOW0yMmJkMXRDYVZWVG1udFZHbVVsYmdMWURYdzNTOVFjVnlyaWF6THFLQjlLdWFhV2thU2dyUTVGdTZpRFAwX2VQNjM0aEQwb3pkYWR6SEdwd29CdDFzNXk4MFEwb0VzZDdQNERLZ0VfaVQ3ZUNlNzJaa2s1LU5nWUZvbE1VWTB6bUhpaWRhcDBNRHJZYWEwcko5U3ZFRF90Tjc1MDFMZG9HZkRYSjh0cDZydnFqYUx1clVuV0dTR2VDS2thQXl4SDAzTE94VTVSa1BB?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/05/Contributors-Piece-8.png"
+      "thumbnailKind": "house"
     },
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "Bank forecloses on Kamloops mayor's car dealership",
-      "summary": "A bank has moved to foreclose on Kamloops Mayor Reid Hamer-Jackson's car dealership, with a judge giving him a three-month window to repay a $450K debt — a significant local governance story that adds political uncertainty to Kamloops city leadership.",
-      "source": "Google News: Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONml3YzF0TGdielZ6N29RMTBDM0F0bGQ3aVlSLVBlRWdvQ05zMkc2YWxPMWxGNlJNN3REWHBCQk15Z05vaGczVktiYkRwZ0g0ckR4YVhBVzFaOGJwZTBJc1ZiZWpvanY1ZEtlYjJwbFBDV0Nwb1Jac2dGY1k0aGVuYmRpMndJQmlFY2hJ",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "mountains"
-    },
-    {
-      "id": "story-kamloops_sun_peaks-1",
-      "category": "Local News",
-      "headline": "Kamloops RCMP seeking missing teen girl",
-      "summary": "Kamloops RCMP have issued a public request for information on a missing teenage girl — a local safety alert worth monitoring.",
-      "source": "Google News: Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aemFoNEFNYlZMUmQ4S1I2VTFyZ0tuSkpzN3pxM3JwRVNseEgwd0tBRkhZNWN2MmRTT1lrOE5fLTh5cWJIeWk5cDNsdUg1Ti14c1E0WVB4N3YzcV85enkyYjVhQUNEZUV5QmRPZjhMTzdwVXNOSmktSzlORUcxQQ",
+      "headline": "Kamloops Mayor Explains Missing Foreclosure Hearing, Blames Council Pay Cuts",
+      "summary": "Kamloops Mayor Ken Christian missed a foreclosure hearing on a city-owned property and cited council compensation cuts as context — a governance story with municipal accountability implications locally.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQalJIeTg4OW5fdmMwUEE3OG1qVjB1TVg1UE5adEVRZlRzaHlmUTRURHZRbU9HTEU3eGJ4bVVCX0FuSmszcVpENGNPSVZnLXRRSmNNdzlmZ0JfUERSQk5ZWHhWM0RpSWJyVVJBWEd5RTZhUEI1VVp1d1A2MG1nTy1FNmU2bWJaT1lBbmRPeEgtNkR2OEJUYVUzT3hWVHlsUE5LVkFoYTM0V1phNUlvY2VIUTFGaHdnNngzWFZwcHN4cnV1bVVldW11RTVlTVJucXI1?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -218,114 +183,133 @@
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Russia kills at least 18 in Ukraine in massive drone and missile attack, including children",
-      "summary": "Russia launched hundreds of drones and dozens of missiles against Kyiv and other Ukrainian cities overnight, killing at least 18 people including children trapped under rubble — the largest attack in recent weeks.",
+      "headline": "Iran and the US Trade Strikes in the Persian Gulf, Testing the Ceasefire",
+      "summary": "Iranian drones struck Kuwait's main airport, prompting a brief closure, as US-Iran tensions in the Gulf escalate — a geopolitical flashpoint with oil price and supply-chain implications for global business.",
       "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/06/01/russian-attack-on-ukraine-capital-kills-at-least-3-and-traps-others-in-damaged-buildings/",
+      "url": "https://cfjctoday.com/2026/06/03/iranian-drone-attack-hits-kuwait-airport-causing-injuries-2/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F80fed066-be2f-4dce-9521-fe3b5603568c%2Fb00a571e037d08ba3fbb63ee66fd7bace9f2aa47c111a4c84aa3ef266ac4a544.jpg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F38e28f92-3eac-4907-99a3-c1584e608873%2Fc81177f43fcf9f88f8866ef3a2ce67a1932da96c53ad29b83fdf021a7a2f2e3c.jpg"
     },
     {
       "id": "story-global_business_tech-1",
       "category": "Global",
-      "headline": "U.S. big tech controls 85% of Canada's cloud market, report finds ahead of national AI strategy",
-      "summary": "Three American companies dominate Canada's publicly-available cloud infrastructure, according to a new report released as the federal government prepares its AI strategy — a sovereignty and competitive risk that will shape Canadian AI policy and public procurement.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/06/02/u-s-big-tech-holds-85-of-canadian-cloud-market-report-says-ahead-of-ai-strategy/",
+      "headline": "US Announces New Tariffs Over Forced Labour Concerns",
+      "summary": "Following the Supreme Court's rollback of earlier Trump tariffs, the US has announced a new wave of duties tied to forced-labour concerns — a trade-policy development with direct relevance to Canadian exporters and cross-border business planning.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F5b60dad7-b707-436c-9aa8-7a9960179a4b%2F5d3ecad52b35b83e4c0b4962022d94183df9d97e0fcf3e3e9b9f8f010024793c.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8644/live/78de3db0-5f27-11f1-9da4-8b99067aa239.jpg"
     },
     {
       "id": "story-longevity-0",
       "category": "Longevity",
-      "headline": "Online care is caught in the crossfire as states crack down on corporate medicine",
-      "summary": "STAT News investigates how growing U.S. state-level legislative scrutiny targets the corporate structures underlying most direct-to-consumer telehealth businesses, threatening access to virtual prescriptions and remote care at scale.",
+      "headline": "Top Ultra-Processed Food Researchers Call for Sweeping Policy Change",
+      "summary": "STAT News reports that leading UPF researchers — citing cross-partisan public concern — are calling for systemic policy reform, arguing regulatory inaction persists despite mounting evidence of harm to metabolic and cardiovascular health.",
       "source": "STAT News",
-      "url": "https://www.statnews.com/2026/06/02/telehealth-virtual-rx-boom-corporate-practice-of-medicine-laws/?utm_campaign=rss",
+      "url": "https://www.statnews.com/2026/06/03/ultra-processed-food-experts-want-sweeping-policy-changes/?utm_campaign=rss",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "leaf",
-      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/05/STAT26_Friendly_Physician_Fin-645x645.jpg"
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2272453215-645x645.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Canadian Pancreatic Cancer Specialist Expects to Open Trials on Pill That Doubled Survival Time",
+      "summary": "The head of pancreatic oncology at Princess Margaret Cancer Centre says clinical trials for an oral treatment that doubled survival in early research could open in Canada soon — a significant development given pancreatic cancer's historically poor prognosis.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/06/03/canadian-pancreatic-cancer-specialist-expects-to-open-clinical-trials-on-pill-that-doubled-survival-time/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F04c459e0-0091-405b-9fe5-c88f05286f4c%2F3ada2e7a3f86ac73e95179698dff71171f2b57f1af6269f0e38f67ce2f59a3ac.jpg"
     }
   ],
   "audioChapters": [
     {
       "id": "c1",
-      "title": "AI & Tech",
-      "category": "AI & Tech",
-      "duration": "3:06",
-      "startSeconds": 14
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "2:39",
+      "startSeconds": 6
     },
     {
       "id": "c2",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "2:14",
-      "startSeconds": 200
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "2:27",
+      "startSeconds": 164
     },
     {
       "id": "c3",
       "title": "Higher Education",
       "category": "Higher Ed",
-      "duration": "2:41",
-      "startSeconds": 334
+      "duration": "1:37",
+      "startSeconds": 311
     },
     {
       "id": "c4",
       "title": "Real Estate & AirBnB",
       "category": "Real Estate",
-      "duration": "1:16",
-      "startSeconds": 494
+      "duration": "1:05",
+      "startSeconds": 409
     },
     {
       "id": "c5",
       "title": "Local News",
       "category": "Local News",
-      "duration": "1:06",
-      "startSeconds": 570
+      "duration": "0:30",
+      "startSeconds": 474
     },
     {
       "id": "c6",
       "title": "Global News",
       "category": "Global",
-      "duration": "1:13",
-      "startSeconds": 636
+      "duration": "1:04",
+      "startSeconds": 504
     },
     {
       "id": "c7",
       "title": "Longevity",
       "category": "Longevity",
-      "duration": "0:40",
-      "startSeconds": 710
+      "duration": "0:45",
+      "startSeconds": 568
+    },
+    {
+      "id": "c8",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:43",
+      "startSeconds": 613
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "OpenAI's Codex is rapidly expanding beyond developers to knowledge workers",
-    "summary": "Knowledge workers now make up roughly one-fifth of Codex users and are growing three times faster than developers, as OpenAI bets agents can help office staff make sense of siloed documents and workplace data.",
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/06/02/openai-codex-knowledge-workers",
+    "headline": "Google Releases Industry Water-Use Framework Amid Data Centre Backlash",
+    "summary": "Google published five commitments on data centre water consumption — including returning more water to local watersheds than it uses by 2030 — as communities across North America push back against AI infrastructure expansion.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://images.axios.com/6grFmLLyL73cbhn_Ew3sAPFL34o=/193x0:1273x1080/320x320/2025/07/14/1752519557064.jpeg"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "Anthropic faces AI spending backlash before IPO",
-    "summary": "Anthropic filed IPO paperwork just as 40% of surveyed companies report their AI investments haven't delivered expected value — OpenAI's Sam Altman called the ROI gap \"the most fair criticism of AI so far,\" signalling a reckoning for enterprise AI adoption.",
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage",
+    "headline": "Google Must Let Publishers Opt Out of AI Search Features, Rules UK Regulator",
+    "summary": "The UK's Competition and Markets Authority has ordered Google to give website owners the right to exclude their content from AI Overviews and similar AI search features — a landmark ruling that directly affects every publisher and institution investing in organic search traffic.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://images.axios.com/14luotRVh1zsTWpuqAtdNM3sxEA=/447x0:1527x1080/320x320/2026/06/01/1780340701992.jpeg"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
   },
-  "heroImageUrl": "https://images.axios.com/14luotRVh1zsTWpuqAtdNM3sxEA=/447x0:1527x1080/320x320/2026/06/01/1780340701992.jpeg"
+  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
 }

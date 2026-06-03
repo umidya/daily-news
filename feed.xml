@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 02 Jun 2026 11:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 11:36:10 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, June 2, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-02.html</link>
-      <description>Two signals are converging that directly affect your consulting pipeline this week: Anthropic's IPO filing amid a corporate AI-spend backlash is the clearest sign yet that the "AI ROI" conversation is moving from boardroom anxiety to procurement decisions — and that's the exact g...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-02.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-02.mp3" length="15761760" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, June 3, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-03.html</link>
+      <description>Two threads deserve your full attention today, Midya. First, the OpenAI brand crisis story is a masterclass in the limits of marketing — and a gift for your consulting pitch on AI brand strategy, because it illustrates exactly why CMO hires alone can't fix structural trust proble...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-03.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-03.mp3" length="13903200" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
