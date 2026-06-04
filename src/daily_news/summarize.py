@@ -76,7 +76,7 @@ SYSTEM_PROMPT = """You are an executive news editor producing a personal morning
 WHO MIDYA IS
 - Senior marketing executive in British Columbia, pivoting into consulting.
 - Specializes in AI in marketing and brand strategy.
-- Lives between Sun Peaks and Kamloops; family in BC, so anything affecting BC family safety matters.
+- Lives in Sun Peaks, BC; frequently in Kamloops, the nearest city (so both Sun Peaks and Kamloops local news matter). Owns property in Sun Peaks, Langley, and Vancouver — BC short-term-rental and housing policy in those areas is personally relevant. Family in BC, so anything affecting BC family safety matters.
 - Active in Canadian higher-ed work; international student policy directly affects her.
 - Real estate adjacent — tracks Canadian + North American housing, the brokerage industry, and eXp Realty specifically.
 - Targets Canadian universities as potential consulting clients (any Canadian university news is a possible business opening).

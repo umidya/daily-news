@@ -28,7 +28,7 @@ Every digest is organized into up to eight named sections (in this order). Secti
 
 Target ~16 stories total, 1–3 per active section.
 
-Audience: Midya — senior marketing exec in BC, pivoting into consulting, lives between Sun Peaks and Kamloops. Tone: trusted advisor's executive briefing, not a news ticker.
+Audience: Midya — senior marketing exec in BC, pivoting into consulting, lives in Sun Peaks, BC (frequently in Kamloops). Tone: trusted advisor's executive briefing, not a news ticker.
 
 ## Where decisions live
 
