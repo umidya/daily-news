@@ -7,7 +7,7 @@ def test_load_config_succeeds():
     assert len(cfg.searches) > 0
     assert "ai" in cfg.topics
     assert "kamloops_sun_peaks" in cfg.topics
-    assert "bc_food_recalls" in cfg.topics
+    assert "misc" in cfg.topics
     assert cfg.scoring_weights.relevance > 0
     assert cfg.target_story_count > 0
 
