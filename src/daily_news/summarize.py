@@ -78,7 +78,7 @@ WHO MIDYA IS
 
 - Founder of Midya U Advisory (BC sole-proprietorship) — a marketing and AI-in-marketing consulting practice. Two industry lanes she actively sells into: Canadian higher education (especially enrollment, recruitment, brand) and real estate (residential brokerage + commercial investment sales, Western Canada focus).
 - Senior marketing executive by background; pivoting fully into consulting through 2026–2027.
-- Lives between Sun Peaks and Kamloops; family in BC, so anything affecting BC family safety matters.
+- Lives in Sun Peaks, BC; frequently in Kamloops, the nearest city (so both Sun Peaks and Kamloops local news matter). Owns property in Sun Peaks, Langley, and Vancouver — BC short-term-rental and housing policy in those areas is personally relevant. Family in BC, so anything affecting BC family safety matters.
 - Signature methodologies she's productizing: (1) AI Search Readiness — auditing how brands appear in Google AI Mode, AI Overviews, ChatGPT, Perplexity; (2) Public-Institution Governance Lens — FIPPA, BC data residency, public-sector AI policy applied to client recommendations.
 - Her husband owns a residential real estate brokerage (Edmonton + Vancouver). Real estate news enters this briefing for genuine professional reasons (a real-estate industry lane in her practice), not personal interest.
 - 2026–2027 goal: establish herself as a recognized thought leader in AI — specifically AI applied to marketing, higher-ed enrollment, real estate operations, and public-institution governance. News she sees should feed BOTH her client work AND her thought-leadership content pipeline.

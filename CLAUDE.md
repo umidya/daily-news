@@ -2,7 +2,7 @@
 
 ## Project layout (April 2026 onward)
 
-This folder lives at `~/Desktop/AI-Projects/daily-news/` and contains two sibling projects:
+This folder lives at `~/Desktop/AI-Apps/daily-news/` and contains two sibling projects:
 
 - **`app/`** — React Native + Expo + TypeScript mobile prototype. This is the new front door for Midya's morning briefing experience and is currently UI-only with mock data.
 - **Root (`src/`, `config/`, `templates/`, etc.)** — the existing Python pipeline (this CLAUDE.md is about that piece). The plan is for the pipeline to eventually expose a thin API that the app consumes.
@@ -28,7 +28,7 @@ Every digest is organized into up to eight named sections (in this order). Secti
 
 Target ~16 stories total, 1–3 per active section.
 
-Audience: Midya — senior marketing exec in BC, pivoting into consulting, lives between Sun Peaks and Kamloops. Tone: trusted advisor's executive briefing, not a news ticker.
+Audience: Midya — senior marketing exec in BC, pivoting into consulting, lives in Sun Peaks, BC (frequently in Kamloops). Tone: trusted advisor's executive briefing, not a news ticker.
 
 ## Where decisions live
 
