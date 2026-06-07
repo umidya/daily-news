@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 2,
+  "date": "Sunday, June 7, 2026",
+  "dateIso": "2026-06-07",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "12:47",
+  "currentTime": "0:00",
+  "remaining": "12 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Two threads dominate this Sunday and deserve your full attention, Midya. First, Apple's WWDC kicks off tomorrow and the Siri revamp could reshape how brands think about voice and ambient AI — directly relevant to your consulting thesis. Second, SFU just landed a historic $40M donation for its new medical school, which is a live signal that Canadian universities are in an active philanthropic and growth mode — exactly the environment where a new consulting voice gets traction.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Two threads dominate this Sunday and deserve your full attention, Midya. First, Apple's WWDC kicks off tomorrow and the Siri revamp could reshape how brands think about voice and ambient AI — directly relevant to your consulting thesis. Second, SFU just landed a historic $40M donation for its new medical school, which is a live signal that Canadian universities are in an active philanthropic and growth mode — exactly the environment where a new consulting voice gets traction. On the policy side, Canada's expanded-but-restricted work permit rules for international students are still in flux, and the BC wildfire and water restriction news is worth monitoring for your family in the Interior. The eXp Realty narrative is also quietly shifting without fresh analyst guidance, which is worth watching if you hold any position there.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-06-07.mp3",
+  "audioDurationSeconds": 767,
+  "audioScript": "Good morning, Midya. It's Sunday, June seventh, twenty twenty-six. Here's what matters today.\n\nLet's start with AI, because tomorrow is one of the biggest days in tech this year and you'll want to be ready for it. Apple's Worldwide Developers Conference kicks off Monday, and the headline act is a long-awaited overhaul of Siri — rebuilt around Apple Intelligence, Apple's on-device AI framework. Here's why this matters more than it might seem for someone in your seat: Siri has been the butt of tech jokes for years, but if Apple lands this revamp, it won't just be a better voice assistant. It will be the ambient AI layer embedded in over a billion devices, deeply integrated with apps, with purchases, with daily routines. For brand marketers and consulting strategists, that's a new surface — a new channel — that will demand its own playbook. The brands that start thinking about voice-native experiences now, before everyone else, will have the advantage. Watch Monday's keynote with that lens. What does this mean for content strategy? For search? For how customers discover and evaluate brands? Those are the questions your prospective clients at Canadian universities and elsewhere are not yet asking, but they will be. You can get ahead of that.\n\nAlso in the AI bucket this weekend: OpenAI has launched something they're calling Lockdown Mode for ChatGPT. It's a new security feature designed to protect sensitive data from prompt injection attacks — which, if you're not familiar, is a type of exploit where a bad actor sneaks instructions into content that an AI model is processing, essentially hijacking the AI's behaviour. Lockdown Mode attempts to wall off sensitive information from being exfiltrated through these attacks. OpenAI is candid that it doesn't eliminate the risk entirely, but it reduces it meaningfully. For anyone advising organisations on enterprise AI adoption — which is where your consulting practice is headed — this is the kind of feature that matters to procurement and IT security teams. When a university CIO or CMO asks you about AI risk, Lockdown Mode is a concrete answer you can point to.\n\nFinally on AI: Sriram Krishnan, the White House's senior AI policy advisor, has stepped down to found an independent institution focused on shaping US AI policy from outside government. This is more significant than a typical personnel change. It suggests that the people closest to the US AI policy machinery believe the real influence game will be fought by think tanks and quasi-independent institutions — not just the White House itself. If US AI regulation starts taking shape through that kind of structure, Canada's AI governance conversation will feel the gravitational pull. Something to watch as you think about where the policy environment is heading for your clients.\n\nOn the marketing and business side, two stories worth your attention. The Trade Desk's Chief Revenue Officer, Anders Mortensen, has exited after just seven months in the role. The Trade Desk is one of the most important players in programmatic advertising — the demand-side platform that big brands and agencies use to buy digital ad inventory at scale. A CRO departure after seven months is not a good sign. It suggests either a strategic pivot, internal conflict, or pressure from the market environment. The Trade Desk has been navigating headwinds as third-party cookie deprecation keeps reshaping targeting, and as walled gardens like Google and Meta tighten their grip. If you have clients or prospects running programmatic campaigns, this is a flag: leadership instability at a key vendor creates uncertainty. Know the landscape if this comes up in conversation.\n\nThe other marketing-adjacent business story is the Trump administration's reported discussions around taking an equity stake in OpenAI. This is unusual territory — government equity in a private AI company — and if it materialises, it creates a whole new category of risk for enterprise AI buyers. Think data sovereignty concerns, procurement complications, potential conflicts of interest if OpenAI's products are simultaneously a government asset and a commercial service. For Canadian organisations considering deep OpenAI integrations — and many Canadian universities are exploring exactly that — this is a due-diligence flag that a sharp consultant should be raising proactively. The question isn't whether to use OpenAI tools. It's what governance structures you put around them.\n\nHigher education, and this section has a genuine business signal for you today. Simon Fraser University has received the largest single donation in its history — forty million dollars — for its new School of Medicine in Surrey. That is a landmark moment for SFU. New medical schools are rare in Canada and they create cascading institutional needs: brand positioning, faculty recruitment marketing, community relations, stakeholder communications, donor engagement strategy. SFU is in active growth mode. It's building something new, from the ground up, in Surrey — a rapidly growing urban area. That kind of institutional momentum is exactly when universities need outside strategic thinking. If SFU is not already on your target client list, it should be. Even a preliminary conversation with someone in their communications or advancement office could be worthwhile. This is a live signal, not a background story.\n\nThe second higher-ed story is more complex and directly hits your international student expertise. The federal government has simultaneously expanded work permit access for some international graduates and banned one hundred and seventy-eight designated learning institution programs from eligibility. Let that tension sit for a moment. On one hand, Ottawa is saying we want skilled graduates to stay and work. On the other hand, they're saying nearly two hundred programs don't produce the kind of graduates we want to retain. That's going to create real anxiety in registrar offices and international student recruitment teams at colleges and universities across the country. Which programs made the banned list? How do institutions communicate this to prospective students? How do they reposition or reframe? These are marketing and communications challenges, and they're landing on institutions that are already stretched after years of enrolment volatility. This is squarely in your lane, Midya.\n\nA couple of real estate items worth a quick scan. On eXp Realty's parent company, eXp World Holdings: the story circulating this weekend is about how the market narrative around EXPI is evolving in the absence of fresh analyst coverage. When analysts go quiet, retail sentiment and company communications fill the vacuum. That's both a risk and, arguably, an opportunity for a company with a strong social and network-driven agent base like eXp. Nothing alarming here, but if you track the stock or have connections in the eXp ecosystem, it's worth noting the information environment right now is thinner than usual.\n\nFrom the US housing market, which functions as a useful leading indicator for Canada: weekly pending home sales jumped to just under seventy-six thousand — up from sixty-nine thousand the previous week — and purchase applications were up seven percent year-over-year, even with mortgage rates near their 2026 highs. That resilience is notable. It suggests demand is structural, not purely rate-driven. Canada's market dynamics are different, but the directional read is relevant: buyers are adjusting expectations rather than sitting out. If you're tracking the broader housing conversation for any reason — client work, family decisions, personal investment — this is useful context.\n\nA couple of local stories from your backyard. In Kamloops, the RCMP detachment commander is publicly endorsing a new app designed to divert mental health crisis calls away from police response and toward appropriate community supports. That's a meaningful public safety shift — it reflects a broader national movement to separate mental health crises from criminal justice responses, and it matters for the quality and speed of community support when someone needs help. Worth knowing about for your family and community network.\n\nAlso locally: students in SD73, the Thompson-Nicola school district, are pushing their school board for clearer AI use policies and more consistent grading standards around AI-generated work. This is striking — it's not administrators driving the conversation, it's students. Young people who are using these tools daily and experiencing the inconsistency firsthand are the ones demanding structure. This mirrors what's happening in post-secondary institutions, but the fact that it's surfacing at the K-through-12 level in your own community tells you something about how fast this is moving. It also, frankly, validates your consulting focus: if SD73 students in Kamloops are having this conversation, every institution from school boards to universities needs a coherent AI policy — and very few of them have one.\n\nTwo BC-level stories that have genuine implications for your family safety and daily life in the Interior. First: Metro Vancouver is moving to Stage 3 water restrictions starting Monday, a wildfire is burning out of control in BC's Cariboo region — which is between you and the north — and Environment Canada is forecasting a hotter and drier summer than normal for British Columbia. This is the combination that produces difficult fire seasons. If you don't already have a family emergency plan and communication protocol in place, this weekend is a good time to revisit it. Fire conditions in the Cariboo can shift quickly, and the Interior — including the Kamloops and Sun Peaks area — has experienced serious fire pressure in recent years. Take the forecast seriously.\n\nSecond: BC's 911 communication workers have issued a strike notice, and the province has brought in veteran labour mediator Vince Ready to try to avert a work stoppage. If 911 dispatch were disrupted in BC — even briefly — the impact on emergency services across the province would be significant. Ready is experienced and a deal is possible, but this is not resolved yet. It's a situation worth monitoring, especially given the fire season context.\n\nTwo stories from the American Diabetes Association's annual conference in New Orleans this weekend, both from STAT News, which is one of the strongest science journalism outlets tracking this space.\n\nFirst: Eli Lilly presented new safety and tolerability data on retatrutide, its next-generation obesity drug. Where current GLP-1 drugs like semaglutide target one hormone receptor, and tirzepatide — Lilly's existing drug — targets two, retatrutide hits three: GIP, GLP-1, and glucagon. The new data showed a manageable safety profile, which is an important milestone on the path to regulatory approval. If retatrutide clears the bar, it may outperform tirzepatide on weight loss outcomes. For anyone tracking the GLP-1 space — whether for personal health planning or understanding a market that's reshaping pharmaceutical, food, and fitness industries — retatrutide is the name to watch.\n\nSecond: Pfizer presented mid-stage data on its monthly obesity drug, which it acquired from a biotech called Metsera. The key word is monthly. Current GLP-1 medications are injected weekly. A once-monthly option would be a significant adherence advantage — it removes a major friction point for patients who struggle with the weekly routine. The data looked encouraging. Pfizer is not the leader in this space right now, but a monthly formulation, if it reaches market, could be genuinely disruptive. Both stories together paint a picture of the obesity drug market moving fast — more options, longer dosing intervals, competition intensifying. This has broad implications well beyond personal health.\n\nThat's your Sunday briefing, Midya. The week ahead is front-loaded with signal: WWDC tomorrow will set the tone for AI and platform strategy conversations for the rest of the year, and the SFU donation story is a door worth knocking on sooner rather than later. Keep an eye on the BC wildfire situation as the week develops — fire weather in the Interior can move quickly. Have a grounded, productive Sunday.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "OpenAI Launches 'Lockdown Mode' to Block Prompt Injection Attacks",
+      "summary": "OpenAI's new Lockdown Mode aims to shield sensitive data in ChatGPT from prompt injection exploits — a meaningful enterprise security step, though the company acknowledges it doesn't eliminate the risk entirely.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "What to Expect from WWDC 2026: Siri's Big Revamp and Apple Intelligence Updates",
+      "summary": "Apple's developer conference begins Monday with a long-awaited Siri overhaul and expanded Apple Intelligence features — potentially the most consequential platform shift for marketers since the App Store.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Trump's White House AI Advisor Sriram Krishnan Departs to Start New AI Policy Institution",
+      "summary": "Krishnan is leaving his senior advisory role to found an independent institution focused on shaping US AI policy, signalling continued jockeying over who controls the AI regulatory agenda in Washington.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2021-02-03-at-1.18.03-PM-1.webp?resize=1200,833"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "OpenAI Launches 'Lockdown Mode' to Block Prompt Injection Attacks",
+      "summary": "OpenAI's new Lockdown Mode aims to shield sensitive data in ChatGPT from prompt injection exploits — a meaningful enterprise security step, though the company acknowledges it doesn't eliminate the risk entirely.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "What to Expect from WWDC 2026: Siri's Big Revamp and Apple Intelligence Updates",
+      "summary": "Apple's developer conference begins Monday with a long-awaited Siri overhaul and expanded Apple Intelligence features — potentially the most consequential platform shift for marketers since the App Store.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Trump's White House AI Advisor Sriram Krishnan Departs to Start New AI Policy Institution",
+      "summary": "Krishnan is leaving his senior advisory role to found an independent institution focused on shaping US AI policy, signalling continued jockeying over who controls the AI regulatory agenda in Washington.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2021-02-03-at-1.18.03-PM-1.webp?resize=1200,833"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "The Trade Desk's Chief Revenue Officer Out After Just 7 Months",
+      "summary": "Anders Mortensen's abrupt departure from The Trade Desk — one of the dominant programmatic ad platforms — adds leadership instability at a company navigating a difficult ad-tech environment; worth watching if you have clients in performance marketing.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/exclusive-the-trade-desk-cro-anders-mortensen-out-after-7-months/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/06/anders-mortensen-ttd-exit-2026.png?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Trump Administration in Talks to Take Equity Stake in OpenAI",
+      "summary": "The White House is exploring a deal that would give the US government an ownership stake in OpenAI, a structural entanglement that could reshape how enterprise clients think about AI vendor risk and data sovereignty.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?resize=1200,800"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "SFU Medical School Receives Historic $40M Donation",
+      "summary": "Simon Fraser University's new School of Medicine secured its largest-ever gift — a $40M philanthropic donation — signalling that SFU is in an active growth and brand-building phase; potential client signal for institutional strategy or donor engagement consulting.",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdk9sR0xiUldYTDQ4b1E5TjZ5YkJMMW14REJsM0h5cGFBTWRoSHdlbHBicm11VjRPTzdmemdrTXRVTU96VllIeWE2SEJrZ29pNE1KMHg2ZDZOX1lUT2ZwWWlMTFZYQndSYThMZVJ3MXF5ZFlaME00dzBoVkdCTnBKRGl5X3BtemhPX3RaNUFuNG5qZC04QzFSNjVoeWtORjF1SGJTT3JLTzc1dV9xRS1z",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "Canada Expands Work Permits — But Bans 178 Programs",
+      "summary": "Ottawa has broadened work permit eligibility for some international graduates while simultaneously blacklisting 178 designated learning institution programs, a policy contradiction that will reshape enrolment strategy at Canadian colleges and universities.",
+      "source": "Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42TEZnTEJycE5rVmNiUElTQ0lGMEtYN29ZanNiRWRhcmdHajJGSXNWVXRHcnNpRzlKRkoyNWdqMU5Sc3FLdm15ZFlJSDEyNWwxOGVkZm5tNEpvYXYyOUpsX2tkTmw5NDZESlZIRUlGamJ1aGg1S0E",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "eXp World Holdings Narrative Shifting Without Fresh Analyst Guidance",
+      "summary": "With analyst coverage thin, EXPI's market story is being shaped more by retail sentiment and company messaging than fundamentals — a signal to watch if you track the brokerage closely.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVQ3VnRnb1BOSTVyRDJSY3hyWEdFWHJTcmNUTlZvN19tQlFZbkFMU2ZkUnJsR2REOEpURUVFejlTUjFMOVFudmlHZExHZVRFcTZlYzRFUzhpTWhnTVdKZFdiWVNYeGVxbDkzS2JObTJTTjR4N3BESkxadks5MG40V2k2M09ET2lFV1F2VUx4azJUMllBUml1M2lEOXdyVUtMSHc",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "US Housing Demand Stays Positive Despite Mortgage Rates Near 2026 Highs",
+      "summary": "Weekly pending home sales jumped to nearly 76K and purchase applications rose 7% year-over-year, suggesting demand resilience even as rates remain elevated — a useful benchmark for reading Canadian market dynamics.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/housing-demand-positive-as-mortgage-rates-near-2026-highs/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2023/11/Orange-County-Background-e1693831410978.jpg"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Kamloops RCMP Commander Praises New App as 'Game Changer' for Mental Health Crisis Response",
+      "summary": "The Kamloops RCMP detachment commander is publicly backing a new app designed to divert mental health crisis calls away from police — a notable local public-safety shift worth following given its implications for community services.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZHU4UlFYQU5EYnJfV3ZsSHZJNW1FSTItbFViaTVTT3VpRlZGdUZXVWNIYlJycW0zYlQwVEhoejk1Y3VGZHhMcmpWZEs0NHEzQmNZRGp4MTFaU0xPUUJPYjdmd2pWYjRCVFpRVHBRUzJUMmZmcUl2V2t2RW5jVFVqSlpBTnNvMDl0UU9kTlZWaFdzOEpLMHYtTjlxcF9ybURpVWp0aGJrTHRMaHBVcFNSZVVLdFlzMkZHbEltLXJpYWQ1Mkd6WERTREhrdmFsajNxdDZfdG9feU1MRGkyRVMzay1MRWlaeWpNaU1hanVZUQ",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Kamloops-Area Students Call on SD73 for Clearer AI Rules and Consistent Grading",
+      "summary": "Students in the Thompson-Nicola region are pushing their school district for coherent AI use policies — a grassroots signal that AI governance in education is now a community-level conversation, not just a post-secondary issue.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZHRUZmV2QVFYUV9jbnY0SlNMZWFkNWJueEhOU3E4NGd1OFF1RExfc1RUN2s1NFc1NUhJbEtFRWlPckRrYUNnWXo1cldqRnA2UmY0dGhLNlB6bS1jLUpSZG92SHRGM0VDalVHTFJNQ25jLXFZVXR5S29Nb0dERTZiQkFMYkdlYm5naHoxZFkyQlZveEpZaHlWMlk4TDNOV0w5WG5ZbnlRdkJaOE1rMjdUQWZrWUF4OC13cUYtb1llcDBTS1lLNnFlX3dlQ3lKOEE",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "BC Wildfire, Stage 3 Water Restrictions, and Hotter-Than-Normal Summer Forecast",
+      "summary": "Metro Vancouver moves to Stage 3 water restrictions Monday, an out-of-control wildfire is burning in BC's Cariboo region, and Environment Canada is forecasting a hotter-than-normal summer — Interior BC families should be monitoring conditions actively.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-to-june-7-26",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "BC Government Appoints Mediator as 911 Workers Issue Strike Notice",
+      "summary": "With Emergency Communications for BC workers threatening to strike, the province has brought in veteran mediator Vince Ready — a potential public-safety disruption affecting all BC communities including Kamloops and Sun Peaks.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-appoints-mediator-911-workers-issue-strike-notice",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "Eli Lilly Releases Safety Data on Retatrutide, Its Next-Gen Triple Hormone Obesity Drug",
+      "summary": "STAT News (ADA conference): Lilly's retatrutide — a triple GIP/GLP-1/glucagon agonist — showed a manageable safety and tolerability profile in new data, advancing the case for a more potent successor to tirzepatide.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/06/06/illy-retatrutide-triple-g-weight-loss-obesity-safety-data-ada/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2024/05/AdobeStock_517947710_Editorial_Use_Only-645x645.jpeg"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "Pfizer's Monthly Obesity Drug Continues to Show Promise in Mid-Stage Data",
+      "summary": "STAT News (ADA conference): Pfizer's once-monthly obesity drug (acquired from Metsera) posted encouraging mid-stage results — a monthly dosing option would be a significant adherence advantage over weekly GLP-1 injections.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/06/06/pfizer-obesity-drug-berobenatide-metsera-results/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/11/AdobeStock_324675306_Editorial_Use_Only-645x645.jpeg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "2:50",
+      "startSeconds": 6
+    },
+    {
+      "id": "c2",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:43",
+      "startSeconds": 176
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:00",
+      "startSeconds": 279
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:22",
+      "startSeconds": 398
+    },
+    {
+      "id": "c5",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:26",
+      "startSeconds": 480
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:17",
+      "startSeconds": 566
+    },
+    {
+      "id": "c7",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:39",
+      "startSeconds": 643
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "What to Expect from WWDC 2026: Siri's Big Revamp and Apple Intelligence Updates",
+    "summary": "Apple's developer conference begins Monday with a long-awaited Siri overhaul and expanded Apple Intelligence features — potentially the most consequential platform shift for marketers since the App Store.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "OpenAI Launches 'Lockdown Mode' to Block Prompt Injection Attacks",
+    "summary": "OpenAI's new Lockdown Mode aims to shield sensitive data in ChatGPT from prompt injection exploits — a meaningful enterprise security step, though the company acknowledges it doesn't eliminate the risk entirely.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798"
+  },
+  "heroImageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798"
+}
