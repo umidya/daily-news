@@ -61,6 +61,16 @@ jobs:
           python-version: "3.11"
           cache: pip
 
+      # The silent-TTS-segment guard in tts.py uses ffmpeg's volumedetect to
+      # catch the rare digitally-silent MP3 OpenAI returns (see 2026-06-03 and
+      # 2026-06-09 dead-section incidents). The guard fails OPEN when ffmpeg is
+      # absent — so we install + verify it here to guarantee the check is armed
+      # on every production run, rather than relying on the runner image.
+      - name: Ensure ffmpeg (arms the silent-audio guard)
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          ffmpeg -version | head -1
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
