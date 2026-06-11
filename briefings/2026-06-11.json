@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 2,
+  "date": "Thursday, June 11, 2026",
+  "dateIso": "2026-06-11",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "12:57",
+  "currentTime": "0:00",
+  "remaining": "12 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Two themes dominate today's briefing and both cut directly into your work. First, the international student enrolment decline across the 'Big Four' English-speaking countries is reaching a structural inflection point — paired with TRU's internal restructuring right in your backyard, this is as close to a client-signal day as you'll get. Second, the AI safety conversation is maturing fast: Google DeepMind's multi-agent risk research signals that the 'agentic AI' wave is no longer theoretical, and if you're building a consulting thesis around AI in marketing, understanding the emerging governance layer is a real differentiator.",
+  "digestReadingTime": "6 min read",
+  "whyItMatters": "Two themes dominate today's briefing and both cut directly into your work. First, the international student enrolment decline across the 'Big Four' English-speaking countries is reaching a structural inflection point — paired with TRU's internal restructuring right in your backyard, this is as close to a client-signal day as you'll get. Second, the AI safety conversation is maturing fast: Google DeepMind's multi-agent risk research signals that the 'agentic AI' wave is no longer theoretical, and if you're building a consulting thesis around AI in marketing, understanding the emerging governance layer is a real differentiator. On the real estate side, the US political backlash against data centres is worth watching for its downstream effects on commercial real estate and the AI infrastructure narrative. Locally, Sun Peaks opens for summer Saturday — and the FIFA World Cup kicks off in Vancouver this week, which has both hospitality and short-term rental implications for your properties.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-06-11.mp3",
+  "audioDurationSeconds": 777,
+  "audioScript": "Good morning, Midya. It's Thursday, June eleventh, twenty twenty-six. Today is dense with signals that matter directly to your consulting pivot, your properties, and your local community — let's get into it.\n\nLet's start where the most actionable intelligence is for you today: higher education in Canada, and specifically your backyard.\n\nThompson Rivers University is restructuring. As of this morning, TRU has announced it is merging its international student services and domestic student services divisions as part of a broader campus reorganisation. Now, on the surface this sounds administrative — a budget move, a org-chart shuffle. But read it differently. When a university collapses two major service divisions into one, especially during a period of declining enrolment, it almost always signals one or more of the following: budget pressure, leadership uncertainty, a need to reposition the institution's international recruitment narrative, or all three. TRU is Kamloops' anchor institution. You have professional relationships in this city, and you know this campus ecosystem intimately. A restructuring like this often creates white space for external consultants who can walk in with a clear-eyed view of what the brand needs, how international recruitment messaging should evolve, and how the institution's identity holds together when the internal org is shifting underneath it. If you don't already have a contact at TRU at the VP level, this is a moment to warm one up. This is not a distant client signal — this is a close one.\n\nZoom out from TRU and the picture gets bigger and more serious. A new analysis published this week confirms that international student enrolment is falling simultaneously in all four major English-language destinations: the United States, Canada, the United Kingdom, and Australia. Not one of them, not two — all four. That is not a policy blip in one country. That is a structural contraction of the global student mobility market. And it matters for your consulting work in a very specific way: Canadian universities that have spent the last decade building their financial model on international tuition revenue are now entering a period where that model is under genuine stress. That creates demand for new thinking — on domestic enrolment strategy, on brand differentiation, on alternative revenue through executive education, micro-credentials, and corporate partnerships. The institutions that will come through this well are the ones that start repositioning now, not after the next enrolment cycle delivers bad news. You are positioned to help with exactly that work.\n\nAnd to understand where Canada might be heading, glance at what's happening in the UK this week. British MPs are publicly slamming the Home Office's proposal to introduce a fully remote English language test — the so-called HOELT — for international student visa applicants. The concern from parliamentarians is that a remote, unproctored test is impossible to verify and will degrade immigration system integrity. This is the UK, not Canada, but the policy tensions are identical: governments trying to tighten immigration optics while universities desperate for tuition revenue are pulling in the opposite direction. Watch this space because IRCC in Ottawa is not immune to the same political pressures, and any shift in Canadian visa language requirements will ripple immediately through every institution you might serve.\n\nNow to AI, where today's most important story is about a risk most people aren't thinking about yet — but that Google DeepMind is spending real money to understand.\n\nDeepMind's AGI safety and alignment research director, Rohin Shah, has gone on record this week saying the company is funding dedicated research into what happens when millions of AI agents begin interacting with each other at scale. Not agents interacting with humans — agents interacting with other agents, autonomously, often following instructions passed between them without any human in the loop. Shah describes this as a genuinely new category of risk. The concern is emergent behaviour: complex, unintended system dynamics that arise not from any single agent behaving badly, but from the collective interaction of millions of agents each doing what they were told. Think of it less like a rogue AI and more like a market crash — no single actor caused it, but the system as a whole produced a catastrophic outcome.\n\nWhy does this matter to you specifically? Because you are building a consulting practice in AI and marketing, and the professional landscape you're entering is moving very fast toward agentic AI deployment — automated marketing pipelines, AI-driven personalisation engines, autonomous campaign optimisation. Your clients will be asking you whether they should deploy these systems. Having a substantive point of view on AI agent governance — on where the human oversight checkpoints need to be, on what risk frameworks look like for agentic marketing systems — is going to differentiate you from consultants who are just reselling AI hype. DeepMind's concern is real, and being the person in the room who can name it and frame it thoughtfully is valuable.\n\nOn a different AI front, Congress is starting to push back on data centres. A new bill from a Republican congressman in Pennsylvania would give local municipalities the right to reject data centre construction applications without being sued, and would require developers to file binding community benefit agreements as a condition of federal support. This is interesting for a couple of reasons. First, it signals that the AI infrastructure buildout is hitting political friction at the local level — communities are pushing back on noise, power consumption, and water use. Second, it is a Republican leading this charge, which means this is not simply a partisan story. The backlash is broad. For you, the downstream implication is that the cost of AI compute infrastructure may rise if siting becomes harder, and that the AI-as-unlimited-resource narrative your clients may be operating under needs a more grounded reality check.\n\nAnd quickly: Deezer has opened its AI music detection technology to other streaming platforms, offering to scan playlists on Spotify, Apple Music, and others to flag AI-generated tracks. The labelling ecosystem for AI-generated content is beginning to take shape across creative industries. Marketing is not far behind — the question of how to label, disclose, and govern AI-generated brand content is coming at your clients fast, and having a policy recommendation ready is worth developing.\n\nIn marketing and business, two stories worth your time this morning.\n\nMarketing Dive published a sharp op-ed from Alison Steinlauf Anziska, the CMO of Edmunds, arguing that the root cause of most brand underperformance is not bad strategy — it is broken organisational structure. Great marketers get hired into systems that cannot execute. The insight is not new, but the framing is useful: strategy without structural reform is theatre. If you are walking into consulting engagements at Canadian universities or mid-market brands, this is a diagnostic frame that will land well in a first conversation. Clients almost always think they have a strategy problem when they actually have a structure and accountability problem. Leading with that distinction early creates credibility.\n\nAlso in marketing: Jelly Belly, now owned by Ferrara after its 2023 acquisition, has launched a brand repositioning campaign targeting what they're calling social epicureans — people who eat for experience and social context rather than pure indulgence. The campaign is called Bean Appetit. It is a textbook post-acquisition repositioning play: new ownership needs to justify brand equity, reintroduce the product to lapsed consumers, and find a contemporary consumption occasion. Worth keeping in your swipe file as a case study if you're advising on brand repositioning work.\n\nBriefly on real estate and your properties: the FIFA World Cup kicks off in Vancouver this Saturday, with seven matches at BC Place running through July seventh. That is a concentrated four-week window of international tourism into a city where you own property. Short-term rental demand in Vancouver during this period is going to be elevated — if you have any flexibility in your booking calendar, this is the window to review it. The tournament also serves as a useful stress-test of BC's short-term rental regulatory environment: enforcement patterns during major events sometimes surface new enforcement postures that weren't visible during quieter periods. Worth watching.\n\nLocally, Sun Peaks Resort opens its summer season this Saturday. Lift-access mountain biking and hiking return this weekend, which means the resort transitions from shoulder season into summer operations. For your Sun Peaks property, this is the practical start of summer rental activity. If you haven't done your summer changeover review — amenities, listing updates, pricing calibration relative to summer demand — Saturday is your trigger date. The summer mountain biking scene at Sun Peaks has grown meaningfully over the past few years, and the guest profile shifts from winter skiers to a younger, more active demographic. If your listing isn't reflecting that, it should be.\n\nTwo global stories deserve your attention this morning.\n\nFirst: the US Foreign Intelligence Surveillance Act's most critical provision — Section 702, which the intelligence community says feeds more than half of the president's daily intelligence briefing — is at risk of lapsing this Friday. This is not a partisan story; members of both parties are sounding alarms. The lapse would create legal uncertainty for telecommunications companies and could disrupt intelligence-sharing frameworks that allies, including Canada, depend on. The proximate cause is a political fight over who controls the Office of the Director of National Intelligence, after a messy and reportedly abrupt transition. This is a structural dysfunction story, not just a Washington drama — the interconnection of US intelligence infrastructure with Canadian and allied security postures means this is worth monitoring.\n\nSecond: China has nearly doubled its nuclear reactor fleet since 2016, reaching close to sixty gigawatts of capacity, while the United States has built just two reactors in the same period. This is worth understanding not just as an energy story but as an AI infrastructure story. Nuclear power is increasingly the answer that serious AI infrastructure builders — including Microsoft, Google, and Amazon — are converging on for stable, carbon-reduced baseload power. China's lead in operational reactor capacity gives it a structural advantage in building the next generation of AI compute clusters without the power-grid constraints that are already slowing US data centre expansion. It is a long-game geopolitical technology story, and the gap is widening.\n\nFinally, one story in the miscellaneous category that is worth a moment, particularly given that you have family in BC.\n\nSTAT News published an opinion piece today arguing that Long Covid has effectively gone underground — not because the condition has resolved, but because scientific disagreement over its underlying mechanisms made it politically erasable, and federal research funding in the US has now largely dried up. The author, Steven Phillips, makes the case that millions of people are still living with post-viral chronic illness, but without a coherent scientific narrative, advocacy has fragmented and funding has collapsed. For you and your family, the practical implication is that if anyone in your circle is navigating persistent post-COVID symptoms, they are increasingly doing so without institutional support structures — and the clinical guidance available to their physicians is not improving as fast as it was two years ago. It is worth being aware of.\n\nThat is your Thursday briefing, Midya. The through-line today is disruption creating opportunity: TRU restructuring in your backyard, enrolment contracting across the entire English-speaking higher-ed world, and AI governance conversations finally getting serious. The consultants who will win in this environment are the ones who show up with a coherent point of view before the client knows they need one. You are closer to that position than you might think. Make it a productive day.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Google DeepMind Warns of Emergent Risks as Millions of AI Agents Begin Interacting",
+      "summary": "DeepMind is funding safety research into what happens when millions of autonomous AI agents — following instructions from other agents, without human oversight — interact at scale, a risk its alignment research director calls genuinely new territory.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Congress Moves to Give Communities Veto Power Over AI Data Centres",
+      "summary": "New federal legislation would let municipalities reject data-centre applications without fear of legal retaliation and require developers to sign binding community-benefit agreements — a direct check on the AI infrastructure buildout.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/11/data-centers-ai-congress-bresnahan-bill",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/XYq_J5BeeQCvZRT0IjmLrG_mq24=/1080x1080/smart/2025/05/27/173016-1748367016678.gif"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Deezer Launches AI Music Detector for Rival Streaming Platforms",
+      "summary": "Deezer is opening its AI-generated music detection technology to Spotify, Apple, and others, marking an early industry move toward mandatory AI-content labelling on mainstream platforms.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&amp;strip=all&amp;crop=3.7903225806452,0,92.41935483871,100"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Google DeepMind Warns of Emergent Risks as Millions of AI Agents Begin Interacting",
+      "summary": "DeepMind is funding safety research into what happens when millions of autonomous AI agents — following instructions from other agents, without human oversight — interact at scale, a risk its alignment research director calls genuinely new territory.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Congress Moves to Give Communities Veto Power Over AI Data Centres",
+      "summary": "New federal legislation would let municipalities reject data-centre applications without fear of legal retaliation and require developers to sign binding community-benefit agreements — a direct check on the AI infrastructure buildout.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/11/data-centers-ai-congress-bresnahan-bill",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/XYq_J5BeeQCvZRT0IjmLrG_mq24=/1080x1080/smart/2025/05/27/173016-1748367016678.gif"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Deezer Launches AI Music Detector for Rival Streaming Platforms",
+      "summary": "Deezer is opening its AI-generated music detection technology to Spotify, Apple, and others, marking an early industry move toward mandatory AI-content labelling on mainstream platforms.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&amp;strip=all&amp;crop=3.7903225806452,0,92.41935483871,100"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "The Real Problem Holding Brands Back Isn't Strategy — It's Organisational Structure",
+      "summary": "Edmunds CMO Alison Steinlauf Anziska argues that most marketing failures stem from great talent deployed inside broken systems, not from flawed strategy — a sharp diagnosis with direct implications for consulting engagements.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/the-problem-for-brands-isnt-their-marketing-strategy-its-their-structur/821400/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/zYuqVYIQtCMQDJNMLimijvn0KyiS9Rj8eoCjzf7e4Ew/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzA4MzkxNTY3XzEuanBn.webp"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Jelly Belly Repositions for 'Social Epicureans' After Ferrara Acquisition",
+      "summary": "The 'Bean Appetit' campaign attempts to reintroduce Jelly Belly to a new consumption occasion — a textbook post-acquisition brand repositioning worth tracking as a case study.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/how-jelly-belly-is-repositioning-its-brand-for-social-epicureans/822169/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/oeaPDoFfoum_2MJyFe7Z6XynnI4t7zrvCb0x77VUwnk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KZWxseV9CZWxseV9Ucm9waWNhbF9QYXJhZGlzZV8xLmpwZw==.webp"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "TRU Merges International and Student Services Amid Broader Campus Restructuring",
+      "summary": "Thompson Rivers University is consolidating its international and domestic student services divisions as part of a wider reorganisation — a structural shift at Midya's local institution that signals leadership instability and potential appetite for external consulting support.",
+      "source": "Google News: Thompson Rivers University",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHlPQ2FncnZzUDhRUUpMTnowNU5iUTdtNTJkVHEyWC1zbWRfa2FEelUtV3BqS1Nsb01LelNsZkRRT0tENkpjNFdLZWVBX2h1RzFONXJFRlY2a0lNMVpxa3Q3aWNPUUNtYXFDaEt4NlkweC13MG83SktseEFDYk1Ta0FrSGptWmR5TVhfd1l3M0hua2czdHhGTXFXaTd6V2VwN0JYZ1RSY2xZRkhKd3lDX2tuZlRsRjJLWFJobUE4amlmMk0wSG9qUlJqOWMydzk3MXc",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "International Student Enrolment Falls Across All Four Major English-Speaking Destinations Including Canada",
+      "summary": "A new University Herald analysis confirms that the US, Canada, UK, and Australia are all recording declining international student enrolment simultaneously — a structural market contraction, not a single-country policy blip, with serious revenue implications for Canadian institutions.",
+      "source": "Google News: Canadian colleges enrolment",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTlJFWmsxYXZQajVyWU9PSnNaYVVxNHNrUDM1cHJHTVgwbHVtYlRPY2xGUTNEV2dud05HRHNUeWpVcFM4MWtLMkJfbzFOTlhGNnd3MldmYVZIMGoweGo3QVdaeWxiekczRkhDLUVkdWlHNG9wYVczaEZvTVN4X1hJMWhTcmRMLWQycjFmY244Y1ZCZlk0NHkxOEw2R0dMSEVTU2JsNHBKNG9nOEtvdTVFdl9BOFBCdjh3QTRramlqdjZNMTJHajF0eVNyOU1PblRMZTFOMkxqOHNRQ2FqZjBSMA",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-2",
+      "category": "Higher Ed",
+      "headline": "UK MPs Slam Home Office's Proposed Remote English Language Test for International Students",
+      "summary": "British parliamentarians warn that the fully remote HOELT exam undermines immigration integrity and could accelerate the visa-compliance erosion already hitting UK higher ed — a cautionary tale for Canadian policymakers watching the same enrolment pressures.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/mps-slam-hoelt-as-debate-over-international-students-continues/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2025/12/iStock-1286513661-1.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "FIFA World Cup Kicks Off in Vancouver — Seven Matches at BC Place Through July 7",
+      "summary": "Vancouver hosts seven World Cup games starting June 13, a concentrated short-term tourism surge that is directly relevant to Sun Peaks and Vancouver short-term rental property performance over the next four weeks.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/06/11/a-snapshot-look-at-the-seven-world-cup-games-to-be-played-at-vancouvers-bc-place/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F02b9a05a-6ea1-4585-b1d3-bd7015690655%2Fb203f2b763240f7ece12b1b8f0fc0dadb0d009297d25df3cd79b2b3cf214ec49.jpg"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Sun Peaks Opens Summer Season Saturday with Lift-Access Biking and Hiking",
+      "summary": "Sun Peaks Resort launches its summer operations this Saturday, with lift-accessed mountain biking and hiking returning — directly relevant to property activity, rental demand, and community traffic at Sun Peaks.",
+      "source": "Google News: Sun Peaks",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3h6SlJvcWIwRS1PNWNoNnhJemZ1bVNLczBOMm5XeWRSU0FPSWl2S2tOTlB3NzEwZ0EyMWV2UnY4NDl2b1JrdjQtNFhsaHZISWZta1VQVk5waE1ERDlUYXZlQXpxQV9CbUpRNGt6VHFaR3lPOW9kenB2SEhnbFNlWTVRaUF0cUk0bF9QRFpZZGlvR2QyY0cxMmxIWkJ2N2hNMTVIYmhNY2xNc1R3Q25TZUgxeXhGZ0ZqN0tVS0tUckhhTkY1VVRId21Ed042UFpS",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Section 702 Spy Authority Faces Unprecedented Lapse Friday as Washington Dysfunction Deepens",
+      "summary": "The US Foreign Intelligence Surveillance Act's most powerful provision — which feeds more than half of the president's daily intelligence briefing and underpins telecom-sector legal frameworks — risks expiring Friday amid a leadership crisis at the Office of the Director of National Intelligence.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/11/fisa-reauthorization-bill-pulte-trump-johnson",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/Vfr2c371iYdEydD937VrT2G_eJo=/390x0:1470x1080/320x320/2019/09/14/1568421200780.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "China Has Nearly Doubled Its Nuclear Fleet Since 2016 While the US Built Just Two Reactors",
+      "summary": "China now operates close to 60 gigawatts of nuclear capacity and continues building at scale, widening a strategic energy and AI-infrastructure gap with the United States that has direct implications for global tech competition.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/AP25249306493046.jpg?resize=1200,600"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Long Covid Research Has Gone Underground as Federal Funding Evaporates — STAT News Opinion",
+      "summary": "STAT News opinion argues that scientific stalemate on Long Covid's mechanisms made it politically erasable, and federal research funding has now effectively dried up — relevant for anyone with family members managing post-viral conditions.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/06/11/long-covid-research-federal-funding-stalemate-trump/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2020/03/49534370233_a8f379728e_3k-645x645.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "3:22",
+      "startSeconds": 13
+    },
+    {
+      "id": "c2",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:18",
+      "startSeconds": 214
+    },
+    {
+      "id": "c3",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:26",
+      "startSeconds": 412
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "0:42",
+      "startSeconds": 498
+    },
+    {
+      "id": "c5",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "0:42",
+      "startSeconds": 540
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:44",
+      "startSeconds": 582
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "1:01",
+      "startSeconds": 686
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Congress Moves to Give Communities Veto Power Over AI Data Centres",
+    "summary": "New federal legislation would let municipalities reject data-centre applications without fear of legal retaliation and require developers to sign binding community-benefit agreements — a direct check on the AI infrastructure buildout.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/11/data-centers-ai-congress-bresnahan-bill",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/XYq_J5BeeQCvZRT0IjmLrG_mq24=/1080x1080/smart/2025/05/27/173016-1748367016678.gif"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Google DeepMind Warns of Emergent Risks as Millions of AI Agents Begin Interacting",
+    "summary": "DeepMind is funding safety research into what happens when millions of autonomous AI agents — following instructions from other agents, without human oversight — interact at scale, a risk its alignment research director calls genuinely new territory.",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600"
+  },
+  "heroImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600"
+}

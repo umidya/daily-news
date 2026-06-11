@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 10 Jun 2026 11:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 11:36:42 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, June 10, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-10.html</link>
-      <description>Two converging forces deserve your full attention this morning, Midya. The Bank of Canada is announcing its rate decision today — a hold is expected, but the framing around 'economic turbulence' matters for your Sun Peaks, Langley, and Vancouver properties, and for any real estat...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-10.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-10.mp3" length="14894880" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, June 11, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-11.html</link>
+      <description>Two themes dominate today's briefing and both cut directly into your work. First, the international student enrolment decline across the 'Big Four' English-speaking countries is reaching a structural inflection point — paired with TRU's internal restructuring right in your backya...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-11.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-11.mp3" length="15548160" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
