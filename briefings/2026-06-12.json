@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 2,
+  "date": "Friday, June 12, 2026",
+  "dateIso": "2026-06-12",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "11:39",
+  "currentTime": "0:00",
+  "remaining": "11 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's most actionable thread for you runs through AI and higher ed simultaneously: Nature Medicine just published that general-purpose frontier LLMs are outperforming specialised clinical AI tools — a finding that directly reinforces your positioning as an AI-in-marketing consultant who argues for capability breadth over narrow tools. On the higher-ed side, the UK ELT enrollment decline and the US African student visa crackdown are reshaping global student flows in ways Canadian institutions haven't fully absorbed yet, and that's a consulting conversation waiting to happen. SpaceX's $75B raise and Stagwell's new agentic targeting system are both signals of where capital and platform power are concentrating — worth tracking as you build your practice narrative.",
+  "digestReadingTime": "7 min read",
+  "whyItMatters": "Today's most actionable thread for you runs through AI and higher ed simultaneously: Nature Medicine just published that general-purpose frontier LLMs are outperforming specialised clinical AI tools — a finding that directly reinforces your positioning as an AI-in-marketing consultant who argues for capability breadth over narrow tools. On the higher-ed side, the UK ELT enrollment decline and the US African student visa crackdown are reshaping global student flows in ways Canadian institutions haven't fully absorbed yet, and that's a consulting conversation waiting to happen. SpaceX's $75B raise and Stagwell's new agentic targeting system are both signals of where capital and platform power are concentrating — worth tracking as you build your practice narrative. Closer to home, Canada opens World Cup play today and PM Carney is in Paris ahead of the G7, so the national mood is unusually buoyant heading into the weekend.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-06-12.mp3",
+  "audioDurationSeconds": 699,
+  "audioScript": "Good morning, Midya. It's Friday, June 12th, 2026. Canada kicks off its first home-soil World Cup match today, a Nature Medicine trial just changed how we think about depression treatment, and a story out of Nature Medicine that will directly sharpen your AI consulting pitch dropped overnight — let's get into it.\n\nLet's lead with AI, because the most important story this morning isn't a product launch or a funding round — it's a piece of research that should go directly into your consulting toolkit.\n\nNature Medicine — one of the most rigorous journals in biomedical science — published an independent evaluation this week finding that general-purpose frontier large language models, think GPT-class models, outperformed purpose-built specialised clinical AI tools on medical knowledge benchmarks, clinician alignment, and real-world clinical queries. Now, you might wonder why a clinical AI finding matters to a marketing consultant. Here's why it matters enormously: this is peer-reviewed, high-credibility evidence for the argument you're already making, which is that broad, capable, general-purpose AI often outperforms narrow, vertically-specialised tools — even in high-stakes expert domains. When a university CMO or VP of enrolment tells you they're considering buying a specialised AI tool built just for higher-ed marketing, you now have a Nature Medicine citation to support the case that they might get better performance from a well-prompted frontier model plus your strategic guidance. That's a powerful positioning move. File this one.\n\nOn the product side, Apple's Craig Federighi gave an interview this week confirming that the rebuilt Siri is being deliberately designed to avoid sycophancy. His framing was direct: OpenAI's ChatGPT and Google's Gemini optimise for engagement, which tends to produce flattering, agreeable, over-validating responses. Apple is engineering the opposite — a system that knows when to shut up and won't tell you what you want to hear. This is a significant design philosophy divergence, and as someone who thinks hard about how AI shapes brand voice and consumer relationships, it's worth watching. The implicit argument Apple is making is that trust, not engagement, is the long-term competitive moat. That framing has real resonance in a consulting context — clients who are deploying AI in customer-facing channels need to be asking whether their AI is optimising for truth or for dopamine.\n\nAnd speaking of applied AI in marketing — Stagwell's new Agentic Targeting System went live this week with GSTV, the gas-station video network, and Conagra Brands — maker of Slim Jim — as its first advertiser. Agentic AI in media buying means the system is not just recommending placements; it's making and executing targeting decisions autonomously within defined parameters. This is the next frontier past programmatic. It's still early and the use case here is fairly narrow — out-of-home video at gas stations — but the fact that a major holding company and a major CPG brand have a live deployment is the signal. Agentic marketing systems are moving from demo to production. If you're not already building a point of view on what this means for marketing org design, now is the moment.\n\nStaying in the marketing vein for a moment — there's a worthwhile brand strategy story in the L'Oréal Paris partnership with the new Legally Blonde prequel series called Elle. What makes this notable isn't the sponsorship itself; brand tie-ins with streaming content are not new. What's interesting is the structure: L'Oréal didn't just buy a logo placement or a product integration. They helped shape the narrative of the show itself, and they're running a parallel social campaign that mirrors the show's content aesthetics. Brand as co-creator, not just co-sponsor. This is a model that several premium consumer brands are moving toward, and it's worth having language for it when you're advising clients on content partnership strategy. The consumer doesn't experience it as advertising; they experience it as lore.\n\nOn the macro business side, SpaceX's $75 billion raise ahead of what could be the largest stock market launch in history is worth flagging — not because space is directly relevant to your work, but because of what it signals about where capital is concentrating. A single private company commanding sovereign-fund-scale investment, with a founder who already controls major social media infrastructure and satellite internet, represents a platform consolidation dynamic that will shape ad markets, data access, and tech talent pipelines for years. When Elon Musk potentially becomes the world's first trillionaire through this IPO, that's not just a financial milestone — it's a structural fact about power in the technology ecosystem that every senior leader should have in their peripheral vision.\n\nNow let's spend real time on higher education, because there are four stories today and together they paint a coherent picture of an industry in transition — which is exactly the environment where consulting engagements get funded.\n\nFirst, the UK's English-language teaching sector posted declining enrolments through Q1 2026. The important nuance in the ICEF Monitor report is the comparative framing: the UK's decline was more moderate than Canada's and Australia's. So Canada has taken a harder hit in ELT enrolment than its closest competitors. That's a painful fact for institutions, but it also means there's a genuine strategic need — institutions that lost international language learners are actively looking for ways to rebuild those pipelines, and a consultant with a clear framework for doing that in the current regulatory environment is relevant right now.\n\nSecond, and this one is significant: the Trump administration is closing more than half of all US visa processing centres in Africa. This isn't a marginal policy tweak — it is a structural dismantling of the pathway for African students to study in the United States. Combined with the other immigration restrictions the US has rolled out over the past year, it means that a generation of high-achieving African students who would historically have aimed at American universities is being redirected. Canada is the obvious alternative destination. But — and this is the strategic gap — Canadian institutions have not historically invested deeply in African recruitment infrastructure. The window to be early is right now. If you have any Canadian university clients or prospects, this is a conversation starter worth bringing up proactively: do you have a West Africa, East Africa, or Southern Africa recruitment strategy? Because you should.\n\nThird, Languages Canada is actively lobbying Ottawa for a carved-out language training pilot program that would sit outside the federal study permit cap. This is a live policy development. If that carve-out succeeds, it would create a meaningful volume opportunity specifically for institutions running English and French language programs — and would require rapid marketing and recruitment strategy work to capitalise on it. Worth monitoring closely.\n\nFourth, Atlantic Canada's universities published an opinion piece making a public case that they are underutilised as regional workforce development engines. Read this through a business development lens: when university leaders or their allies start publishing op-eds about their institution's unmet potential, they're signalling a strategic identity crisis and an openness to external input. Atlantic Canadian universities — Dalhousie, Acadia, St. FX, Cape Breton, UPEI, Mount Allison — are all navigating enrolment pressure and the national conversation about university relevance. Any one of them could be a consulting client. The op-ed is a door ajar.\n\nTwo global stories worth a moment of attention. The UK economy contracted in April, and official data now shows the Iran conflict is beginning to generate measurable drag on British businesses. This matters because the Iran war — whatever its direct military dimensions — is starting to produce the kind of diffuse economic effects that ripple through supply chains, energy prices, and business confidence well beyond the immediate region. As a senior leader building a consulting practice, macro instability is worth tracking because it shapes client budget cycles and risk appetite.\n\nAnd PM Mark Carney is in Paris today meeting with Emmanuel Macron ahead of next week's G7 summit. This is Carney's first major multilateral diplomatic test as Prime Minister, and the Canada-France bilateral is particularly interesting because both countries are navigating similar tensions — asserting economic sovereignty while maintaining transatlantic alignment. The G7 will set tone on trade, AI governance, and global development investment, all of which have downstream implications for Canadian universities, Canadian tech policy, and the consulting landscape.\n\nOne longevity story today, and it's a genuinely interesting one from Nature Medicine. A randomised placebo-controlled trial of pramipexole — a dopamine agonist already approved for Parkinson's and restless legs — found it significantly reduced anhedonia in patients with major depressive disorder, dysthymia, and bipolar depression. Anhedonia is the inability to experience pleasure, and it's one of the symptoms that conventional antidepressants address least effectively. The mechanism here is different from SSRIs: rather than boosting serotonin, pramipexole works through dopamine pathways, targeting the reward system more directly. This is a meaningful finding for anyone managing mood-related health — it points toward a future where depression treatment gets more targeted and less one-size-fits-all. Worth a conversation with your doctor if this resonates.\n\nTwo things in the miscellaneous bucket that are genuinely worth knowing.\n\nFirst — and this one is just a good moment — Canada plays its first-ever home-soil FIFA World Cup match this afternoon in Toronto against Bosnia-Herzegovina. Alanis Morissette and Michael Bublé are headlining the opening ceremony. Whatever your relationship to soccer, this is a generational moment for Canadian sport and national identity. The energy in the country today is real and worth being present for.\n\nSecond, a local story with a nice arc: a Langley, BC company has been named among three firms awarded a federal contract to map Canada's strategic role in lunar exploration. Langley is, of course, directly relevant to you — and there's something satisfying about a company from your corner of BC being tapped for work that is, quite literally, out of this world. Canada's space sector has been quietly maturing, and this contract is a signal of that.\n\nThat's your Friday briefing, Midya. The throughline today is strategic opportunity hiding inside disruption — African students being pushed away from the US, Canadian ELT enrolment down, Atlantic universities looking for a new story to tell. Each of those is a door, and you're well-positioned to walk through them. Enjoy the World Cup opener this afternoon — Canada's first home match is something worth pausing for. Have a strong finish to the week.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "General-purpose LLMs beat specialised clinical AI on medical benchmarks — Nature Medicine",
+      "summary": "A Nature Medicine independent evaluation found frontier general-purpose LLMs outperformed purpose-built clinical AI tools on medical knowledge, clinician alignment, and real-world queries — a powerful data point for the \"broad AI beats narrow AI\" argument in any vertical, including marketing.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04431-5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04431-5/MediaObjects/41591_2026_4431_Fig1_HTML.png"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Apple's new Siri is designed to avoid sycophancy — by deliberate choice",
+      "summary": "Craig Federighi confirmed Siri's rebuilt AI will actively resist the flattering, over-agreeable behaviour seen in ChatGPT and Gemini, positioning Apple's assistant around trust and restraint rather than engagement maximisation.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0.17391304347827%2C0%2C99.652173913043%2C100&amp;w=1200"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "GSTV deploys Stagwell's agentic targeting system with Conagra as first advertiser",
+      "summary": "Stagwell's Agentic Targeting System is now live in campaign planning for gas-station video network GSTV, with Slim Jim maker Conagra as the launch partner — a concrete early example of agentic AI running real media-buying decisions autonomously.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/how-gstv-steps-up-audience-targeting-with-stagwells-agentic-system/822396/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://imgproxy.divecdn.com/6cqMlD2yIG7C-d-7P92SFsQGp_QykEpInGBrutVlOz8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNjEwX1NsaW1fSmltX1ByZXNzX0ltYWdlX1YyX2NvcHlfR1NUVl9fRlJBTUVfUGhvdG9ncmFwaGljcy5qcGc=.webp"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "General-purpose LLMs beat specialised clinical AI on medical benchmarks — Nature Medicine",
+      "summary": "A Nature Medicine independent evaluation found frontier general-purpose LLMs outperformed purpose-built clinical AI tools on medical knowledge, clinician alignment, and real-world queries — a powerful data point for the \"broad AI beats narrow AI\" argument in any vertical, including marketing.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04431-5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04431-5/MediaObjects/41591_2026_4431_Fig1_HTML.png"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Apple's new Siri is designed to avoid sycophancy — by deliberate choice",
+      "summary": "Craig Federighi confirmed Siri's rebuilt AI will actively resist the flattering, over-agreeable behaviour seen in ChatGPT and Gemini, positioning Apple's assistant around trust and restraint rather than engagement maximisation.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0.17391304347827%2C0%2C99.652173913043%2C100&amp;w=1200"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "GSTV deploys Stagwell's agentic targeting system with Conagra as first advertiser",
+      "summary": "Stagwell's Agentic Targeting System is now live in campaign planning for gas-station video network GSTV, with Slim Jim maker Conagra as the launch partner — a concrete early example of agentic AI running real media-buying decisions autonomously.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/how-gstv-steps-up-audience-targeting-with-stagwells-agentic-system/822396/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://imgproxy.divecdn.com/6cqMlD2yIG7C-d-7P92SFsQGp_QykEpInGBrutVlOz8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNjEwX1NsaW1fSmltX1ByZXNzX0ltYWdlX1YyX2NvcHlfR1NUVl9fRlJBTUVfUGhvdG9ncmFwaGljcy5qcGc=.webp"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "L'Oréal Paris co-creates content strategy inside the new 'Legally Blonde' prequel 'Elle'",
+      "summary": "Rather than sponsoring around the show, L'Oréal Paris shaped the \"Elle\" prequel's narrative itself and is running a parallel social campaign — a maturing model of brand-as-co-creator that moves well beyond traditional entertainment sponsorship.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/loreal-paris-helps-shape-legally-blonde-origin-story-in-streaming-tie-up/822611/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/-eOly1XC_2t8Drg-QEPHbpCWHfwFVYkAcuwzZgs87AE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGxlX0ZpbmFsX0ltYWdlLmpwZw==.webp"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "SpaceX raises $75B ahead of what could be the world's largest stock market launch",
+      "summary": "The raise — which may make Elon Musk the first trillionaire — signals that private space and deep-tech are now commanding sovereign-fund-scale capital, with downstream effects on tech talent, ad spend, and platform consolidation.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3735/live/52638200-663c-11f1-b9fb-a3131f00d96e.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "UK ELT sector posts declining enrolments through Q1 2026 — but Canada's and Australia's fell harder",
+      "summary": "English UK data shows the UK's English-language teaching sector contracted in 2025 and into Q1 2026, though Canada's and Australia's ELT declines were steeper — a useful competitive benchmark as Canadian institutions recalibrate international recruitment strategies.",
+      "source": "ICEF Monitor",
+      "url": "https://monitor.icef.com/2026/06/uks-elt-sector-reports-declining-enrolments-through-first-quarter-of-2026/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/06/james-giddins-ufnZ3kJwgSo-unsplash-1200.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "US cuts African visa processing centres by more than half, further deterring African students",
+      "summary": "The Trump administration is closing the majority of US visa processing sites in Africa and adding new cost and bureaucratic barriers, a structural shift that should push more African students to consider Canada — if Canadian institutions move quickly to recruit them.",
+      "source": "ICEF Monitor",
+      "url": "https://monitor.icef.com/2026/06/us-visa-processing-centres-in-africa-to-be-reduced-by-more-than-half-only-the-latest-barrier-for-african-students/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/06/james-wiseman-IebZAH6kaNw-unsplash-1200.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "Languages Canada lobbying Ottawa for sector support and a language-training pilot exemption from the federal cap",
+      "summary": "The national language-training association is pressing the federal government for a carved-out pilot program under Canada's study permit cap, which would be a material policy win for institutions running English and French language programs.",
+      "source": "StudyTravel Network",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1idEVVV1JkNFh5eGhtS1BNdFR0NjRNeldwVkxMSjNTUXo1ejZhUDdrdng4cU9vS1BjeWtjajlBS2wtczlxQ19PWWUxYkZDd2tPaVNFM0U4dEgwdjc3blE?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-3",
+      "category": "Higher Ed",
+      "headline": "Atlantic Canada's universities make public case for their role in future-proofing regional workforces",
+      "summary": "An opinion piece in PNI Atlantic News argues Atlantic Canadian universities are under-leveraged as workforce development engines — a public framing that signals institutions in the region are actively seeking external partners and strategies; potential client signal for consulting outreach.",
+      "source": "Google News: Canadian universities",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRXpvOTFJZDdBa1pKREh2Tjc3am5lSjZYU0xyR1dBNEwtX1BHdEhkSXBOYi0tN2pWTXJaUTBQNnNveEN3Q1RXbUIzVTl5bmxZZVUtMTlmWG1mZWgxbk5jWi1PcTZzcndPb0RkQUctb24tQTZkcl9qeERBTk9BZnNIelM0Sl9nb1FNc1dQSXhTWmJUV2J6T0tJVk1VS3hBX2F1dUtDUkNuNDJvaFNNMW5tMklKTVFPUU80MU9MMXZ6aDdOS1Bw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "UK economy contracts in April as Iran war begins hitting businesses",
+      "summary": "Official UK data shows GDP shrank slightly in April, with the Iran conflict starting to generate measurable drag on business activity — a reminder that Middle East instability is now producing direct Western economic effects.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce7/live/edd669e0-657f-11f1-9f01-693d064aea27.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "PM Carney in Paris for bilateral with Macron ahead of G7 summit",
+      "summary": "Mark Carney is meeting Emmanuel Macron in Paris ahead of next week's G7, with Canada-France alignment on trade and global governance expected to be central — the first major multilateral test of Carney's foreign policy posture.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/06/12/pm-carney-in-paris-to-meet-with-french-president-ahead-of-g7-summit/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fbed6fafe-2fb5-4351-a704-00aeccd1a4f5%2F2f683dd5a37f41d4179df8ca25070b5a050f8226e4f91ad660e296e1c353803e.jpg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "Nature Medicine RCT: Dopamine agonist pramipexole significantly reduces anhedonia in depression",
+      "summary": "Nature Medicine randomised controlled trial: pramipexole meaningfully reduced anhedonia (inability to feel pleasure) versus placebo across major depressive disorder, dysthymia, and bipolar depression — opening a potential new pharmacological pathway for a symptom that most antidepressants address poorly.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04465-9",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04465-9/MediaObjects/41591_2026_4465_Fig1_HTML.png"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Canada plays its first-ever home-soil FIFA World Cup match today against Bosnia-Herzegovina",
+      "summary": "Canada kicks off the 2026 FIFA World Cup in Toronto this afternoon — its first home-soil World Cup game ever — with Alanis Morissette and Michael Bublé headlining the opening ceremony.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/06/12/canada-set-for-world-cup-opener-against-bosnia-herzegovina-on-home-soil/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F87864db6-799d-47dd-919d-acbcdba7000e%2F902a0b9c7dd4c394a9eb7bc2a40c9fb9fae6a6a4e2649c9ecbf9b85965dc8a0c.jpg"
+    },
+    {
+      "id": "story-misc-1",
+      "category": "Misc",
+      "headline": "BC firm in Langley named among three companies contracted to chart Canada's role in lunar exploration",
+      "summary": "A Langley, BC company — in Midya's own backyard — has won a federal contract to map Canada's strategic role in lunar exploration, a notable local tech story with national science implications.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/06/12/b-c-firm-over-the-moon-about-contract-to-chart-canadas-role-in-lunar-exploration/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F0bd6cd0c-0f01-41f1-b6f8-6168c6836230%2F10c42860efb31c9bd7430e4e8429d11de67b561ca387185ad3d22205afdd0f7f.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:02",
+      "startSeconds": 21
+    },
+    {
+      "id": "c2",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:40",
+      "startSeconds": 203
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "3:04",
+      "startSeconds": 303
+    },
+    {
+      "id": "c4",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:13",
+      "startSeconds": 487
+    },
+    {
+      "id": "c5",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "0:54",
+      "startSeconds": 560
+    },
+    {
+      "id": "c6",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:58",
+      "startSeconds": 614
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Apple's new Siri is designed to avoid sycophancy — by deliberate choice",
+    "summary": "Craig Federighi confirmed Siri's rebuilt AI will actively resist the flattering, over-agreeable behaviour seen in ChatGPT and Gemini, positioning Apple's assistant around trust and restraint rather than engagement maximisation.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0.17391304347827%2C0%2C99.652173913043%2C100&amp;w=1200"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "General-purpose LLMs beat specialised clinical AI on medical benchmarks — Nature Medicine",
+    "summary": "A Nature Medicine independent evaluation found frontier general-purpose LLMs outperformed purpose-built clinical AI tools on medical knowledge, clinician alignment, and real-world queries — a powerful data point for the \"broad AI beats narrow AI\" argument in any vertical, including marketing.",
+    "source": "Nature Medicine",
+    "url": "https://www.nature.com/articles/s41591-026-04431-5",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04431-5/MediaObjects/41591_2026_4431_Fig1_HTML.png"
+  },
+  "heroImageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04431-5/MediaObjects/41591_2026_4431_Fig1_HTML.png"
+}

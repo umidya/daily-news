@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 11 Jun 2026 11:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 11:36:05 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, June 11, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-11.html</link>
-      <description>Two themes dominate today's briefing and both cut directly into your work. First, the international student enrolment decline across the 'Big Four' English-speaking countries is reaching a structural inflection point — paired with TRU's internal restructuring right in your backya...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-11.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-11.mp3" length="15548160" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, June 12, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-12.html</link>
+      <description>Today's most actionable thread for you runs through AI and higher ed simultaneously: Nature Medicine just published that general-purpose frontier LLMs are outperforming specialised clinical AI tools — a finding that directly reinforces your positioning as an AI-in-marketing consu...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-12.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-12.mp3" length="13998240" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
