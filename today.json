@@ -1,222 +1,228 @@
 {
   "schemaVersion": 2,
-  "date": "Friday, June 12, 2026",
-  "dateIso": "2026-06-12",
+  "date": "Saturday, June 13, 2026",
+  "dateIso": "2026-06-13",
   "greeting": "Good morning, Midya",
-  "totalDuration": "11:39",
+  "totalDuration": "14:16",
   "currentTime": "0:00",
-  "remaining": "11 min total",
+  "remaining": "14 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today's most actionable thread for you runs through AI and higher ed simultaneously: Nature Medicine just published that general-purpose frontier LLMs are outperforming specialised clinical AI tools — a finding that directly reinforces your positioning as an AI-in-marketing consultant who argues for capability breadth over narrow tools. On the higher-ed side, the UK ELT enrollment decline and the US African student visa crackdown are reshaping global student flows in ways Canadian institutions haven't fully absorbed yet, and that's a consulting conversation waiting to happen. SpaceX's $75B raise and Stagwell's new agentic targeting system are both signals of where capital and platform power are concentrating — worth tracking as you build your practice narrative.",
-  "digestReadingTime": "7 min read",
-  "whyItMatters": "Today's most actionable thread for you runs through AI and higher ed simultaneously: Nature Medicine just published that general-purpose frontier LLMs are outperforming specialised clinical AI tools — a finding that directly reinforces your positioning as an AI-in-marketing consultant who argues for capability breadth over narrow tools. On the higher-ed side, the UK ELT enrollment decline and the US African student visa crackdown are reshaping global student flows in ways Canadian institutions haven't fully absorbed yet, and that's a consulting conversation waiting to happen. SpaceX's $75B raise and Stagwell's new agentic targeting system are both signals of where capital and platform power are concentrating — worth tracking as you build your practice narrative. Closer to home, Canada opens World Cup play today and PM Carney is in Paris ahead of the G7, so the national mood is unusually buoyant heading into the weekend.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-06-12.mp3",
-  "audioDurationSeconds": 699,
-  "audioScript": "Good morning, Midya. It's Friday, June 12th, 2026. Canada kicks off its first home-soil World Cup match today, a Nature Medicine trial just changed how we think about depression treatment, and a story out of Nature Medicine that will directly sharpen your AI consulting pitch dropped overnight — let's get into it.\n\nLet's lead with AI, because the most important story this morning isn't a product launch or a funding round — it's a piece of research that should go directly into your consulting toolkit.\n\nNature Medicine — one of the most rigorous journals in biomedical science — published an independent evaluation this week finding that general-purpose frontier large language models, think GPT-class models, outperformed purpose-built specialised clinical AI tools on medical knowledge benchmarks, clinician alignment, and real-world clinical queries. Now, you might wonder why a clinical AI finding matters to a marketing consultant. Here's why it matters enormously: this is peer-reviewed, high-credibility evidence for the argument you're already making, which is that broad, capable, general-purpose AI often outperforms narrow, vertically-specialised tools — even in high-stakes expert domains. When a university CMO or VP of enrolment tells you they're considering buying a specialised AI tool built just for higher-ed marketing, you now have a Nature Medicine citation to support the case that they might get better performance from a well-prompted frontier model plus your strategic guidance. That's a powerful positioning move. File this one.\n\nOn the product side, Apple's Craig Federighi gave an interview this week confirming that the rebuilt Siri is being deliberately designed to avoid sycophancy. His framing was direct: OpenAI's ChatGPT and Google's Gemini optimise for engagement, which tends to produce flattering, agreeable, over-validating responses. Apple is engineering the opposite — a system that knows when to shut up and won't tell you what you want to hear. This is a significant design philosophy divergence, and as someone who thinks hard about how AI shapes brand voice and consumer relationships, it's worth watching. The implicit argument Apple is making is that trust, not engagement, is the long-term competitive moat. That framing has real resonance in a consulting context — clients who are deploying AI in customer-facing channels need to be asking whether their AI is optimising for truth or for dopamine.\n\nAnd speaking of applied AI in marketing — Stagwell's new Agentic Targeting System went live this week with GSTV, the gas-station video network, and Conagra Brands — maker of Slim Jim — as its first advertiser. Agentic AI in media buying means the system is not just recommending placements; it's making and executing targeting decisions autonomously within defined parameters. This is the next frontier past programmatic. It's still early and the use case here is fairly narrow — out-of-home video at gas stations — but the fact that a major holding company and a major CPG brand have a live deployment is the signal. Agentic marketing systems are moving from demo to production. If you're not already building a point of view on what this means for marketing org design, now is the moment.\n\nStaying in the marketing vein for a moment — there's a worthwhile brand strategy story in the L'Oréal Paris partnership with the new Legally Blonde prequel series called Elle. What makes this notable isn't the sponsorship itself; brand tie-ins with streaming content are not new. What's interesting is the structure: L'Oréal didn't just buy a logo placement or a product integration. They helped shape the narrative of the show itself, and they're running a parallel social campaign that mirrors the show's content aesthetics. Brand as co-creator, not just co-sponsor. This is a model that several premium consumer brands are moving toward, and it's worth having language for it when you're advising clients on content partnership strategy. The consumer doesn't experience it as advertising; they experience it as lore.\n\nOn the macro business side, SpaceX's $75 billion raise ahead of what could be the largest stock market launch in history is worth flagging — not because space is directly relevant to your work, but because of what it signals about where capital is concentrating. A single private company commanding sovereign-fund-scale investment, with a founder who already controls major social media infrastructure and satellite internet, represents a platform consolidation dynamic that will shape ad markets, data access, and tech talent pipelines for years. When Elon Musk potentially becomes the world's first trillionaire through this IPO, that's not just a financial milestone — it's a structural fact about power in the technology ecosystem that every senior leader should have in their peripheral vision.\n\nNow let's spend real time on higher education, because there are four stories today and together they paint a coherent picture of an industry in transition — which is exactly the environment where consulting engagements get funded.\n\nFirst, the UK's English-language teaching sector posted declining enrolments through Q1 2026. The important nuance in the ICEF Monitor report is the comparative framing: the UK's decline was more moderate than Canada's and Australia's. So Canada has taken a harder hit in ELT enrolment than its closest competitors. That's a painful fact for institutions, but it also means there's a genuine strategic need — institutions that lost international language learners are actively looking for ways to rebuild those pipelines, and a consultant with a clear framework for doing that in the current regulatory environment is relevant right now.\n\nSecond, and this one is significant: the Trump administration is closing more than half of all US visa processing centres in Africa. This isn't a marginal policy tweak — it is a structural dismantling of the pathway for African students to study in the United States. Combined with the other immigration restrictions the US has rolled out over the past year, it means that a generation of high-achieving African students who would historically have aimed at American universities is being redirected. Canada is the obvious alternative destination. But — and this is the strategic gap — Canadian institutions have not historically invested deeply in African recruitment infrastructure. The window to be early is right now. If you have any Canadian university clients or prospects, this is a conversation starter worth bringing up proactively: do you have a West Africa, East Africa, or Southern Africa recruitment strategy? Because you should.\n\nThird, Languages Canada is actively lobbying Ottawa for a carved-out language training pilot program that would sit outside the federal study permit cap. This is a live policy development. If that carve-out succeeds, it would create a meaningful volume opportunity specifically for institutions running English and French language programs — and would require rapid marketing and recruitment strategy work to capitalise on it. Worth monitoring closely.\n\nFourth, Atlantic Canada's universities published an opinion piece making a public case that they are underutilised as regional workforce development engines. Read this through a business development lens: when university leaders or their allies start publishing op-eds about their institution's unmet potential, they're signalling a strategic identity crisis and an openness to external input. Atlantic Canadian universities — Dalhousie, Acadia, St. FX, Cape Breton, UPEI, Mount Allison — are all navigating enrolment pressure and the national conversation about university relevance. Any one of them could be a consulting client. The op-ed is a door ajar.\n\nTwo global stories worth a moment of attention. The UK economy contracted in April, and official data now shows the Iran conflict is beginning to generate measurable drag on British businesses. This matters because the Iran war — whatever its direct military dimensions — is starting to produce the kind of diffuse economic effects that ripple through supply chains, energy prices, and business confidence well beyond the immediate region. As a senior leader building a consulting practice, macro instability is worth tracking because it shapes client budget cycles and risk appetite.\n\nAnd PM Mark Carney is in Paris today meeting with Emmanuel Macron ahead of next week's G7 summit. This is Carney's first major multilateral diplomatic test as Prime Minister, and the Canada-France bilateral is particularly interesting because both countries are navigating similar tensions — asserting economic sovereignty while maintaining transatlantic alignment. The G7 will set tone on trade, AI governance, and global development investment, all of which have downstream implications for Canadian universities, Canadian tech policy, and the consulting landscape.\n\nOne longevity story today, and it's a genuinely interesting one from Nature Medicine. A randomised placebo-controlled trial of pramipexole — a dopamine agonist already approved for Parkinson's and restless legs — found it significantly reduced anhedonia in patients with major depressive disorder, dysthymia, and bipolar depression. Anhedonia is the inability to experience pleasure, and it's one of the symptoms that conventional antidepressants address least effectively. The mechanism here is different from SSRIs: rather than boosting serotonin, pramipexole works through dopamine pathways, targeting the reward system more directly. This is a meaningful finding for anyone managing mood-related health — it points toward a future where depression treatment gets more targeted and less one-size-fits-all. Worth a conversation with your doctor if this resonates.\n\nTwo things in the miscellaneous bucket that are genuinely worth knowing.\n\nFirst — and this one is just a good moment — Canada plays its first-ever home-soil FIFA World Cup match this afternoon in Toronto against Bosnia-Herzegovina. Alanis Morissette and Michael Bublé are headlining the opening ceremony. Whatever your relationship to soccer, this is a generational moment for Canadian sport and national identity. The energy in the country today is real and worth being present for.\n\nSecond, a local story with a nice arc: a Langley, BC company has been named among three firms awarded a federal contract to map Canada's strategic role in lunar exploration. Langley is, of course, directly relevant to you — and there's something satisfying about a company from your corner of BC being tapped for work that is, quite literally, out of this world. Canada's space sector has been quietly maturing, and this contract is a signal of that.\n\nThat's your Friday briefing, Midya. The throughline today is strategic opportunity hiding inside disruption — African students being pushed away from the US, Canadian ELT enrolment down, Atlantic universities looking for a new story to tell. Each of those is a door, and you're well-positioned to walk through them. Enjoy the World Cup opener this afternoon — Canada's first home match is something worth pausing for. Have a strong finish to the week.",
+  "digestIntro": "Two stories this weekend demand your full attention, Midya. The Trump administration's decision to block foreign access to Anthropic's most powerful AI models — and simultaneously blacklist those models from US government use — is a watershed moment in AI geopolitics that will reshape how Canadian institutions and consultants think about AI vendor risk. Closer to home, Manitoba has quietly eliminated the direct PR pathway for international student graduates, piling onto a trend that is eroding Canada's competitive position in global talent recruitment and directly shrinking the pipeline your higher-ed clients depend on.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Two stories this weekend demand your full attention, Midya. The Trump administration's decision to block foreign access to Anthropic's most powerful AI models — and simultaneously blacklist those models from US government use — is a watershed moment in AI geopolitics that will reshape how Canadian institutions and consultants think about AI vendor risk. Closer to home, Manitoba has quietly eliminated the direct PR pathway for international student graduates, piling onto a trend that is eroding Canada's competitive position in global talent recruitment and directly shrinking the pipeline your higher-ed clients depend on. Sun Peaks has a healthcare access story unfolding that affects your community directly. And with the FIFA World Cup now live in Vancouver and Kamloops buzzing with watch parties, there's genuine civic energy in your backyard worth noting as a community signal.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-06-13.mp3",
+  "audioDurationSeconds": 856,
+  "audioScript": "Good morning, Midya. It's Saturday, June thirteenth, twenty twenty-six. A lot moved overnight that touches your work, your community, and your property — let's get into it.\n\nLet's lead with the AI story, because this one is genuinely consequential and it's going to define conversations in your space for weeks.\n\nThe Trump administration has effectively placed Anthropic in an impossible position. Commerce Secretary Howard Lutnick sent a letter to Anthropic CEO Dario Amodei this week declaring that the company's two most advanced models — Mythos 5 and Fable 5 — are now subject to a national-security licensing regime that bars foreign governments, companies, and individuals from accessing them. Simultaneously, a Pentagon blacklist has deemed those same models too dangerous for US government use. So Anthropic now finds itself banned both ways: too risky for Washington's own agencies, and too risky to share with the world.\n\nAnthropics's public response is worth paying attention to. The company pushed back hard, writing that a \"narrow potential jailbreak\" is not sufficient grounds to recall a commercial model that's deployed to hundreds of millions of people. That's a reasonable argument — but it may not matter in a geopolitical environment where AI capability is being treated as a strategic weapon equivalent to semiconductor export controls.\n\nWhy does this matter for you specifically? First, any Canadian university, consulting client, or marketing organisation that has built workflows on Anthropic's frontier models now has a vendor-risk problem. If those models are subject to US national-security controls, Canadian institutions need to be asking whether continued reliance on them creates compliance exposure or operational fragility. That's a real advisory conversation you can be having right now. Second, this accelerates the argument for sovereign AI infrastructure — Canadian AI alternatives, or at minimum, diversified model portfolios that don't concentrate risk in one American provider. If you're positioning yourself as an AI strategy consultant, the \"don't put all your eggs in one US-model basket\" message just got much easier to make.\n\nThe second AI story this morning is almost as telling, and it's about what happens when you scale AI teams without culture. Meta's AI division — which employs six thousand, five hundred people — is being described internally as a soul-crushing environment on the verge of revolt, according to a new report. Engineers feel trapped, work feels directionless, and the division's youth, just months old, has apparently not translated into the focused energy leadership hoped for. This is a cautionary tale that applies far beyond Meta. Organisations rushing to build AI teams — and Canadian universities are absolutely doing this — risk exactly this failure mode: headcount without purpose, tools without strategy, urgency without direction. That's precisely the gap where a consultant with real strategic grounding can add value. The antidote to what's happening inside Meta isn't more engineers. It's leadership that knows what it's actually trying to accomplish.\n\nThere's a third AI thread worth a brief mention this morning. The Verge's coverage of Tribeca 2026 makes an important distinction: the AI projects generating genuine creative excitement are not the ones built on general-purpose consumer models. They're bespoke collaborations between studios and AI labs — custom tools built for specific creative contexts. For your AI-in-marketing practice, this is a useful frame. Clients who think AI transformation means buying a ChatGPT subscription are going to be disappointed. The organisations doing interesting work are building purpose-built applications. That's where the consulting opportunity lives.\n\nMoving to higher education, and there are three stories today that collectively paint a concerning picture for Canadian universities — which, as your primary target consulting market, means you should be reading this as a business-intelligence briefing.\n\nStart with the domestic one. Policy Options published an analysis this week on how Canadian universities are being forced to rethink student assessment because of AI. Exams, essays, take-home assignments, oral components — the entire assessment architecture that universities have relied on for decades is now under pressure. And here's the thing: there is no sector-wide consensus on what comes next. Some institutions are banning AI tools outright. Others are leaning into them. Most are somewhere in the middle, making ad-hoc decisions at the faculty level with no coherent institutional strategy. If you needed a cleaner description of a consulting need, I'm not sure you'd find one. Any Canadian university grappling with this — and that's all of them — has a legitimate reason to bring in outside expertise that sits at the intersection of AI fluency and institutional strategy. That description fits you. This is a story worth clipping and using as a conversation-opener with prospective clients.\n\nThe second story has bigger structural implications. Manitoba has eliminated its direct permanent-residence pathway for international student graduates. This was a provincial nominee stream that allowed graduates to transition to PR without jumping through the same hoops as the general immigration queue. It's gone. This follows a pattern we've been tracking — federal study permit caps, PGWP restrictions, and now provincial streams closing off. From an enrolment-strategy perspective, this is serious. International students have been choosing Canada in part because of the post-study immigration pathway. Remove that pathway, and Canada becomes a less attractive destination relative to Australia, the UK, or Germany — all of which are actively competing for the same students. Universities that haven't yet updated their international student recruitment messaging to account for this new reality are operating on an outdated pitch. Again — that's an advisory conversation.\n\nThe third story comes from south of the border but affects Canada directly. A US federal judge has overturned Trump administration policies that had barred travel-ban nationals from receiving decisions on visa changes, OPT authorisation, green cards, and work permits. This is partial good news for affected students — but the legal instability itself is the signal. When US immigration policy swings this dramatically, Canadian universities have a brief window to position themselves as the stable, welcoming alternative. Whether they're actually seizing that window with sharp, differentiated marketing is a different question — and probably not one many of them can answer well without help.\n\nOn the marketing and business front, two stories worth your time this morning.\n\nGoogle and Walmart Connect have announced an integration that lets brands running YouTube ad campaigns see direct sales-lift data from Walmart's customer base. This is a retail media measurement story, but it's bigger than it sounds. The long-standing critique of upper-funnel digital advertising — especially YouTube — has been that it's difficult to connect impressions to actual purchase behaviour. This integration starts to close that loop, at least for brands selling through Walmart. For Canadian marketers, the direct application is limited since this is a US-specific Walmart program. But the direction of travel matters: the era of accepting brand awareness metrics at face value is ending, and clients are increasingly going to expect closed-loop attribution. If you're advising brands or institutions on their digital marketing strategy, the bar for measurement rigour is rising. Worth staying ahead of.\n\nThe second business story is a bit more speculative but conceptually interesting. Andrew Yang — yes, the former presidential candidate — is now arguing that the next big startup opportunity is in lowering the cost of living. He's identified housing, food, and wireless as sectors where Americans dramatically overpay, and believes AI-enabled startups could give that money back to consumers. This isn't a direct action item for you, but it's a useful lens on where AI optimism is heading outside the enterprise software space. Consumer-facing AI applications that tangibly reduce household costs could reshape behaviour in ways that affect everything from real estate demand to retail to higher education affordability. Worth keeping in your peripheral vision.\n\nA couple of real estate and local economy stories to note.\n\nA new US report finds the housing bidding war era is effectively over. Buyer leverage has returned — sellers are conceding on price, accepting conditions, and waiting longer for offers. Now, the Canadian market has its own dynamics, but US trends have historically been leading indicators for Canadian urban markets, particularly Vancouver. If you're thinking about when to list your Langley or Vancouver properties, this is a data point — not a directive, but a signal worth factoring into your timing. Softer buyer competition, even if it arrives here with a lag, changes the calculus.\n\nCloser to home, Metro Vancouver outside workers are planning a full strike starting Monday. All non-essential regional district outside workers will walk off the job after contract talks stalled. This has the potential to affect regional services across the Lower Mainland — anything from parks to waste management to certain infrastructure maintenance. If you have tenants or properties that rely on those services, it's worth a heads-up. This one is developing, so worth checking again Sunday evening.\n\nLocal news from your community, and one of these stories is genuinely consequential for Sun Peaks residents.\n\nThe Sun Peaks mayor is hoping that a newly constituted health association board will help reopen the community's shuttered medical clinic. This isn't just inconvenient — a remote mountain community without a functioning clinic means residents are driving to Kamloops for basic medical care, which in an emergency is a serious problem. The mayor's framing suggests the path forward is governance-driven, not funding-driven, which at least means there's something actionable to work with. If you're a year-round Sun Peaks resident or property owner, this is a story to follow closely. A functioning clinic matters both for quality of life and for property values — it's a basic amenity that prospective buyers notice.\n\nIn Kamloops proper, city council has approved a housing agreement for the Columbia Precinct rental project. This is incremental but directionally important — Kamloops has been under rental supply pressure, and any new purpose-built rental stock is a market signal. Council also approved a housing agreement, which typically ties affordability conditions to the development. The Red Bridge story is also active — Kamloops residents are pushing hard for a full replacement rather than repairs, and community pressure appears to be building ahead of a council decision. Infrastructure in mid-sized BC cities tends to get underfunded until it becomes a headline issue; this one seems to be arriving at that moment.\n\nOn a lighter note, hundreds of Kamloops residents turned out at Riverside Park for World Cup watch parties this week. It's the first home World Cup, Vancouver opened tournament play last night, and the energy in BC is real. If you're in Kamloops over the next few weeks, expect the city to feel a bit more alive than usual. The FIFA World Cup being hosted in Vancouver is actually a meaningful civic moment — the kind of collective energy that shapes how cities and their residents feel about themselves for a season.\n\nTwo global stories worth your awareness as a senior leader.\n\nTrump told Israeli Prime Minister Netanyahu this week that he expects to sign a deal with Iran within days, and Netanyahu apparently did not take the news well. Netanyahu had gone to war alongside Trump expecting that military pressure might produce regime change in Tehran. Instead, a negotiated deal appears imminent. This is consequential for Middle East stability, energy markets, and the broader geopolitical alignment that shapes everything from inflation to trade. The deal isn't signed yet, and there's no guarantee it holds — but the signal that Washington is actively seeking an off-ramp from Middle East conflict is significant.\n\nAlso on the global immigration front: Canada has suspended thirty-six thousand permanent residence applications under Ebola-related health screening measures. This is an extraordinary number and represents a significant administrative backlog. For international students and workers who are in that queue, the uncertainty is deeply frustrating. For Canadian institutions that depend on those transitions completing cleanly — universities, employers, housing markets — the backlog creates cascading uncertainty. It also raises a legitimate policy question: are Canada's health screening protocols proportionate to actual risk, or are they creating unnecessary friction at a time when the country needs to be competing hard for global talent?\n\nThat's your Saturday briefing, Midya. The Anthropic story is the one I'd sit with longest — the US government treating frontier AI as a controlled export is a structural shift that will ripple into Canadian institutions, consulting conversations, and vendor decisions for months. Paired with the Manitoba PR pathway closure, you're looking at a week where both the AI landscape and the international student landscape moved in ways that directly affect your positioning. Stay close to both. Have a good weekend, and enjoy the World Cup energy if you're anywhere near a screen tonight.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "General-purpose LLMs beat specialised clinical AI on medical benchmarks — Nature Medicine",
-      "summary": "A Nature Medicine independent evaluation found frontier general-purpose LLMs outperformed purpose-built clinical AI tools on medical knowledge, clinician alignment, and real-world queries — a powerful data point for the \"broad AI beats narrow AI\" argument in any vertical, including marketing.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04431-5",
+      "headline": "Trump admin blocks foreign access to Anthropic's most powerful AI — and bars it from US government use",
+      "summary": "Commerce Secretary Lutnick sent a letter restricting foreign access to Anthropic's Mythos 5 and Fable 5 models under national-security licensing, while a Pentagon blacklist simultaneously bars government use — leaving Anthropic caught between safety credibility and commercial reach.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04431-5/MediaObjects/41591_2026_4431_Fig1_HTML.png"
+      "imageUrl": "https://images.axios.com/vxPk5seOo-K6i7YpxqhF1UMliM0=/1008x0:3676x2668/320x320/2026/06/12/1781303854434.jpeg"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Apple's new Siri is designed to avoid sycophancy — by deliberate choice",
-      "summary": "Craig Federighi confirmed Siri's rebuilt AI will actively resist the flattering, over-agreeable behaviour seen in ChatGPT and Gemini, positioning Apple's assistant around trust and restraint rather than engagement maximisation.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "headline": "Anthropic fires back, calling the jailbreak finding insufficient grounds to recall a widely deployed model",
+      "summary": "Anthropic publicly disagreed with the government's rationale, arguing a \"narrow potential jailbreak\" doesn't justify pulling commercial models used by hundreds of millions — a sign the AI safety-vs-access tension is now playing out in regulatory brinkmanship.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0.17391304347827%2C0%2C99.652173913043%2C100&amp;w=1200"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024"
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "GSTV deploys Stagwell's agentic targeting system with Conagra as first advertiser",
-      "summary": "Stagwell's Agentic Targeting System is now live in campaign planning for gas-station video network GSTV, with Slim Jim maker Conagra as the launch partner — a concrete early example of agentic AI running real media-buying decisions autonomously.",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/how-gstv-steps-up-audience-targeting-with-stagwells-agentic-system/822396/",
+      "headline": "Meta's AI unit described as a 'soul-crushing gulag' by engineers — with 6,500 staff reportedly near revolt",
+      "summary": "Internal reporting reveals deep dysfunction inside Meta's AI division, signalling that scale alone doesn't produce AI culture — a cautionary data point for any organisation building an AI practice.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://imgproxy.divecdn.com/6cqMlD2yIG7C-d-7P92SFsQGp_QykEpInGBrutVlOz8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNjEwX1NsaW1fSmltX1ByZXNzX0ltYWdlX1YyX2NvcHlfR1NUVl9fRlJBTUVfUGhvdG9ncmFwaGljcy5qcGc=.webp"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "General-purpose LLMs beat specialised clinical AI on medical benchmarks — Nature Medicine",
-      "summary": "A Nature Medicine independent evaluation found frontier general-purpose LLMs outperformed purpose-built clinical AI tools on medical knowledge, clinician alignment, and real-world queries — a powerful data point for the \"broad AI beats narrow AI\" argument in any vertical, including marketing.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04431-5",
+      "headline": "Trump admin blocks foreign access to Anthropic's most powerful AI — and bars it from US government use",
+      "summary": "Commerce Secretary Lutnick sent a letter restricting foreign access to Anthropic's Mythos 5 and Fable 5 models under national-security licensing, while a Pentagon blacklist simultaneously bars government use — leaving Anthropic caught between safety credibility and commercial reach.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04431-5/MediaObjects/41591_2026_4431_Fig1_HTML.png"
+      "imageUrl": "https://images.axios.com/vxPk5seOo-K6i7YpxqhF1UMliM0=/1008x0:3676x2668/320x320/2026/06/12/1781303854434.jpeg"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Apple's new Siri is designed to avoid sycophancy — by deliberate choice",
-      "summary": "Craig Federighi confirmed Siri's rebuilt AI will actively resist the flattering, over-agreeable behaviour seen in ChatGPT and Gemini, positioning Apple's assistant around trust and restraint rather than engagement maximisation.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "headline": "Anthropic fires back, calling the jailbreak finding insufficient grounds to recall a widely deployed model",
+      "summary": "Anthropic publicly disagreed with the government's rationale, arguing a \"narrow potential jailbreak\" doesn't justify pulling commercial models used by hundreds of millions — a sign the AI safety-vs-access tension is now playing out in regulatory brinkmanship.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0.17391304347827%2C0%2C99.652173913043%2C100&amp;w=1200"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024"
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "GSTV deploys Stagwell's agentic targeting system with Conagra as first advertiser",
-      "summary": "Stagwell's Agentic Targeting System is now live in campaign planning for gas-station video network GSTV, with Slim Jim maker Conagra as the launch partner — a concrete early example of agentic AI running real media-buying decisions autonomously.",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/how-gstv-steps-up-audience-targeting-with-stagwells-agentic-system/822396/",
+      "headline": "Meta's AI unit described as a 'soul-crushing gulag' by engineers — with 6,500 staff reportedly near revolt",
+      "summary": "Internal reporting reveals deep dysfunction inside Meta's AI division, signalling that scale alone doesn't produce AI culture — a cautionary data point for any organisation building an AI practice.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://imgproxy.divecdn.com/6cqMlD2yIG7C-d-7P92SFsQGp_QykEpInGBrutVlOz8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNjEwX1NsaW1fSmltX1ByZXNzX0ltYWdlX1YyX2NvcHlfR1NUVl9fRlJBTUVfUGhvdG9ncmFwaGljcy5qcGc=.webp"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "L'Oréal Paris co-creates content strategy inside the new 'Legally Blonde' prequel 'Elle'",
-      "summary": "Rather than sponsoring around the show, L'Oréal Paris shaped the \"Elle\" prequel's narrative itself and is running a parallel social campaign — a maturing model of brand-as-co-creator that moves well beyond traditional entertainment sponsorship.",
+      "headline": "Google enlists Walmart Connect to close the YouTube-to-purchase attribution gap",
+      "summary": "Brands running YouTube campaigns can now see direct sales-lift data from Walmart's customer base, a meaningful leap in retail media measurement that changes the ROI conversation for mid-to-large advertisers.",
       "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/loreal-paris-helps-shape-legally-blonde-origin-story-in-streaming-tie-up/822611/",
+      "url": "https://www.marketingdive.com/news/sociable-google-enlists-walmart-connect-to-enhance-youtube-ad-insights/822769/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://imgproxy.divecdn.com/-eOly1XC_2t8Drg-QEPHbpCWHfwFVYkAcuwzZgs87AE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbGxlX0ZpbmFsX0ltYWdlLmpwZw==.webp"
+      "imageUrl": "https://imgproxy.divecdn.com/wciCL72Ptd7hFH0aVGzsZRS7Ky5CHffsOIG2P4pRKOA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nb29nbGVfd2FsbWFydF9jb25uZWN0LnBuZw==.webp"
     },
     {
       "id": "story-marketing-1",
       "category": "Marketing",
-      "headline": "SpaceX raises $75B ahead of what could be the world's largest stock market launch",
-      "summary": "The raise — which may make Elon Musk the first trillionaire — signals that private space and deep-tech are now commanding sovereign-fund-scale capital, with downstream effects on tech talent, ad spend, and platform consolidation.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
+      "headline": "The future of Hollywood AI isn't vanilla generative models — it's custom, purpose-built tools",
+      "summary": "Tribeca 2026 showcased that consumer-grade gen AI video still can't produce work people will pay for, and the real creative breakthroughs are coming from bespoke collaborations between studios and AI labs like Google DeepMind and OpenAI — a distinction that matters for any AI-in-marketing pitch.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3735/live/52638200-663c-11f1-b9fb-a3131f00d96e.jpg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200"
     },
     {
-      "id": "story-intl_students_canada-0",
+      "id": "story-higher_ed_canada-0",
       "category": "Higher Ed",
-      "headline": "UK ELT sector posts declining enrolments through Q1 2026 — but Canada's and Australia's fell harder",
-      "summary": "English UK data shows the UK's English-language teaching sector contracted in 2025 and into Q1 2026, though Canada's and Australia's ELT declines were steeper — a useful competitive benchmark as Canadian institutions recalibrate international recruitment strategies.",
-      "source": "ICEF Monitor",
-      "url": "https://monitor.icef.com/2026/06/uks-elt-sector-reports-declining-enrolments-through-first-quarter-of-2026/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/06/james-giddins-ufnZ3kJwgSo-unsplash-1200.jpg"
-    },
-    {
-      "id": "story-intl_students_canada-1",
-      "category": "Higher Ed",
-      "headline": "US cuts African visa processing centres by more than half, further deterring African students",
-      "summary": "The Trump administration is closing the majority of US visa processing sites in Africa and adding new cost and bureaucratic barriers, a structural shift that should push more African students to consider Canada — if Canadian institutions move quickly to recruit them.",
-      "source": "ICEF Monitor",
-      "url": "https://monitor.icef.com/2026/06/us-visa-processing-centres-in-africa-to-be-reduced-by-more-than-half-only-the-latest-barrier-for-african-students/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/06/james-wiseman-IebZAH6kaNw-unsplash-1200.jpg"
-    },
-    {
-      "id": "story-intl_students_canada-2",
-      "category": "Higher Ed",
-      "headline": "Languages Canada lobbying Ottawa for sector support and a language-training pilot exemption from the federal cap",
-      "summary": "The national language-training association is pressing the federal government for a carved-out pilot program under Canada's study permit cap, which would be a material policy win for institutions running English and French language programs.",
-      "source": "StudyTravel Network",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1idEVVV1JkNFh5eGhtS1BNdFR0NjRNeldwVkxMSjNTUXo1ejZhUDdrdng4cU9vS1BjeWtjajlBS2wtczlxQ19PWWUxYkZDd2tPaVNFM0U4dEgwdjc3blE?oc=5",
+      "headline": "AI is forcing Canadian universities to rethink student assessment — and they don't yet have answers",
+      "summary": "A Policy Options analysis finds Canadian universities are scrambling to redesign exams, essays, and grading in response to AI-enabled academic integrity issues, with no sector-wide consensus — a direct consulting opening for someone who bridges AI strategy and institutional change.",
+      "source": "Policy Options",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HNjJfSDcyampCcE1iUG92YXR1SXNzbnBkSTlJbUg4aEFZUHRXTG4tXzNKemZWRmt1U204b3hKemwxZjkxMVpfRXZma2hGa3B2YW9NcXY1SDNtSk5vcVBBOHpCN0dpLXZoRDEzUzBHeHRXQQ",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
     },
     {
-      "id": "story-intl_students_canada-3",
+      "id": "story-higher_ed_canada-1",
       "category": "Higher Ed",
-      "headline": "Atlantic Canada's universities make public case for their role in future-proofing regional workforces",
-      "summary": "An opinion piece in PNI Atlantic News argues Atlantic Canadian universities are under-leveraged as workforce development engines — a public framing that signals institutions in the region are actively seeking external partners and strategies; potential client signal for consulting outreach.",
-      "source": "Google News: Canadian universities",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRXpvOTFJZDdBa1pKREh2Tjc3am5lSjZYU0xyR1dBNEwtX1BHdEhkSXBOYi0tN2pWTXJaUTBQNnNveEN3Q1RXbUIzVTl5bmxZZVUtMTlmWG1mZWgxbk5jWi1PcTZzcndPb0RkQUctb24tQTZkcl9qeERBTk9BZnNIelM0Sl9nb1FNc1dQSXhTWmJUV2J6T0tJVk1VS3hBX2F1dUtDUkNuNDJvaFNNMW5tMklKTVFPUU80MU9MMXZ6aDdOS1Bw?oc=5",
+      "headline": "Manitoba eliminates direct PR pathway for international student graduates",
+      "summary": "Manitoba has quietly retired its dedicated permanent-residency stream for international student graduates, further narrowing post-study immigration options and making Canada a harder sell for prospective students — a direct enrolment-risk signal for Canadian universities.",
+      "source": "CIC News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkljQXZENlhwMXVfcHZiTkJyNDZwSWJGUzdwRFAzU1VxMm90QkhoRWt1anNENVA4TXFkSjVZSm1fM29lM3ZHenlYWEFyRmlCNlpUb0tZRW5vUHpoYmtLYVdlY2ZRMkxLNTlQTDBrZ1FCM0xVM01vLUExV2dyZThFVFZ0ZFBkZVdjUzVyOG0tdXpMMGRKM1hzOWFib09LdHNYdXg1YzFWcWF0SE04cUHSAeYBQVVfeXFMTTAza0gxSTVuRHp6VHNWQ3BoQ1FEdEpJd2hZaU9ERS1lQ3N2QjFTZFhzS0NpclkzaHgwWjRmOW1vcU11aDFpY0NlRG8ta3JCaU1JVEl3cDgxYWdrQlB2a0pWX1FoRVZfdVB0dW9VNlp2c0Vpd19NbUVvcmZCMjFHM2pncFQ3WnZmR0JFdnlsRHpPcTVEQ3B1ME9Vei1PeG96MUk4U1dmVll6MXg0VHExSVNkcTBZZnRnVk50R1hYWlBnc0J5UnZaSGIwdm5fcXFscDhtaXc2UzYzUXcydHVvelc0OEdEbkE",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-2",
+      "category": "Higher Ed",
+      "headline": "US judge overturns Trump policies barring travel-ban nationals from visa-status decisions, including OPT",
+      "summary": "A federal ruling restores access to OPT authorisation and green-card processing for students from travel-ban countries, offering partial relief — but the legal instability continues to push international students to consider Canada and other alternatives.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/judge-overturns-trump-policies-targeting-travel-ban-nationals/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2025/08/iStock-DHS-time-limits-student-visas.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "The bidding war era is over in US housing — and the trend is migrating north",
+      "summary": "A new report finds buyer leverage has returned to the US housing market, with sellers conceding on price and conditions — a leading indicator worth watching for BC property owners tracking when to list in Langley or Vancouver.",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPekRPYUVRdGhaaVl0VmFOaU9ZNjdpcHhxbml2bmNYdzlGLWszZml2MEZsV20zZnNMLU1XNEhFekw4MG0xZVBDcUxNQWVTeHBfUzZXekVJcG5PSVBtelk2VFNQUFh4dFgzV184RjctT3hQNy0wYkRmclhPS2RzaEpKTE96ejBhNHpOQzAwVmdFRzA3YVRGRWpLdDR4eTdXYlJBbFA0V3ZGcXctalRoeFp1OTREeGQ2cUk",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "Metro Vancouver outside workers set for full strike Monday — regional services at risk",
+      "summary": "All non-essential Metro Vancouver regional district outside workers will walk off the job Monday after contract talks stalled, potentially affecting regional infrastructure and services across the Lower Mainland.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/metro-vancouver-union-ramps-up-job-action-with-full-strike-planned-for-monday",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Sun Peaks mayor pins clinic reopening hopes on new health association board",
+      "summary": "The Sun Peaks mayor says a newly constituted health association board is the best near-term path to reopening the community's shuttered medical clinic — a critical access issue for full-time residents.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLUJZMWRST1RibUhWSU1Lb0xoZTQzVnQyZUljc2FtU3Jqc1JsR1JFc2hMS3VaMm1HMFZ3YXcycUdvdkRhczlNa2ZZODdHcWpkNEd1UmVxNVlZeGJDdmJQSmVuUTdzT1ltSldSbHI5djZUVEdWVmp2eUJoWVhIeXo5MjNrenQwMTNoX09NazM1R0pRaFpURTlBM1N5SVFHTno1SzlxQTlxU2xGTElhc0M2WWw4TGY0TFNIbGhUek15aDJMTEF4b3pQcG5zVWJKZ0NWOWNsOA",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Kamloops city council approves housing agreement for Columbia Precinct rental project",
+      "summary": "Council signed off on a housing agreement tied to a new rental development in the Columbia Precinct, advancing Kamloops' efforts to add rental supply in a tight market.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS19aU1hlU2YyLTgyUkZCUXNKb1VnXzNhLThrdE8xRHFmVndKU3IwRU9VV3ZVbVpBeXBnZEdYUjQ2NVFIeV9jUUlIZjlQbExuTmdrM2lJN2ZzUDkzaUo5WFA1dk50M0xVTzVYNjRUTlNSVG13blpNYkNYZ2VJRjhzVm84VHdjeW16ankxYWYzd2pTZ3Npck5KTmF0Z1VSQ1dSOVVYcHI2SzNSYWhwTjNzSjdxTzdfZENybWZ0emFudzBMRWZtbDVEUG1qWm92Qlhac2hweW9n",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-2",
+      "category": "Local News",
+      "headline": "Kamloops residents push hard for Red Bridge replacement",
+      "summary": "Community members are standing firm in demanding the Red Bridge be replaced rather than repaired, applying public pressure ahead of a council infrastructure decision.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHZQczRackxESGZxUFkxX2MwTWlhZkE3N2hfaEptWkVuR2RacFY2X3F5dFRyMktpU1I2SmdpSDZRWUc1dmctZjQyR05NSzJwNHJBYmQwSTFzUzJ6dUR1aXRGUTlUMFBDWVNnZm41MkpmZDRvX3ZlU283WDhzaVRUSDR1REdJU0FVOFQ5OTBaWnd0RG1wM0VrbTEtaE9MWVN3Y3gwN1c3YUNfdnh3NXd2SVlHZDVxNlB4dzB6Xw",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
     },
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "UK economy contracts in April as Iran war begins hitting businesses",
-      "summary": "Official UK data shows GDP shrank slightly in April, with the Iran conflict starting to generate measurable drag on business activity — a reminder that Middle East instability is now producing direct Western economic effects.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
+      "headline": "Trump expected to sign Iran deal within days — Netanyahu blindsided",
+      "summary": "Trump told Netanyahu a US-Iran agreement is imminent, ending a war Netanyahu had hoped would produce regime change in Tehran — a geopolitical shift with significant implications for Middle East stability and global energy markets.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/12/netanyahu-trump-iran-deal-israel-lebanon",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce7/live/edd669e0-657f-11f1-9f01-693d064aea27.jpg"
+      "imageUrl": "https://images.axios.com/oIqwAAurxlDqFGr1-djeAfTcfPw=/2728x0:7728x5000/320x320/2026/06/12/1781299537580.jpeg"
     },
     {
       "id": "story-global_business_tech-1",
       "category": "Global",
-      "headline": "PM Carney in Paris for bilateral with Macron ahead of G7 summit",
-      "summary": "Mark Carney is meeting Emmanuel Macron in Paris ahead of next week's G7, with Canada-France alignment on trade and global governance expected to be central — the first major multilateral test of Carney's foreign policy posture.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/06/12/pm-carney-in-paris-to-meet-with-french-president-ahead-of-g7-summit/",
+      "headline": "36,000 permanent residence applications suspended under Canada's Ebola health measures",
+      "summary": "IRCC has suspended tens of thousands of PR applications tied to Ebola-related health screening requirements, creating a significant backlog with ripple effects for international students and workers awaiting status.",
+      "source": "CIC News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTZqSi1sZUJFRllYSXpJYlJGRlk0bThobkJVcFpiVGRWN1ZocFpQQXphbFY2QnQ1anVydHJacnNnNXE1UktJNlBWMC1VczlNdXNZZGFQRlZtcnAxTmgxbmctbnlOeHFsYVI5UW90VVVmb2M0Vk42eGRIcEJScG02MXkzR1BQMENuVGg4R3lDQzl5SGR5dFhsMGFTV2FmN3VmOHJKQ2dKOElmemdNMHdNUXIyellxb2EzaC1jUU9UWGnSAcYBQVVfeXFMT2Q4WUdCN25zMWlYR1J4WlhVS290U3JXOUdybE1CUDEyUDdDT0tXdWNDVk5kckJWNEwwTEdMeWVPSDZhalc0aWVETDlsZ3BpUG9USXRhTEx5UDBTeEh6cnEzSTFiTllQUEJObEFwTHM1T3BHaURaRXJSTklMclBGOG1sMTk5M3V0V1hfWnliZ2FDUU9ZVkFaZlB2dUJiazZtallTdWlSd2N6WFVKTnZsTzRfWnFFbzladU50M2o4RE5qd3BBTEN3",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fbed6fafe-2fb5-4351-a704-00aeccd1a4f5%2F2f683dd5a37f41d4179df8ca25070b5a050f8226e4f91ad660e296e1c353803e.jpg"
-    },
-    {
-      "id": "story-longevity-0",
-      "category": "Longevity",
-      "headline": "Nature Medicine RCT: Dopamine agonist pramipexole significantly reduces anhedonia in depression",
-      "summary": "Nature Medicine randomised controlled trial: pramipexole meaningfully reduced anhedonia (inability to feel pleasure) versus placebo across major depressive disorder, dysthymia, and bipolar depression — opening a potential new pharmacological pathway for a symptom that most antidepressants address poorly.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04465-9",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "leaf",
-      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04465-9/MediaObjects/41591_2026_4465_Fig1_HTML.png"
-    },
-    {
-      "id": "story-misc-0",
-      "category": "Misc",
-      "headline": "Canada plays its first-ever home-soil FIFA World Cup match today against Bosnia-Herzegovina",
-      "summary": "Canada kicks off the 2026 FIFA World Cup in Toronto this afternoon — its first home-soil World Cup game ever — with Alanis Morissette and Michael Bublé headlining the opening ceremony.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/06/12/canada-set-for-world-cup-opener-against-bosnia-herzegovina-on-home-soil/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F87864db6-799d-47dd-919d-acbcdba7000e%2F902a0b9c7dd4c394a9eb7bc2a40c9fb9fae6a6a4e2649c9ecbf9b85965dc8a0c.jpg"
-    },
-    {
-      "id": "story-misc-1",
-      "category": "Misc",
-      "headline": "BC firm in Langley named among three companies contracted to chart Canada's role in lunar exploration",
-      "summary": "A Langley, BC company — in Midya's own backyard — has won a federal contract to map Canada's strategic role in lunar exploration, a notable local tech story with national science implications.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/06/12/b-c-firm-over-the-moon-about-contract-to-chart-canadas-role-in-lunar-exploration/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F0bd6cd0c-0f01-41f1-b6f8-6168c6836230%2F10c42860efb31c9bd7430e4e8429d11de67b561ca387185ad3d22205afdd0f7f.jpg"
+      "thumbnailKind": "globe"
     }
   ],
   "audioChapters": [
@@ -224,68 +230,68 @@
       "id": "c1",
       "title": "AI & Tech",
       "category": "AI & Tech",
-      "duration": "3:02",
-      "startSeconds": 21
+      "duration": "3:46",
+      "startSeconds": 10
     },
     {
       "id": "c2",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "1:40",
-      "startSeconds": 203
-    },
-    {
-      "id": "c3",
       "title": "Higher Education",
       "category": "Higher Ed",
       "duration": "3:04",
-      "startSeconds": 303
+      "startSeconds": 237
+    },
+    {
+      "id": "c3",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:50",
+      "startSeconds": 420
     },
     {
       "id": "c4",
-      "title": "Global News",
-      "category": "Global",
-      "duration": "1:13",
-      "startSeconds": 487
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:12",
+      "startSeconds": 530
     },
     {
       "id": "c5",
-      "title": "Longevity",
-      "category": "Longevity",
-      "duration": "0:54",
-      "startSeconds": 560
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "2:09",
+      "startSeconds": 601
     },
     {
       "id": "c6",
-      "title": "Misc",
-      "category": "Misc",
-      "duration": "0:58",
-      "startSeconds": 614
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:30",
+      "startSeconds": 730
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "Apple's new Siri is designed to avoid sycophancy — by deliberate choice",
-    "summary": "Craig Federighi confirmed Siri's rebuilt AI will actively resist the flattering, over-agreeable behaviour seen in ChatGPT and Gemini, positioning Apple's assistant around trust and restraint rather than engagement maximisation.",
-    "source": "The Verge AI",
-    "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+    "headline": "Anthropic fires back, calling the jailbreak finding insufficient grounds to recall a widely deployed model",
+    "summary": "Anthropic publicly disagreed with the government's rationale, arguing a \"narrow potential jailbreak\" doesn't justify pulling commercial models used by hundreds of millions — a sign the AI safety-vs-access tension is now playing out in regulatory brinkmanship.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0.17391304347827%2C0%2C99.652173913043%2C100&amp;w=1200"
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024"
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "General-purpose LLMs beat specialised clinical AI on medical benchmarks — Nature Medicine",
-    "summary": "A Nature Medicine independent evaluation found frontier general-purpose LLMs outperformed purpose-built clinical AI tools on medical knowledge, clinician alignment, and real-world queries — a powerful data point for the \"broad AI beats narrow AI\" argument in any vertical, including marketing.",
-    "source": "Nature Medicine",
-    "url": "https://www.nature.com/articles/s41591-026-04431-5",
+    "headline": "Trump admin blocks foreign access to Anthropic's most powerful AI — and bars it from US government use",
+    "summary": "Commerce Secretary Lutnick sent a letter restricting foreign access to Anthropic's Mythos 5 and Fable 5 models under national-security licensing, while a Pentagon blacklist simultaneously bars government use — leaving Anthropic caught between safety credibility and commercial reach.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04431-5/MediaObjects/41591_2026_4431_Fig1_HTML.png"
+    "imageUrl": "https://images.axios.com/vxPk5seOo-K6i7YpxqhF1UMliM0=/1008x0:3676x2668/320x320/2026/06/12/1781303854434.jpeg"
   },
-  "heroImageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04431-5/MediaObjects/41591_2026_4431_Fig1_HTML.png"
+  "heroImageUrl": "https://images.axios.com/vxPk5seOo-K6i7YpxqhF1UMliM0=/1008x0:3676x2668/320x320/2026/06/12/1781303854434.jpeg"
 }

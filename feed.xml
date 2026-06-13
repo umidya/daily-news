@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 12 Jun 2026 11:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 11:37:56 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, June 12, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-12.html</link>
-      <description>Today's most actionable thread for you runs through AI and higher ed simultaneously: Nature Medicine just published that general-purpose frontier LLMs are outperforming specialised clinical AI tools — a finding that directly reinforces your positioning as an AI-in-marketing consu...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-12.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-12.mp3" length="13998240" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, June 13, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-13.html</link>
+      <description>Two stories this weekend demand your full attention, Midya. The Trump administration's decision to block foreign access to Anthropic's most powerful AI models — and simultaneously blacklist those models from US government use — is a watershed moment in AI geopolitics that will re...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-13.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-13.mp3" length="17136000" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
