@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 14 Jun 2026 11:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:37:00 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, June 14, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-14.html</link>
-      <description>The dominant story this weekend is the Anthropic Fable crisis — a sitting major investor (Amazon) appears to have triggered a White House action that yanked two powerful AI models from the market within days of launch, which is a watershed moment for how AI capability and geopoli...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-14.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-14.mp3" length="3208320" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, June 15, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-15.html</link>
+      <description>Two stories today demand your full attention before everything else: Anthropic's models were pulled offline by the Trump administration over a compliance failure — a live demonstration that AI governance is now a contact sport, with real business continuity consequences for anyon...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-15.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-15.mp3" length="13892160" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
