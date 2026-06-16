@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 15 Jun 2026 11:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:38:04 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, June 15, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-15.html</link>
-      <description>Two stories today demand your full attention before everything else: Anthropic's models were pulled offline by the Trump administration over a compliance failure — a live demonstration that AI governance is now a contact sport, with real business continuity consequences for anyon...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-15.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-15.mp3" length="13892160" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, June 16, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-16.html</link>
+      <description>Three threads converge this morning that deserve your full attention, Midya. The Anthropic regulatory shock — where the Trump administration forced a sudden model cutoff — is the most consequential AI policy story of the month, and it has direct implications for any Canadian univ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-16.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-16.mp3" length="15821760" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
