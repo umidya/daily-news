@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 19 Jun 2026 11:38:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 11:35:17 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, June 19, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-19.html</link>
-      <description>Friday's briefing lands at a moment where several threads converge directly on your work, Midya. The CMO AI-team rewiring story from Google and the Adobe-LinkedIn skills-gap initiative together paint a clear picture of where marketing consulting demand is heading — clients will n...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-19.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-19.mp3" length="17690880" type="audio/mpeg"/>
-      <pubDate>Fri, 19 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, June 20, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-20.html</link>
+      <description>The Lytton wildfire is the story to watch this weekend — it's already at evacuation-order level and growing fast along a corridor that sits between Sun Peaks and the Lower Mainland, meaning highway disruptions and air quality could directly affect your properties and family trave...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-20.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-20.mp3" length="13184640" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
