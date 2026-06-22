@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 21 Jun 2026 11:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:43:09 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, June 21, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-21.html</link>
-      <description>Two major geopolitical flashpoints — the Strait of Hormuz closure and the first direct U.S.-Iran nuclear talks in years — are converging today, and both will ripple into energy prices, inflation, and the macro conditions that affect Canadian real estate and consumer spending. Clo...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-21.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-21.mp3" length="15043200" type="audio/mpeg"/>
-      <pubDate>Sun, 21 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, June 22, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-22.html</link>
+      <description>Three threads converge today that directly touch your work, Midya. The 'business-to-bot-to-consumer' shift in AI search is not a future problem — it's a present one your potential university clients haven't solved yet, which is a consulting opening. The CMO-influence-vs-brand-gro...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-22.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-22.mp3" length="14832480" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
