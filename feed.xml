@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 22 Jun 2026 11:43:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 11:37:35 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, June 22, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-22.html</link>
-      <description>Three threads converge today that directly touch your work, Midya. The 'business-to-bot-to-consumer' shift in AI search is not a future problem — it's a present one your potential university clients haven't solved yet, which is a consulting opening. The CMO-influence-vs-brand-gro...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-22.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-22.mp3" length="14832480" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, June 23, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-23.html</link>
+      <description>Three threads converge this Tuesday that deserve your undivided attention, Midya. First, Canada's immigration policy is actively reshaping the international student pipeline — the FMRI ministerial meeting and a new Conversation analysis both signal tightening conditions that hit ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-23.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-23.mp3" length="18470400" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
