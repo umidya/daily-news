@@ -206,6 +206,75 @@ class Digest:
     raw_response: str
 
 
+# Publish floor for the narration. The system prompt targets 2400-3200 words
+# (~15-20 min) and treats 2400 as a hard floor even on light news days. We set
+# the *publish* floor well below that so a genuinely-shorter-but-complete
+# briefing is never rejected, yet far above the ~750-word fragments we have
+# shipped when the narration was truncated. Anything under this is treated as a
+# truncation, not a short day.
+AUDIO_SCRIPT_MIN_WORDS = 1500
+
+# A complete narration always ends on its [[OUTRO]] sign-off, i.e. on
+# sentence-final punctuation. A fragment ends mid-word/clause (e.g. the
+# 2026-06-17 briefing ended on "...moving from").
+_TERMINAL_PUNCT = (".", "!", "?", '"', "”", "…")
+
+
+class TruncatedDigestError(Exception):
+    """Raised when Claude returns a digest whose narration is incomplete.
+
+    Treated as a retryable failure inside summarize(): a fresh generation
+    usually completes. If every attempt is truncated we fail loud rather than
+    publish a partial briefing (the app then keeps yesterday's good one)."""
+
+
+def validate_digest(digest: "Digest") -> list[str]:
+    """Return a list of completeness problems that must block publishing.
+
+    An empty list means the digest is publishable. This is the guard that
+    prevents a truncated briefing from reaching the app. The audio_script is
+    generated as the FINAL field of a single schema-constrained Claude call;
+    when generation is cut short the JSON still parses (the constrained decoder
+    closes it) but the narration is a fragment. We reject that fragment here
+    instead of synthesizing a 4-minute stub from it."""
+    problems: list[str] = []
+
+    if not (digest.why_this_matters or "").strip():
+        problems.append("why_this_matters is empty")
+    if not digest.sections:
+        problems.append("no sections produced")
+
+    script = (digest.audio_script or "").strip()
+    if not script:
+        problems.append("audio_script is empty")
+        return problems  # nothing further to check
+
+    stripped, segments = parse_audio_script(script)
+    stripped = stripped.strip()
+
+    words = len(stripped.split())
+    if words < AUDIO_SCRIPT_MIN_WORDS:
+        problems.append(
+            f"audio_script is only {words} words (floor {AUDIO_SCRIPT_MIN_WORDS}); "
+            "narration was likely truncated"
+        )
+
+    roles = {seg["role"] for seg in segments}
+    if "outro" not in roles:
+        problems.append(
+            "audio_script has no [[OUTRO]] sign-off; narration was likely truncated"
+        )
+
+    if stripped and stripped[-1] not in _TERMINAL_PUNCT:
+        tail = stripped[-40:]
+        problems.append(
+            f"audio_script ends without sentence-final punctuation (...{tail!r}); "
+            "narration was likely truncated"
+        )
+
+    return problems
+
+
 # Markers Claude embeds in audio_script so we can build accurate audio
 # chapters from the narrated text (not from sections-list order, which
 # Claude is free to reorder for narrative flow).
@@ -288,8 +357,9 @@ def _match_url_hashes(chosen_urls: list[str], candidates: list[Article]) -> list
     return [by_url[u] for u in chosen_urls if u in by_url]
 
 
-def _call_claude(client: Anthropic, user_msg: str) -> tuple[dict, str]:
-    """Single Claude call with schema-enforced JSON output. Returns (parsed, raw_text)."""
+def _call_claude(client: Anthropic, user_msg: str) -> tuple[dict, str, "str | None"]:
+    """Single Claude call with schema-enforced JSON output.
+    Returns (parsed, raw_text, stop_reason)."""
     msg = client.messages.create(
         model=CLAUDE_MODEL,
         max_tokens=16000,
@@ -298,7 +368,23 @@ def _call_claude(client: Anthropic, user_msg: str) -> tuple[dict, str]:
         output_config={"format": {"type": "json_schema", "schema": _DIGEST_SCHEMA}},
     )
     raw = next(b.text for b in msg.content if b.type == "text")
-    return json.loads(raw), raw
+    return json.loads(raw), raw, msg.stop_reason
+
+
+def _build_digest(parsed: dict, raw: str, candidates: list[Article]) -> Digest:
+    chosen_urls: list[str] = []
+    for section in parsed.get("sections", []):
+        for story in section.get("stories", []):
+            if story.get("url"):
+                chosen_urls.append(story["url"])
+
+    return Digest(
+        why_this_matters=parsed.get("why_this_matters", "").strip(),
+        sections=parsed.get("sections", []),
+        audio_script=parsed.get("audio_script", "").strip(),
+        chosen_url_hashes=_match_url_hashes(chosen_urls, candidates),
+        raw_response=raw,
+    )
 
 
 def summarize(candidates: list[Article], cfg: Config, date_label: str) -> Optional[Digest]:
@@ -322,17 +408,35 @@ def summarize(candidates: list[Article], cfg: Config, date_label: str) -> Option
 
     log.info("Sending %d candidates to Claude for summarization", len(candidates))
 
-    # Up to 3 attempts. The API enforces JSON-schema validity, so json.loads
-    # should never raise. We retry on transient API errors (overload, 5xx)
-    # and on the off chance the SDK ever returns malformed JSON.
+    # Up to 3 attempts. We retry on transient API errors (overload, 5xx), on the
+    # off chance the SDK returns malformed JSON, AND — critically — when the
+    # returned digest is incomplete. A schema-constrained response can be cut
+    # short mid-narration yet still parse as valid JSON (the decoder closes the
+    # braces), so json.loads succeeding is NOT proof the briefing is whole.
+    # validate_digest() is the real gate; a truncated result is retried, and if
+    # every attempt is truncated we raise rather than publish a partial briefing
+    # (the pipeline then leaves yesterday's good briefing in place).
     last_err: Exception | None = None
-    parsed: dict | None = None
-    raw: str = ""
+    digest: Digest | None = None
     for attempt in range(3):
         try:
-            parsed, raw = _call_claude(client, user_msg)
+            parsed, raw, stop_reason = _call_claude(client, user_msg)
+            if stop_reason == "max_tokens":
+                raise TruncatedDigestError(
+                    "response hit max_tokens — narration cut off at the token ceiling"
+                )
+            candidate = _build_digest(parsed, raw, candidates)
+            problems = validate_digest(candidate)
+            if problems:
+                raise TruncatedDigestError("; ".join(problems))
+            digest = candidate
             break
-        except (anthropic.APIStatusError, anthropic.APIConnectionError, json.JSONDecodeError) as e:
+        except (
+            anthropic.APIStatusError,
+            anthropic.APIConnectionError,
+            json.JSONDecodeError,
+            TruncatedDigestError,
+        ) as e:
             last_err = e
             wait = 2 ** attempt
             log.warning(
@@ -340,19 +444,27 @@ def summarize(candidates: list[Article], cfg: Config, date_label: str) -> Option
                 attempt + 1, type(e).__name__, e, wait,
             )
             time.sleep(wait)
-    if parsed is None:
-        raise RuntimeError(f"Claude summarize failed after 3 attempts: {last_err}") from last_err
+    if digest is None:
+        raise RuntimeError(
+            f"Claude summarize failed after 3 attempts: {last_err}"
+        ) from last_err
 
-    chosen_urls: list[str] = []
-    for section in parsed.get("sections", []):
-        for story in section.get("stories", []):
-            if story.get("url"):
-                chosen_urls.append(story["url"])
+    # Soft signal: surface (but don't block on) sections that were not narrated.
+    # Hard truncation is already caught above; this catches the subtler case of
+    # a complete-looking script that quietly skipped a section's content.
+    narrated = {
+        s["topic_key"]
+        for s in parse_audio_script(digest.audio_script)[1]
+        if s["role"] == "section" and s.get("topic_key")
+    }
+    unnarrated = [
+        s.get("topic_key") for s in digest.sections
+        if s.get("topic_key") and s.get("topic_key") not in narrated
+    ]
+    if unnarrated:
+        log.warning(
+            "Digest has %d section(s) present but not narrated in the audio: %s",
+            len(unnarrated), unnarrated,
+        )
 
-    return Digest(
-        why_this_matters=parsed.get("why_this_matters", "").strip(),
-        sections=parsed.get("sections", []),
-        audio_script=parsed.get("audio_script", "").strip(),
-        chosen_url_hashes=_match_url_hashes(chosen_urls, candidates),
-        raw_response=raw,
-    )
+    return digest
