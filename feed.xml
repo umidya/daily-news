@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 24 Jun 2026 11:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:37:47 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, June 24, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-24.html</link>
-      <description>Two converging trends demand your attention today, Midya. The US is formally capping international student stays at four years — a seismic shift that will redirect a wave of globally mobile students toward Canada, just as Canada's own FPT ministers are recalibrating the 2027–2029...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-24.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-24.mp3" length="13608960" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, June 25, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-25.html</link>
+      <description>Three threads converge today that sit right at the intersection of your work and life, Midya. OpenAI's Codex agent data is the clearest signal yet that agentic AI is crossing from hype to measurable adoption — your AI-in-marketing consulting pitch just got sharper urgency. On the...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-25.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-25.mp3" length="15898080" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
