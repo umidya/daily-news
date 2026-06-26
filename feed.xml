@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 25 Jun 2026 11:37:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 11:37:36 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, June 25, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-25.html</link>
-      <description>Three threads converge today that sit right at the intersection of your work and life, Midya. OpenAI's Codex agent data is the clearest signal yet that agentic AI is crossing from hype to measurable adoption — your AI-in-marketing consulting pitch just got sharper urgency. On the...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-25.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-25.mp3" length="15898080" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, June 26, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-26.html</link>
+      <description>Two threads converge hard on your work this Friday, Midya: Canada's 60% collapse in international student arrivals is the most consequential higher-ed story of the year, and it is creating urgent, unfunded problems for institutions that will need outside strategic help — that is ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-26.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-26.mp3" length="15198240" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
