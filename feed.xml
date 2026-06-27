@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 26 Jun 2026 11:37:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:36:44 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, June 26, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-26.html</link>
-      <description>Two threads converge hard on your work this Friday, Midya: Canada's 60% collapse in international student arrivals is the most consequential higher-ed story of the year, and it is creating urgent, unfunded problems for institutions that will need outside strategic help — that is ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-26.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-26.mp3" length="15198240" type="audio/mpeg"/>
-      <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, June 27, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-27.html</link>
+      <description>Two stories this weekend deserve your full attention, Midya: the Anthropic Mythos 5 situation is a direct signal for your AI-in-marketing consulting thesis — a US government-brokered restricted release of a leading model affects what tools Canadian enterprise clients can actually...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-27.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-27.mp3" length="13918080" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
