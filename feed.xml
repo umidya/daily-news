@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 28 Jun 2026 11:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:38:04 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, June 28, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-28.html</link>
-      <description>The two stories demanding your full attention today sit at opposite ends of the world but both hit close to home: U.S. strikes on Iran are now triggering regional missile responses, which means energy prices and mortgage spreads are in play — relevant if you're tracking your BC p...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-28.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-28.mp3" length="14969760" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, June 29, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-06-29.html</link>
+      <description>Two threads dominate today that sit at the exact intersection of your work, Midya: the agentic AI advertising wave that broke wide open at Cannes Lions is now the baseline expectation for marketing clients — and your consulting pitch needs to speak to it fluently. Simultaneously,...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-29.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-29.mp3" length="15676800" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Jun 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
