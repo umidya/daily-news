@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 30 Jun 2026 11:37:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 11:38:51 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, June 30, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-06-30.html</link>
-      <description>Two converging forces define today's briefing for you, Midya: the AI investment cycle is flashing a major caution light from the world's central bank forum, just as the marketing industry is actively rebuilding its entire discovery and creative infrastructure around AI — which is...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-06-30.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-06-30.mp3" length="17852160" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, July 1, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-01.html</link>
+      <description>Today's briefing lands on Canada Day, and beneath the celebrations, several threads deserve your strategic attention. The Australia visa fee backlash is creating a measurable pull-factor for Canada — and while Canadian officials are calling this 'the best time ever to apply,' Ind...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-01.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-01.mp3" length="14493120" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
