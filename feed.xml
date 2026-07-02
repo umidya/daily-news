@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 01 Jul 2026 11:38:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 11:37:44 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, July 1, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-01.html</link>
-      <description>Today's briefing lands on Canada Day, and beneath the celebrations, several threads deserve your strategic attention. The Australia visa fee backlash is creating a measurable pull-factor for Canada — and while Canadian officials are calling this 'the best time ever to apply,' Ind...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-01.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-01.mp3" length="14493120" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, July 2, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-02.html</link>
+      <description>A few threads converge today that deserve your full attention, Midya. The OpenAI-Trump equity gambit is the most consequential AI governance story in months — it reframes who owns the AI upside and will ripple into every enterprise AI conversation you have with clients. Meanwhile...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-02.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-02.mp3" length="14610720" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
