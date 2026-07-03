@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 02 Jul 2026 11:37:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:37:03 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, July 2, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-02.html</link>
-      <description>A few threads converge today that deserve your full attention, Midya. The OpenAI-Trump equity gambit is the most consequential AI governance story in months — it reframes who owns the AI upside and will ripple into every enterprise AI conversation you have with clients. Meanwhile...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-02.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-02.mp3" length="14610720" type="audio/mpeg"/>
-      <pubDate>Thu, 02 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, July 3, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-03.html</link>
+      <description>Three threads deserve your immediate attention this Friday. First, AI's groupthink problem — newly surfaced by MIT Tech Review — is directly relevant to your consulting pitch: if clients are using LLMs for brand strategy and market research, they're likely getting homogenized out...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-03.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-03.mp3" length="14065920" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
