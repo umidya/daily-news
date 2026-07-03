@@ -3,145 +3,94 @@
   "date": "Friday, July 3, 2026",
   "dateIso": "2026-07-03",
   "greeting": "Good morning, Midya",
-  "totalDuration": "11:43",
+  "totalDuration": "10:26",
   "currentTime": "0:00",
-  "remaining": "11 min total",
+  "remaining": "10 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Three threads deserve your immediate attention this Friday. First, AI's groupthink problem — newly surfaced by MIT Tech Review — is directly relevant to your consulting pitch: if clients are using LLMs for brand strategy and market research, they're likely getting homogenized outputs, which is both a risk to flag and a differentiation opportunity for you. Second, the international student landscape is shifting in ways that squeeze Canadian universities from multiple directions — China is pulling students inbound, Australia is holding firm on caps, and Canada's study permit slowdown continues — all of which creates enrolment anxiety at the Canadian institutions you're targeting as consulting clients.",
-  "digestReadingTime": "7 min read",
-  "whyItMatters": "Three threads deserve your immediate attention this Friday. First, AI's groupthink problem — newly surfaced by MIT Tech Review — is directly relevant to your consulting pitch: if clients are using LLMs for brand strategy and market research, they're likely getting homogenized outputs, which is both a risk to flag and a differentiation opportunity for you. Second, the international student landscape is shifting in ways that squeeze Canadian universities from multiple directions — China is pulling students inbound, Australia is holding firm on caps, and Canada's study permit slowdown continues — all of which creates enrolment anxiety at the Canadian institutions you're targeting as consulting clients. Third, the World Cup is live and culturally dominant right now, and the Mike's Hot Honey / Bero brand partnership stories show exactly how smart marketers are riding that moment — worth absorbing before any client conversation this summer. Locally, Sun Peaks has a big concert weekend and a potential pipeline story that could affect Kamloops's economic trajectory.",
+  "digestIntro": "Today's digest is lean on volume but rich on signals that matter directly to your work and life, Midya. The Canadian dollar story is the thread to pull hardest: CUSMA uncertainty suppressing rate-cut expectations has a direct read-through to your BC property portfolio and the timing of any refinancing decisions this fall. On the consulting side, the Midjourney medical scanner story is a useful case study in AI hype versus substance — exactly the kind of critical lens you'll want to bring to university clients who are being pitched AI transformation.",
+  "digestReadingTime": "2 min read",
+  "whyItMatters": "Today's digest is lean on volume but rich on signals that matter directly to your work and life, Midya. The Canadian dollar story is the thread to pull hardest: CUSMA uncertainty suppressing rate-cut expectations has a direct read-through to your BC property portfolio and the timing of any refinancing decisions this fall. On the consulting side, the Midjourney medical scanner story is a useful case study in AI hype versus substance — exactly the kind of critical lens you'll want to bring to university clients who are being pitched AI transformation. The Kamloops search-and-rescue headquarters vote is a quiet community win worth knowing if you're in the region this summer. And with a light news Friday heading into a long weekend, this is a good morning to do strategic thinking rather than news consumption — the briefing is short; the opportunity is yours.",
   "audioUrl": "https://umidya.github.io/daily-news/audio/2026-07-03.mp3",
-  "audioDurationSeconds": 703,
-  "audioScript": "Good morning, Midya. It's Friday, July third, 2026. Canada plays Morocco tomorrow, Sun Peaks has a concert this weekend, and there are a handful of stories today that deserve more than a skim — let's get into it.\n\nLet's start with the AI story, because it has direct implications for your consulting practice. MIT Technology Review published a piece this week about what researchers are calling the groupthink problem in large language models. The core finding is this: open up ChatGPT, Claude, and Gemini, ask them the same question, and you'll get outputs that are remarkably similar — not just stylistically, but substantively. The models converge. A startup is now trying to engineer deliberate divergence into AI reasoning systems, essentially building in adversarial perspectives so that LLMs don't all land in the same conceptual neighbourhood.\n\nNow, why does this matter for you specifically? If you're positioning yourself as an AI-in-marketing consultant, this is one of the most important structural limitations of the tools your clients are already using. When a brand's marketing team uses an LLM to brainstorm campaign concepts, develop positioning, or research audience insights, they're likely getting outputs that look very similar to what every other brand's marketing team is getting from the same tools. The differentiation risk is real. The counter-intuitive insight — which you can bring to a boardroom — is that AI can actually homogenise brand voice and strategy if it's not deployed carefully. The value of a skilled human strategist, or a well-designed AI workflow with intentional friction built in, goes up, not down, in a world of groupthink LLMs. This is a compelling consulting frame: not \"AI will replace strategy,\" but \"poorly governed AI will commoditise your brand.\"\n\nAlso briefly in the AI space: Nature Medicine published findings on a model called COMPASS — a pan-cancer foundation model that predicts immunotherapy response from tumour data across different cancer types and treatments, without needing to be retrained for each new application. It's the kind of generalisation milestone that signals AI is starting to move from narrow clinical tools to something closer to a universal diagnostic aid. Worth knowing about for the broader picture of where AI capability is heading.\n\nOn the marketing front, two stories caught my eye this week that are worth thinking about as case studies — and potential conversation starters with clients.\n\nFirst, Mike's Hot Honey. They've launched a multichannel campaign tied to the FIFA World Cup, extending their existing 'Drizzle The Mike's' brand platform into soccer culture. This is a textbook example of what I'd call cultural adjacency marketing — you don't need to be an official sponsor, you don't need to pay FIFA rates, you just need to be genuinely present in the cultural moment in a way that feels authentic to your brand personality. Hot honey and soccer share an energy: bold, a bit unexpected, fun. The campaign works because the brand has a platform to extend, not just an event to exploit. The lesson for your clients, especially any Canadian institution or mid-sized brand trying to ride the World Cup moment right now, is that the window is open — but only if the connection is real. Forced cultural moments backfire fast.\n\nSecond, Tom Holland's non-alcoholic beer brand, Bero. What's interesting here isn't the celebrity angle — it's the partnership choices. Bero has aligned with Chase Bank and the fitness chain Barry's. Think about what that signals: they're not positioning as a beer alternative for people who miss beer. They're positioning as a lifestyle brand for people who are intentional about their health and their money. The adjacency strategy — fitness, financial wellness, and mindful consumption — is doing a lot of heavy lifting. For a marketing consultant, this is a great example of how brand partnerships are brand positioning. The partners you choose communicate your values before you say a single word. That's a slide worth building for a client presentation.\n\nHigher education deserves real attention today, because the macro picture is shifting in ways that create both urgency and opportunity for Canadian universities — and by extension, for you as a consultant targeting them.\n\nLet's start locally. Canadian university chancellors have relaunched a national working group focused on Indigenous student success. This is a governance-level initiative, which means it's being driven from the top — chancellors, not provosts. When university leadership organises at that level around a specific challenge, it creates demand for external expertise: enrolment strategy, communications, student experience design, curriculum alignment. If you have any interest in building a practice thread around equity-focused institutional consulting, this is a live signal. TRU, being in Kamloops with strong Indigenous community relationships, is worth watching specifically in this context.\n\nNow zoom out. ICEF Monitor published a significant piece on China's shifting role in global student mobility. The headline number: roughly 380,000 foreign students are now studying inside China — and Chinese outbound mobility is starting to plateau. This is a structural shift, not a blip. For years, Canadian universities have treated the Chinese student market as a reliable growth engine. If that pipeline is softening, and if Chinese students are increasingly staying in Asia or going to Chinese universities themselves, Canadian institutions need new recruitment strategies, new source markets, and new value propositions. That's consulting work. Enrolment marketing strategy, international brand positioning, partnership development in emerging source markets — all of it becomes more urgent when the old playbook stops working.\n\nAnd then there's Australia, which just confirmed it's holding its national international student planning level at 295,000 for 2027, with an explicit guarantee that no active education provider will receive a lower allocation. Compare that to Canada's posture right now — study permit slowdowns, IRCC processing uncertainty, a policy environment that has created genuine anxiety among international student applicants. Australia is offering certainty; Canada is offering confusion. For Canadian universities competing for the same global talent pool, this is a competitive disadvantage that their leadership teams are aware of and worried about. If you're walking into a conversation with a Canadian university's VP of enrolment or VP of international, this contrast is exactly the kind of framing that opens a consulting engagement.\n\nA quick note on real estate. Trump made a comment this week that he considers housing affordability 'so unimportant' — a remark that directly contradicts pledges he made about protecting home values. I'm flagging this not as political commentary but as a market signal. When US housing policy becomes unpredictable or contradictory at the executive level, it creates uncertainty for cross-border real estate investors and ripples into Canadian markets — particularly Metro Vancouver and the Fraser Valley, where US buyer interest and capital flows have historically been relevant. It's not a headline that demands action today, but if you're thinking about your properties in Vancouver and Langley, it's worth keeping the US policy environment on your radar as a demand-side variable.\n\nLocally, a good news weekend for Sun Peaks. Kim Mitchell and The Trews are headlining Rockin' In The Peaks this weekend — a well-established summer music festival at the resort. If you're up there or have guests, it's a high-traffic weekend, which is great for short-term rental occupancy. Worth noting for pricing if you're managing availability.\n\nOn a bigger scale, there's a story developing about a proposed West Coast pipeline that could route economic benefits through Kamloops. The details are still emerging, but resource infrastructure projects of this scale tend to have long lead times and significant local economic effects — commercial real estate, labour markets, ancillary services. Worth keeping an eye on as it develops, especially if you have any clients or contacts in the Kamloops business community.\n\nAnd of course: Canada vs Morocco tomorrow in Houston. The round of 16. The country is captivated — this is genuinely historic for Canadian soccer, and the cultural moment is real. Kamloops fans are flying to Houston. The energy is there. Whether you're watching from Sun Peaks or catching it on TV, it's a good weekend to be Canadian.\n\nGlobally, the situation in Ukraine deserves attention. Axios is reporting that Ukrainian drone strikes are now hitting Russian targets — oil refineries, weapons factories, bomber bases — with a frequency and accuracy that is causing real strain inside Russia. The detail that stands out: Russia has had to redeploy air defences to protect central Moscow and key presidential infrastructure, leaving other military and industrial targets exposed. There are reports of fuel shortages resulting from repeated refinery strikes. This matters for the broader global picture because it signals the conflict has entered a phase of sustained economic attrition, and European energy markets are feeling it. For a senior leader tracking global business context, the key question is how prolonged supply disruption in Russian energy infrastructure affects energy prices and inflation trajectories — including in Canada.\n\nTwo items from Nature Medicine this week that are worth a moment.\n\nFirst, the COMPASS model — which I mentioned in the AI section — but it belongs here too, because the clinical implications are significant. Predicting immunotherapy response across cancer types from tumour genetic data, without retraining, means oncologists may soon have a general-purpose decision-support tool that guides treatment selection. For anyone tracking cancer treatment advances, this is a meaningful step.\n\nSecond, a framework paper: researchers have published a standardised approach for selecting immune aging biomarkers suitable for inclusion in geroscience clinical trials. This is the kind of foundational science that doesn't make headlines but accelerates everything downstream. By establishing consensus on which biomarkers to measure and how, researchers can now run trials that are actually comparable to each other — which is how the field moves from observational findings to interventions. If you're interested in longevity science, immune aging is one of the most active areas right now, and this framework suggests clinical trials targeting immune decline will accelerate meaningfully in the next few years.\n\nThat's your Friday briefing, Midya. The dominant thread today is opportunity inside uncertainty — in Canadian higher ed, in the AI tools your clients are misusing, and in the shifting global student market. The World Cup match tomorrow is worth watching for more than sport: Canada on the global stage is a marketing moment, a cultural moment, and a reminder that the country has genuine momentum right now. Enjoy the Rockin' In The Peaks weekend if you're in Sun Peaks, cheer loudly for the boys tomorrow, and have a strong close to the week.",
+  "audioDurationSeconds": 626,
+  "audioScript": "Good morning, Midya. It's Friday, July 3rd, 2026. The news cycle is quiet heading into the long weekend — but a few stories deserve your full attention, and at least one has real implications for your financial planning this fall.\n\nLet's lead with the story that probably matters most to your balance sheet right now. BNN Bloomberg is reporting that Bay Street analysts are cutting their Canadian dollar forecasts — and the reason is directly tied to something you've been tracking: CUSMA uncertainty. Canada-US trade deal anxiety is keeping the Bank of Canada in a holding pattern. The rate cuts that mortgage holders and real estate investors were pencilling in for the back half of this year are now looking less likely, and possibly delayed further into 2027.\n\nHere's why that matters specifically for you. You hold property in three distinct BC markets — Sun Peaks, Langley, and Vancouver. Each of those markets behaves a little differently, but they all share sensitivity to Bank of Canada rate signals. If you were expecting relief on variable-rate costs, or planning around refinancing windows this fall, this news should prompt a conversation with your mortgage broker sooner rather than later. The window may be narrowing, and locking in a strategy before rates stay stuck — or drift upward if trade tension escalates — is worth doing now rather than in September.\n\nThe Canadian dollar angle is also relevant to your consulting work. A weaker loonie makes Canadian services cheaper for US buyers in relative terms, which is actually a tailwind if you're pitching American-adjacent clients or building partnerships south of the border. But it also signals macroeconomic fragility that budget-constrained Canadian universities — your target consulting clients — will feel acutely. When CAD weakens and trade uncertainty rises, institutional discretionary spend gets tighter. That's the environment you'll be selling into. Understanding that your prospects are under financial stress isn't a reason to back off — it's a reason to sharpen your ROI narrative and make sure your consulting pitch speaks directly to efficiency and enrolment revenue, not just strategy elegance.\n\nOn the AI front, The Verge published a sharp piece on Midjourney's medical scanner — and I want to flag this one not just as tech news, but as a case study in AI hype that you should have in your mental toolkit.\n\nMidjourney, best known for its AI image generation, has been quietly building what it describes as a dunk-tank ultrasound scanner — a device it plans to deploy in spas, of all places. The pitch is transformative: cheap, detailed, radiation-free imaging that could democratize medical diagnostics. Midjourney released a nearly 20-minute behind-the-scenes video this week showing off the machine. And The Verge's conclusion? After nearly 20 minutes of footage, there is still very little evidence the device actually works as advertised.\n\nThis is a pattern worth naming, because you're going to see it constantly as an AI consultant — and your Canadian university clients are going to be pitched versions of this story repeatedly. A well-resourced, credible-seeming AI company announces something that sounds transformative. They produce compelling visuals, charismatic founders, slick production. What they don't produce — often for a very long time — is independent validation. No peer review. No clinical trials. No third-party benchmarking. Just vibes and momentum.\n\nThe Midjourney scanner story is a useful example to keep in your back pocket when a university VP asks you whether they should adopt some new AI platform that promises to revolutionize student advising, or admissions, or curriculum design. The question to always ask is: where is the independent evidence? What does the controlled study show? Who validated this outside the company's own marketing? If the answer is \"well, they have a very impressive demo,\" that's your signal to slow down.\n\nMidjourney deploying medical devices in spas is also a remarkable escalation for a company whose core product is image generation. It tells you something about how AI companies are thinking about adjacent market capture — and how quickly they're willing to move into high-stakes domains without the traditional gatekeeping those domains exist for. That's both exciting and genuinely alarming, depending on whether you're the patient or the investor.\n\nA quick one from the marketing world. Veeam — the enterprise data management and backup software company — has appointed Mika Yamamoto as its new global marketing chief, with an explicit mandate that goes beyond traditional CMO territory: she's also overseeing customer AI strategy.\n\nYamamoto has serious credentials — she's held senior roles at Microsoft and Juniper Networks — and the fact that Veeam is fusing the CMO role with AI transformation leadership is a signal worth noting. It reflects a broader trend you've probably observed: the best-run B2B tech companies are no longer treating AI as an IT function. They're making it a marketing and customer experience function. The person responsible for how the brand shows up is also the person responsible for how AI shows up in the customer journey.\n\nFor your consulting pivot, this is validating. The value proposition you're building — AI strategy through a marketing and brand lens — is exactly what enterprise-level companies are now hiring for at the C-suite level. You're not pitching a niche service. You're pitching what the market is already recognizing as a core executive capability. The Veeam appointment is a small data point, but it's one of several this year that confirm the direction. When you're in conversations with Canadian universities, you can legitimately point to moves like this as evidence that AI and marketing strategy are converging — and that institutions that treat them as separate functions are already behind.\n\nOn the higher education and immigration front, there's a useful piece of news for anyone tracking Canada's relationship with Indian students and families. Moneycontrol is reporting that IRCC has significantly reduced processing times for Canada's Super Visa — the multi-entry visa that allows parents and grandparents of Canadian permanent residents and citizens to stay for extended periods. Processing times for Indian applicants have dropped to around 50 days, which is a meaningful improvement from where they were.\n\nNow, this isn't directly about study permits — it's about the Super Visa. But the two are connected in ways worth understanding. The Super Visa is part of the broader ecosystem that makes Canada an attractive destination for Indian families. When parents can visit easily, it makes the prospect of studying or working in Canada more appealing to students who are weighing whether to be far from home for years. It's one of the soft infrastructure pieces that supports enrolment pipelines.\n\nFor your higher-ed consulting work, the relevant read here is that IRCC is showing some capacity to reduce processing friction when there's political will to do so. The study permit cap conversation — which has been contentious for the past two years — is still unresolved. But this Super Visa improvement signals that the system isn't entirely gridlocked. If you're advising a Canadian university on its international recruitment strategy, it's worth noting that the regulatory environment is dynamic, not static, and that windows of improved access do open. Institutions that have let their India recruitment infrastructure atrophy because of cap pessimism may be leaving opportunity on the table.\n\nLocally, a quiet but meaningful piece of Kamloops civic news. Residents have approved the financials for a new facility that will combine search and rescue headquarters with a fire hall — consolidating two critical emergency services under one roof. This is the kind of infrastructure decision that doesn't make headlines outside the city, but matters a lot if you spend meaningful time in the Kamloops and Sun Peaks corridor.\n\nThe Thompson-Nicola region, as you know, has faced escalating wildfire and backcountry emergency situations over the past several years. Having a well-funded, purpose-built search and rescue base integrated with fire services is a genuine community safety upgrade. For Sun Peaks specifically, where backcountry access and mountain terrain create real search-and-rescue demand year-round, a stronger regional SAR presence is directly relevant. This is the kind of local governance story that's easy to overlook but represents the slow, unglamorous work of building resilient communities. It passed, and that's a good thing.\n\nOne brief note from the global business wire before we close. The BBC is running a piece on the England football team's 1am match and whether employers should flex start times for workers who stay up to watch — a very British workplace flexibility conversation that probably isn't directly relevant to your Friday. But it does sit in a broader context worth naming: workplace flexibility norms are still actively being renegotiated in post-pandemic workplaces across the UK and Canada, and the fact that this is generating serious HR commentary rather than being treated as obvious tells you how far we still have to go on the question of when and how people work best. Not a story to track closely, but a useful ambient signal about where workforce culture debates are still live.\n\nThat's your Friday briefing, Midya. Heading into a long weekend, the one thing I'd encourage you to carry forward is the Bank of Canada and CAD story — not as anxiety, but as a prompt to make sure your financial planning assumptions for the fall are stress-tested against a no-cut scenario. The rest of the news cycle will likely be quiet until Tuesday. Use the weekend to think, not just consume. You're building something significant with this consulting pivot, and the strategic thinking time is as valuable as anything in today's headlines. Have a good long weekend.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "LLMs are stuck in a groupthink groove — a startup is trying to fix it",
-      "summary": "MIT Technology Review flags that major LLMs (ChatGPT, Claude, Gemini) converge on near-identical outputs, and a startup is building systems to deliberately introduce divergent reasoning — a structural flaw with direct implications for any brand using AI for strategy or ideation.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "headline": "Midjourney's Medical Scanner Gets a Behind-the-Scenes Video — But Still No Proof It Works",
+      "summary": "Midjourney released a 20-minute tour of its dunk-tank ultrasound scanner it plans to deploy in spas, but The Verge notes the video still offers little evidence the device actually performs as claimed — a significant gap for a product pitched as a medical revolution.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600"
-    },
-    {
-      "id": "story-ai-1",
-      "category": "AI & Tech",
-      "headline": "AI model predicts immunotherapy outcomes across cancer types from tumour data",
-      "summary": "Nature Medicine: A pan-cancer foundation model called COMPASS predicts immunotherapy response across tumour types using bulk transcriptomes, a significant step toward personalising cancer treatment at scale.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04502-7",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04502-7/MediaObjects/41591_2026_4502_Fig1_HTML.png"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=28.441715022566,0,70.316569954868,100"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Mike's Hot Honey kicks off multichannel soccer campaign tied to World Cup moment",
-      "summary": "The brand is extending its 'Drizzle The Mike's' platform into soccer culture during the World Cup — a live case study in how challenger brands use tentpole cultural moments to build reach without owning expensive IP rights.",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/mikes-hot-honey-spurs-experimentation-with-soccer-infused-campaign/824276/",
+      "headline": "Veeam Appoints Mika Yamamoto to Lead Global Marketing and Customer AI Strategy",
+      "summary": "Veeam named Mika Yamamoto — a veteran of Microsoft and Juniper Networks — as its global marketing chief, with an explicit mandate to integrate customer-facing AI strategy, signalling how B2B tech firms are now fusing the CMO and AI transformation roles into one seat.",
+      "source": "marketech apac",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWN2TzNFVVdGanloemNuT1FoeXNnMXA1aEcwOHR0czhfc1lMeVJuMDV2R2FrUW4yQUMzejRoMHBFMHRJWktMZHNlZG1iSXZrd19VdjNDVXZpdTgxcTBKZzVBTC00RGFqblNGZkw5ZmVtdFE0Q0dHNXpTZ19McUtZaEJuQWJaZmZyVm42X0VWOExaUUtDektsRmFPZFRpaF9VRkZONVNFZTQ",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone",
-      "imageUrl": "https://imgproxy.divecdn.com/5VbusCsiyw4NDl0ZSvnXvLwm7dkoJExqMMjY02c0oSc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NSEhfRHJpenpsZXJfU3RpbGxfMi5wbmc=.webp"
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "Canada's Super Visa Processing Time for Indians Drops to 50 Days",
+      "summary": "IRCC has significantly cut Super Visa processing times for Indian applicants to around 50 days, offering relief to families seeking extended visits — relevant context for institutions tracking the Indian international student pipeline amid ongoing study permit caps.",
+      "source": "Moneycontrol",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3E1bFY2NFhqbFdrTWFzSDY0a2hZZnZLd1pPMnVUX05sOXdtaDJyQ0xmVmZYR21vUThZXzYyMjdsQy1oVEZMa182OUdoc0ZZTmZGeFRXN3dZUU04Ynp4aEVXTGdia2tvaThWWjZsTk0zT2JQSlJUQ2ZWR21tTnRmVUFoa3pQWi02ZEhUdXhiRXRORUlyeG1yUWFQN05sTTJpVE1rS2RITmQ4MTl6SGw3TmpuZ05BQnJIWFdxSmVIc1U0cjV3Y1lHd2FxN0xWS29ZcDBXZ0lTUW5fUjFubm1qWFRULTTSAeoBQVVfeXFMTXN0cktWUkt2SzU5aTdxWFM2a09ocGhrY29VMlpwME1yRXNtb3BibGRCUE14ZG5RZmxBNURlbkkyNFlBS2tEZGNSQ2hEcnlOQV93UHBybjd6YU9Gc3ZQUW9nNWVFNTZMTXo3SmViUGs3Tl9hLXJMRWF1T05JZlV4bWg2TGZKZ3ZSQzBOX0VvdWZkMklHVUVGVkZVMGJETFNESlZVX1haZUtDV0hodUR0NmxhUzA4Z3Y2MnMxUDJZNFJIcU9YZzlRTGNYZm9INV9rUkVsUEwwdVJWMm9CR0YzMl85SU5RSEs3a3h3",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "LLMs are stuck in a groupthink groove — a startup is trying to fix it",
-      "summary": "MIT Technology Review flags that major LLMs (ChatGPT, Claude, Gemini) converge on near-identical outputs, and a startup is building systems to deliberately introduce divergent reasoning — a structural flaw with direct implications for any brand using AI for strategy or ideation.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "headline": "Midjourney's Medical Scanner Gets a Behind-the-Scenes Video — But Still No Proof It Works",
+      "summary": "Midjourney released a 20-minute tour of its dunk-tank ultrasound scanner it plans to deploy in spas, but The Verge notes the video still offers little evidence the device actually performs as claimed — a significant gap for a product pitched as a medical revolution.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600"
-    },
-    {
-      "id": "story-ai-1",
-      "category": "AI & Tech",
-      "headline": "AI model predicts immunotherapy outcomes across cancer types from tumour data",
-      "summary": "Nature Medicine: A pan-cancer foundation model called COMPASS predicts immunotherapy response across tumour types using bulk transcriptomes, a significant step toward personalising cancer treatment at scale.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04502-7",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04502-7/MediaObjects/41591_2026_4502_Fig1_HTML.png"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=28.441715022566,0,70.316569954868,100"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Mike's Hot Honey kicks off multichannel soccer campaign tied to World Cup moment",
-      "summary": "The brand is extending its 'Drizzle The Mike's' platform into soccer culture during the World Cup — a live case study in how challenger brands use tentpole cultural moments to build reach without owning expensive IP rights.",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/mikes-hot-honey-spurs-experimentation-with-soccer-infused-campaign/824276/",
+      "headline": "Veeam Appoints Mika Yamamoto to Lead Global Marketing and Customer AI Strategy",
+      "summary": "Veeam named Mika Yamamoto — a veteran of Microsoft and Juniper Networks — as its global marketing chief, with an explicit mandate to integrate customer-facing AI strategy, signalling how B2B tech firms are now fusing the CMO and AI transformation roles into one seat.",
+      "source": "marketech apac",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWN2TzNFVVdGanloemNuT1FoeXNnMXA1aEcwOHR0czhfc1lMeVJuMDV2R2FrUW4yQUMzejRoMHBFMHRJWktMZHNlZG1iSXZrd19VdjNDVXZpdTgxcTBKZzVBTC00RGFqblNGZkw5ZmVtdFE0Q0dHNXpTZ19McUtZaEJuQWJaZmZyVm42X0VWOExaUUtDektsRmFPZFRpaF9VRkZONVNFZTQ",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone",
-      "imageUrl": "https://imgproxy.divecdn.com/5VbusCsiyw4NDl0ZSvnXvLwm7dkoJExqMMjY02c0oSc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NSEhfRHJpenpsZXJfU3RpbGxfMi5wbmc=.webp"
+      "thumbnailKind": "megaphone"
     },
     {
-      "id": "story-marketing-1",
-      "category": "Marketing",
-      "headline": "Tom Holland's non-alcoholic beer Bero uses Chase and Barry's partnerships to punch above its weight",
-      "summary": "Bero's strategy — aligning with a financial brand and a fitness chain rather than traditional beer adjacencies — is a sharp example of values-first brand partnership architecture that translates well to consulting decks.",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/how-tom-hollands-nonalcoholic-beer-breaks-through-with-brand-partners/824215/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone",
-      "imageUrl": "https://imgproxy.divecdn.com/BLpLFwDpJGA_VmsgIyMdZ84e8eyH1qEeD5hLC2DCRGA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KTUNMMjM5My5qcGc=.webp"
-    },
-    {
-      "id": "story-higher_ed_canada-0",
+      "id": "story-intl_students_canada-0",
       "category": "Higher Ed",
-      "headline": "Nation-wide university chancellors working group re-initiated to tackle Indigenous student challenges",
-      "summary": "Canadian university chancellors have relaunched a cross-institutional working group focused on Indigenous student success — a governance and equity signal that could open doors for consulting work on enrolment strategy and campus inclusion initiatives at member institutions.",
-      "source": "Google News: Thompson Rivers University",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQazBkb24yM2U2YW9FQ3ZtNG9oejVJdnRxMk5oamtFTk01WFFWeGkzQmJtSHF0LXlyQ0FhSVpBOFFWMkRXZ3FDalRFRVVGem1vXzFKRTBDVU5aT1FkNjJreGtERU1kWjFGenZsQS10MjNSdnI3eEZkZ0lHdkFQenZ0UExReFNwNWY1QWw1ZFhDN2ZOMFh4My1rTjZXZFl2cThLSFFYSDZKRHoxR01zeWNINjJVYnRQMXBXSVZjU0lIRTI5dWVPc2NNdW9id3FNRWRLcXFNRWxTSWxRWUkwZ2cxcndCb0NYd0Z2OE5j?oc=5",
+      "headline": "Canada's Super Visa Processing Time for Indians Drops to 50 Days",
+      "summary": "IRCC has significantly cut Super Visa processing times for Indian applicants to around 50 days, offering relief to families seeking extended visits — relevant context for institutions tracking the Indian international student pipeline amid ongoing study permit caps.",
+      "source": "Moneycontrol",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3E1bFY2NFhqbFdrTWFzSDY0a2hZZnZLd1pPMnVUX05sOXdtaDJyQ0xmVmZYR21vUThZXzYyMjdsQy1oVEZMa182OUdoc0ZZTmZGeFRXN3dZUU04Ynp4aEVXTGdia2tvaThWWjZsTk0zT2JQSlJUQ2ZWR21tTnRmVUFoa3pQWi02ZEhUdXhiRXRORUlyeG1yUWFQN05sTTJpVE1rS2RITmQ4MTl6SGw3TmpuZ05BQnJIWFdxSmVIc1U0cjV3Y1lHd2FxN0xWS29ZcDBXZ0lTUW5fUjFubm1qWFRULTTSAeoBQVVfeXFMTXN0cktWUkt2SzU5aTdxWFM2a09ocGhrY29VMlpwME1yRXNtb3BibGRCUE14ZG5RZmxBNURlbkkyNFlBS2tEZGNSQ2hEcnlOQV93UHBybjd6YU9Gc3ZQUW9nNWVFNTZMTXo3SmViUGs3Tl9hLXJMRWF1T05JZlV4bWg2TGZKZ3ZSQzBOX0VvdWZkMklHVUVGVkZVMGJETFNESlZVX1haZUtDV0hodUR0NmxhUzA4Z3Y2MnMxUDJZNFJIcU9YZzlRTGNYZm9INV9rUkVsUEwwdVJWMm9CR0YzMl85SU5RSEs3a3h3",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
     },
     {
-      "id": "story-higher_ed_canada-1",
-      "category": "Higher Ed",
-      "headline": "China's outbound student numbers are slowing while it attracts more international students inbound",
-      "summary": "With roughly 380,000 foreign students now studying in China and Chinese outbound mobility plateauing, Canadian universities dependent on Chinese enrolment face a structural market shift that demands new recruitment strategies — a direct consulting opportunity.",
-      "source": "ICEF Monitor",
-      "url": "https://monitor.icef.com/2026/07/china-in-2026-slowing-outbound-student-mobility-accelerating-inbound-momentum/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/07/yifan-cong-GszVE92a5Rs-unsplash-1200.jpg"
-    },
-    {
-      "id": "story-higher_ed_canada-2",
-      "category": "Higher Ed",
-      "headline": "Australia holds its 2027 international student cap at 295,000, signalling stability amid global competition",
-      "summary": "Canberra is keeping its National Planning Level unchanged and guaranteeing no active provider will receive a lower allocation, giving Australian universities a competitive certainty that Canadian institutions currently lack given Ottawa's tighter study permit environment.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/australia-maintains-2027-international-student-planning-level-at-295000/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2025/04/iStock-1372043690-1.jpg"
-    },
-    {
       "id": "story-canadian_real_estate-0",
       "category": "Real Estate",
-      "headline": "Trump calls housing affordability 'so unimportant' — contradicting his own prior pledges on home values",
-      "summary": "Trump's dismissive comment on housing affordability creates political uncertainty for US housing policy, with downstream effects on cross-border real estate sentiment and investor behaviour in markets like Metro Vancouver and the Fraser Valley where US capital flows matter.",
-      "source": "Google News: US housing market",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTVKdXVaUGFZcGdMSlYzTjN0RGNVV1R4Tkg3b0xpME82TzZhN3BaNHlxNm5IQV9ubHdiRHZpVGZYYTVhLURtQ3JRTV9TdzdhRE1NN0ZNRnFldkJsLWJKekhXQ2JkUk1Yd3RJd0FSay1SZktTNW1TX194d3hhY3A1aHVhWjZmS3hpMWUtYlY0VHA2dUdpTHJUZHc?oc=5",
+      "headline": "Analysts Cut Canadian Dollar Forecasts as CUSMA Uncertainty Dampens Rate Cut Expectations",
+      "summary": "Bay Street analysts are lowering CAD targets as trade-deal uncertainty with the US keeps the Bank of Canada cautious, reducing the probability of near-term rate cuts that buyers and mortgage holders were counting on heading into the fall market.",
+      "source": "BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTGdha0M0c1ZSWEVHYTJYd3pOTjZMMGRqaV9LUTFNTWJGX1JPVXM1c1JQZUVYcXc2Q01mN3RXY09maHpZM2hXU2xjNHduQUtKMkdPbG9tU2NRU2U4M1lUY2JKUll6aWhKU0FYTnU2QXl5OXJxaEQwOEpkTjlnbWNDbnNsTlJfcDdSMElCalNPUHN5NjFJakN3WF9VaEdhbGNVNFFFb1ROX3dFUnVIOGdQalFjcmJaamhXeHpGblp3d2UtRUMzRjBsa0Jxdw",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house"
@@ -149,148 +98,81 @@
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "Kim Mitchell and The Trews headline Rockin' In The Peaks this weekend in Sun Peaks",
-      "summary": "The annual summer music festival returns to Sun Peaks resort this weekend with a headliner lineup that should drive strong visitor traffic — relevant to short-term rental owners in the area.",
-      "source": "Google News: Sun Peaks",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbUdiMUNpQXFuaEY2TGZaV2lsOHd3RnJlU1YxcnFyTnA3MTdnXy1uY0twM01kZG9OMFBNaG84OG9sRDZrR01rRDhGV19kTllfT1B0VlRsZ2loVXBzS0JYY0ZtYjlheUJUb0N0NEJVQi1Ma01OZC1LckwweE5BUWY1NnJjZlFwa0tJWkpORmJMZGROS0ttbUlVT09VX21lT09vZURZLWZFekRRMmVDNkJjbUczQmIyalVjZDBMRlg5NXh0ekpURUxTUjc1a1RtT0Vma3c?oc=5",
+      "headline": "Kamloops Residents Approve Financing for Combined Search and Rescue HQ and Fire Hall",
+      "summary": "Kamloops residents have signed off on the financials for a new facility that will co-locate search and rescue operations and a fire hall, consolidating emergency services infrastructure in the city.",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcHpxMHJWSkh0WkZadnc5ZXNXZXVOTzV5dHQ1Z25lSEtPaDFfWG1iSzFVTzk3U3dnUjFmbXBHMFc3ZElfbWZxZ0xXRmpqbGRxZTU5S1pTOTVaR0pWQWE4X1pYbmF0OGI5ZnNlcnRfMkZQNkxGWnIwT3lqaFdWQmtZaWhPUHM4eEtMbEhiOVctMTVkVUtxTzNNNjV4dnBQb3pONzF6U1NB",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
-    },
-    {
-      "id": "story-kamloops_sun_peaks-1",
-      "category": "Local News",
-      "headline": "Proposed West Coast pipeline could deliver another economic boost for Kamloops",
-      "summary": "A newly proposed pipeline routed through or near Kamloops is being pitched as a significant economic driver for the region, building on prior resource-sector gains — worth tracking for local commercial real estate and business climate signals.",
-      "source": "Google News: Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnBVYUppNm42Wk9UUUdpNzdRNGwyY0dwMXVIVUp0UHpCM3liaVM3MEM1OHFhRjlnNGR4VzI4OHBUQ09RbDZ3TGNEcUlpY3lSY3VHV25BUkVvTlZQLXl0WTM2VEk1S0FKaVVLYzFWNGVUNG9hWDVoRDhPNUZ4bjJjUVNrZkY1S3IwT0t1bGxERkp1dV9VbXd4aWw2RXFkS0Jla25uOW44Q005X081ZndlSl9zY0l6OE1DZDY3dHpENC1oQWdWM2llWDN5V2E?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "mountains"
-    },
-    {
-      "id": "story-kamloops_sun_peaks-2",
-      "category": "Local News",
-      "headline": "Canada set to battle Morocco in World Cup round-of-16 matchup Saturday in Houston",
-      "summary": "Canada's historic run continues as they face Morocco on Saturday — the country is watching, and the cultural moment has real marketing resonance for any brand or institution trying to connect with Canadian audiences right now.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/07/03/canada-set-to-battle-morocco-in-world-cup-round-of-16-matchup/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "mountains",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F8b758589-c899-45e1-b91a-9923ece7d735%2F11fc8d8692cc3f8a7c33cdc3b589241dc7172fb427a19a995b3748f4688dfc75.jpg"
-    },
-    {
-      "id": "story-global_business_tech-0",
-      "category": "Global",
-      "headline": "Ukraine is striking Russian oil refineries, weapons factories, and bomber bases almost at will",
-      "summary": "Repeated Ukrainian drone strikes are causing fuel shortages inside Russia and forcing redeployment of air defences away from military targets — a significant escalation in the conflict's economic warfare dimension that is reshaping European energy markets.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/03/ukraine-russia-drone-flamingo-strikes",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "globe",
-      "imageUrl": "https://images.axios.com/jcn-K30gv1Y9ttBBUJnb-ocatvc=/2144x0:7623x5479/320x320/2026/07/01/1782929007546.jpeg"
-    },
-    {
-      "id": "story-longevity-0",
-      "category": "Longevity",
-      "headline": "Nature Medicine: AI model generalises immunotherapy outcome prediction across all major cancer types",
-      "summary": "Nature Medicine: COMPASS, trained on bulk tumour transcriptomes, predicts immunotherapy response across cancer types without retraining — a potential clinical decision tool that could change how oncologists choose treatment paths in the near term.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04502-7",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "leaf",
-      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04502-7/MediaObjects/41591_2026_4502_Fig1_HTML.png"
-    },
-    {
-      "id": "story-longevity-1",
-      "category": "Longevity",
-      "headline": "Nature Medicine: Framework established for immune aging biomarkers in clinical trials",
-      "summary": "Nature Medicine: Researchers publish a standardised framework for selecting immune aging biomarkers suitable for geroscience clinical trials, accelerating the path to interventions that could slow immune system decline in older adults.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04493-5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "leaf",
-      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04493-5/MediaObjects/41591_2026_4493_Fig1_HTML.png"
     }
   ],
   "audioChapters": [
     {
       "id": "c1",
-      "title": "AI & Tech",
-      "category": "AI & Tech",
-      "duration": "2:11",
-      "startSeconds": 13
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "2:02",
+      "startSeconds": 15
     },
     {
       "id": "c2",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "1:48",
-      "startSeconds": 144
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "2:19",
+      "startSeconds": 136
     },
     {
       "id": "c3",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "2:45",
-      "startSeconds": 252
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:34",
+      "startSeconds": 275
     },
     {
       "id": "c4",
-      "title": "Real Estate & AirBnB",
-      "category": "Real Estate",
-      "duration": "0:49",
-      "startSeconds": 416
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "1:47",
+      "startSeconds": 369
     },
     {
       "id": "c5",
       "title": "Local News",
       "category": "Local News",
-      "duration": "1:12",
-      "startSeconds": 466
+      "duration": "1:06",
+      "startSeconds": 476
     },
     {
       "id": "c6",
       "title": "Global News",
       "category": "Global",
-      "duration": "0:57",
-      "startSeconds": 538
-    },
-    {
-      "id": "c7",
-      "title": "Longevity",
-      "category": "Longevity",
-      "duration": "1:15",
-      "startSeconds": 594
+      "duration": "0:50",
+      "startSeconds": 542
     }
   ],
   "upNext": {
-    "id": "story-ai-1",
-    "category": "AI & Tech",
-    "headline": "AI model predicts immunotherapy outcomes across cancer types from tumour data",
-    "summary": "Nature Medicine: A pan-cancer foundation model called COMPASS predicts immunotherapy response across tumour types using bulk transcriptomes, a significant step toward personalising cancer treatment at scale.",
-    "source": "Nature Medicine",
-    "url": "https://www.nature.com/articles/s41591-026-04502-7",
+    "id": "story-marketing-0",
+    "category": "Marketing",
+    "headline": "Veeam Appoints Mika Yamamoto to Lead Global Marketing and Customer AI Strategy",
+    "summary": "Veeam named Mika Yamamoto — a veteran of Microsoft and Juniper Networks — as its global marketing chief, with an explicit mandate to integrate customer-facing AI strategy, signalling how B2B tech firms are now fusing the CMO and AI transformation roles into one seat.",
+    "source": "marketech apac",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWN2TzNFVVdGanloemNuT1FoeXNnMXA1aEcwOHR0czhfc1lMeVJuMDV2R2FrUW4yQUMzejRoMHBFMHRJWktMZHNlZG1iSXZrd19VdjNDVXZpdTgxcTBKZzVBTC00RGFqblNGZkw5ZmVtdFE0Q0dHNXpTZ19McUtZaEJuQWJaZmZyVm42X0VWOExaUUtDektsRmFPZFRpaF9VRkZONVNFZTQ",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "chip",
-    "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04502-7/MediaObjects/41591_2026_4502_Fig1_HTML.png"
+    "thumbnailKind": "megaphone"
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "LLMs are stuck in a groupthink groove — a startup is trying to fix it",
-    "summary": "MIT Technology Review flags that major LLMs (ChatGPT, Claude, Gemini) converge on near-identical outputs, and a startup is building systems to deliberately introduce divergent reasoning — a structural flaw with direct implications for any brand using AI for strategy or ideation.",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+    "headline": "Midjourney's Medical Scanner Gets a Behind-the-Scenes Video — But Still No Proof It Works",
+    "summary": "Midjourney released a 20-minute tour of its dunk-tank ultrasound scanner it plans to deploy in spas, but The Verge notes the video still offers little evidence the device actually performs as claimed — a significant gap for a product pitched as a medical revolution.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=28.441715022566,0,70.316569954868,100"
   },
-  "heroImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600"
+  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=28.441715022566,0,70.316569954868,100"
 }

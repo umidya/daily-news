@@ -12,7 +12,7 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 03 Jul 2026 11:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 12:26:23 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
@@ -21,9 +21,9 @@
     <item>
       <title>Daily News for Friday, July 3, 2026</title>
       <link>https://umidya.github.io/daily-news/digests/2026-07-03.html</link>
-      <description>Three threads deserve your immediate attention this Friday. First, AI's groupthink problem — newly surfaced by MIT Tech Review — is directly relevant to your consulting pitch: if clients are using LLMs for brand strategy and market research, they're likely getting homogenized out...</description>
+      <description>Today's digest is lean on volume but rich on signals that matter directly to your work and life, Midya. The Canadian dollar story is the thread to pull hardest: CUSMA uncertainty suppressing rate-cut expectations has a direct read-through to your BC property portfolio and the tim...</description>
       <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-03.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-03.mp3" length="14065920" type="audio/mpeg"/>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-03.mp3" length="12538080" type="audio/mpeg"/>
       <pubDate>Fri, 03 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
