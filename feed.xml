@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 04 Jul 2026 11:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 11:37:12 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Saturday, July 4, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-04.html</link>
-      <description>Today's news cycle is light on the usual AI-and-marketing fireworks, but a few threads run directly through your world, Midya. The BC wildfire near Boston Bar is active and spreading — worth watching given your Sun Peaks property and family in the region, especially as we enter p...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-04.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-04.mp3" length="14835360" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Sunday, July 5, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-05.html</link>
+      <description>The dominant story touching your world today is the wildfire situation around Kamloops — smoke is already drifting into the city, and with multiple fires burning in the Kamloops Fire Centre region, this is a direct family-safety and property concern worth monitoring closely. On t...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-05.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-05.mp3" length="14535360" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
