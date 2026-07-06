@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 05 Jul 2026 11:37:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 11:41:07 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, July 5, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-05.html</link>
-      <description>The dominant story touching your world today is the wildfire situation around Kamloops — smoke is already drifting into the city, and with multiple fires burning in the Kamloops Fire Centre region, this is a direct family-safety and property concern worth monitoring closely. On t...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-05.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-05.mp3" length="14535360" type="audio/mpeg"/>
-      <pubDate>Sun, 05 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, July 6, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-06.html</link>
+      <description>Two threads deserve your sharpest attention this week, Midya. First, the LiveRamp-Publicis story is a direct signal to your consulting thesis: brand trust and data neutrality are becoming the new battleground in AI-powered marketing, and any Canadian university or brand you pitch...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-06.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-06.mp3" length="15012480" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
