@@ -12,7 +12,7 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 06 Jul 2026 11:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 14:09:28 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
@@ -21,9 +21,9 @@
     <item>
       <title>Daily News for Monday, July 6, 2026</title>
       <link>https://umidya.github.io/daily-news/digests/2026-07-06.html</link>
-      <description>Two threads deserve your sharpest attention this week, Midya. First, the LiveRamp-Publicis story is a direct signal to your consulting thesis: brand trust and data neutrality are becoming the new battleground in AI-powered marketing, and any Canadian university or brand you pitch...</description>
+      <description>Monday opens with a cluster of signals that cut directly across your work and life, Midya. Microsoft's fresh round of 4,800 layoffs — concentrated in commercial sales — tells you AI is restructuring the revenue engine of the world's largest software company in real time, which is...</description>
       <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-06.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-06.mp3" length="15012480" type="audio/mpeg"/>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-06.mp3" length="13705920" type="audio/mpeg"/>
       <pubDate>Mon, 06 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>

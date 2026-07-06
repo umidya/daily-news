@@ -3,280 +3,282 @@
   "date": "Monday, July 6, 2026",
   "dateIso": "2026-07-06",
   "greeting": "Good morning, Midya",
-  "totalDuration": "12:30",
+  "totalDuration": "11:25",
   "currentTime": "0:00",
-  "remaining": "12 min total",
+  "remaining": "11 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Two threads deserve your sharpest attention this week, Midya. First, the LiveRamp-Publicis story is a direct signal to your consulting thesis: brand trust and data neutrality are becoming the new battleground in AI-powered marketing, and any Canadian university or brand you pitch should be asking exactly these questions about their martech stack. Second, TRU's senate-board governance friction is a named-institution story in your backyard — governance instability at a university is both a consulting opening and a community issue worth watching closely.",
+  "digestIntro": "Monday opens with a cluster of signals that cut directly across your work and life, Midya. Microsoft's fresh round of 4,800 layoffs — concentrated in commercial sales — tells you AI is restructuring the revenue engine of the world's largest software company in real time, which is both a cautionary tale and a consulting opportunity as organisations scramble to reframe their go-to-market strategies. The BC wildfire near Boston Bar has an active evacuation order and is growing fast; given your family is in BC and you spend time on the highway corridor between Kamloops and the Lower Mainland, that route warrants a check before you travel.",
   "digestReadingTime": "6 min read",
-  "whyItMatters": "Two threads deserve your sharpest attention this week, Midya. First, the LiveRamp-Publicis story is a direct signal to your consulting thesis: brand trust and data neutrality are becoming the new battleground in AI-powered marketing, and any Canadian university or brand you pitch should be asking exactly these questions about their martech stack. Second, TRU's senate-board governance friction is a named-institution story in your backyard — governance instability at a university is both a consulting opening and a community issue worth watching closely. On the geopolitical front, Khamenei's death and the NATO summit in Ankara are reshaping the global risk environment that affects trade, energy, and your clients' planning horizons. Finally, Meta's CMO appointment signals a reset in how the world's largest ad platform wants to present itself — worth tracking as you refine your AI-marketing positioning.",
+  "whyItMatters": "Monday opens with a cluster of signals that cut directly across your work and life, Midya. Microsoft's fresh round of 4,800 layoffs — concentrated in commercial sales — tells you AI is restructuring the revenue engine of the world's largest software company in real time, which is both a cautionary tale and a consulting opportunity as organisations scramble to reframe their go-to-market strategies. The BC wildfire near Boston Bar has an active evacuation order and is growing fast; given your family is in BC and you spend time on the highway corridor between Kamloops and the Lower Mainland, that route warrants a check before you travel. Canada's revised study permit wait times signal continued flux in the international student pipeline that feeds the universities you're targeting as clients — any disruption upstream reshapes their enrolment forecasts and marketing budgets downstream. And the Conair AI video ad story is a quiet but concrete proof point you should have in your back pocket for client conversations about AI in marketing production.",
   "audioUrl": "https://umidya.github.io/daily-news/audio/2026-07-06.mp3",
-  "audioDurationSeconds": 750,
-  "audioScript": "Good morning, Midya. It's Monday, July 6th, 2026. Here's what matters today — a day that is unusually dense at the intersection of AI, marketing trust, local governance, and global geopolitics all at once.\n\nLet's start where your consulting practice lives, because the marketing story of the day has direct implications for every pitch you make. LiveRamp — the data connectivity company that many brands and agencies use as a kind of neutral layer between their first-party data and their advertising partners — has launched a brand campaign on Netflix. The timing is loaded: Publicis, one of the world's largest holding companies, now has a significant ownership stake in LiveRamp, and the rest of the ad industry is loudly questioning whether LiveRamp can remain a neutral infrastructure player when it's effectively owned by one of the biggest buyers of media and data in the world.\n\nWhy does this matter to you specifically? Because one of the sharpest questions any marketing consultant can bring into a room right now is: who owns your data infrastructure, and whose interests does it actually serve? The neutrality question is not abstract. If you are a Canadian university CMO building a first-party data strategy — tracking prospective students, alumni engagement, donor pipelines — you are making decisions about which data partners to trust. The LiveRamp situation is a case study in how consolidation in adtech quietly changes the rules of the game without anyone announcing it. When you walk into a university marketing consultation, and you can frame the question of martech stack neutrality through this lens, you are bringing insight that most internal teams don't have the vantage point to see.\n\nAlso in marketing: Meta has appointed a new CMO. The snippet is thin on detail — the new name isn't in the available reporting — but the signal matters. Meta changing its chief marketing officer is a reset in how the world's most consequential social advertising platform wants to be perceived. Given that Meta is in the middle of repositioning itself as an AI-first platform — from AI Studio to its Llama models to its Advantage+ ad automation — a CMO change there tends to ripple outward. Watch for the new appointee's priorities; they'll tell you a lot about where Meta's brand and advertiser relationships are heading over the next 18 to 24 months.\n\nOn the AI front, there is a structural story that deserves more attention than it is getting. A startup called Ornn, backed by Andreessen Horowitz, just closed a 33-million-dollar seed round to build a commodity exchange for AI compute — specifically GPU compute power. The analogy they are using is jet fuel futures: airlines lock in fuel prices months in advance to smooth out volatility, and manufacturers hedge metals. Ornn wants AI companies, startups, and enterprise buyers to be able to do the same thing with the GPU capacity that runs their models.\n\nThis is not a niche infrastructure story. If this market matures, it changes the economics of building and running AI products in a fundamental way. Right now, compute access is one of the biggest gatekeeping mechanisms in AI — the companies with the deepest pockets and the best NVIDIA relationships get the compute, and everyone else scrambles. A liquid futures market for compute would, in theory, let smaller players lock in capacity at predictable prices, which could be genuinely democratising. It is also the kind of thing that, five years from now, you will wish you had been tracking from the beginning. File it.\n\nAlso in AI: STAT News ran a substantive interview with Anthropic's CEO about how AI is actually changing biotech and pharmaceutical development. The piece makes a fairly bullish case — not hype, but a documented argument that drug discovery timelines are shortening, clinical trial design is being optimised by machine learning, and pharma companies are seeing real productivity gains, not just pilot projects. For you, the relevance is twofold. First, biotech and health are adjacent to the longevity and wellness space you track. Second, Anthropic is increasingly positioning itself as the enterprise-safe AI option — the alternative to OpenAI for regulated industries like health and finance — and understanding that positioning helps you advise clients who are asking which AI partner to trust.\n\nNow to higher education, and there is a genuinely local story here that sits at the intersection of your consulting pipeline and your community. Thompson Rivers University — TRU, right there in Kamloops — is dealing with senate-board governance friction. Castanet Kamloops is reporting that TRU's senate has struck a new working group specifically to improve its relationship with the board of governors, and that there are questions being raised about transparency in how those two bodies communicate and share information.\n\nOn the surface, this sounds procedural. But governance friction between a university senate and its board is almost always a symptom of deeper strategic disagreements — about enrolment direction, financial priorities, program investments, or institutional identity. When a university is working through that kind of internal tension, they are often in the market for outside perspective on communications, strategy, and stakeholder alignment. That is a consulting opening. Not to opportunistically pile on, but to be genuinely useful to an institution that is trying to navigate complexity. TRU is your home institution in Kamloops, and understanding what is happening there in real time is both good citizenship and good business development intelligence. Keep this thread on your radar.\n\nAlso in BC higher education: the University of Northern British Columbia — UNBC — has been accepted into the latest Dimensions Canada cohort. Dimensions Canada is the national equity, diversity, and inclusion program for post-secondary research institutions, and being accepted into a new cohort means UNBC is deepening its institutional commitment to EDI in research culture. This is a named BC institution building a public-facing brand story around inclusion and research excellence simultaneously. For a consultant who understands brand strategy and can connect EDI commitments to enrolment marketing and stakeholder communications, UNBC is a possible conversation worth initiating.\n\nFor real estate, the most practically useful story today is new survey data on why Canadian buyers are staying on the sidelines. The answer, it turns out, is not macro uncertainty — not interest rate anxiety, not geopolitical nerves. It is pure affordability. Buyers know what they want, they broadly understand the market environment, and they simply cannot make the numbers work. This is an important reframe. For months, the dominant narrative was that buyers were waiting for rate cuts or policy clarity before jumping in. If affordability — not confidence — is the real barrier, then further rate cuts alone will not unlock the market the way some forecasters have assumed. For your BC property holdings across Sun Peaks, Langley, and Vancouver, this suggests that the market is not going to snap back dramatically even if conditions ease; structural affordability constraints will keep a lid on demand.\n\nOn the local front, beyond the TRU governance story already covered: federal public servants across Canada began a mandatory four-days-in-office week today, and the early reporting is that office space is already scarce. This is relevant on a couple of levels. In Kamloops, where there is a meaningful federal government presence, the pressure on commercial office space is real — and that has downstream effects on the local property market and on how employers in the region compete for talent. More broadly, the return-to-office push across the federal government is a live experiment in workplace culture that is happening at scale, and the early friction — not enough desks, not enough parking, not enough meeting rooms — is a useful data point for anyone advising organisations on hybrid work strategy or office footprint decisions.\n\nGlobally, two events are dominating Monday in ways that matter for any senior leader tracking geopolitical risk. First, Iran has begun the state funeral procession for Supreme Leader Ayatollah Ali Khamenei in Tehran. Khamenei's death is one of the most consequential leadership transitions in the Middle East in decades. Iran without Khamenei enters an uncertain succession period at a moment when its nuclear programme, its proxy relationships, and its economic pressures are all at critical junctures. The region will be volatile in the near term; energy markets, global shipping, and the security calculus for Western governments are all in play.\n\nSimultaneously, Prime Minister Mark Carney has travelled to Ankara for the NATO summit. The summit's framing — \"the cost of drama is too high\" — suggests leaders are trying to project unity and discipline at a moment when the alliance is managing everything from Ukraine fatigue to Turkey's ambiguous positioning to an increasingly assertive China. Canada's presence and Carney's early positioning on the global stage are worth watching for anyone tracking Canadian government priorities, because those priorities shape funding, immigration policy, and the international student landscape that directly affects your higher-ed work.\n\nAlso worth noting: China test-fired a submarine-launched ballistic missile in the South Pacific — specifically in a region designated as a nuclear-free zone under international treaty. This is not a routine military exercise. Doing it in a treaty-protected zone is a deliberate signal, and it will accelerate conversations in Washington, Ottawa, Canberra, and Tokyo about Indo-Pacific security posture. The ripple effects on trade, technology supply chains, and semiconductor access — which connects back to the compute commoditisation story — are all live threads.\n\nTwo longevity stories worth your attention, both from credible sources. Nature Medicine published a commentary arguing that data rights — not just informed consent — need to become a foundational pillar of medical ethics in the AI era. The argument is that current consent frameworks were designed for a world where data was collected for a specific study and then filed away; in a world where AI systems are continuously trained on health data, the relationship between patient and data is ongoing and dynamic in a way that informed consent forms simply do not capture. This matters beyond medicine — it is a precise articulation of a problem that also exists in marketing, in education technology, and in any domain where AI systems are being trained on personal data. If you ever need a rigorous intellectual anchor for the data rights conversation with a client, this Nature Medicine piece gives you one.\n\nOn GLP-1s: Novo Nordisk's oral semaglutide — the Wegovy pill, as opposed to the injection — is now available in UK pharmacies without a prescription. This is a significant access milestone. The injectable form transformed obesity treatment, but the barrier of weekly injections kept many potential users from starting or staying on therapy. An oral option changes that calculus meaningfully. The UK is often a bellwether for where North American regulatory thinking is heading, so if you are tracking GLP-1 developments for personal or family health reasons — or simply as an observer of one of the most significant pharmaceutical shifts in a generation — this is the story to watch.\n\nThat is your Monday briefing, Midya. The thread that connects today's most important stories is trust infrastructure — who owns the data layer in marketing, who controls compute access in AI, who governs the institutions your clients inhabit, and whose interests are actually served by the systems we all depend on. Those are not abstract questions; they are the questions a sharp consultant surfaces before clients even know they need to ask them. Go make Monday count.",
+  "audioDurationSeconds": 685,
+  "audioScript": "Good morning, Midya. It's Monday, July sixth, twenty twenty-six. There is a lot cutting across your work and your life today — let's get into it.\n\nI want to lead with something practical and urgent before we get into the business stories, because it affects where you can safely travel this week. There is an active, out-of-control wildfire burning near Boston Bar, BC. As of this morning it has exceeded twelve hundred hectares and evacuation orders are in place for parts of the area. Boston Bar sits right on the Highway 1 Coquihalla corridor — the main ground route between Kamloops and Metro Vancouver. If you have any travel planned between those two points this week, check DriveBC and the BC Wildfire Service dashboard before you leave. Conditions can shift quickly, and that corridor has seen road closures at short notice before. This is not a story you need to read deeply — it's one you need to act on. Check the route status today.\n\nAlso in the miscellaneous-but-important column: there is a significant wave of food and product recalls hitting major Canadian retailers right now. Sobeys, Farm Boy, Decathlon, and Amazon Canada are all named. The source is CFIA-linked, which means it has regulatory teeth. If your household shops at any of those retailers regularly — and who doesn't — it is worth clicking through the recall list. These tend to cover everything from allergen mislabelling to contamination, and they move fast. A two-minute check is worth it for family peace of mind.\n\nAnd one more BC health story worth your attention: new data shows BC hospital emergency departments have been temporarily closed nearly twenty-four hundred times over the past three years. That is not a typo. Twenty-four hundred closures in three years, disproportionately concentrated in smaller and rural communities. The Chetwynd ER was closed for roughly ten percent of the year, on average. This matters to you not just as a BC resident with family across the province, but because it speaks to the fragility of the health infrastructure in the corridors you travel. Rural BC is not the safety net people assume it is.\n\nNow let's turn to the business and technology story that's going to set the tone for the week. Microsoft announced this morning that it is laying off approximately forty-eight hundred employees — roughly two point one percent of its global workforce. These are not random cuts. The majority of affected employees are in Microsoft's commercial sales organisation, with a secondary tranche coming from the Xbox division. This is the second significant round of cuts in just over a year: Microsoft eliminated around ninety-one hundred jobs in mid-twenty twenty-five. The timing is deliberate. This is the first day of Microsoft's new fiscal year, which is the corporate equivalent of sending a message.\n\nHere is the part that should matter to you specifically. Commercial sales is being restructured because AI tools are now doing meaningful parts of what junior and mid-level sales and account management roles used to do. When the world's largest enterprise software company decides that AI-driven productivity is sufficient to justify cutting thousands of revenue-facing employees at the start of a new fiscal year, that is not a signal — it's a confirmation. The shift is happening now, at scale, at the top of the market. For your consulting practice, this is both a cautionary tale and a live brief. Every organisation watching Microsoft will be asking the same question: where do we restructure around AI, and how do we manage the human and brand implications of doing so? That is squarely in your wheelhouse.\n\nOn a related front, Paris-based startup hub Station F is launching a new cohort of its F/ai accelerator program, doubling down on Europe's ambition to build AI startups that can compete globally. This is a quieter story, but worth tracking as context. Europe is moving from regulatory posturing around AI to actually building the pipeline of AI-native companies. Station F has real credibility — Xavier Niel's track record is solid — and the startups coming out of this cohort will be looking for go-to-market support in a market where AI-fluent marketing consultants are rare. Worth keeping an eye on the cohort announcements as they come.\n\nThe marketing story of the morning is genuinely useful for client conversations, and I'd suggest bookmarking it. Conair — the consumer electronics and appliances company — ran an A/B test using Amazon's AI video generation tool to produce ads for its Cuisinart brand. The result: production timelines were compressed by months. That is not weeks. Months. But here is the nuance that makes this story valuable rather than just a hype piece: humans were still required to complete the project. The AI got you eighty percent of the way there, dramatically faster, but the finishing work — the brand judgment, the contextual refinement, the quality gate — remained a human function.\n\nThat gap between 'AI compresses production' and 'AI replaces production' is exactly the framing you want to bring to Canadian university marketing departments. These institutions are under enormous budget pressure. Their marketing teams are being asked to do more with less. The pitch is not 'AI will do your job' — the pitch is 'AI can give your team the leverage of a team three times its size, if you know how to deploy it.' The Conair case is a real-world proof point from a recognisable consumer brand, and it is recent. Use it.\n\nTwo higher education stories this morning, and together they tell a story about competitive positioning that is directly relevant to your client pipeline.\n\nFirst: Canada has revised its processing timelines for study permits and Super Visas, with specific implications for Indian applicants — the single largest source market for Canadian international student enrolment. The headline is framed around wait times, but the underlying signal is that the pipeline from India to Canadian campuses remains in active flux. Institutions that built their twenty twenty-six and twenty twenty-seven enrolment projections on stable Indian intake numbers need to revisit those assumptions. For you, this is both a watch item and a conversation opener. Any Canadian university that is re-forecasting its international enrolment right now is also almost certainly re-evaluating how it markets to that cohort, which channels it uses, and whether it has the internal capability to adapt quickly. That is a consulting engagement.\n\nSecond: Australia. The CEO of the Independent Tertiary Education Council Australia has published a blunt assessment: Australia's international education sector, which should be a global powerhouse, has instead become a story of squandered promise. Policy instability, caps on student numbers, and a failure to project a coherent value proposition globally have eroded Australia's position. This matters to Canadian institutions for a specific reason: Australia and Canada have been the two primary English-language destinations competing for the same cohort of international students from South and Southeast Asia. If Australia is visibly weakening, there is a window. Canadian universities that can articulate a clear, stable, well-marketed value proposition right now have a genuine competitive advantage. The question is whether they have the marketing infrastructure and strategic clarity to capture it. Most of them don't. That is a real business opportunity for you.\n\nOne real estate story worth your attention this morning, and it is an interesting one because it is essentially a corrective to hype you will likely hear from PropTech vendors. HousingWire published a piece arguing that despite the sales pitch, AI is not going to make residential land development easy. The argument is sharp: the most dangerous pitch in business is not that a tool is powerful, it is that a tool will make a hard business easy. Find sites faster. Underwrite instantly. Source off-market deals at scale. Remove friction. The problem is that land development is hard precisely because it involves local market nuance, regulatory complexity, community relationships, and judgment calls that do not reduce to data. AI can support those decisions, but it cannot replace the judgment behind them.\n\nFor your portfolio — Sun Peaks, Langley, Vancouver — this is useful framing. As BC's short-term rental and housing policy environment continues to evolve, you will encounter pitches from platforms and tools claiming AI can simplify the decision-making. Some of those tools are genuinely useful. But the ones promising to remove friction entirely are overselling. The HousingWire piece is a good intellectual anchor for staying critical about what AI can and cannot do in a regulatory and hyper-local environment like BC real estate.\n\nOn the global front, Prime Minister Carney is making a stop in Halifax today ahead of the NATO summit, and the announcement is widely expected to be Canada's choice of prime contractor for the long-delayed submarine acquisition program. This is a significant moment for Canadian defence procurement — a file that has been stalled for years — and the timing ahead of NATO is clearly intentional. Canada has faced sustained pressure from allies to demonstrate credible defence investment, and a submarine contract announcement signals that Carney is arriving at the NATO table with something concrete. The downstream effects on federal procurement, industrial policy, and defence-adjacent supply chains in BC will be worth tracking as details emerge.\n\nLocally, a couple of lighter items from Kamloops. Kamloops United FC wrapped up their 2026 BC Premier League season over the weekend — no details on final standings yet, but it closes out a home-season for the club. And on the federal procurement front — which came through CFJC Today — Ottawa is promising to simplify the procurement process to make it easier for small and medium-sized businesses to access federal contracts. This is national policy, but it has real relevance for a consulting practice based in BC. If the rules around federal RFPs become less prohibitive for smaller firms, that opens doors that have historically been sized for large consultancies. Worth watching as details of the simplified framework are released.\n\nThat's your Monday briefing, Midya. The through-line today is adaptation — Microsoft restructuring its sales force around AI, Australia losing ground in international education, BC's rural health infrastructure under strain, and a wildfire that is actively reshaping a key travel corridor. Each of those stories asks the same underlying question: who has built the flexibility to respond quickly, and who is still operating on last year's assumptions? That question applies as much to your consulting clients as it does to the institutions and companies in the news. Check the Boston Bar wildfire status before you make any travel plans this week, and have a strong start to the month.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Startup Bets Investors Want to Trade GPU Compute Like a Commodity",
-      "summary": "Andreessen Horowitz-backed Ornn raised a $33M seed round to build a futures marketplace for AI compute power, modelled on how airlines hedge jet fuel — a structural shift in how AI infrastructure costs get managed and priced.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/06/ornn-gpu-compute-commodity",
+      "headline": "Microsoft lays off 4,800 employees at start of new fiscal year, cuts concentrated in sales and Xbox",
+      "summary": "Microsoft is cutting approximately 2.1% of its workforce — mainly commercial sales staff — one year after eliminating 9,100 roles, signalling that AI-driven productivity gains are now visibly compressing headcount in revenue-facing teams.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/mHnJudwl4YzaMNS1EfOTVQy74fg=/317x0:1397x1080/320x320/2026/01/29/1769720226782.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.560239787973%2C100%2C74.879520424053&amp;w=1200"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Anthropic CEO on How AI Will Reshape Biotech",
-      "summary": "STAT News interview with Anthropic's CEO makes a case that pharmaceutical companies' AI adoption is not hype — real productivity gains are materialising, with implications for drug discovery timelines and health-tech investment.",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/?utm_campaign=rss",
+      "headline": "Station F ramps up F/ai accelerator to position Paris as Europe's AI startup launchpad",
+      "summary": "Xavier Niel's Station F is launching a new cohort of its F/ai accelerator, reflecting Europe's accelerating institutional bet on homegrown AI ventures as a counterweight to US and Chinese dominance.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/07/ANT_BRIEFING_SF_JPEG_01-645x645.jpg"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "LiveRamp Launches Netflix Brand Campaign Amid Publicis Neutrality Scrutiny",
-      "summary": "LiveRamp is repositioning itself as the trustworthy AI-marketing data foundation just as Publicis's ownership stake prompts rivals to question whether it can remain a neutral player — a fault line every CMO building a martech stack now has to navigate.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/liveramp-launches-brand-campaign-on-netflix-as-publicis-deal-fuels-scrutiny-of-its-neutrality/",
+      "headline": "Conair adopts Amazon's AI video ad tool, cutting production time by months — but humans still closed the gap",
+      "summary": "An A/B test on a Cuisinart campaign showed AI video generation compressed timelines dramatically, yet human finishing work remained essential — a precise and useful case study for the 'AI augments, not replaces' pitch in any marketing consulting engagement.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/why-conair-is-moving-fast-to-adopt-ai-driven-video-ads/824270/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/07/CTV-article-image-v2-–-1920x1080-1.png?w=600&h=315&crop=1"
+      "imageUrl": "https://imgproxy.divecdn.com/qry748Xg-mlDYXdhaV4bDNef88QYxHp3NphOM0N1A2c/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jdWlzaW5hcnQuanBn.webp"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Startup Bets Investors Want to Trade GPU Compute Like a Commodity",
-      "summary": "Andreessen Horowitz-backed Ornn raised a $33M seed round to build a futures marketplace for AI compute power, modelled on how airlines hedge jet fuel — a structural shift in how AI infrastructure costs get managed and priced.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/06/ornn-gpu-compute-commodity",
+      "headline": "Microsoft lays off 4,800 employees at start of new fiscal year, cuts concentrated in sales and Xbox",
+      "summary": "Microsoft is cutting approximately 2.1% of its workforce — mainly commercial sales staff — one year after eliminating 9,100 roles, signalling that AI-driven productivity gains are now visibly compressing headcount in revenue-facing teams.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/mHnJudwl4YzaMNS1EfOTVQy74fg=/317x0:1397x1080/320x320/2026/01/29/1769720226782.jpeg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.560239787973%2C100%2C74.879520424053&amp;w=1200"
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Anthropic CEO on How AI Will Reshape Biotech",
-      "summary": "STAT News interview with Anthropic's CEO makes a case that pharmaceutical companies' AI adoption is not hype — real productivity gains are materialising, with implications for drug discovery timelines and health-tech investment.",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/?utm_campaign=rss",
+      "headline": "Station F ramps up F/ai accelerator to position Paris as Europe's AI startup launchpad",
+      "summary": "Xavier Niel's Station F is launching a new cohort of its F/ai accelerator, reflecting Europe's accelerating institutional bet on homegrown AI ventures as a counterweight to US and Chinese dominance.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/07/ANT_BRIEFING_SF_JPEG_01-645x645.jpg"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "LiveRamp Launches Netflix Brand Campaign Amid Publicis Neutrality Scrutiny",
-      "summary": "LiveRamp is repositioning itself as the trustworthy AI-marketing data foundation just as Publicis's ownership stake prompts rivals to question whether it can remain a neutral player — a fault line every CMO building a martech stack now has to navigate.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/liveramp-launches-brand-campaign-on-netflix-as-publicis-deal-fuels-scrutiny-of-its-neutrality/",
+      "headline": "Conair adopts Amazon's AI video ad tool, cutting production time by months — but humans still closed the gap",
+      "summary": "An A/B test on a Cuisinart campaign showed AI video generation compressed timelines dramatically, yet human finishing work remained essential — a precise and useful case study for the 'AI augments, not replaces' pitch in any marketing consulting engagement.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/why-conair-is-moving-fast-to-adopt-ai-driven-video-ads/824270/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/07/CTV-article-image-v2-–-1920x1080-1.png?w=600&h=315&crop=1"
+      "imageUrl": "https://imgproxy.divecdn.com/qry748Xg-mlDYXdhaV4bDNef88QYxHp3NphOM0N1A2c/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jdWlzaW5hcnQuanBn.webp"
     },
     {
-      "id": "story-marketing-1",
-      "category": "Marketing",
-      "headline": "Meta Appoints New CMO as OpenX Searches for CEO",
-      "summary": "Meta has named a new chief marketing officer, signalling a strategic brand reset at the world's largest social advertising platform — a move worth watching for any consultant positioning AI marketing services to enterprise clients.",
-      "source": "Performance Marketing World",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMG93QVlLZ2ZQSzBVaEt2bWdnRVFLM2UxLWUxTFhHYlNDbGJTRVVib2xoT2FITWJlYzM0anN1VGk5S2cweUNuT3dHd2ZTcm9zbVFGdTFKbGdFQkFTc2FHXzJtZXNkT1NFX3V0Uk1zaF9fZEJLS3JKb3IxbnRiUklySkdnY2VWc0ZFTkNZVWtMX0pSeGdkOWRoWEEwenVXRTMzcmduNzdENmViUWdWdXlQdzU2bklhWkpJNVRnOQ?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone"
-    },
-    {
-      "id": "story-higher_ed_canada-0",
+      "id": "story-intl_students_canada-0",
       "category": "Higher Ed",
-      "headline": "TRU Senate Strikes Group to Improve Board Relations Amid Transparency Questions",
-      "summary": "Thompson Rivers University's senate has formed a new working group to smooth its relationship with the board of governors, with Castanet reporting transparency concerns — governance turbulence at Kamloops's own university is a potential consulting signal and a local story to watch.",
-      "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX0hwbGdWRHRHQk80V0hkX2REYmUxcVgtQWlyV0QzSDc2U2Nrb2FmX3VWR0tXTVF0MzZVam9iUEFZcEFFMlVtTjFMdkpzV0JzSU5iY1dGMkZqWXQ0UWY0U0xuUU1pTVhubmdSVHJSVzFQLVQxVEhNSW1KbDZLYjJpTVpnd1RaMmN2anRwaUMyNldiUVdoVzM1bnRSYkF5d0h1RWlLS2NCc3BHRXNBMlRfeXpaQ3FWZlNLNDhCWHlRa3ZrQ3NlM0FjREJ2QVAwQkpwdjVVajh4LUY?oc=5",
+      "headline": "Canada revises Super Visa and study permit wait times, with direct implications for Indian applicants",
+      "summary": "Ottawa has updated processing timelines for study permits and Super Visas, shifting enrolment planning timelines for the largest source market of Canadian international students — institutions relying on Indian enrolment for 2026–27 intake projections should reassess now.",
+      "source": "Google News: study permit Canada",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPai1OcHVFTnZDQ2dYWk12U0dXZnFHejVsQ29YLWVuWFVTQzlMQUJWcEpqc0NvdkpsQnJQMndlNGRkTThCVGJCajBJVklZX0F5QXlxX3dxeFN5a1NDOFlJczRmWlZUeVpJcWVGVGJtSHNtbjY5ZFlHa0FtaXhxLXhvNE50RHlIMWExcHE2VExvcDFESW9QZUxWTXpvWVJRRE15VTZiTmx2ZVRLYVVjMkRuNkY5dFRVQVlOclFvdVR2TlfSAcYBQVVfeXFMT1pMWVZQaUdxaXFDUWVFT1FsQ2RGcXFDbUl6V0NFdEJNRzMybFNyNDF4VmFxUHhfb3RiR2FpUFNrOXo0TDB4TUZLRUFwdVlfVy1MQnd1NGN5SVJIN09VZGtwT3lhdmlrSm9xOTVLZThMcE5KTnpCSDF6STk0bkpEU0xtLUZZLVVxQ25IOFo5NE9FU1dWZk1HQ2lXVFh6dm9xNGJXVHVTVjAyenZ6X19qWHVHZWFHTlN6MWJSQi0xbGM4Q2xpQW5n?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
     },
     {
-      "id": "story-higher_ed_canada-1",
+      "id": "story-intl_students_canada-1",
       "category": "Higher Ed",
-      "headline": "UNBC Joins Dimensions Canada Equity Cohort",
-      "summary": "The University of Northern British Columbia has been accepted into the latest Dimensions Canada cohort, advancing its equity, diversity, and inclusion research commitments — a named BC institution building its EDI profile, which can open doors for consultants with DEI-adjacent brand strategy expertise.",
-      "source": "Education News Canada",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkVPVVJNSVpsS0prazFZOTlZejJxSldxVUphNkl6RGFUR1dCNVFvRUQ0QUVxa1FGWEZIQjJEYkxpSk8tT3ppMksyQTluVE5TRUQtRTVob1FMbjBLZEM2dFJBaVB6cGdicXpXalhIWlAzQkR6MlNvUDJXd0RGSWs2MUQ2WHBvU0lUeElxRHo4OUtYbUZUTy1XQks3cGg0T3F4NWh4UmlqWmRqUjVNZEh0bUctM1o1STNIdXVQcFpkLVY4dw?oc=5",
+      "headline": "Australia squandering its international education advantage, warns sector CEO",
+      "summary": "ITECA's Felix Pirie argues Australia has turned a structural lead in global education into a story of policy-driven decline — a competitive opening for Canadian institutions if Ottawa can stabilise its own permit environment. Potential client signal: positioning Canadian universities against a weakened Australian competitor is a live marketing strategy conversation.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/how-australia-is-losing-at-international-education/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "university"
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/07/iStock-1385878159-5.jpg"
     },
     {
       "id": "story-canadian_real_estate-0",
       "category": "Real Estate",
-      "headline": "Canadian Homebuyers Cite Affordability — Not Uncertainty — as Chief Barrier",
-      "summary": "New survey data show Canadian buyers are no longer sitting on the sidelines due to macro uncertainty; the core blocker is pure affordability, which reframes the market dynamics for BC property owners and investors watching entry-point windows.",
-      "source": "mpamag.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUnh0TEtIQi1nbzhQODdzVFFkMUNkTE9DdnBEM09pYjNydEVPUkdrdU9OVzRMZkxIN0RwV1lDWHZBdzFsWDFqWDJUUndHMzBVQS13dW5EZU5PT3hIbDI1OUNlMjZSYkdJcWZwQzV6Tm1MOXcyaXA0MHkzNExZVGZmUXA0X2hpWXRWQnBHRW42eTZxa1hDc2FXUzlIQmZiYVFiMEZ1S3ZoUEc1cUI5NGJId1FPSjE2OWprZkstUzZmRVBZa1NFX2JCWHhEMzM4RW9VWW40ag?oc=5",
+      "headline": "AI will not make residential land development easy, despite the sales pitch",
+      "summary": "HousingWire argues the 'AI removes friction from development' narrative is dangerously oversold — local market complexity, regulatory nuance, and judgment calls remain stubbornly human, a useful counterpoint for anyone watching PropTech hype in BC's development market.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/ai-land-development-judgment/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "house"
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2025/11/Scott-Finfer-hero-image.jpg"
     },
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "TRU Senate-Board Governance Friction Raises Transparency Concerns",
-      "summary": "See Higher Education section — this story is filed under local news as well, given its direct impact on Kamloops's anchor post-secondary institution and the broader community.",
-      "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX0hwbGdWRHRHQk80V0hkX2REYmUxcVgtQWlyV0QzSDc2U2Nrb2FmX3VWR0tXTVF0MzZVam9iUEFZcEFFMlVtTjFMdkpzV0JzSU5iY1dGMkZqWXQ0UWY0U0xuUU1pTVhubmdSVHJSVzFQLVQxVEhNSW1KbDZLYjJpTVpnd1RaMmN2anRwaUMyNldiUVdoVzM1bnRSYkF5d0h1RWlLS2NCc3BHRXNBMlRfeXpaQ3FWZlNLNDhCWHlRa3ZrQ3NlM0FjREJ2QVAwQkpwdjVVajh4LUY?oc=5",
+      "headline": "Kamloops United FC wrap up 2026 BC Premier League season",
+      "summary": "Kamloops United FC concluded their 2026 BC Premier League campaign, closing out a home-region season for the club.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/07/06/kamloops-united-fc-wrap-up-2026-bc-premier-league-season-with-results/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "mountains"
+      "thumbnailKind": "mountains",
+      "imageUrl": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2311/files/2026/07/f5ce8e28-8b58-4649-94c5-ff37f76f93db.jpg"
     },
     {
       "id": "story-kamloops_sun_peaks-1",
       "category": "Local News",
-      "headline": "Federal Public Servants Begin Four-Day In-Office Week as Space Shortages Emerge",
-      "summary": "Thousands of federal employees started a mandatory four-days-in-office schedule Monday, but Ottawa is already reporting a shortage of workspace — a real-estate and workplace-culture story with ripple effects for Kamloops federal offices and commercial property.",
+      "headline": "Federal government promises to simplify procurement to open more contracts to small businesses",
+      "summary": "Ottawa says it will streamline federal procurement rules to lower barriers for SMEs — relevant context for any consulting practice pursuing government-adjacent contracts in BC.",
       "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/07/06/office-space-scarce-as-federal-public-servants-return-to-the-office-four-days-a-week/",
+      "url": "https://cfjctoday.com/2026/07/06/feds-say-theyll-simplify-procurement-to-get-more-contracts-to-small-businesses/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Ff66b0bd8-5bf6-44b2-8451-7f2a97a989fe%2Fe547b5a5ca39715c89e4238e6b38590b0afb10c4ad309108f9087d9b6768ca9b.jpg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F9d5f8610-3ca3-4bb9-a8a5-6df8d24c6cb8%2F4864e5eb5ed4af577798ed7ee0f8d00b41204f27d8fd43e3c6c9f0f78682ad59.jpg"
     },
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Khamenei Funeral Procession Begins in Tehran as NATO Summit Opens in Ankara",
-      "summary": "Iran's Supreme Leader Ayatollah Khamenei was laid to rest as world leaders — including Canadian PM Mark Carney — simultaneously gathered in Turkey for the NATO summit, compressing two geopolitical inflection points into a single Monday that will shape Western security and Middle East policy for years.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/07/05/iran-begins-a-procession-through-tehran-for-supreme-leader-ayatollah-ali-khameneis-funeral/",
+      "headline": "Microsoft's 4,800 layoffs signal AI is now restructuring commercial sales at scale",
+      "summary": "The cuts — targeting sales roles at the start of Microsoft's fiscal year — are the clearest signal yet that enterprise software companies are using AI productivity gains to structurally reduce revenue-team headcount, not just trim costs.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F9b2115f3-c592-4dce-9a7d-8312c00912df%2F654d126c1249c7a7271d31112b1e0d0843be14baace977e68815e89410500a1a.jpg"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.560239787973%2C100%2C74.879520424053&amp;w=1200"
     },
     {
       "id": "story-global_business_tech-1",
       "category": "Global",
-      "headline": "China Test-Fires Submarine-Launched Ballistic Missile in South Pacific Nuclear-Free Zone",
-      "summary": "China's military launched a long-range ballistic missile from a nuclear-powered submarine in the South Pacific, a deliberate provocation in a treaty-designated nuclear-free zone that is escalating Indo-Pacific tensions.",
+      "headline": "PM Carney expected to announce Canada's submarine contractor in Halifax ahead of NATO summit",
+      "summary": "Canada is set to name the prime contractor for its long-delayed submarine acquisition program, a major defence-spending signal that will ripple through federal procurement and industrial policy heading into the NATO summit.",
       "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/07/05/china-test-launches-ballistic-missile-from-submarine-in-the-pacific/",
+      "url": "https://cfjctoday.com/2026/07/06/carney-is-expected-to-announce-submarine-contractor-in-halifax-stop-ahead-of-nato/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/uploads/station/1985/fbShare.png?r=55959"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F24a69ee9-5ff3-4c95-8131-23f6658b1490%2F4273a9571e114ece35c8f09315cf8c5d1ffc0eb8005e4dbcb69363313d7ab99b.jpg"
     },
     {
-      "id": "story-longevity-0",
-      "category": "Longevity",
-      "headline": "Nature Medicine: Data Rights as the Missing Pillar of Medical Consent",
-      "summary": "Nature Medicine commentary argues that patient data rights — not just informed consent — must become a foundational element of modern medical ethics, with direct implications for how AI-driven health tools collect and use personal health information.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04506-3",
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Active wildfire evacuation order near Boston Bar, BC — fire exceeds 1,200 hectares and is out of control",
+      "summary": "An out-of-control wildfire near Boston Bar on the Highway 1 Coquihalla corridor has triggered evacuation orders and is growing; the route is a key link between Kamloops and Metro Vancouver — check DriveBC and BC Wildfire Service before travelling that corridor.",
+      "source": "Google News: BC wildfire evacuation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXdiNEw5ZV9EZGtNenFINkliN0dwVElKQTBfTVlTQVBXY2FFNUhLS21jbktlMlZQcTFDYl80bHJMVklwaWU0b09oRFMzMHJsYklYMFZkeDZXWXR2Wi1fNU9VVk1TS1NsSVI1SWt4WWJoa1VralF5MUxEX3pDcC15eEktcmlxaldfckoyRjNTZWszdWhFelNZSEFCbGktZFVfTkt4ZkZwSnpBNm9w?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "leaf"
+      "thumbnailKind": "bars"
     },
     {
-      "id": "story-longevity-1",
-      "category": "Longevity",
-      "headline": "Wegovy Weight-Loss Pill Now Available Over the Counter in UK Pharmacies",
-      "summary": "Novo Nordisk's oral semaglutide (Wegovy pill) is now available privately in UK pharmacies without a prescription, a significant access milestone for GLP-1 obesity treatment that signals where North American regulatory pressure is likely heading.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
+      "id": "story-misc-1",
+      "category": "Misc",
+      "headline": "Major food and product recalls at Sobeys, Farm Boy, Decathlon, and Amazon Canada",
+      "summary": "A significant batch of new CFIA-linked recalls covers food and consumer products sold at major Canadian retailers — worth checking if your household shops at any of these chains.",
+      "source": "Google News: CFIA recall",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaERjZXR2VU9CQ29kNnFZdm9sdnpGVW9jYUszbHhObFV0U0hFMHZBaThQWWFZbGNZN1phWGFnMWtENE5PcXVxMEVmZEFqallWZ2dZQVdoUWozdzc2a20wdWpFZ3AzN0hGckVCTW9Td01oajdRWG0xV01kT2RubWpJVEhxd0kzVHhiZklmQWFJcmhXNTFXWWNPVTEtay15ZVZhLWF0d0dSM3ByTkgwRmVfUVBtR3V3Zw?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "leaf",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c8/live/8cfeae00-790e-11f1-b976-0b9c15b0ccfc.jpg"
+      "thumbnailKind": "bars"
+    },
+    {
+      "id": "story-misc-2",
+      "category": "Misc",
+      "headline": "BC hospital emergency departments closed nearly 2,400 times in three years",
+      "summary": "New data shows BC ERs — particularly in smaller communities — have been temporarily shuttered thousands of times since 2023, a stark indicator of rural health system fragility that directly affects communities like those along the Kamloops–Lower Mainland corridor.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-emergency-departments-closed-2400-times-three-years",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars"
     }
   ],
   "audioChapters": [
     {
       "id": "c1",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "2:16",
-      "startSeconds": 13
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "2:03",
+      "startSeconds": 8
     },
     {
       "id": "c2",
       "title": "AI & Tech",
       "category": "AI & Tech",
-      "duration": "2:04",
-      "startSeconds": 149
+      "duration": "2:14",
+      "startSeconds": 132
     },
     {
       "id": "c3",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "2:05",
-      "startSeconds": 273
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:15",
+      "startSeconds": 266
     },
     {
       "id": "c4",
-      "title": "Real Estate & AirBnB",
-      "category": "Real Estate",
-      "duration": "0:56",
-      "startSeconds": 398
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:04",
+      "startSeconds": 341
     },
     {
       "id": "c5",
-      "title": "Local News",
-      "category": "Local News",
-      "duration": "0:52",
-      "startSeconds": 454
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:23",
+      "startSeconds": 465
     },
     {
       "id": "c6",
       "title": "Global News",
       "category": "Global",
-      "duration": "1:54",
-      "startSeconds": 507
+      "duration": "0:47",
+      "startSeconds": 548
     },
     {
       "id": "c7",
-      "title": "Longevity",
-      "category": "Longevity",
-      "duration": "1:40",
-      "startSeconds": 621
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "0:47",
+      "startSeconds": 595
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "Anthropic CEO on How AI Will Reshape Biotech",
-    "summary": "STAT News interview with Anthropic's CEO makes a case that pharmaceutical companies' AI adoption is not hype — real productivity gains are materialising, with implications for drug discovery timelines and health-tech investment.",
-    "source": "STAT News",
-    "url": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/?utm_campaign=rss",
+    "headline": "Station F ramps up F/ai accelerator to position Paris as Europe's AI startup launchpad",
+    "summary": "Xavier Niel's Station F is launching a new cohort of its F/ai accelerator, reflecting Europe's accelerating institutional bet on homegrown AI ventures as a counterweight to US and Chinese dominance.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/07/ANT_BRIEFING_SF_JPEG_01-645x645.jpg"
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800"
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "Startup Bets Investors Want to Trade GPU Compute Like a Commodity",
-    "summary": "Andreessen Horowitz-backed Ornn raised a $33M seed round to build a futures marketplace for AI compute power, modelled on how airlines hedge jet fuel — a structural shift in how AI infrastructure costs get managed and priced.",
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/07/06/ornn-gpu-compute-commodity",
+    "headline": "Microsoft lays off 4,800 employees at start of new fiscal year, cuts concentrated in sales and Xbox",
+    "summary": "Microsoft is cutting approximately 2.1% of its workforce — mainly commercial sales staff — one year after eliminating 9,100 roles, signalling that AI-driven productivity gains are now visibly compressing headcount in revenue-facing teams.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://images.axios.com/mHnJudwl4YzaMNS1EfOTVQy74fg=/317x0:1397x1080/320x320/2026/01/29/1769720226782.jpeg"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.560239787973%2C100%2C74.879520424053&amp;w=1200"
   },
-  "heroImageUrl": "https://images.axios.com/mHnJudwl4YzaMNS1EfOTVQy74fg=/317x0:1397x1080/320x320/2026/01/29/1769720226782.jpeg"
+  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.560239787973%2C100%2C74.879520424053&amp;w=1200"
 }
