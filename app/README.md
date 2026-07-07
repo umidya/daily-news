@@ -17,7 +17,7 @@ brew install node
 Then from this folder:
 
 ```bash
-cd ~/Desktop/AI-Projects/daily-news/app
+cd ~/Desktop/AI-Apps/daily-news/app
 npm install
 npx expo start
 ```

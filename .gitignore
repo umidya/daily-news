@@ -36,3 +36,8 @@ app/android/
 
 # Voice samples (local-only test outputs)
 *.mp3.local
+
+# Client-aware briefing configs — contain client/prospect names; stay
+# untracked until the repo is private or CI secrets are wired (see memory).
+config/watchlist.yaml
+config/peer_orgs.yaml

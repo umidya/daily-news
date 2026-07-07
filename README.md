@@ -25,7 +25,7 @@ Configs live in `config/*.yaml` (feeds, search queries, topic weights). The pipe
 ### 1. Local dev
 
 ```bash
-cd ~/Desktop/AI-Projects/daily-news
+cd ~/Desktop/AI-Apps/daily-news
 
 python3 -m venv .venv
 source .venv/bin/activate
@@ -95,7 +95,7 @@ Tests cover URL canonicalization, title fuzzy-dedup, scoring, DB roundtrips, con
 5. **Tighten Actions permissions** so the workflow can push to `gh-pages` and `state`:
    - *Settings -> Actions -> General -> Workflow permissions* -> Read and write permissions -> Save.
 
-That's it. The workflow runs daily at 13:30 UTC (5:30 AM PST / 6:30 AM PDT). You can also trigger it manually from the Actions tab.
+That's it. A Cloudflare Worker cron triggers the workflow at 11:30 UTC daily, with 8 GitHub schedule crons (10:23-13:47 UTC) as fallbacks; a same-day skip guard prevents duplicate publishes. You can also trigger it manually from the Actions tab.
 
 ### Subscribe in Apple Podcasts
 
