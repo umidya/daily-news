@@ -31,6 +31,15 @@ candidate_pool_size: 40
 target_story_count: 16
 
 topics:
+  watchlist:
+    # Stories about orgs on Midya's watchlist (current clients, active
+    # prospects, peer/competitor consultancies). Source-tagging in fetch.py
+    # populates this topic via build_watchlist_searches() — keywords here
+    # are empty because the tagging does the work. Weight boost ensures
+    # watchlist hits reliably make it into the candidate pool.
+    weight: 1.5
+    keywords: []
+
   ai:
     weight: 1.0
     keywords:

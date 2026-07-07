@@ -11,7 +11,7 @@ import feedparser
 import httpx
 from dateutil import parser as dateparser
 
-from .config import FeedConfig, SearchConfig
+from .config import Config, FeedConfig, SearchConfig, Watchlist, WatchlistOrg
 from .dedup import canonicalize_url, normalize_title, url_hash
 from .models import Article
 
@@ -203,6 +203,84 @@ def _google_news_url(query: str) -> str:
         + quote_plus(query)
         + "&hl=en-CA&gl=CA&ceid=CA:en"
     )
+
+
+WATCHLIST_SEARCH_CAP = 25
+# Google News default credibility — matches config/searches.yaml convention.
+_WATCHLIST_CREDIBILITY = 0.70
+
+
+def _watchlist_query(org: WatchlistOrg) -> str:
+    """Build a quoted-OR Google News query covering an org's primary name +
+    aliases. Quoted phrases force exact match so 'Mogul' (the word) doesn't
+    flood with false positives."""
+    names = [org.org] + [a for a in org.aliases if a]
+    return " OR ".join(f'"{n}"' for n in names)
+
+
+def _watchlist_topics(org: WatchlistOrg) -> list[str]:
+    """Every watchlist search is tagged `watchlist` plus the org's industry
+    so a hit is eligible for both the Watchlist section and the industry
+    section if Claude judges it a better fit there."""
+    topics = ["watchlist"]
+    if org.industry:
+        topics.append(org.industry)
+    return topics
+
+
+def build_watchlist_searches(
+    watchlist: Watchlist, cap: int = WATCHLIST_SEARCH_CAP
+) -> list[SearchConfig]:
+    """Convert the watchlist roster into runtime Google News searches.
+
+    Priority order (clients > prospects > peers) — when the cap forces cuts,
+    lower priority groups go first. Dedupes by canonical org name so an org
+    accidentally listed in two sections only produces one search.
+    """
+    ordered: list[WatchlistOrg] = (
+        list(watchlist.clients)
+        + list(watchlist.prospects)
+        + list(watchlist.peer_orgs)
+    )
+
+    seen: set[str] = set()
+    unique: list[WatchlistOrg] = []
+    for org in ordered:
+        key = org.org.strip().lower()
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        unique.append(org)
+
+    if len(unique) > cap:
+        dropped = [o.org for o in unique[cap:]]
+        log.warning(
+            "watchlist exceeds cap (%d > %d); dropping lowest-priority orgs: %s",
+            len(unique), cap, ", ".join(dropped),
+        )
+        unique = unique[:cap]
+
+    return [
+        SearchConfig(
+            query=_watchlist_query(org),
+            topics=_watchlist_topics(org),
+            credibility=_WATCHLIST_CREDIBILITY,
+        )
+        for org in unique
+    ]
+
+
+def combined_searches(cfg: Config) -> list[SearchConfig]:
+    """Static (config/searches.yaml) + dynamic (watchlist) searches.
+
+    Pipeline calls this once per run so the fetch step sees both sources as
+    a single search list. When the watchlist is absent, returns only the
+    static list.
+    """
+    static = list(cfg.searches)
+    if cfg.watchlist is None:
+        return static
+    return static + build_watchlist_searches(cfg.watchlist)
 
 
 def fetch_searches(searches: Iterable[SearchConfig], max_workers: int = 6) -> list[Article]:

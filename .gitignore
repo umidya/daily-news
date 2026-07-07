@@ -12,6 +12,14 @@ venv/
 .env
 .env.local
 
+# Watchlist data — DO NOT COMMIT while repo is public.
+# These files contain Midya's client roster + consortium peers and must stay
+# private. When the repo is flipped to private (or watchlist is injected via
+# GitHub Actions secrets), remove these lines and commit the files normally.
+# See docs/superpowers/specs/2026-05-21-client-aware-briefing-design.md
+config/watchlist.yaml
+config/peer_orgs.yaml
+
 # Local state and outputs (state lives in the `state` branch instead)
 data/*.db
 data/*.db-journal

@@ -29,6 +29,7 @@ log = logging.getLogger(__name__)
 
 # Map pipeline topic_keys to the app's CategoryName values.
 TOPIC_TO_CATEGORY: dict[str, str] = {
+    "watchlist": "Watchlist",
     "ai": "AI & Tech",
     "marketing": "Marketing",
     "higher_ed_canada": "Higher Ed",
@@ -43,7 +44,10 @@ TOPIC_TO_CATEGORY: dict[str, str] = {
 }
 
 # Map pipeline topic_keys to the app's StoryThumbnail kinds.
+# Watchlist reuses 'bars' for now — distinct color (set in CSS) carries the
+# visual identity; the app side can add a dedicated thumbnail kind later.
 TOPIC_TO_THUMBNAIL: dict[str, str] = {
+    "watchlist": "bars",
     "ai": "chip",
     "marketing": "megaphone",
     "higher_ed_canada": "university",
@@ -234,6 +238,7 @@ def _build_chapters_fallback(sections: list[dict], total_seconds: int) -> list[d
 # Display titles for chapters built from audio markers (when we don't have
 # Claude's section.name handy because we're working off topic_key alone).
 _SECTION_TITLE_BY_TOPIC: dict[str, str] = {
+    "watchlist": "Watchlist",
     "ai": "AI & Tech",
     "marketing": "Marketing & Business",
     "global_business_tech": "Global News",
