@@ -90,6 +90,26 @@ jobs:
             echo "No state branch yet; first run."
           fi
 
+      # Client watchlist configs are gitignored (public repo — they name
+      # clients and prospects). CI materializes them from repo secrets so the
+      # cloud run gets full client-aware enrichment. Guarded: an unset secret
+      # writes nothing and the pipeline degrades gracefully to no watchlist.
+      - name: Materialize watchlist configs from secrets
+        env:
+          WATCHLIST_YAML: ${{ secrets.DAILY_NEWS_WATCHLIST_YAML }}
+          PEER_ORGS_YAML: ${{ secrets.DAILY_NEWS_PEER_ORGS_YAML }}
+        run: |
+          if [ -n "$WATCHLIST_YAML" ]; then
+            printf '%s\n' "$WATCHLIST_YAML" > config/watchlist.yaml
+            echo "watchlist.yaml materialized from secret."
+          else
+            echo "No DAILY_NEWS_WATCHLIST_YAML secret set; running without watchlist enrichment."
+          fi
+          if [ -n "$PEER_ORGS_YAML" ]; then
+            printf '%s\n' "$PEER_ORGS_YAML" > config/peer_orgs.yaml
+            echo "peer_orgs.yaml materialized from secret."
+          fi
+
       # API keys are scoped to this step only so they are never ambient in
       # third-party action steps (peaceiris runs with contents:write).
       - name: Run digest pipeline
@@ -103,7 +123,8 @@ jobs:
       # (a known GitHub server-side "fatal error in commit_refs" class) can
       # never block today's briefing from reaching the app.
       - name: Publish to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        # SHA-pinned (v4): this third-party action runs with contents:write.
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
