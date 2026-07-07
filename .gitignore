@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment
+.env
+.env.local
+
+# Local state and outputs (state lives in the `state` branch instead)
+data/*.db
+data/*.db-journal
+public/audio/
+public/digests/
+public/feed.xml
+public/index.html
+!public/.gitkeep
+
+# OS
+.DS_Store
+
+# Expo / React Native (app/)
+app/node_modules/
+app/.expo/
+app/dist/
+app/web-build/
+app/.env
+app/.env.local
+app/ios/
+app/android/
+
+# Voice samples (local-only test outputs)
+*.mp3.local

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)">
+  <title>Daily News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="digest">
+    <header class="masthead">
+      <p class="eyebrow">Daily News</p>
+      <h1 class="date">Personal Briefing</h1>
+      <p class="meta">A morning news digest. Updated daily.</p>
+    </header>
+
+    <section class="topic">
+      <h2 class="section-label">Episodes</h2>
+      {% if episodes %}
+      <ul class="episode-list">
+        {% for ep in episodes %}
+        <li>
+          <a href="{{ ep.html_url }}">{{ ep.digest_date }}</a>
+          <span class="episode-meta">{{ ep.story_count }} {{ "story" if ep.story_count == 1 else "stories" }}</span>
+        </li>
+        {% endfor %}
+      </ul>
+      {% else %}
+      <p class="story-summary">No episodes yet. Check back tomorrow morning.</p>
+      {% endif %}
+    </section>
+
+    <section class="topic">
+      <h2 class="section-label">Subscribe</h2>
+      <p class="story-summary">Add this feed to Apple Podcasts (Library &rarr; &middot;&middot;&middot; &rarr; Follow a Show by URL):</p>
+      <p class="story-link"><a href="feed.xml">feed.xml</a></p>
+    </section>
+
+    <footer class="foot">
+      <p>Generated {{ generated_at }}.</p>
+    </footer>
+  </main>
+</body>
+</html>

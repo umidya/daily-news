@@ -1,0 +1,139 @@
+# Curated RSS feeds. Each feed has a stable name, URL, a credibility weight
+# (0.0 - 1.0), and topic tags used for scoring boosts.
+#
+# To disable a feed without deleting it, set `enabled: false`.
+# To add a new source: add an entry below, no code change needed.
+#
+# Credibility guidance:
+#   1.00  established wire / paper of record
+#   0.90  trusted trade or specialty publication
+#   0.85  established regional newsroom
+#   0.75  blog or aggregator with good track record
+#   0.65  newsletter or opinion outlet
+
+feeds:
+  # ---------- AI ----------
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    credibility: 0.85
+    topics: [ai]
+
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/feed/
+    credibility: 0.95
+    topics: [ai, global_business_tech]
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    credibility: 0.85
+    topics: [ai]
+
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+    credibility: 0.80
+    topics: [ai]
+
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    credibility: 0.85
+    topics: [ai, global_business_tech]
+
+  # ---------- Marketing ----------
+  # Note: Marketing Brew and HBR no longer expose public RSS; coverage is
+  # supplemented via Google News search queries in searches.yaml.
+
+  - name: Adweek
+    url: https://www.adweek.com/feed/
+    credibility: 0.85
+    topics: [marketing]
+
+  - name: Marketing Dive
+    url: https://www.marketingdive.com/feeds/news/
+    credibility: 0.85
+    topics: [marketing]
+
+  # ---------- Higher Education ----------
+  - name: University Affairs (Canada)
+    url: https://www.universityaffairs.ca/feed/
+    credibility: 0.90
+    topics: [higher_ed_canada]
+
+  - name: Inside Higher Ed
+    url: https://www.insidehighered.com/rss.xml
+    credibility: 0.90
+    topics: [higher_ed_global]
+
+  # Note: Times Higher Education blocks bot access on its RSS endpoint;
+  # global higher-ed coverage is filled by Inside Higher Ed plus Google News.
+
+  - name: ICEF Monitor
+    url: https://monitor.icef.com/feed/
+    credibility: 0.90
+    topics: [intl_students_canada, higher_ed_global]
+
+  - name: The PIE News
+    url: https://thepienews.com/feed/
+    credibility: 0.90
+    topics: [intl_students_canada, higher_ed_global]
+
+  # ---------- Canadian government / policy ----------
+  - name: IRCC News
+    url: https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&sort=publishedDate&orderBy=desc&pick=25&format=atom
+    credibility: 1.00
+    topics: [intl_students_canada]
+
+  - name: Bank of Canada
+    url: https://www.bankofcanada.ca/feed/
+    credibility: 1.00
+    topics: [canadian_real_estate]
+
+  # Note: CFIA does not currently expose a working public RSS feed for recalls.
+  # BC food-recall coverage comes from the dedicated Google News searches in
+  # searches.yaml (see "British Columbia food recall" / "CFIA recall").
+
+  # ---------- Real estate ----------
+  - name: Better Dwelling
+    url: https://betterdwelling.com/feed/
+    credibility: 0.75
+    topics: [canadian_real_estate]
+
+  - name: Storeys
+    url: https://storeys.com/feed/
+    credibility: 0.80
+    topics: [canadian_real_estate]
+
+  # ---------- Local BC ----------
+  # Note: Castanet's region-specific RSS feeds were retired when they split
+  # castanetkamloops.net off as a separate site. Kamloops/Sun Peaks coverage
+  # now comes from CFJC Today + Google News RSS searches in searches.yaml.
+
+  - name: CFJC Today Kamloops
+    url: https://cfjctoday.com/feed/
+    credibility: 0.80
+    topics: [kamloops_sun_peaks]
+
+  - name: Daily Hive Vancouver
+    url: https://dailyhive.com/feed/vancouver
+    credibility: 0.75
+    topics: [airbnb_policy, canadian_real_estate]
+
+  - name: Vancouver Sun
+    url: https://vancouversun.com/feed/
+    credibility: 0.85
+    topics: [airbnb_policy, canadian_real_estate, kamloops_sun_peaks]
+
+  # ---------- Global business / economy ----------
+  - name: BBC Business
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+    credibility: 0.95
+    topics: [global_business_tech]
+
+  - name: Axios
+    url: https://api.axios.com/feed/
+    credibility: 0.85
+    topics: [global_business_tech, ai]
+
+  - name: The Economist
+    url: https://www.economist.com/the-world-this-week/rss.xml
+    credibility: 1.00
+    topics: [global_business_tech]
