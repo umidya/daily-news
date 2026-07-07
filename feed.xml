@@ -12,7 +12,7 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 07 Jul 2026 11:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 18:10:48 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
@@ -21,9 +21,9 @@
     <item>
       <title>Daily News for Tuesday, July 7, 2026</title>
       <link>https://umidya.github.io/daily-news/digests/2026-07-07.html</link>
-      <description>Two threads dominate today that you should sit with, Midya. First, Canadian universities are actively recruiting international researchers and grappling with cybersecurity threats — both are live openings for a marketing and strategy consultant who understands the international-s...</description>
+      <description>Today's throughline is AI accountability moving from theory to consequence — and that's your lane. British Columbia is exploring legal action against OpenAI over the Tumbler Ridge tragedy, which is the sharpest possible signal that public bodies now treat AI vendors as liable act...</description>
       <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-07.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-07.mp3" length="14283360" type="audio/mpeg"/>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-07.mp3" length="17549280" type="audio/mpeg"/>
       <pubDate>Tue, 07 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
