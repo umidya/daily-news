@@ -66,3 +66,27 @@ def test_record_digest_and_list(tmp_path: Path):
         rows = list_recent_digests(conn)
     assert [r["digest_date"] for r in rows] == ["2026-04-27", "2026-04-26"]
     assert rows[0]["story_count"] == 10
+
+
+def test_recent_digest_stories_returns_marked_articles(tmp_path: Path):
+    from datetime import date, timedelta
+
+    from daily_news.db import mark_used_in_digest, recent_digest_stories
+
+    with connect(tmp_path / "t.db") as conn:
+        used = _article("Chosen for the briefing")
+        skipped = _article("Fetched but never chosen")
+        insert_article(conn, used)
+        insert_article(conn, skipped)
+        yesterday = (date.today() - timedelta(days=1)).isoformat()
+        mark_used_in_digest(conn, [used.url_hash], yesterday)
+
+        recent = recent_digest_stories(conn, days=3)
+        assert recent == [
+            {"date": yesterday, "title": used.title, "source": used.source}
+        ]
+
+        # Outside the window → excluded.
+        old = (date.today() - timedelta(days=10)).isoformat()
+        mark_used_in_digest(conn, [used.url_hash], old)
+        assert recent_digest_stories(conn, days=3) == []

@@ -267,6 +267,10 @@ def _story_to_app(story: dict, topic_key: str, idx: int, image_url: Optional[str
     }
     if image_url:
         out["imageUrl"] = image_url
+    # Thought-leadership hook: set for at most ~2 stories/day by the
+    # summarizer; Sloane's content pipeline reads it from public today.json.
+    if story.get("content_angle"):
+        out["contentAngle"] = story["content_angle"]
     return out
 
 

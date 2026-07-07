@@ -132,3 +132,41 @@ def test_validate_digest_flags_empty_audio_script():
 def test_validate_digest_flags_empty_sections():
     problems = validate_digest(_digest(_complete_script(), sections=[]))
     assert any("section" in p.lower() for p in problems)
+
+
+def test_schema_requires_content_angle_on_every_story():
+    """content_angle is nullable but required — the API forces the model to
+    make an explicit tag-or-null decision per story."""
+    story_schema = (
+        _DIGEST_SCHEMA["properties"]["sections"]["items"]["properties"]["stories"]["items"]
+    )
+    assert "content_angle" in story_schema["properties"]
+    assert "content_angle" in story_schema["required"]
+
+
+def test_build_recent_coverage_block_empty_without_history():
+    from daily_news.summarize import build_recent_coverage_block
+
+    assert build_recent_coverage_block(None) == ""
+    assert build_recent_coverage_block([]) == ""
+
+
+def test_build_recent_coverage_block_lists_stories():
+    from daily_news.summarize import build_recent_coverage_block
+
+    block = build_recent_coverage_block(
+        [{"date": "2026-07-05", "title": "Big AI story", "source": "Reuters"}]
+    )
+    assert "RECENT_COVERAGE" in block
+    assert "[2026-07-05] Big AI story (Reuters)" in block
+
+
+def test_prompt_marker_enum_includes_watchlist():
+    """The CHAPTER MARKERS instruction must allow [[SECTION:watchlist]] or the
+    Watchlist section can never get an audio chapter."""
+    from daily_news.summarize import SYSTEM_PROMPT
+
+    marker_line = next(
+        line for line in SYSTEM_PROMPT.splitlines() if "[[SECTION:<topic_key>]]" in line
+    )
+    assert "`watchlist`" in marker_line

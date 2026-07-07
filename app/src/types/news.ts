@@ -11,6 +11,8 @@ export interface Story {
   audioSegmentLength: string;
   thumbnailKind: ThumbnailKind;
   imageUrl?: string;
+  /** Thought-leadership hook the pipeline tags on ≤2 stories/day. */
+  contentAngle?: string;
 }
 
 export type ThumbnailKind =

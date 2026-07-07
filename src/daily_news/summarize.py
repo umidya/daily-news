@@ -15,7 +15,9 @@ from .models import Article
 
 log = logging.getLogger(__name__)
 
-CLAUDE_MODEL = "claude-sonnet-4-6"
+# Opus for editorial judgment — curation quality is the product. ~2-3x Sonnet
+# token cost but still cents per run; see CLAUDE.md cost guardrails.
+CLAUDE_MODEL = "claude-opus-4-8"
 
 _TOPIC_KEYS = [
     "watchlist",  # section 1 — orgs from config/watchlist.yaml (clients, prospects, peers)
@@ -56,8 +58,9 @@ _DIGEST_SCHEMA = {
                                 "summary": {"type": "string"},
                                 "source": {"type": "string"},
                                 "url": {"type": "string"},
+                                "content_angle": {"type": ["string", "null"]},
                             },
-                            "required": ["headline", "summary", "source", "url"],
+                            "required": ["headline", "summary", "source", "url", "content_angle"],
                             "additionalProperties": False,
                         },
                     },
@@ -144,6 +147,17 @@ WRITING RULES
 - Use Canadian spelling.
 - Don't editorialize on partisan politics; report what happened.
 
+CONTENT ANGLE (`content_angle` field — required on every story)
+
+For AT MOST 2 stories per day — only the ones with genuine thought-leadership potential for Midya — set `content_angle` to a single sentence naming the content lane it feeds (AI in marketing, AI in higher-ed enrollment, AI in real estate operations, public-institution AI governance, or AI Search Readiness) plus the specific take she could publish. Example: "AI in higher-ed enrollment: universities buying AI chatbots without governance frameworks — the audit checklist angle." For every other story, set `content_angle` to null. Be selective: a day with zero content angles is fine; a day with 5 is a failure of judgment.
+
+RECENT COVERAGE (memory across days)
+
+The user message may include a RECENT_COVERAGE list — stories that already appeared in the last few briefings. Rules:
+- Do NOT re-cover a story from that list unless there is a genuine NEW development in today's candidates.
+- When today's story IS a development of a recently covered one, explicitly frame it as an update in both the summary and the narration (e.g. "An update on the Kamloops council story from Friday: ..."). Continuity is a feature — Midya should feel the briefing remembers what it told her.
+- Candidates that merely re-report a recently covered story with no new substance are duplicates — drop them.
+
 The full narrative — context, implications, advisor commentary — belongs in `audio_script` and `why_this_matters`, NOT in story summaries.
 
 WHY-THIS-MATTERS PARAGRAPH
@@ -167,7 +181,7 @@ To let the app build accurate audio chapters, you must annotate the audio_script
 Insert exactly ONE of the following marker lines on its own line, immediately before the corresponding narration begins:
 
 - `[[INTRO]]` — before the opening "Good morning, Midya..." line
-- `[[SECTION:<topic_key>]]` — before the first sentence of each narrated section's content. `<topic_key>` MUST be one of: `ai`, `marketing`, `higher_ed_canada`, `higher_ed_global`, `intl_students_canada`, `canadian_real_estate`, `kamloops_sun_peaks`, `airbnb_policy`, `global_business_tech`, `longevity`, `misc`. Use the same topic_key you used in the corresponding `sections` entry.
+- `[[SECTION:<topic_key>]]` — before the first sentence of each narrated section's content. `<topic_key>` MUST be one of: `watchlist`, `ai`, `marketing`, `higher_ed_canada`, `higher_ed_global`, `intl_students_canada`, `canadian_real_estate`, `kamloops_sun_peaks`, `airbnb_policy`, `global_business_tech`, `longevity`, `misc`. Use the same topic_key you used in the corresponding `sections` entry.
 - `[[OUTRO]]` — before the closing sign-off
 
 Every section that appears in the `sections` array AND gets narrated in the audio_script must have a marker. If you decide not to narrate one of the sections (rare — usually all narrate), simply omit its marker; the app will not render a chapter for it. Do not announce these markers as words.
@@ -437,14 +451,20 @@ def _match_url_hashes(chosen_urls: list[str], candidates: list[Article]) -> list
 
 def _call_claude(client: Anthropic, user_msg: str) -> tuple[dict, str, "str | None"]:
     """Single Claude call with schema-enforced JSON output.
-    Returns (parsed, raw_text, stop_reason)."""
-    msg = client.messages.create(
+    Returns (parsed, raw_text, stop_reason).
+
+    Streams with adaptive thinking: max_tokens must hold thinking + the full
+    briefing JSON, and non-streaming requests this large risk SDK HTTP
+    timeouts. Thinking blocks are skipped when extracting the text block."""
+    with client.messages.stream(
         model=CLAUDE_MODEL,
-        max_tokens=16000,
+        max_tokens=32000,
+        thinking={"type": "adaptive"},
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_msg}],
         output_config={"format": {"type": "json_schema", "schema": _DIGEST_SCHEMA}},
-    )
+    ) as stream:
+        msg = stream.get_final_message()
     raw = next(b.text for b in msg.content if b.type == "text")
     return json.loads(raw), raw, msg.stop_reason
 
@@ -465,7 +485,24 @@ def _build_digest(parsed: dict, raw: str, candidates: list[Article]) -> Digest:
     )
 
 
-def summarize(candidates: list[Article], cfg: Config, date_label: str) -> Optional[Digest]:
+def build_recent_coverage_block(recent: "list[dict] | None") -> str:
+    """Render the last few briefings' chosen stories so today's call can do
+    continuity ("an update on...") and avoid re-covering. Empty string when
+    there's no history (first run, or fresh state)."""
+    if not recent:
+        return ""
+    lines = ["RECENT_COVERAGE (stories already in the last briefings — see system rules):"]
+    for r in recent:
+        lines.append(f"  - [{r['date']}] {r['title']} ({r['source']})")
+    return "\n".join(lines) + "\n"
+
+
+def summarize(
+    candidates: list[Article],
+    cfg: Config,
+    date_label: str,
+    recent_coverage: "list[dict] | None" = None,
+) -> Optional[Digest]:
     if not cfg.anthropic_api_key:
         raise RuntimeError("ANTHROPIC_API_KEY is not set")
     if not candidates:
@@ -478,10 +515,12 @@ def summarize(candidates: list[Article], cfg: Config, date_label: str) -> Option
         "candidates": _candidates_payload(candidates),
     }
     watchlist_block = build_watchlist_context_block(cfg.watchlist)
+    coverage_block = build_recent_coverage_block(recent_coverage)
     user_msg = (
         f"Today's date: {date_label}.\n"
         f"Aim for around {cfg.target_story_count} stories in the final digest.\n\n"
         + (watchlist_block + "\n" if watchlist_block else "")
+        + (coverage_block + "\n" if coverage_block else "")
         + "Candidates (already pre-filtered and pre-scored):\n"
         + json.dumps(payload["candidates"], ensure_ascii=False, indent=2)
     )

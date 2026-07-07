@@ -104,6 +104,22 @@ def mark_used_in_digest(
     )
 
 
+def recent_digest_stories(conn: sqlite3.Connection, days: int = 3) -> list[dict]:
+    """Stories chosen for the last few briefings — feeds the summarizer's
+    RECENT_COVERAGE block so it can frame updates and skip re-covers."""
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).strftime("%Y-%m-%d")
+    rows = conn.execute(
+        "SELECT digest_date, title, source FROM articles "
+        "WHERE used = 1 AND digest_date IS NOT NULL AND digest_date >= ? "
+        "ORDER BY digest_date DESC, title",
+        (cutoff,),
+    ).fetchall()
+    return [
+        {"date": r["digest_date"], "title": r["title"], "source": r["source"]}
+        for r in rows
+    ]
+
+
 def record_digest(
     conn: sqlite3.Connection,
     digest_date: str,

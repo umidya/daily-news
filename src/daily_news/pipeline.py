@@ -13,6 +13,7 @@ from .db import (
     insert_article,
     list_recent_digests,
     mark_used_in_digest,
+    recent_digest_stories,
     record_digest,
     recent_titles,
 )
@@ -96,6 +97,7 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
     new_articles: list[Article] = []
     with connect(db_path) as conn:
         seen_titles = recent_titles(conn, days=3)
+        recent_coverage = recent_digest_stories(conn, days=3)
         for art in fetched:
             if has_seen_url(conn, art.url_hash):
                 continue
@@ -123,8 +125,9 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
             ],
         }
 
-    # 4. Summarize via Claude
-    digest = summarize(candidates, cfg, human_label)
+    # 4. Summarize via Claude — recent_coverage gives the model memory of the
+    # last 3 briefings so it frames follow-ups as updates and skips re-covers.
+    digest = summarize(candidates, cfg, human_label, recent_coverage=recent_coverage)
     if digest is None:
         log.warning("No digest produced (no candidates)")
         return {"date": date_label, "stories": 0}
