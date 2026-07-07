@@ -13,10 +13,11 @@ A personal morning news digest for Midya. Fetches from curated RSS feeds and Goo
 
 Runs daily on GitHub Actions. Trigger chain: a Cloudflare Worker cron fires `workflow_dispatch` at 11:30 UTC (primary); 8 schedule crons between 10:23–13:47 UTC are independent fallbacks (a same-day skip guard makes duplicate fires ~free); an Anthropic cloud watchdog routine at 14:30 UTC auto-recovers a stale `today.json` and emails only when stuck. gh-pages audio is pruned to the last 30 days in CI (GitHub Pages has a 1 GB site limit).
 
-## Briefing structure (locked April 2026)
+## Briefing structure (locked April 2026; Watchlist added July 2026)
 
-Every digest is organized into up to eight named sections (in this order). Sections with no qualifying news are omitted, not padded.
+Every digest is organized into up to nine named sections (in this order). Sections with no qualifying news are omitted, not padded.
 
+0. **Watchlist** — `watchlist`. Stories materially involving orgs on Midya's client/prospect/peer watchlist. Config lives in `config/watchlist.yaml` + `config/peer_orgs.yaml` — **gitignored** (public repo; they name clients). CI materializes them from the `DAILY_NEWS_WATCHLIST_YAML` / `DAILY_NEWS_PEER_ORGS_YAML` repo secrets; update the secret when the local file changes (`gh secret set DAILY_NEWS_WATCHLIST_YAML < config/watchlist.yaml`). Published output must never frame these orgs as relationships.
 1. **AI & Tech** — `ai`
 2. **Marketing & Business** — `marketing` (or `global_business_tech` when dominantly business)
 3. **Higher Education** — `higher_ed_canada` / `higher_ed_global` / `intl_students_canada`. Specifically flag stories about named Canadian universities (potential consulting clients).
@@ -29,6 +30,10 @@ Every digest is organized into up to eight named sections (in this order). Secti
 Target ~16 stories total, 1–3 per active section.
 
 Audience: Midya — senior marketing exec in BC, pivoting into consulting, lives in Sun Peaks, BC (frequently in Kamloops). Tone: trusted advisor's executive briefing, not a news ticker.
+
+Two intelligence features (July 2026):
+- **Cross-day memory** — the summarizer receives the last 3 days' chosen stories (`recent_digest_stories` in `db.py`) and is instructed to frame follow-ups as updates and drop no-news re-covers.
+- **Content angles** — every story carries a required `content_angle` field (null for most; a one-line thought-leadership hook on ≤2 stories/day). Exported as `contentAngle` in `today.json` so Sloane's content pipeline can read it from the public URL.
 
 ## Where decisions live
 
@@ -65,4 +70,4 @@ Default to editing config files before touching code.
 
 ## Cost guardrails
 
-Each daily run is ~$0.10-0.15 (Claude Sonnet + OpenAI TTS HD). Monthly: ~$3-5. If costs balloon, check that recency cutoff is dropping old articles and that `candidate_pool_size` hasn't been increased.
+The summarizer runs Claude Opus 4.8 ($5/$25 per MTok) with adaptive thinking — curation quality is the product, and the delta over Sonnet is cents. Expect ~$0.30-0.60 per run (Claude ~$0.25-0.45 incl. thinking tokens + OpenAI TTS HD ~$0.05-0.10); truncation-guard retries can multiply the Claude portion up to 3x on a bad day. Monthly: roughly $10-20. If costs balloon, check that the recency cutoff is dropping old articles, that `candidate_pool_size` hasn't been increased, and how often the truncation guard is retrying (visible in Actions logs).
