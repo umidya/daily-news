@@ -34,6 +34,7 @@ export const colors = {
 } as const;
 
 export type CategoryName =
+  | 'Watchlist'
   | 'Local News'
   | 'AI & Tech'
   | 'Real Estate'
@@ -48,6 +49,9 @@ export const categoryStyleMap: Record<
   CategoryName,
   { bg: string; text: string; dot: string }
 > = {
+  // Deep emerald (Midya U brand) — Watchlist is her client/prospect radar and
+  // must never render in the grey Misc fallback.
+  'Watchlist':     { bg: '#DCEDE6',             text: '#064E3B',         dot: '#064E3B' },
   'Local News':    { bg: colors.accentBlueSoft, text: colors.accentBlue, dot: colors.accentBlue },
   'AI & Tech':     { bg: colors.lavenderSoft,   text: colors.lavender,   dot: colors.lavender },
   'Real Estate':   { bg: colors.warmYellowSoft, text: '#A87000',         dot: colors.warmYellow },
