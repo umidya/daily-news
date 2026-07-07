@@ -3,6 +3,8 @@ from __future__ import annotations
 import io
 import logging
 import re
+import shutil
+import subprocess
 from pathlib import Path
 from typing import Iterable
 
@@ -18,6 +20,16 @@ CHUNK_CHAR_LIMIT = 3500  # OpenAI cap is 4096; leave headroom
 # tts-1-hd at default speed lands around 150 wpm; rough byte/sec for fallback
 # duration estimates if mutagen isn't available.
 _BYTES_PER_SECOND_ESTIMATE = 12000
+
+# A TTS response whose measured peak is at/below this (dBFS) is treated as
+# silent. Real onyx narration peaks around -6 to -8 dBFS; true digital silence
+# is around -91 dBFS — so -60 is a safe floor that never trips on quiet speech.
+# Guards against the rare case where OpenAI returns a valid-length but
+# digitally-silent MP3 (observed 2026-06-03: one tts-1-hd call came back as
+# 158s of -91 dB silence and shipped unnoticed — duration + byte size looked
+# normal, so nothing downstream caught it).
+_SILENCE_PEAK_DB = -60.0
+_SILENT_SEGMENT_RETRIES = 2
 
 
 def _chunk_script(text: str, limit: int = CHUNK_CHAR_LIMIT) -> list[str]:
@@ -73,6 +85,51 @@ def synthesize(
             )
             f.write(response.content)
     return output_path
+
+
+def _synthesize_chunks(
+    client: OpenAI, chunks: Iterable[str], voice: str, model: str
+) -> bytes:
+    """Run TTS for each chunk and concatenate the MP3 bytes."""
+    parts: list[bytes] = []
+    for chunk in chunks:
+        response = client.audio.speech.create(
+            model=model,
+            voice=voice,
+            input=chunk,
+            response_format="mp3",
+        )
+        parts.append(response.content)
+    return b"".join(parts)
+
+
+def _max_volume_db(mp3_bytes: bytes) -> float | None:
+    """Peak volume of an MP3 in dBFS via ffmpeg's volumedetect, read from
+    stdin. Returns None when ffmpeg is unavailable or analysis fails — the
+    caller treats 'unknown' as 'not provably silent' and proceeds. ffmpeg is
+    an OPPORTUNISTIC check (present on the CI runners that produce the audio),
+    never a hard runtime dependency, so local runs without it still work."""
+    ffmpeg = shutil.which("ffmpeg")
+    if not ffmpeg:
+        return None
+    try:
+        proc = subprocess.run(
+            [ffmpeg, "-hide_banner", "-nostats", "-i", "pipe:0",
+             "-af", "volumedetect", "-f", "null", "-"],
+            input=mp3_bytes,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.PIPE,
+            timeout=120,
+        )
+    except Exception:  # ffmpeg missing mid-run, timeout, OS error — skip check
+        return None
+    for line in proc.stderr.decode("utf-8", "replace").splitlines():
+        if "max_volume:" in line:
+            try:
+                return float(line.split("max_volume:")[1].strip().split()[0])
+            except (ValueError, IndexError):
+                return None
+    return None
 
 
 def _measure_mp3_seconds(mp3_bytes: bytes) -> float:
@@ -132,16 +189,36 @@ def synthesize_segments(
                 "s" if len(chunks) != 1 else "",
             )
 
-            seg_bytes_parts: list[bytes] = []
-            for chunk in chunks:
-                response = client.audio.speech.create(
-                    model=model,
-                    voice=voice,
-                    input=chunk,
-                    response_format="mp3",
+            seg_bytes = _synthesize_chunks(client, chunks, voice, model)
+
+            # Silent-segment guard. OpenAI very occasionally returns a
+            # valid-length but digitally-silent MP3; without this check it
+            # ships as a section with no audio (see _SILENCE_PEAK_DB note).
+            # Retry the whole segment, then fail loudly rather than publish a
+            # briefing with a silent section.
+            peak_db = _max_volume_db(seg_bytes)
+            retries = 0
+            while (
+                peak_db is not None
+                and peak_db <= _SILENCE_PEAK_DB
+                and retries < _SILENT_SEGMENT_RETRIES
+            ):
+                retries += 1
+                log.warning(
+                    "  segment %d/%d came back silent (peak %.1f dB); "
+                    "retrying TTS (%d/%d)",
+                    i + 1, len(segments), peak_db, retries, _SILENT_SEGMENT_RETRIES,
                 )
-                seg_bytes_parts.append(response.content)
-            seg_bytes = b"".join(seg_bytes_parts)
+                seg_bytes = _synthesize_chunks(client, chunks, voice, model)
+                peak_db = _max_volume_db(seg_bytes)
+            if peak_db is not None and peak_db <= _SILENCE_PEAK_DB:
+                raise RuntimeError(
+                    f"TTS returned silent audio for segment {i + 1}/{len(segments)} "
+                    f"(role={seg.get('role')!r}, topic_key={seg.get('topic_key')!r}, "
+                    f"peak {peak_db:.1f} dB) after {retries} retr"
+                    f"{'y' if retries == 1 else 'ies'}. Aborting so a silent "
+                    f"briefing is never published."
+                )
 
             duration_seconds = _measure_mp3_seconds(seg_bytes)
             out_f.write(seg_bytes)

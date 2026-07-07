@@ -1,0 +1,6 @@
+.dev.vars
+.wrangler/
+.miniflare/
+node_modules/
+dist/
+*.log

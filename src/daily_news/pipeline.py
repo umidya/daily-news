@@ -89,14 +89,18 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
     )
 
     # 2. Persist + dedup against history
+    # Title history must be read BEFORE this run's articles are inserted:
+    # every inserted row has fetched_at=now, so reading afterwards makes each
+    # new article match its own title and zeroes the novelty term for the
+    # entire run. In-run duplicates are still handled by score_and_filter.
     new_articles: list[Article] = []
     with connect(db_path) as conn:
+        seen_titles = recent_titles(conn, days=3)
         for art in fetched:
             if has_seen_url(conn, art.url_hash):
                 continue
             insert_article(conn, art)
             new_articles.append(art)
-        seen_titles = recent_titles(conn, days=3)
 
     log.info("%d new articles after URL-dedup; %d titles in 3-day history",
              len(new_articles), len(seen_titles))

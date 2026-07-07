@@ -1,0 +1,17 @@
+{
+  "name": "daily-news-trigger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudflare Worker that fires workflow_dispatch on umidya/daily-news daily at 11:30 UTC.",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "tail": "wrangler tail",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260520.0",
+    "typescript": "^5.4.5",
+    "wrangler": "^3.114.0"
+  }
+}

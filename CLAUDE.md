@@ -4,14 +4,14 @@
 
 This folder lives at `~/Desktop/AI-Apps/daily-news/` and contains two sibling projects:
 
-- **`app/`** — React Native + Expo + TypeScript mobile prototype. This is the new front door for Midya's morning briefing experience and is currently UI-only with mock data.
+- **`app/`** — React Native + Expo + TypeScript mobile app. This is the front door for Midya's morning briefing experience; it fetches the real `today.json` + MP3 that the pipeline publishes to GitHub Pages (no longer mock data).
 - **Root (`src/`, `config/`, `templates/`, etc.)** — the existing Python pipeline (this CLAUDE.md is about that piece). The plan is for the pipeline to eventually expose a thin API that the app consumes.
 
 ## What this is
 
 A personal morning news digest for Midya. Fetches from curated RSS feeds and Google News, deduplicates, scores for relevance to her interests, has Claude write executive-style summaries, generates audio with OpenAI TTS, and publishes a podcast feed + minimalist web page on GitHub Pages.
 
-Runs daily on GitHub Actions at 13:30 UTC.
+Runs daily on GitHub Actions. Trigger chain: a Cloudflare Worker cron fires `workflow_dispatch` at 11:30 UTC (primary); 8 schedule crons between 10:23–13:47 UTC are independent fallbacks (a same-day skip guard makes duplicate fires ~free); an Anthropic cloud watchdog routine at 14:30 UTC auto-recovers a stale `today.json` and emails only when stuck. gh-pages audio is pruned to the last 30 days in CI (GitHub Pages has a 1 GB site limit).
 
 ## Briefing structure (locked April 2026)
 
