@@ -184,7 +184,10 @@ jobs:
         run: |
           set -euo pipefail
           BASE_URL="${DAILY_NEWS_BASE_URL:-https://umidya.github.io/daily-news}"
-          EXPECTED_DATE="$(date -u +%F)"
+          # dateIso is stamped in Pacific time by pipeline.py; verifying
+          # against UTC would spuriously fail any run between 00:00-07:59 UTC
+          # (PT evening), e.g. a late-night manual force run.
+          EXPECTED_DATE="$(TZ=America/Vancouver date +%F)"
           echo "Verifying ${BASE_URL}/today.json reports dateIso=${EXPECTED_DATE} with stories..."
           # gh-pages deploy is async; poll for up to ~5 minutes with cache-busting.
           for attempt in $(seq 1 30); do
