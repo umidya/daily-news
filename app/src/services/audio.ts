@@ -35,6 +35,8 @@ export interface PlaybackState {
   positionMs: number;
   durationMs: number;
   speed: number;
+  /** Human-readable playback failure; null when healthy. Cleared on load/play. */
+  error: string | null;
 }
 
 export interface TrackMetadata {
@@ -51,6 +53,7 @@ const initialState: PlaybackState = {
   positionMs: 0,
   durationMs: 0,
   speed: 1.0,
+  error: null,
 };
 
 class AudioController {
@@ -143,6 +146,12 @@ class AudioController {
     TrackPlayer.addEventListener(Event.PlaybackError, (e) => {
       // eslint-disable-next-line no-console
       console.warn('TrackPlayer playback error', e);
+      // Surface it — a play button that silently does nothing is worse than
+      // an error message (historical failure: audio 404/corrupt on Pages).
+      this.update({
+        isPlaying: false,
+        error: "Couldn't play today's audio. Pull to refresh and try again.",
+      });
     });
 
     TrackPlayer.addEventListener(Event.PlaybackQueueEnded, () => {
@@ -215,6 +224,7 @@ class AudioController {
       isLoaded: true,
       positionMs: 0,
       durationMs: 0,
+      error: null,
     });
   }
 
@@ -238,6 +248,7 @@ class AudioController {
 
   async play(url?: string, metadata?: TrackMetadata): Promise<void> {
     await this.configure();
+    this.update({ error: null });
     if (url && url !== this.state.url) {
       await this.load(url, metadata);
     }
@@ -290,7 +301,8 @@ class AudioController {
       next.isPlaying === this.state.isPlaying &&
       next.positionMs === this.state.positionMs &&
       next.durationMs === this.state.durationMs &&
-      next.speed === this.state.speed;
+      next.speed === this.state.speed &&
+      next.error === this.state.error;
     this.state = next;
     if (!same) {
       for (const fn of this.listeners) fn(this.state);

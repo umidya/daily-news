@@ -9,6 +9,7 @@ import { AudioPlayer } from '@/components/AudioPlayer';
 import { ChapterList } from '@/components/ChapterList';
 import { CategoryPill } from '@/components/CategoryPill';
 import { StoryThumbnail } from '@/components/StoryThumbnail';
+import { StatusBanner } from '@/components/StatusBanner';
 import { useApp } from '@/state/AppContext';
 import { formatMs } from '@/services/audio';
 import { colors, radii, shadows, spacing, typography } from '@/theme';
@@ -78,6 +79,8 @@ export function AudioScreen() {
           </Text>
         </View>
       </View>
+
+      {playback.error != null && <StatusBanner message={playback.error} />}
 
       <AudioPlayer currentTime={currentTime} totalDuration={totalDuration} />
 

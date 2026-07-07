@@ -6,6 +6,7 @@ import { ScreenContainer } from '@/components/ScreenContainer';
 import { HeroBriefingCard } from '@/components/HeroBriefingCard';
 import { StoryCard } from '@/components/StoryCard';
 import { DigestPreviewCard } from '@/components/DigestPreviewCard';
+import { StatusBanner, briefingIsStale } from '@/components/StatusBanner';
 import { useApp } from '@/state/AppContext';
 import { formatMs } from '@/services/audio';
 import { colors, spacing, typography } from '@/theme';
@@ -31,6 +32,11 @@ export function HomeScreen() {
         <Text style={styles.greeting}>{b.greeting}</Text>
         <Text style={styles.date}>{b.date}</Text>
       </View>
+
+      {briefingIsStale(b.dateIso) && (
+        <StatusBanner message={`Showing the briefing from ${b.date} — today's hasn't arrived yet.`} />
+      )}
+      {playback.error != null && <StatusBanner message={playback.error} />}
 
       <HeroBriefingCard
         totalDuration={totalDuration}
