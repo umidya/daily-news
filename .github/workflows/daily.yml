@@ -43,12 +43,11 @@ concurrency:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    # 2026-07-06 run reached ~18 min (two truncation-guard retries + TTS +
+    # 5-min verify poll); 20 was one retry away from killing a good run.
+    timeout-minutes: 30
     env:
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       DAILY_NEWS_BASE_URL: ${{ vars.DAILY_NEWS_BASE_URL }}
-      DAILY_NEWS_FORCE: ${{ inputs.force == 'true' && '1' || '0' }}
       PYTHONUNBUFFERED: "1"
 
     steps:
@@ -91,7 +90,13 @@ jobs:
             echo "No state branch yet; first run."
           fi
 
+      # API keys are scoped to this step only so they are never ambient in
+      # third-party action steps (peaceiris runs with contents:write).
       - name: Run digest pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DAILY_NEWS_FORCE: ${{ inputs.force == 'true' && '1' || '0' }}
         run: python -m daily_news run
 
       # Publish FIRST so a transient hiccup in the internal state-branch push
@@ -106,6 +111,34 @@ jobs:
           user_name: daily-news-bot
           user_email: bot@daily-news.local
           commit_message: "publish: ${{ github.run_id }}"
+
+      # GitHub Pages hard-fails deploys once the published site exceeds 1 GB.
+      # Daily ~15 MB MP3s hit that ceiling in ~2 months (2026-07-06 incident:
+      # site at 975 MB, pages-build-deployment failing intermittently). Keep
+      # the last 30 days of audio (~450 MB steady state); older episodes'
+      # archive pages remain but lose playback. Blob-less fetch + index-only
+      # deletion so we never download hundreds of MB of MP3s just to delete
+      # a few. Runs after Publish so it can never block today's briefing.
+      - name: Prune gh-pages audio older than 30 days
+        continue-on-error: true
+        run: |
+          set -euo pipefail
+          CUTOFF="$(date -u -d '30 days ago' +%F)"
+          git fetch --filter=blob:none --no-tags origin gh-pages
+          export GIT_INDEX_FILE="$(mktemp)"
+          git read-tree FETCH_HEAD
+          PRUNE="$(git ls-files 'audio/*.mp3' | awk -v c="audio/${CUTOFF}.mp3" '$0 < c')"
+          if [ -z "$PRUNE" ]; then
+            echo "Nothing to prune (no audio older than ${CUTOFF})."
+            exit 0
+          fi
+          echo "$PRUNE" | xargs git update-index --force-remove
+          TREE="$(git write-tree)"
+          COMMIT="$(GIT_AUTHOR_NAME=daily-news-bot GIT_AUTHOR_EMAIL=bot@daily-news.local \
+                    GIT_COMMITTER_NAME=daily-news-bot GIT_COMMITTER_EMAIL=bot@daily-news.local \
+                    git commit-tree "$TREE" -p FETCH_HEAD -m "prune: audio before ${CUTOFF}")"
+          git push origin "${COMMIT}:refs/heads/gh-pages"
+          echo "Pruned $(echo "$PRUNE" | wc -l | tr -d ' ') audio files older than ${CUTOFF}."
 
       # Internal dedup state. Marked continue-on-error: a failure here would
       # only cost cross-day dedup quality for one day — the user-facing
