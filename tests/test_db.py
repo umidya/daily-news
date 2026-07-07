@@ -90,3 +90,19 @@ def test_recent_digest_stories_returns_marked_articles(tmp_path: Path):
         old = (date.today() - timedelta(days=10)).isoformat()
         mark_used_in_digest(conn, [used.url_hash], old)
         assert recent_digest_stories(conn, days=3) == []
+
+
+def test_recent_digest_stories_excludes_today_on_rerun(tmp_path: Path):
+    from datetime import date
+
+    from daily_news.db import mark_used_in_digest, recent_digest_stories
+
+    today = date.today().isoformat()
+    with connect(tmp_path / "t.db") as conn:
+        art = _article("Published earlier today")
+        insert_article(conn, art)
+        mark_used_in_digest(conn, [art.url_hash], today)
+        # A same-day force re-run must not see today's own briefing.
+        assert recent_digest_stories(conn, days=3, before_date=today) == []
+        # Without the bound it IS visible (tomorrow's run sees it).
+        assert len(recent_digest_stories(conn, days=3)) == 1

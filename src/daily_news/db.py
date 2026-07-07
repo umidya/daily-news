@@ -104,15 +104,23 @@ def mark_used_in_digest(
     )
 
 
-def recent_digest_stories(conn: sqlite3.Connection, days: int = 3) -> list[dict]:
+def recent_digest_stories(
+    conn: sqlite3.Connection, days: int = 3, before_date: "str | None" = None
+) -> list[dict]:
     """Stories chosen for the last few briefings — feeds the summarizer's
-    RECENT_COVERAGE block so it can frame updates and skip re-covers."""
+    RECENT_COVERAGE block so it can frame updates and skip re-covers.
+
+    before_date (YYYY-MM-DD) excludes that date and later: a same-day force
+    re-run must not see today's own briefing as 'already covered' or it
+    would avoid today's actual news."""
     cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).strftime("%Y-%m-%d")
+    upper = before_date or "9999-12-31"
     rows = conn.execute(
         "SELECT digest_date, title, source FROM articles "
         "WHERE used = 1 AND digest_date IS NOT NULL AND digest_date >= ? "
+        "AND digest_date < ? "
         "ORDER BY digest_date DESC, title",
-        (cutoff,),
+        (cutoff, upper),
     ).fetchall()
     return [
         {"date": r["digest_date"], "title": r["title"], "source": r["source"]}

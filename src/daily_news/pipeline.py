@@ -97,7 +97,7 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
     new_articles: list[Article] = []
     with connect(db_path) as conn:
         seen_titles = recent_titles(conn, days=3)
-        recent_coverage = recent_digest_stories(conn, days=3)
+        recent_coverage = recent_digest_stories(conn, days=3, before_date=date_label)
         for art in fetched:
             if has_seen_url(conn, art.url_hash):
                 continue
