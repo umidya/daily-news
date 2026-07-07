@@ -142,7 +142,9 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       void cancelDailyBriefing();
       return;
     }
-    void scheduleDailyBriefing(deliveryHour, deliveryMinute);
+    // The settings stepper is 1-12 with a fixed "AM" label; hour 12 means
+    // midnight, so map to the 0-23 clock the OS trigger expects (12 % 12 = 0).
+    void scheduleDailyBriefing(deliveryHour % 12, deliveryMinute);
   }, [deliveryHour, deliveryMinute, audioOn, digestOn]);
 
   // Initialize audio + subscribe to playback state.
