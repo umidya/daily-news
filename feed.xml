@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 07 Jul 2026 18:10:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 11:39:06 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, July 7, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-07.html</link>
-      <description>Today's throughline is AI accountability moving from theory to consequence — and that's your lane. British Columbia is exploring legal action against OpenAI over the Tumbler Ridge tragedy, which is the sharpest possible signal that public bodies now treat AI vendors as liable act...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-07.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-07.mp3" length="17549280" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, July 8, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-08.html</link>
+      <description>Today's through-line is AI moving from pilot to plumbing across the exact industries you sell into — mortgage lending, brokerage operations, and marketing stacks are all being re-architected around data governance rather than shiny features, which is precisely the conversation yo...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-08.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-08.mp3" length="16759680" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
