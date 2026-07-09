@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 08 Jul 2026 11:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:37:33 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, July 8, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-08.html</link>
-      <description>Today's through-line is AI moving from pilot to plumbing across the exact industries you sell into — mortgage lending, brokerage operations, and marketing stacks are all being re-architected around data governance rather than shiny features, which is precisely the conversation yo...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-08.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-08.mp3" length="16759680" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, July 9, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-09.html</link>
+      <description>Two threads dominate your world today. First, generative-search visibility has now arrived squarely in real estate — homebuyers are picking agents through ChatGPT, which turns your AI Search Readiness methodology from a higher-ed pitch into a brokerage-ops product you can sell in...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-09.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-09.mp3" length="15861120" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
