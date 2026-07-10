@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 09 Jul 2026 11:37:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:37:17 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, July 9, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-09.html</link>
-      <description>Two threads dominate your world today. First, generative-search visibility has now arrived squarely in real estate — homebuyers are picking agents through ChatGPT, which turns your AI Search Readiness methodology from a higher-ed pitch into a brokerage-ops product you can sell in...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-09.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-09.mp3" length="15861120" type="audio/mpeg"/>
-      <pubDate>Thu, 09 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, July 10, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-10.html</link>
+      <description>Today's through-line is the widening gap between AI hype and AI reality — Axios's "class divide" framing and Anthropic's interpretability work both land squarely in your thought-leadership lane, because your clients live on the "know-not" side of that divide and need someone who ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-10.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-10.mp3" length="15191040" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
