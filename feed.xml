@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 11 Jul 2026 11:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 11:38:33 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Saturday, July 11, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-11.html</link>
-      <description>Today's through-line is governance — who sets the rules for AI, research, and data, and how quickly the ground is shifting under the institutions Midya sells into. Ottawa's proposed digital regulator would fold online safety and privacy oversight into one body, which is exactly t...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-11.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-11.mp3" length="15814560" type="audio/mpeg"/>
-      <pubDate>Sat, 11 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Sunday, July 12, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-12.html</link>
+      <description>The through-line today runs from the Strait of Hormuz straight into your mortgage math: renewed U.S.-Iran strikes pushed rates up even as buyer demand held, and that same geopolitical risk premium is the kind of macro noise that ripples into every brokerage conversation your real...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-12.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-12.mp3" length="15478560" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
