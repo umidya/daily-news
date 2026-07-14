@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 13 Jul 2026 11:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:36:53 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, July 13, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-13.html</link>
-      <description>Two threads dominate today, and both feed your consulting lanes directly. First, generative AI is quietly rewiring the customer-service and search layer: new data shows third-party AI tools are eclipsing brand-owned chatbots, which is the clearest signal yet that your AI Search R...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-13.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-13.mp3" length="15893280" type="audio/mpeg"/>
-      <pubDate>Mon, 13 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, July 14, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-14.html</link>
+      <description>Today's through-line is governance catching up to AI's momentum — and that's directly your lane. Demis Hassabis is publicly arguing for a formal AI watchdog, while a HousingWire piece makes the exact point you make to clients: process governance must come before you bolt AI onto ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-14.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-14.mp3" length="13240800" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
