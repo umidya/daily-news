@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:36:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:37:56 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, July 14, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-14.html</link>
-      <description>Today's through-line is governance catching up to AI's momentum — and that's directly your lane. Demis Hassabis is publicly arguing for a formal AI watchdog, while a HousingWire piece makes the exact point you make to clients: process governance must come before you bolt AI onto ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-14.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-14.mp3" length="13240800" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, July 15, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-15.html</link>
+      <description>Today's through-line is AI moving from pilot to production — and the accountability, governance, and infrastructure bills coming due. The CMO accountability-gap piece and the Medicare Advantage AI care-denial probe are two faces of the same story you're building a practice around...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-15.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-15.mp3" length="17136000" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
