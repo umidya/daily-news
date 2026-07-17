@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 11:39:10 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, July 16, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-16.html</link>
-      <description>Today's through-line is AI governance moving from abstraction to policy — the three frontier-lab CEOs publicly converging on the need for regulation, and a Verge investigation into AI being sold wholesale to police departments. Both feed directly into your public-institution gove...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-16.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-16.mp3" length="16005600" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, July 17, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-17.html</link>
+      <description>Today's briefing turns on one seismic thread with a Canadian silver lining: Washington has finalized rules ending the open-ended "Duration of Status" for international students and capping visas at four years. For anyone selling into Canadian higher education, this is the recruit...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-17.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-17.mp3" length="15087360" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
