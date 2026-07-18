@@ -12,7 +12,7 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 18 Jul 2026 11:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 12:46:13 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
@@ -21,9 +21,9 @@
     <item>
       <title>Daily News for Saturday, July 18, 2026</title>
       <link>https://umidya.github.io/daily-news/digests/2026-07-18.html</link>
-      <description>The dominant thread this weekend is the finalization of the US Duration-of-Status rule — a hard four-year cap on student visas — and it's not a US-only story. Every restriction Washington layers on reshapes the global recruitment map, and Canada is the obvious hedge destination e...</description>
+      <description>Today is a quiet news cycle, and the thread that ties it together is friction at the border of talent and capital. Washington is tightening the screws on international students and visa holders, which reshapes the competitive map for Canadian higher-ed recruitment — the diversion...</description>
       <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-18.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-18.mp3" length="14782080" type="audio/mpeg"/>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-18.mp3" length="12431520" type="audio/mpeg"/>
       <pubDate>Sat, 18 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
