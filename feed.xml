@@ -12,7 +12,7 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 18 Jul 2026 14:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 14:38:51 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
@@ -21,9 +21,9 @@
     <item>
       <title>Daily News for Saturday, July 18, 2026</title>
       <link>https://umidya.github.io/daily-news/digests/2026-07-18.html</link>
-      <description>It's a genuinely quiet mid-summer Saturday, Midya, and the signal today is local and environmental rather than professional — so treat this as a maintenance briefing, not a strategy one. The through-line is BC's summer risk profile: dry lightning is spiking wildfire activity agai...</description>
+      <description>It's a genuinely quiet Saturday, and the one thread worth your attention is close to home: lightning-driven wildfire activity is intensifying across the B.C. Interior, with the Thompson-Nicola Regional District now expanding evacuation orders and alerts around Big Bar Lake and th...</description>
       <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-18.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-18.mp3" length="14629920" type="audio/mpeg"/>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-18.mp3" length="12891840" type="audio/mpeg"/>
       <pubDate>Sat, 18 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
