@@ -12,7 +12,7 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 18 Jul 2026 13:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 14:16:33 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
@@ -21,9 +21,9 @@
     <item>
       <title>Daily News for Saturday, July 18, 2026</title>
       <link>https://umidya.github.io/daily-news/digests/2026-07-18.html</link>
-      <description>Today is a light news cycle, and that itself is worth using well — the quiet days are when thought-leadership content actually gets written. The dominant thread is the bifurcation of the AI market: China's open-weight models are becoming the cheap, customizable default that devel...</description>
+      <description>It's a genuinely quiet mid-summer Saturday, Midya, and the signal today is local and environmental rather than professional — so treat this as a maintenance briefing, not a strategy one. The through-line is BC's summer risk profile: dry lightning is spiking wildfire activity agai...</description>
       <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-18.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-18.mp3" length="12084960" type="audio/mpeg"/>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-18.mp3" length="14629920" type="audio/mpeg"/>
       <pubDate>Sat, 18 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>

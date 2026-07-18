@@ -3,49 +3,46 @@
   "date": "Saturday, July 18, 2026",
   "dateIso": "2026-07-18",
   "greeting": "Good morning, Midya",
-  "totalDuration": "10:04",
+  "totalDuration": "12:11",
   "currentTime": "0:00",
-  "remaining": "10 min total",
+  "remaining": "12 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today is a light news cycle, and that itself is worth using well — the quiet days are when thought-leadership content actually gets written. The dominant thread is the bifurcation of the AI market: China's open-weight models are becoming the cheap, customizable default that developers reach for, which reframes the entire cost-and-governance conversation you have with public-institution and enrolment clients. When the smart models get commoditized, your differentiation shifts from 'which model' to 'how it's governed, where the data lives, and how visible the brand is in generative search' — squarely your lanes.",
+  "digestIntro": "It's a genuinely quiet mid-summer Saturday, Midya, and the signal today is local and environmental rather than professional — so treat this as a maintenance briefing, not a strategy one. The through-line is BC's summer risk profile: dry lightning is spiking wildfire activity again, evacuation orders are live around Big Bar Lake, and river-safety advocacy is surfacing in Kamloops as the season peaks. For someone with property in Sun Peaks and family across the province, the wildfire and smoke picture is the thing to actually monitor this weekend.",
   "digestReadingTime": "2 min read",
-  "whyItMatters": "Today is a light news cycle, and that itself is worth using well — the quiet days are when thought-leadership content actually gets written. The dominant thread is the bifurcation of the AI market: China's open-weight models are becoming the cheap, customizable default that developers reach for, which reframes the entire cost-and-governance conversation you have with public-institution and enrolment clients. When the smart models get commoditized, your differentiation shifts from 'which model' to 'how it's governed, where the data lives, and how visible the brand is in generative search' — squarely your lanes. Closer to home, lightning has ignited nearly 100 new B.C. fires with evacuation orders near Big Bar Lake, so keep the family-safety and smoke lens active. And there's a fresh CFIA recall on a widely-sold dollar-store seasoning worth a thirty-second kitchen check.",
+  "whyItMatters": "It's a genuinely quiet mid-summer Saturday, Midya, and the signal today is local and environmental rather than professional — so treat this as a maintenance briefing, not a strategy one. The through-line is BC's summer risk profile: dry lightning is spiking wildfire activity again, evacuation orders are live around Big Bar Lake, and river-safety advocacy is surfacing in Kamloops as the season peaks. For someone with property in Sun Peaks and family across the province, the wildfire and smoke picture is the thing to actually monitor this weekend. On the business side there's nothing that moves your consulting pivot today — which is your cue to spend the quiet cycle producing rather than consuming, and to bank a thought-leadership piece while the news is slow. The Whistler resort award is a small reminder that BC's mountain-tourism brand economy — the ecosystem your Sun Peaks holdings sit inside — is having a strong year, and that matters for both hospitality demand and property values.",
   "audioUrl": "https://umidya.github.io/daily-news/audio/2026-07-18.mp3",
-  "audioDurationSeconds": 604,
-  "audioScript": "Good morning, Midya. It's Saturday, July eighteenth, twenty twenty-six. It's a genuinely light news day, so instead of racing through a long list, we're going to slow down and go deep on the few things that actually matter — and there's one story in here that I think should end up as a post.\n\nLet's start with the thread that's been building all week, because today it took a decisive turn. Yesterday I flagged the Axios piece arguing that China had erased America's AI lead. Today's follow-up sharpens that into something more useful for you, and frankly more actionable. The framing is that the AI race is splitting in two. On one side you have the American prestige labs — OpenAI, Anthropic, Google — building the smartest, most capable frontier models. On the other side, Chinese labs like Moonshot AI have just released Kimi K3, an open-weight model that is cheap, customizable, and good enough. And the story's central, slightly terrifying insight for Silicon Valley is this: building the world's smartest model may no longer be enough to win.\n\nHere's the mechanism, because the mechanism is what matters for your advisory work. Developers were already drifting away from premium, closed models toward cheaper alternatives before Kimi K3 even landed. On OpenRouter — that's the big marketplace where developers shop across hundreds of models — the momentum has been moving toward open-weight Chinese models that you can download, fine-tune, and run wherever you want, at a fraction of the per-token cost of the flagship American systems. Kimi K3 exploded onto that marketplace this week and accelerated a shift that was already underway. The risk to the American labs isn't that their models are worse. It's that their models are becoming an expensive niche — the luxury option in a market that's rapidly deciding 'good enough and cheap and controllable' is the winning combination.\n\nNow, why does this matter to you specifically, and why do I think it's a post? Because it directly attacks a lazy assumption that runs through almost every client conversation in your two lanes. In higher ed and in real estate, the default question people ask is 'which AI model should we use?' As if the model is the strategic decision. This story is the clearest evidence yet that the model is becoming a commodity — a swappable, cheap input. And when the smart part gets commoditized, all of your real value migrates to the parts that don't commoditize: governance, data residency, brand visibility, and process.\n\nThink about what this means through your public-institution governance lens. If a B.C. university or a Crown corporation is evaluating AI tools, the fact that a powerful open-weight model can be run cheaply and locally is actually a governance gift — you can potentially keep data inside Canadian infrastructure, satisfy FIPPA and data-residency requirements, and not ship personal information off to a foreign API. But it's also a governance trap, because 'we can run any model we want, cheaply' is exactly the condition under which shadow AI proliferates inside an institution with zero oversight. The open-weight insurgency lowers the cost of experimentation to almost nothing, which means it raises the risk of ungoverned experimentation to almost everything. That tension — cheaper intelligence makes governance more urgent, not less — is the take I'd want you publishing under your name. The headline writes itself: when the model stops being the moat, governance becomes the moat.\n\nAnd there's a second angle sitting underneath it that ties to AI Search Readiness. If intelligence is commoditizing and everyone has access to roughly the same capable models, then the differentiator for a brand isn't the model it uses internally — it's whether the brand shows up when those models answer questions. Whether it's Kimi, ChatGPT, Perplexity, or Google's AI Mode, the visibility problem is model-agnostic. So the strategic story you can tell clients is: stop obsessing over which AI you deploy, and start obsessing over how AI represents you to the world. That's a clean, contrarian, defensible position, and today's news is the peg to hang it on.\n\nSo my recommendation: don't let this one just scroll past. It's the kind of story that's a little too technical for most marketers to metabolize, which is exactly why a clear, plain-language take from someone who works the governance and enrolment beat would stand out. Commodity intelligence, premium governance. That's the whole thesis in four words.\n\nOn the international front, one story worth your awareness as a senior leader, even though it's far from your day-to-day. Jihadist militants and a separatist group ambushed a Malian army convoy in the country's hard-hit north today, killing or capturing scores of soldiers. On its own it's a tragic but distant event. In context, it's another data point in the steady deterioration of the Sahel — that band of Africa south of the Sahara where a string of coups over the past few years has pushed out Western partners, invited in other foreign security contractors, and left militant groups with more room to operate. The reason I put it on your radar isn't that it changes anything you'll do this week. It's that instability in the Sahel is increasingly connected to the things that do reach you: migration flows into Europe, supply chains for critical minerals, and the broader geopolitical realignment where traditional Western influence is receding and other powers are stepping in. It's the geopolitical version of the AI story, actually — the incumbent's advantage quietly eroding while everyone's attention is elsewhere. Keep it in peripheral vision; no action required.\n\nNow to two things closer to home, and the first is a straightforward family-safety item. The Canadian Food Inspection Agency has ordered a recall on a popular dollar-store seasoning over the risk of severe diarrhea and nausea. I don't have the exact brand in front of me in enough detail to read it out responsibly, so the move here is simple: click through when you have a second, note the product and lot, and check your own spice shelf and anyone in the family who shops the dollar chains. Seasonings are one of those things that sit in a cupboard for a year and get used without a second thought, so recalls on them are worth an actual look rather than a mental note. Thirty seconds now versus a miserable weekend later. That's the whole calculation.\n\nThe second item is an update on the wildfire situation we've been tracking all week, and it's escalated. Over the last twenty-four hours, more than four thousand lightning strikes rolled across British Columbia and sparked nearly one hundred new fires. Evacuation orders are now in place around Big Bar Lake, up in the Cariboo. This is exactly the dry-lightning scenario that B.C. fire officials warned about earlier in the week — the combination of a bone-dry landscape and a lightning-heavy system, which produces fires faster than crews can get to all of them at once. Big Bar Lake is well north of you, up past Clinton in the Cariboo, so there's no direct threat to Sun Peaks or Kamloops from this specific cluster. But the pattern is the point. When you get four thousand strikes in a day and a hundred ignitions, the whole Interior fire situation can shift quickly, and smoke doesn't respect the distance between the Cariboo and the Thompson.\n\nSo the practical read for you: the air-quality dimension is the one most likely to touch you personally. We talked earlier this week about wildfire smoke and its effects both in the moment and over the longer term, and a hundred new fires means the odds of smoky days in Kamloops and Sun Peaks over the coming week just went up meaningfully. If you've got outdoor plans, family visiting, or anyone with respiratory sensitivity in the household, this is the week to keep an eye on the air-quality index and keep the indoor air plan ready. And if you own property in the Interior, this is a reminder that fire season has genuinely arrived, not that it's coming. The insurance-and-preparedness housekeeping — knowing your evacuation route, having documents and essentials accessible — is the kind of thing that feels premature right up until the moment it isn't.\n\nI want to spend an extra beat here on why I keep surfacing the wildfire thread even on days when it's not directly threatening your door. It's because the risk profile of living and owning property in the B.C. Interior has structurally changed over the last decade, and it quietly reshapes a lot of decisions — property values, insurance costs, the tourism calendar that Sun Peaks depends on, even the timing of when it makes sense to be in the region versus not. For your real-estate lane, wildfire risk is increasingly a material factor in Western Canadian property discussions, both residential and on the commercial-investment side. Insurers are repricing, buyers are asking harder questions, and disclosure norms are shifting. So even when a given fire is far away, the cumulative pattern is something you should be able to speak to fluently when clients raise it — because they increasingly will.\n\nThat's the briefing for a quiet Saturday, Midya. The one thing I'd actually do something with today is the China open-weight AI story — it's the cleanest peg you've had in a while for the 'commodity intelligence, premium governance' thesis, and light news days are precisely when thought-leadership content gets written instead of just consumed. Everything else is awareness and housekeeping: check the spice shelf for that recall, keep half an eye on the air quality as the Interior fire count climbs, and enjoy the fact that the world gave you a slow day to think rather than react. Talk tomorrow.",
+  "audioDurationSeconds": 731,
+  "audioScript": "Good morning, Midya. It's Saturday, July eighteenth, twenty twenty-six, and this is a genuinely quiet news day — so we're going to slow down, go deep on what matters locally, and I'll give you an honest read on where to spend a slow Saturday.\n\nLet me set expectations up front. There is almost nothing on the professional wire today that moves your consulting work — no major AI-in-marketing release, no higher-ed policy shift, no real estate rate news, nothing on the watchlist orgs. That happens. Mid-July, weekend, the news machine idles. And rather than pad this briefing with thin filler dressed up as insight, I'd rather be straight with you: today's real signal is local and environmental. It's about BC's summer risk profile, and it's about your backyard. So that's where we'll spend our time, and at the end I'll make the case for what a quiet cycle is actually good for.\n\nLet's start with the thing you should actually be watching this weekend, because it affects you and your family directly: wildfire.\n\nThis is a continuation of the story we've been tracking all week. Earlier in the week B.C. officials were bracing for increased activity from dry lightning, and now that forecast has arrived. Fresh lightning strikes across the Interior have driven a sharp spike in new fire starts, and there are now active evacuation orders around Big Bar Lake, which sits in the Cariboo, northwest of Kamloops toward Clinton. Crews are stretched across multiple fronts, working through the night on some of the more aggressive fires, and the pattern we're seeing — dry lightning followed by rapid new ignitions — is exactly the scenario the province flagged as its biggest concern for this stretch of summer.\n\nHere's why I keep bringing wildfire into your briefing even when it's not a business story. You own property in Sun Peaks, you have family across BC, and the Interior fire season directly touches both. Big Bar Lake itself is far enough from Sun Peaks that there's no immediate threat to your property, but the broader dynamic — a dry lightning cycle sitting over the whole Interior — is the thing that turns a manageable season into a bad one very quickly. When you get lightning without rain over tinder-dry fuel, you don't get one fire, you get twenty, and the firefighting resources get diluted across all of them at once. That's the mechanism playing out right now.\n\nThe practical takeaways for you this weekend are simple but worth stating. First, smoke. Even if no fire comes near Sun Peaks or Kamloops, the smoke travels, and we covered earlier this week the emerging research on how wildfire smoke affects cognition both acutely and over the long term. If air quality degrades, treat it as a real health input, not background haze — especially for any family members who are older or have respiratory issues. Second, if you or family have any travel planned through the Cariboo or the Highway 97 corridor this weekend, check DriveBC before you go, because evacuation orders and road closures in that region can change hour to hour. And third, this is the season where it's worth a two-minute check that your own properties — Sun Peaks in particular, sitting in a forested resort community — have their FireSmart basics squared away and your insurance documentation is somewhere you can reach it remotely. Not because there's a specific threat today, but because the cheapest time to do that check is on a calm Saturday, not during an evacuation alert.\n\nNow, a lighter note from the same broad file, and one that actually connects to your world in a more interesting way. Fairmont Chateau Whistler has just been named the number-one resort in Canada in Travel and Leisure's World's Best Awards — their thirty-first year running the survey, with more than six hundred and sixty thousand reader votes cast worldwide. On its face, that's a travel-magazine puff piece, and I'm not going to pretend it's hard news. But there's a real signal underneath it that's worth thirty seconds of your attention as someone who owns property in a BC mountain resort community.\n\nWhistler winning top resort in the country tells you that BC's mountain-tourism brand economy is having a strong year — that the demand story for premium alpine hospitality in this province is intact and, if anything, strengthening. That ecosystem is the one your Sun Peaks holdings sit inside. Resort real estate values, short-term rental demand, and the general economic health of places like Sun Peaks all ride on the same wave that lifts Whistler. When the flagship BC mountain resort is winning global awards and pulling international votes, it's a proxy indicator that the category is in favour with exactly the affluent, destination-seeking traveller who underpins property values in resort towns. It doesn't change anything you'd do tomorrow, but it's a healthy data point for the asset class you're personally exposed to, and it's a small counterweight to all the wildfire anxiety — BC's tourism brand is genuinely thriving right now.\n\nLet's come closer to home, to Kamloops proper, where there are two stories worth your time.\n\nThe first is a water-safety story, and it's the kind of local news that matters more than its size suggests. A Kamloops advocate is publicly campaigning for clearer warnings and better signage along the Thompson River, calling water safety along that fast-moving corridor a personal mission. This surfaces every summer, and for a reason: the Thompson looks inviting and moves deceptively fast, and every year there are incidents — swimmers, floaters, people who underestimate the current. The advocacy push here is essentially asking the city and the province to make the risk legible to people who don't know the river, particularly visitors and newcomers.\n\nWhy flag this for you? Two reasons. One is straightforwardly about family safety — if you have family or visitors spending time near the Thompson this summer, the message is the message: that river is stronger than it looks, and the safe-looking stretches are often the most dangerous. The second reason is a quieter professional observation, and I offer it because it's the lens you naturally think in. Watch how the city responds to this advocacy, because it's a small case study in public-institution communication and risk messaging. The gap between 'we posted a sign' and 'we actually changed behaviour' is a communication design problem, and it's the same species of problem you solve for institutional clients — how does a public body communicate a message clearly, in the right places, in a way that reaches the people who most need it. It's a reminder that public-sector communication is a craft, and most public bodies do it reactively rather than by design.\n\nThe second Kamloops story is a nice one. The historic Paramount Theatre downtown has secured a two hundred and fifty thousand dollar grant to replace its original nineteen fifty-five boiler. That boiler is over seventy years old, and replacing it protects a heritage cultural venue and keeps its year-round programming viable. On the surface it's an infrastructure line item, but heritage venues are load-bearing pieces of a downtown's cultural identity and its foot traffic, and losing one to a failed furnace is the kind of quiet erosion that hollows out a city core. So this is a genuinely good-news item for Kamloops: a grant doing exactly what grants should do, keeping a working cultural asset alive rather than letting deferred maintenance kill it. If you spend time downtown, it's a small win worth knowing about.\n\nNow, let me use the quiet to do the thing a good advisor should do on a slow day — step back and talk about what to do with it, because how you use a light news cycle says a lot about whether you're building a practice or just reacting to one.\n\nHere's my honest counsel. The temptation on a slow Saturday is to feel like you're missing something, to keep refreshing the feed looking for the story you should be reacting to. Resist that. A quiet news cycle is not a gap in your day — it's the raw material for the thing you keep saying you want, which is thought leadership. You have a stated goal of being recognized as an AI-in-marketing and AI-in-higher-ed voice by twenty twenty-seven, and the brutal truth about thought leadership is that it's not built on the loud days. On loud days everyone is posting, the feed is saturated, and your take drowns. It's built on the quiet days, when you have the time and the mental space to write the piece nobody else is writing.\n\nSo let me connect that to what's actually been in your briefings this week, because there's genuinely rich material sitting there unclaimed. We covered the story about a U.S. professor who suspects most of his students used AI to cheat, and noted it's a growing concern in Canada too. We covered the debate about why multiple-choice questions are making a comeback in universities. We covered the international student levy in England, the end of Duration of Status in the U.S., and the Bloomberg piece on Brand America losing its hold on international students. And we covered the ongoing thread about AI accountability gaps for CMOs. Every one of those is a seed for a post, and you don't need a fresh news hook to plant it — you need a point of view and a quiet morning. Today you have the quiet morning.\n\nIf I were pushing you toward one, it would be the intersection of the AI-cheating story and the international-student-recruitment story, because it sits squarely in your higher-ed enrollment lane and almost nobody is connecting those two threads. The take is this: as generative AI erodes trust in traditional assessment, and as international enrollment gets more competitive and more scrutinized, Canadian institutions are going to face a credibility problem — how do you assure the market that your credential means something when both assessment integrity and recruitment integrity are under pressure at the same time. That's a governance and trust argument, it's defensible, it's in your voice, and it's the kind of connective thinking that separates a consultant from a commentator. You could write that in ninety minutes today.\n\nAnd the deeper point about the wildfire and river-safety stories, the ones that dominate today's actual news, is that they're both fundamentally about public-institution communication under pressure — how do public bodies warn people about risk in a way that actually lands. That's not a coincidence, and it's not off-topic for you. Your public-institution governance lens isn't only about FIPPA and data residency and AI policy; it's about the broader question of how public institutions communicate with the people they serve. The province warning about wildfire smoke, the city being asked to warn about the river — these are the analog versions of the exact problem you help institutions solve in the digital domain. Keeping that pattern-recognition sharp on the low-stakes local stories is what makes your framing credible on the high-stakes institutional ones.\n\nSo that's your Saturday, Midya — light on the wire, but not light on things worth doing. The one thing to genuinely monitor is the wildfire and smoke picture across the Interior; that's a live situation, and a two-minute check on air quality and your own property readiness is time well spent this weekend. Everything else today is either good local news or a reminder that BC's resort economy is healthy. Use the quiet the way the people who build real authority use it — write the piece, plant the seed, get ahead of the noise instead of chasing it. I'll be back Monday, and I'll flag immediately if the fire situation escalates toward anything closer to Sun Peaks. Enjoy the calm.",
   "topStories": [
     {
-      "id": "story-ai-0",
-      "category": "AI & Tech",
-      "headline": "AI race splits in two as China wages open-weight insurgency",
-      "summary": "An update on yesterday's China-AI thread: Moonshot's Kimi K3 is accelerating a developer shift toward cheap, customizable Chinese open-weight models, threatening to turn premium US models into expensive niche products.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Thompson River safety advocate calls for clearer warnings after drownings",
+      "summary": "A Kamloops advocate is pressing the city and province for clearer signage and public warnings along the Thompson River, calling water safety along the fast-moving corridor a personal mission as summer river deaths mount.",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONENtUUcwLTk2bE9za0F1YlpBUnlNbjJBU29ycHBYcVliQWg0cUhSeTg1Wms5MnVJakY3TEFvcjBuNFRabHlqelFfTFh2NWdtVG9UeWxCUDRSaVFoT2FxVmpJcExmQ2JHSldQeTZWQzdBMGFoa0FpVUJmUlU1bUR5ZUpBdzQwWFZXRGJPVTZnT2FvRlNCUGgwd3hka1hhWDlXbno3OFU4Q1JudzZRY19Lb045OG5qc0t2ekdBNllUNVM2T2doeEZxMEctYw?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/XZT1X2bD4ksPFFM3nLN_QGAQxNo=/302x0:1382x1080/320x320/2026/07/17/1784310720970.jpeg",
-      "contentAngle": "Public-institution AI governance: when frontier intelligence commoditizes, the advisory value moves to data residency, FIPPA, and generative-search visibility — the 'model choice is no longer your moat' POV."
+      "thumbnailKind": "mountains"
     },
     {
-      "id": "story-global_business_tech-0",
-      "category": "Global",
-      "headline": "Mali rebels ambush army convoy, killing or capturing scores of soldiers",
-      "summary": "Jihadist militants and a separatist group ambushed a Malian army convoy in the country's hard-hit north, inflicting heavy casualties and deepening Sahel instability.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/07/18/mali-rebels-ambush-an-army-convoy-killing-or-capturing-scores-of-soldiers/",
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Kamloops' Paramount Theatre lands $250K grant to replace 1955 boiler",
+      "summary": "The historic downtown Paramount Theatre secured a $250,000 grant to replace its original 1955 boiler, protecting a heritage cultural venue and its year-round programming.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNFpyTDFvdUlvNlkyb3ZnTjBmYi15di1HbmN4dHF1eGhGZkJfZktjUU9IU0xhQ0pGbnhBaDU5Nnp5RFVfLXo4d0RJc1FaYmN0RmVIZ0pqakY5eW4ycE84NThBbmNFS2xXM3JaazdEaFR2T3h1cW40SkZDQTlVT1lLcTdnWURtVWFheXVyZEFiQjZUYXFMOHBwZ183eWw5aS1zU3Nsd1gzRlhhNVBSQXRWZWZ2RUVDbGNocy1udUxuX3BFbXhIUWZz?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/uploads/station/1985/fbShare.png?r=55959"
+      "thumbnailKind": "mountains"
     },
     {
       "id": "story-misc-0",
       "category": "Misc",
-      "headline": "CFIA recall: popular dollar-store seasoning pulled over illness risk",
-      "summary": "A widely-sold dollar-store seasoning has been recalled over risk of severe diarrhea and nausea — worth a quick check of the spice shelf.",
-      "source": "Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXhNV2QydTh5T1FVX0gzUi1qT3FjOGR2dnQ0OTZZZFhqMFNlMHh4MkVtY01lQlVJUlBKc0ZLYXAzSENNR1pyaHVJV0UzajNCRG1aQ2kxQmhOVmRTSnB1ZVVxV2pfQ2tnaWFBM1pnTm5WdHFVUFQza0d3aFFzRXR4eFpR?oc=5",
+      "headline": "Dry lightning sparks spike in B.C. wildfires; evacuation orders around Big Bar Lake",
+      "summary": "An update on the week's wildfire coverage: fresh lightning strikes drove a jump in new B.C. fire starts, triggering evacuation orders around Big Bar Lake in the Cariboo as crews stretch across active fronts.",
+      "source": "Castanet",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjlfYnp2NHI1V1JEZERCeHlzYTh5cVR4NjdpRzcyZ1lTbWtwenEteXFjUWw5UGFoYU5XMVRSMEkwa3l0NlkxLVY3NFZOUUNER3NPNURaMWMxWUpLbDZSMjdwVXdMRlhISmFJR09MU2F6NzJ0eHNsN0pmU19wQU13NnpZSVZ4TzA3Z0h4dEZiaURhTXZzbVk1R0Y3VWtoN0VWRjFrQ2VGRFNJTjFxZnBPM2tha0g3aldp?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "bars"
@@ -53,37 +50,34 @@
   ],
   "digestStories": [
     {
-      "id": "story-ai-0",
-      "category": "AI & Tech",
-      "headline": "AI race splits in two as China wages open-weight insurgency",
-      "summary": "An update on yesterday's China-AI thread: Moonshot's Kimi K3 is accelerating a developer shift toward cheap, customizable Chinese open-weight models, threatening to turn premium US models into expensive niche products.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Thompson River safety advocate calls for clearer warnings after drownings",
+      "summary": "A Kamloops advocate is pressing the city and province for clearer signage and public warnings along the Thompson River, calling water safety along the fast-moving corridor a personal mission as summer river deaths mount.",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONENtUUcwLTk2bE9za0F1YlpBUnlNbjJBU29ycHBYcVliQWg0cUhSeTg1Wms5MnVJakY3TEFvcjBuNFRabHlqelFfTFh2NWdtVG9UeWxCUDRSaVFoT2FxVmpJcExmQ2JHSldQeTZWQzdBMGFoa0FpVUJmUlU1bUR5ZUpBdzQwWFZXRGJPVTZnT2FvRlNCUGgwd3hka1hhWDlXbno3OFU4Q1JudzZRY19Lb045OG5qc0t2ekdBNllUNVM2T2doeEZxMEctYw?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/XZT1X2bD4ksPFFM3nLN_QGAQxNo=/302x0:1382x1080/320x320/2026/07/17/1784310720970.jpeg",
-      "contentAngle": "Public-institution AI governance: when frontier intelligence commoditizes, the advisory value moves to data residency, FIPPA, and generative-search visibility — the 'model choice is no longer your moat' POV."
+      "thumbnailKind": "mountains"
     },
     {
-      "id": "story-global_business_tech-0",
-      "category": "Global",
-      "headline": "Mali rebels ambush army convoy, killing or capturing scores of soldiers",
-      "summary": "Jihadist militants and a separatist group ambushed a Malian army convoy in the country's hard-hit north, inflicting heavy casualties and deepening Sahel instability.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/07/18/mali-rebels-ambush-an-army-convoy-killing-or-capturing-scores-of-soldiers/",
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Kamloops' Paramount Theatre lands $250K grant to replace 1955 boiler",
+      "summary": "The historic downtown Paramount Theatre secured a $250,000 grant to replace its original 1955 boiler, protecting a heritage cultural venue and its year-round programming.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNFpyTDFvdUlvNlkyb3ZnTjBmYi15di1HbmN4dHF1eGhGZkJfZktjUU9IU0xhQ0pGbnhBaDU5Nnp5RFVfLXo4d0RJc1FaYmN0RmVIZ0pqakY5eW4ycE84NThBbmNFS2xXM3JaazdEaFR2T3h1cW40SkZDQTlVT1lLcTdnWURtVWFheXVyZEFiQjZUYXFMOHBwZ183eWw5aS1zU3Nsd1gzRlhhNVBSQXRWZWZ2RUVDbGNocy1udUxuX3BFbXhIUWZz?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/uploads/station/1985/fbShare.png?r=55959"
+      "thumbnailKind": "mountains"
     },
     {
       "id": "story-misc-0",
       "category": "Misc",
-      "headline": "CFIA recall: popular dollar-store seasoning pulled over illness risk",
-      "summary": "A widely-sold dollar-store seasoning has been recalled over risk of severe diarrhea and nausea — worth a quick check of the spice shelf.",
-      "source": "Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXhNV2QydTh5T1FVX0gzUi1qT3FjOGR2dnQ0OTZZZFhqMFNlMHh4MkVtY01lQlVJUlBKc0ZLYXAzSENNR1pyaHVJV0UzajNCRG1aQ2kxQmhOVmRTSnB1ZVVxV2pfQ2tnaWFBM1pnTm5WdHFVUFQza0d3aFFzRXR4eFpR?oc=5",
+      "headline": "Dry lightning sparks spike in B.C. wildfires; evacuation orders around Big Bar Lake",
+      "summary": "An update on the week's wildfire coverage: fresh lightning strikes drove a jump in new B.C. fire starts, triggering evacuation orders around Big Bar Lake in the Cariboo as crews stretch across active fronts.",
+      "source": "Castanet",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjlfYnp2NHI1V1JEZERCeHlzYTh5cVR4NjdpRzcyZ1lTbWtwenEteXFjUWw5UGFoYU5XMVRSMEkwa3l0NlkxLVY3NFZOUUNER3NPNURaMWMxWUpLbDZSMjdwVXdMRlhISmFJR09MU2F6NzJ0eHNsN0pmU19wQU13NnpZSVZ4TzA3Z0h4dEZiaURhTXZzbVk1R0Y3VWtoN0VWRjFrQ2VGRFNJTjFxZnBPM2tha0g3aldp?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "bars"
@@ -91,63 +85,60 @@
     {
       "id": "story-misc-1",
       "category": "Misc",
-      "headline": "Lightning sparks spike in B.C. wildfires, evacuation orders near Big Bar Lake",
-      "summary": "An update on the wildfire watch: over 4,000 lightning strikes ignited nearly 100 new blazes across B.C. in 24 hours, triggering evacuation orders around Big Bar Lake in the Cariboo.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/07/18/lightning-sparks-spike-in-b-c-wildfires-evacuation-orders-around-big-bar-lake/",
+      "headline": "Fairmont Chateau Whistler named Canada's top resort in global awards",
+      "summary": "Fairmont Chateau Whistler took the number-one resort spot in Travel + Leisure's World's Best Awards from more than 661,000 reader votes, a marker of continued strength in BC's mountain-tourism brand economy.",
+      "source": "Daily Hive Vancouver",
+      "url": "https://dailyhive.com/vancouver/fairmont-chateau-whistler-canadas-best-resort-awards",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F2753704b-29b7-44cf-8674-8a9574e959e1%2F14b47c24c484027ff42ca7e899e76e9001242cdeb1480e5a52a52e1602256886.jpg"
+      "imageUrl": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/b.c.-hotel.jpg?format=auto"
     }
   ],
   "audioChapters": [
     {
       "id": "c1",
-      "title": "AI & Tech",
-      "category": "AI & Tech",
-      "duration": "4:23",
-      "startSeconds": 18
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "4:19",
+      "startSeconds": 54
     },
     {
       "id": "c2",
-      "title": "Global News",
-      "category": "Global",
-      "duration": "1:14",
-      "startSeconds": 280
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "2:39",
+      "startSeconds": 313
     },
     {
       "id": "c3",
       "title": "Misc",
       "category": "Misc",
-      "duration": "3:34",
-      "startSeconds": 354
+      "duration": "3:38",
+      "startSeconds": 471
     }
   ],
   "upNext": {
-    "id": "story-global_business_tech-0",
-    "category": "Global",
-    "headline": "Mali rebels ambush army convoy, killing or capturing scores of soldiers",
-    "summary": "Jihadist militants and a separatist group ambushed a Malian army convoy in the country's hard-hit north, inflicting heavy casualties and deepening Sahel instability.",
-    "source": "CFJC Today Kamloops",
-    "url": "https://cfjctoday.com/2026/07/18/mali-rebels-ambush-an-army-convoy-killing-or-capturing-scores-of-soldiers/",
+    "id": "story-kamloops_sun_peaks-1",
+    "category": "Local News",
+    "headline": "Kamloops' Paramount Theatre lands $250K grant to replace 1955 boiler",
+    "summary": "The historic downtown Paramount Theatre secured a $250,000 grant to replace its original 1955 boiler, protecting a heritage cultural venue and its year-round programming.",
+    "source": "Castanet Kamloops",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNFpyTDFvdUlvNlkyb3ZnTjBmYi15di1HbmN4dHF1eGhGZkJfZktjUU9IU0xhQ0pGbnhBaDU5Nnp5RFVfLXo4d0RJc1FaYmN0RmVIZ0pqakY5eW4ycE84NThBbmNFS2xXM3JaazdEaFR2T3h1cW40SkZDQTlVT1lLcTdnWURtVWFheXVyZEFiQjZUYXFMOHBwZ183eWw5aS1zU3Nsd1gzRlhhNVBSQXRWZWZ2RUVDbGNocy1udUxuX3BFbXhIUWZz?oc=5",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "globe",
-    "imageUrl": "https://media-cdn.socastsrm.com/uploads/station/1985/fbShare.png?r=55959"
+    "thumbnailKind": "mountains"
   },
   "mainStory": {
-    "id": "story-ai-0",
-    "category": "AI & Tech",
-    "headline": "AI race splits in two as China wages open-weight insurgency",
-    "summary": "An update on yesterday's China-AI thread: Moonshot's Kimi K3 is accelerating a developer shift toward cheap, customizable Chinese open-weight models, threatening to turn premium US models into expensive niche products.",
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+    "id": "story-kamloops_sun_peaks-0",
+    "category": "Local News",
+    "headline": "Thompson River safety advocate calls for clearer warnings after drownings",
+    "summary": "A Kamloops advocate is pressing the city and province for clearer signage and public warnings along the Thompson River, calling water safety along the fast-moving corridor a personal mission as summer river deaths mount.",
+    "source": "CBC",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONENtUUcwLTk2bE9za0F1YlpBUnlNbjJBU29ycHBYcVliQWg0cUhSeTg1Wms5MnVJakY3TEFvcjBuNFRabHlqelFfTFh2NWdtVG9UeWxCUDRSaVFoT2FxVmpJcExmQ2JHSldQeTZWQzdBMGFoa0FpVUJmUlU1bUR5ZUpBdzQwWFZXRGJPVTZnT2FvRlNCUGgwd3hka1hhWDlXbno3OFU4Q1JudzZRY19Lb045OG5qc0t2ekdBNllUNVM2T2doeEZxMEctYw?oc=5",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "chip",
-    "imageUrl": "https://images.axios.com/XZT1X2bD4ksPFFM3nLN_QGAQxNo=/302x0:1382x1080/320x320/2026/07/17/1784310720970.jpeg",
-    "contentAngle": "Public-institution AI governance: when frontier intelligence commoditizes, the advisory value moves to data residency, FIPPA, and generative-search visibility — the 'model choice is no longer your moat' POV."
+    "thumbnailKind": "mountains"
   },
-  "heroImageUrl": "https://images.axios.com/XZT1X2bD4ksPFFM3nLN_QGAQxNo=/302x0:1382x1080/320x320/2026/07/17/1784310720970.jpeg"
+  "heroImageUrl": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/b.c.-hotel.jpg?format=auto"
 }
