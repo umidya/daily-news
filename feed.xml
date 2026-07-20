@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 19 Jul 2026 11:38:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 11:39:04 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, July 19, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-19.html</link>
-      <description>Today's dominant thread is the tightening vise on Canada's international-student pipeline — new visa requirements for African applicants, retroactive PGWP eligibility rejections stranding Indian graduates, and a fresh fraud case — all of which reshape the enrolment and recruitmen...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-19.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-19.mp3" length="14363040" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, July 20, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-20.html</link>
+      <description>Two threads dominate today, and both feed your practice directly. First, AI governance is moving from abstraction to liability: new research shows large language models are actually more prone to bias in hiring than humans are, which is the cleanest illustration yet of why any pu...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-20.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-20.mp3" length="17896320" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
