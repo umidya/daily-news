@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 20 Jul 2026 11:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:38:17 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, July 20, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-20.html</link>
-      <description>Two threads dominate today, and both feed your practice directly. First, AI governance is moving from abstraction to liability: new research shows large language models are actually more prone to bias in hiring than humans are, which is the cleanest illustration yet of why any pu...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-20.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-20.mp3" length="17896320" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, July 21, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-21.html</link>
+      <description>Today's dominant thread is international-student policy on both sides of the border, and it cuts straight through your higher-ed enrollment lane. Washington is moving to cap how long students can stay under a new DHS rule, while Ottawa's tighter caps and spousal-work-permit curbs...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-21.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-21.mp3" length="15861120" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
