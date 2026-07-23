@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 22 Jul 2026 11:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:37:42 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, July 22, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-22.html</link>
-      <description>Two threads dominate today and both feed directly into your consulting positioning. First, AI governance is moving from IT's problem to a leadership accountability problem — the STAT piece on drifting hospital AI and the HousingWire piece on auditable mortgage decisioning are ess...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-22.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-22.mp3" length="15121440" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, July 23, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-23.html</link>
+      <description>Today's dominant thread is enrollment risk. Canada's international-student machinery keeps tightening — new IRCC compliance guidance and a fresh refusals dashboard showing nearly half of study-permit denials were 'preventable' — which is exactly the kind of operational intelligen...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-23.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-23.mp3" length="14430240" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
