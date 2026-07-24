@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 23 Jul 2026 11:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:39:33 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, July 23, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-23.html</link>
-      <description>Today's dominant thread is enrollment risk. Canada's international-student machinery keeps tightening — new IRCC compliance guidance and a fresh refusals dashboard showing nearly half of study-permit denials were 'preventable' — which is exactly the kind of operational intelligen...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-23.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-23.mp3" length="14430240" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, July 24, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-24.html</link>
+      <description>Today's throughline is the same one that keeps surfacing in Midya's two lanes: AI is collapsing the cost of visibility, which means authority and governance are now the scarce, defensible assets — in enrollment marketing and in real estate alike. The PIE News piece on AI in admis...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-24.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-24.mp3" length="17080320" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
