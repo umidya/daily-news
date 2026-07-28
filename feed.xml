@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 27 Jul 2026 11:38:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:38:35 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, July 27, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-27.html</link>
-      <description>Two threads dominate today, and both sit squarely in your consulting thesis. First, generative search is officially a boardroom problem: a fresh CMO survey says nine in ten marketing chiefs now see AI reshaping how customers discover brands — which is exactly the demand curve you...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-27.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-27.mp3" length="16903200" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, July 28, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-28.html</link>
+      <description>Today's cycle sharpens two of your core lanes at once. On the higher-ed side, Canada's temporary-resident numbers are dropping sharply and the Indian-student work-permit dispute has escalated into a formal Ottawa advisory — the enrollment math that underpins every recruitment bra...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-28.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-28.mp3" length="16850880" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
