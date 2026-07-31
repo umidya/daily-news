@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 30 Jul 2026 11:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:36:07 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, July 30, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-07-30.html</link>
-      <description>Today's dominant thread runs straight through your higher-ed lane: Prime Minister Carney's public admission that Canada "lost control" of international students and temporary workers is the political framing that will govern IRCC decisions, institutional budgets, and recruitment ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-30.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-30.mp3" length="14504448" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Jul 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, July 31, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-07-31.html</link>
+      <description>Today's throughline is the quiet dismantling of the referral economy your entire discipline was built on. Axios is reporting that Google Search traffic to publishers has fallen 34% in a year as AI answers replace links — that isn't a martech tweak, it's the mechanism you've been ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-07-31.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-07-31.mp3" length="12936192" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
