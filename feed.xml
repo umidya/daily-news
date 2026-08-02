@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 01 Aug 2026 11:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 11:37:07 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Saturday, August 1, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-01.html</link>
-      <description>Two threads dominate your Saturday, Midya, and both sit squarely in your professional line of fire. First, the international-student file keeps hardening — Canada has now codified tougher financial-scrutiny language into study-permit adjudication, PGWP protests are spreading, and...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-01.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-01.mp3" length="12432768" type="audio/mpeg"/>
-      <pubDate>Sat, 01 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Sunday, August 2, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-02.html</link>
+      <description>It's a light-cycle Sunday, so the value today is in the practical and the strategic rather than the loud. The immediate items are logistical and BC-local: WestJet's flight attendants are on strike over a summer long weekend, and the province's wildfire map is expanding again with...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-02.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-02.mp3" length="12582144" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
