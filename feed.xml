@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 02 Aug 2026 11:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:35:09 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, August 2, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-02.html</link>
-      <description>It's a light-cycle Sunday, so the value today is in the practical and the strategic rather than the loud. The immediate items are logistical and BC-local: WestJet's flight attendants are on strike over a summer long weekend, and the province's wildfire map is expanding again with...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-02.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-02.mp3" length="12582144" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, August 3, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-03.html</link>
+      <description>Today's through-line is AI moving from novelty to operating reality — and the governance gap that opens as it does. Alibaba's new frontier-class model and a wave of enterprise 'agentic' deployments show the tooling is commoditizing fast, while the MIT piece on why AI agents decei...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-03.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-03.mp3" length="13440000" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
