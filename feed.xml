@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 03 Aug 2026 11:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 11:35:31 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, August 3, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-03.html</link>
-      <description>Today's through-line is AI moving from novelty to operating reality — and the governance gap that opens as it does. Alibaba's new frontier-class model and a wave of enterprise 'agentic' deployments show the tooling is commoditizing fast, while the MIT piece on why AI agents decei...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-03.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-03.mp3" length="13440000" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, August 4, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-04.html</link>
+      <description>Today's through-line is generative search eating the marketing funnel: Reddit fighting AI SEO spam, forty brands testing measurement inside ChatGPT ads, and college students demanding ethical AI all point to the same reality you sell against — discovery and trust are moving into ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-04.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-04.mp3" length="13286016" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
