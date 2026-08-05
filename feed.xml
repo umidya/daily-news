@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 04 Aug 2026 11:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:39:23 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, August 4, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-04.html</link>
-      <description>Today's through-line is generative search eating the marketing funnel: Reddit fighting AI SEO spam, forty brands testing measurement inside ChatGPT ads, and college students demanding ethical AI all point to the same reality you sell against — discovery and trust are moving into ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-04.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-04.mp3" length="13286016" type="audio/mpeg"/>
-      <pubDate>Tue, 04 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, August 5, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-05.html</link>
+      <description>Today's throughline is the widening gap between AI adoption and AI governance — and it lands squarely in both of your lanes. Publishers are quietly retreating from Google's AI search while creators lean in, which is exactly the fragmentation your AI Search Readiness work exists t...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-05.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-05.mp3" length="14322432" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
