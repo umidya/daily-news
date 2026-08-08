@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 07 Aug 2026 11:15:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 10:59:38 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, August 7, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-07.html</link>
-      <description>Two threads dominate your Friday, and both feed your thesis directly. First, AI is quietly reshaping how the industries you sell into actually produce work — mortgage and brokerage teams are swapping human ghostwriters for AI and drowning in interchangeable, forgettable content, ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-07.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-07.mp3" length="12474624" type="audio/mpeg"/>
-      <pubDate>Fri, 07 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, August 8, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-08.html</link>
+      <description>Two threads dominate your Saturday: wildfire is now a live BC safety and business story — Summerland's full-district evacuation and Kamloops smoke advisories are close enough to matter to your family and your Interior calendar — and AI is quietly hardening into a governance-and-a...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-08.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-08.mp3" length="12651264" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
