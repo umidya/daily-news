@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 09 Aug 2026 11:01:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 11:33:57 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, August 9, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-09.html</link>
-      <description>Two threads dominate your Sunday, Midya, and both sit close to home. First, the Interior fire season keeps escalating — a fresh start north of Sun Peaks and the Summerland fire that forced thousands out — which touches your property, your family's safety, and the resort economy y...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-09.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-09.mp3" length="12211584" type="audio/mpeg"/>
-      <pubDate>Sun, 09 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, August 10, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-10.html</link>
+      <description>Today's dominant thread is AI governance moving from abstraction to political flashpoint: Zuckerberg's 6,500-word manifesto and Bernie Sanders' call for a development pause land on the same morning, which means the 'who controls the model' question is now a public debate your cli...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-10.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-10.mp3" length="14569728" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
