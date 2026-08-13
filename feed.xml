@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:18:24 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, August 12, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-12.html</link>
-      <description>Today's thread is AI operationalizing into the exact industries you sell into — and the governance questions that follow it. Anthropic stamping watermarks into Claude output worldwide, and two chatbots each crossing a billion users, together tell you generative AI is now default ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-12.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-12.mp3" length="14292096" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, August 13, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-13.html</link>
+      <description>Today's through-line is pressure on the Canadian international-student pipeline — PGWP denials in Alberta, CBSA checks at a Calgary protest, and blunt messaging that student visas are temporary — landing at exactly the moment enrolment offices are building fall recruitment plans....</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-13.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-13.mp3" length="11978112" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
