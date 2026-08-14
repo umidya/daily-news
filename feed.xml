@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 13 Aug 2026 11:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:16:36 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, August 13, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-13.html</link>
-      <description>Today's through-line is pressure on the Canadian international-student pipeline — PGWP denials in Alberta, CBSA checks at a Calgary protest, and blunt messaging that student visas are temporary — landing at exactly the moment enrolment offices are building fall recruitment plans....</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-13.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-13.mp3" length="11978112" type="audio/mpeg"/>
-      <pubDate>Thu, 13 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, August 14, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-14.html</link>
+      <description>Today's dominant thread is enrollment risk, and it cuts straight through your higher-ed lane. The Calgary CBSA situation is escalating into a genuine trust crisis between international students and Canada's system, an Alberta premier is publicly reframing study permits as tempora...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-14.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-14.mp3" length="11857920" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
