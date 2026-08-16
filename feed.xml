@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 15 Aug 2026 10:48:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:48:36 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Saturday, August 15, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-15.html</link>
-      <description>Today's dominant thread runs straight through Midya's higher-ed lane: the value proposition of a degree is under open reappraisal, and AI is the wedge. Two Axios pieces frame students and parents second-guessing majors and the diploma itself — exactly the anxiety enrollment marke...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-15.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-15.mp3" length="11683968" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Sunday, August 16, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-16.html</link>
+      <description>It's a quiet mid-August Sunday, so the value today is in a few threads worth thinking about slowly rather than a flood of headlines. On the AI front, two stories bear directly on your consulting thesis: Anthropic's watermarking plan pushes content provenance into the mainstream —...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-16.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-16.mp3" length="12560640" type="audio/mpeg"/>
+      <pubDate>Sun, 16 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
