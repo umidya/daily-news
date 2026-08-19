@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:55:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:55:18 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, August 18, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-18.html</link>
-      <description>Today's threads converge on two axes Midya works along daily: the credibility of AI claims and the fragility of Canada's international-student pipeline. The MIT Technology Review piece on how little we actually know about real AI usage is a gift for her governance and AI Search R...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-18.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-18.mp3" length="14128512" type="audio/mpeg"/>
-      <pubDate>Tue, 18 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, August 19, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-19.html</link>
+      <description>Two threads dominate today and both touch your practice directly. First, the international-student policy environment keeps tightening on both sides of the border — a US coalition is suing over the end of Duration of Status, and Canada's own crackdown is now hitting language scho...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-19.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-19.mp3" length="13797888" type="audio/mpeg"/>
+      <pubDate>Wed, 19 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
