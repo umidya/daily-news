@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:56:05 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, August 20, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-20.html</link>
-      <description>Two threads dominate today and both feed your consulting lanes. First, AI governance is moving from theory to practice — health systems are now piping patient records through chatbots, and the political backlash against AI data centres is going national; both are proof points for...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-20.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-20.mp3" length="12134016" type="audio/mpeg"/>
-      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, August 21, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-21.html</link>
+      <description>Today's throughline is the widening gap between AI hype and AI accountability — and it's showing up in exactly the three lanes you sell into. Marketing leaders are being told the edge belongs to "hybrid" operators who pair AI speed with human judgment; drug developers are fightin...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-21.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-21.mp3" length="13731840" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
