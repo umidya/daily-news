@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:48:53 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, August 21, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-21.html</link>
-      <description>Today's throughline is the widening gap between AI hype and AI accountability — and it's showing up in exactly the three lanes you sell into. Marketing leaders are being told the edge belongs to "hybrid" operators who pair AI speed with human judgment; drug developers are fightin...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-21.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-21.mp3" length="13731840" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, August 22, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-22.html</link>
+      <description>The dominant thread this morning is the collapse of Canada–U.S. trade talks and the 50 percent tariffs now in force — an update on the deadline story we've been tracking all week, and one that reshapes the economic backdrop for every client conversation you'll have this fall, fro...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-22.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-22.mp3" length="12593280" type="audio/mpeg"/>
+      <pubDate>Sat, 22 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
