@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 23 Aug 2026 10:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:01:58 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, August 23, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-23.html</link>
-      <description>Today is dominated by the collapse of Canada-US trade talks — Carney has suspended negotiations and moved to retaliatory tariffs, and Trump is escalating rhetorically. This is no longer background noise; it feeds directly into how you frame real-estate and higher-ed client conver...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-23.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-23.mp3" length="14408064" type="audio/mpeg"/>
-      <pubDate>Sun, 23 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, August 24, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-24.html</link>
+      <description>Two threads dominate today, and both sit squarely inside your lanes. First, the international-student squeeze keeps tightening on both sides of the border — US visa caps are now producing testimony from named institutions, and the Punjab-to-Canada pipeline story shows how fast a ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-24.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-24.mp3" length="14192640" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
