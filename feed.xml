@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:58:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:58:36 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, August 25, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-25.html</link>
-      <description>Today's dominant thread is economic: Ottawa unveils its retaliatory tariff package against the U.S. this morning, and the fallout — from Alberta separation anxiety to cross-border business uncertainty — touches your husband's Edmonton brokerage and every client conversation you'l...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-25.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-25.mp3" length="12898560" type="audio/mpeg"/>
-      <pubDate>Tue, 25 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, August 26, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-26.html</link>
+      <description>Two threads dominate today and both feed directly into your practice. First, AI is quietly crossing from tool to infrastructure — Bill Gates declaring we've passed danger thresholds, adtech platforms racing to make media buying agentic, and a billionaire investor casually admitti...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-26.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-26.mp3" length="12009984" type="audio/mpeg"/>
+      <pubDate>Wed, 26 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
