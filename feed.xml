@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 28 Aug 2026 11:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:36:11 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, August 28, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-28.html</link>
-      <description>Today's through-line is the tightening of the global student-visa map and what it means for the Canadian higher-ed pipeline. With the US down 23% and now cracking down on internships, Australia weighing fresh restrictions, and the UK's rejection rate climbing, every competing des...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-28.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-28.mp3" length="12624768" type="audio/mpeg"/>
-      <pubDate>Fri, 28 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, August 29, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-08-29.html</link>
+      <description>The dominant thread today is talent and policy flowing across the Canada–U.S. border in higher education — Ottawa's research fund is pulling dozens of senior American academics north while U.S. and Australian visa regimes tighten, and Canada's own study-permit costs climb again S...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-29.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-29.mp3" length="13417344" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
