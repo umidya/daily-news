@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:36:01 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, August 31, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-08-31.html</link>
-      <description>Today's threads converge on a single question you keep hearing in client rooms: is AI a bolt-on or a rebuild? The sharpest real-estate operations piece of the day argues the advantage was never the AI itself — it's the operating model underneath it, which is exactly the framing t...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-08-31.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-08-31.mp3" length="13566336" type="audio/mpeg"/>
-      <pubDate>Mon, 31 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, September 1, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-01.html</link>
+      <description>The dominant thread today is the compounding damage of Canada's tightened international-student regime — enrolment is visibly softening, the proof-of-funds bar keeps climbing, and the fallout is now spilling into the BC rental market. For a practice selling into Canadian higher e...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-01.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-01.mp3" length="13588992" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
