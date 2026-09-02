@@ -61,6 +61,23 @@ def has_seen_url(conn: sqlite3.Connection, url_hash: str) -> bool:
     return row is not None
 
 
+def forget_urls(conn: sqlite3.Connection, url_hashes: list[str]) -> int:
+    """Remove articles from the seen-URL history so they are fetched again.
+
+    Used only for articles whose self-coverage check could not be completed.
+    Recording them as seen would make one transient 503 a permanent miss:
+    the row blocks re-fetch forever, and nothing downstream ever re-examines
+    it. Forgetting them costs one duplicate fetch tomorrow.
+    """
+    if not url_hashes:
+        return 0
+    cur = conn.executemany(
+        "DELETE FROM articles WHERE url_hash = ? AND used = 0",
+        [(h,) for h in url_hashes],
+    )
+    return cur.rowcount if cur.rowcount and cur.rowcount > 0 else len(url_hashes)
+
+
 def was_used_in_digest(conn: sqlite3.Connection, url_hash: str) -> bool:
     """True once an article has actually appeared in a published briefing.
 

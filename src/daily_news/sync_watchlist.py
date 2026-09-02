@@ -139,6 +139,7 @@ def _find_nested_claude_md(folder: Path) -> Optional[Path]:
 
 _STATUS_BLOCK_RE = re.compile(r"##\s+Status\b(.+?)(?=\n##\s|\Z)", re.DOTALL | re.IGNORECASE)
 _BULLET_RE = re.compile(r"^\s*[-*]\s+(.*)$", re.MULTILINE)
+_H2_RE = re.compile(r"^##\s+(.+?)\s*$", re.MULTILINE)
 # Explicit escape hatch: put `<!-- watchlist: posture=active -->` anywhere in a
 # client CLAUDE.md and the heuristic below is skipped entirely.
 _POSTURE_OVERRIDE_RE = re.compile(
@@ -165,6 +166,15 @@ def detect_posture(text: str) -> str:
     override = _POSTURE_OVERRIDE_RE.search(text or "")
     if override:
         return override.group(1).lower()
+
+    # Headings carry the verdict on some files. Capilano's opens with
+    # "## ✅ ENGAGEMENT COMPLETE — 2026-07-15" and its only Status block is
+    # "## Status (historical)", whose first bullet still describes the live
+    # engagement — so bullet-reading alone called a finished engagement active.
+    for heading in _H2_RE.findall(text or ""):
+        h = heading.lower()
+        if "engagement complete" in h or "past client" in h or "engagement closed" in h:
+            return "past"
 
     status_match = _STATUS_BLOCK_RE.search(text or "")
     if not status_match:
@@ -508,7 +518,7 @@ def write_watchlist_yaml(wl: Watchlist, path: Path) -> None:
         "# Re-run `python -m daily_news.sync_watchlist` after roster changes.\n"
         "# Sources: ~/Desktop/Clients/*/CLAUDE.md, Notion 🎯 Leads, peer_orgs.yaml,\n"
         "# thought_leadership_themes.yaml, self.yaml.\n"
-        "# Refreshed monthly by the com.midya.dailynews.watchlist-sync launchd job.\n\n"
+        "# Refreshed monthly by the com.midyau.daily-news-watchlist-sync launchd job.\n\n"
     )
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(header + yaml.safe_dump(body, sort_keys=False, allow_unicode=True))

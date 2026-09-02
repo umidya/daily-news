@@ -25,6 +25,9 @@ class Article:
     # RSS author field, when the publisher sets one. Carried so a guest byline
     # on someone else's outlet can be recognised as Midya's own work.
     author: str = ""
-    # Set by score.py when the article matches Midya's `self` block. Populated
-    # with the name/domain that matched, for the summarizer to cite.
+    # Set when the article matches Midya's `self` block. `self_match` holds
+    # the name/domain that matched; `self_match_kind` records HOW (byline,
+    # domain, text, search, page) so the summarizer can describe it accurately
+    # instead of asserting a byline it cannot verify.
     self_match: str = ""
+    self_match_kind: str = ""

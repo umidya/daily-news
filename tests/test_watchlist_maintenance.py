@@ -192,3 +192,57 @@ def test_non_higher_ed_queries_are_left_alone():
         WatchlistOrg(org="Mogul Realty Group", aliases=["Mogul RG"], industry="canadian_real_estate")
     )
     assert q == '"Mogul Realty Group" OR "Mogul RG"'
+
+
+def test_completion_heading_beats_a_historical_status_block():
+    """The Capilano bug.
+
+    Its file opens with '## ✅ ENGAGEMENT COMPLETE — 2026-07-15' and its only
+    Status block is '## Status (historical)', whose first bullet still
+    describes the live engagement. Reading bullets alone called a finished
+    engagement active.
+    """
+    text = textwrap.dedent("""
+        # Capilano University — Client File
+
+        ## ✅ ENGAGEMENT COMPLETE — 2026-07-15
+
+        Final readout delivered. Client moved to Past Clients in Notion.
+
+        ## Status (historical)
+        - **Engagement:** SEM Lifecycle Audit & Best-Practice Checklist (Pilot)
+        - **Target completion:** July 2026
+    """)
+    assert detect_posture(text) == "past"
+
+
+def test_active_client_without_a_completion_heading_stays_active():
+    text = textwrap.dedent("""
+        # Columbia College — Client File
+
+        ## Engagement Posture
+        Notes here.
+
+        ## Status
+        - **Stage (current):** PHASE 2 — IN PREP.
+    """)
+    assert detect_posture(text) == "active"
+
+
+def test_real_client_files_classify_correctly():
+    """Guards the live roster, not just synthetic fixtures."""
+    from pathlib import Path
+    expected = {
+        "Capilano University": "past",
+        "Columbia College": "active",
+        "Mogul RG": "active",
+        "University of Niagara Falls": "prospect",
+    }
+    clients = Path.home() / "Desktop" / "Clients"
+    if not clients.is_dir():
+        pytest.skip("client folders not present")
+    for name, want in expected.items():
+        f = clients / name / "CLAUDE.md"
+        if not f.is_file():
+            pytest.skip(f"{name} not present")
+        assert detect_posture(f.read_text()) == want, name

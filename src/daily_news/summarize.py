@@ -107,7 +107,14 @@ THE 9 SECTIONS — use these names and order exactly. Each section's `topic_key`
 
    THE ONE EXCEPTION — MIDYA'S OWN COVERAGE:
      - The user message may include a SELF_COVERAGE block. Those items are about Midya herself: her firm, her byline, her website, her work being cited.
-     - The framing rule above INVERTS for these. They ARE hers. Say so directly: "your article," "your firm," "your work." Name the outlet and, when it's a byline, say it ran under her name.
+     - The framing rule above INVERTS for these. They ARE hers. Say so directly: "your article," "your firm," "your work." Always name the outlet.
+     - EACH ITEM CARRIES A `matched_via`. Describe it ONLY as strongly as that value supports — do not upgrade a mention into a byline:
+         · `byline` — she wrote it. "Your article in <outlet>."
+         · `page`   — her name/site was found in the article body. Usually her guest piece, sometimes a citation. Say "your piece in <outlet>" only if the title supports it; otherwise "<outlet> published a piece carrying your name."
+         · `domain` — it links to or sits on her own site. "On your site" / "links to midyau.com."
+         · `text`   — her name or firm appears in the headline or excerpt. "<outlet> names Midya U Advisory."
+         · `search` — a search for her name returned it and nothing more is known. Say "a search for your name surfaced this in <outlet>" and DO NOT assert authorship.
+       If you cannot tell, describe what is verifiable and stop. Never invent a byline.
      - A SELF_COVERAGE item ALWAYS leads the Watchlist section — first story, above every client, prospect and peer — and the section is never omitted when one is present.
      - It does NOT count against the 1–4 limit, and it is never filtered as a "weak hit." A one-line citation of her work still gets surfaced; she decides whether it matters, not you.
      - Lead the audio script's Watchlist segment with it too, and say it plainly: she should hear that her work was published or cited before she hears anything else.
@@ -480,7 +487,7 @@ def _candidates_payload(articles: list[Article]) -> list[dict]:
             "topics": a.topics,
             "snippet": a.snippet,
             "score": round(a.score, 3),
-            **({"self_match": a.self_match} if a.self_match else {}),
+            **({"self_match": a.self_match, "matched_via": a.self_match_kind} if a.self_match else {}),
             **({"author": a.author} if a.author else {}),
         })
     return out
@@ -550,16 +557,23 @@ def build_self_coverage_block(candidates: list[Article]) -> str:
     hits = [a for a in candidates if a.self_match]
     if not hits:
         return ""
+    lead = (
+        "SELF_COVERAGE — this candidate is about MIDYA HERSELF. It leads the "
+        "Watchlist section"
+        if len(hits) == 1 else
+        f"SELF_COVERAGE — these {len(hits)} candidates are about MIDYA HERSELF. "
+        "They lead the Watchlist section, in the order listed"
+    )
     lines = [
-        "SELF_COVERAGE — these candidates are about MIDYA HERSELF. Each one "
-        "leads the Watchlist section, framed as hers ('your article', 'your "
-        "firm'), and none may be dropped as too small:",
+        lead + ", framed as hers ('your article', 'your firm'), and none may "
+        "be dropped as too small. Describe each only as strongly as its "
+        "matched_via supports — see the framing rules:",
         "",
     ]
     for a in hits:
-        byline = f" — byline: {a.author}" if a.author else ""
+        byline = f" — RSS author field: {a.author}" if a.author else ""
         lines.append(f"  - [{a.source}] {a.title}{byline}")
-        lines.append(f"    matched on: {a.self_match}")
+        lines.append(f"    matched on: {a.self_match} (matched_via: {a.self_match_kind or 'unknown'})")
         lines.append(f"    url: {a.url}")
     return "\n".join(lines).strip() + "\n"
 

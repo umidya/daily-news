@@ -253,7 +253,13 @@ def _watchlist_query(org: WatchlistOrg) -> str:
 
     Higher-ed orgs also get sports terms negated — see _SPORTS_NOISE.
     """
-    names = [org.org] + [a for a in org.aliases if a]
+    # Bare acronyms collide across institutions ("UNF" is also University of
+    # North Florida), and unlike sports noise the collisions are ordinary news
+    # that keyword negation cannot separate. Keep them for text matching, drop
+    # them from the search query.
+    names = [org.org] + [
+        a for a in org.aliases if a and not (len(a) <= 4 and a.isupper())
+    ]
     query = " OR ".join(f'"{n}"' for n in names)
     exclusions = _INDUSTRY_QUERY_EXCLUSIONS.get(org.industry, ())
     if exclusions:
@@ -411,8 +417,14 @@ def is_byline_outlet(url: str, entity: SelfEntity | None) -> bool:
     )
 
 
-def _fetch_page_text(url: str, timeout: float = SELF_PAGE_TIMEOUT) -> str:
-    """Fetch a page and return its tag-stripped text, capped and best-effort."""
+def _fetch_page_text(url: str, timeout: float = SELF_PAGE_TIMEOUT) -> "str | None":
+    """Fetch a page and return its HTML, capped.
+
+    Returns None on failure — distinct from "" (fetched, but empty). The
+    caller MUST treat None as "unknown", not "not hers": a single 503 on the
+    morning a piece of hers publishes would otherwise bury it permanently,
+    because the article is already recorded as seen by then.
+    """
     try:
         with httpx.Client(
             headers={"User-Agent": USER_AGENT, "Accept": "text/html"},
@@ -421,16 +433,17 @@ def _fetch_page_text(url: str, timeout: float = SELF_PAGE_TIMEOUT) -> str:
         ) as client:
             r = client.get(url)
             if not r.is_success:
-                return ""
+                log.warning("self-byline page fetch returned %s for %s", r.status_code, url)
+                return None
             return r.text[:_SELF_PAGE_BYTES]
     except Exception as e:
-        log.debug("self-byline page fetch failed for %s: %s", url, e)
-        return ""
+        log.warning("self-byline page fetch failed for %s: %s", url, e)
+        return None
 
 
 def annotate_self_bylines(
     articles: list[Article], entity: SelfEntity | None, max_workers: int = 6
-) -> int:
+) -> tuple[int, list[Article]]:
     """Second-tier self detection: scan page bodies on byline outlets.
 
     Necessary because feed metadata is not enough. ICEF Monitor — the outlet
@@ -441,33 +454,59 @@ def annotate_self_bylines(
 
     Restricted to `byline_outlets` hosts and hard-capped, so this costs a
     handful of requests per run rather than a crawl. Sets `article.self_match`
-    in place and returns how many it flagged.
+    in place and returns (hits, unresolved) — `unresolved` being the articles
+    whose page could not be fetched, which the caller must retry rather than
+    treat as a negative.
     """
     if entity is None or not entity.is_configured():
-        return 0
+        return 0, []
 
     targets = [
         a for a in articles
         if not a.self_match and is_byline_outlet(a.url, entity)
     ][:SELF_PAGE_FETCH_CAP]
     if not targets:
-        return 0
+        return 0, []
 
     log.info("Scanning %d page(s) on byline outlets for Midya's own coverage", len(targets))
     hits = 0
+    unresolved: list[Article] = []
     with ThreadPoolExecutor(max_workers=max_workers) as ex:
         future_to_art = {ex.submit(_fetch_page_text, a.url): a for a in targets}
         for fut in as_completed(future_to_art):
             art = future_to_art[fut]
             html = fut.result()
-            if not html:
+            if html is None:
+                unresolved.append(art)
                 continue
             match = match_self_in_page(html, entity)
             if match:
                 art.self_match = match
+                art.self_match_kind = "page"
                 hits += 1
                 log.info("Self-coverage match on %s (%s): %s", art.source, match, art.title)
-    return hits
+    if unresolved:
+        log.warning(
+            "%d/%d byline-outlet page(s) could not be checked for self-coverage; "
+            "they will be retried on the next run",
+            len(unresolved), len(targets),
+        )
+    return hits, unresolved
+
+
+def _main_region(html: str) -> str:
+    """Narrow a page to its article body when the markup makes that possible.
+
+    Guards against a real false-positive shape: if an outlet ever adds a
+    "recent contributors" sidebar naming Midya, an unbounded scan would pin
+    EVERY article on that site to the top of her briefing as "your article".
+    Falls back to the whole document when no article container is found.
+    """
+    for tag in ("article", "main"):
+        m = re.search(rf"<{tag}\b[^>]*>(.*?)</{tag}>", html, re.IGNORECASE | re.DOTALL)
+        if m and len(m.group(1)) > 500:
+            return m.group(1)
+    return html
 
 
 def match_self_in_page(html: str, entity: SelfEntity) -> str:
@@ -476,6 +515,7 @@ def match_self_in_page(html: str, entity: SelfEntity) -> str:
     Checks raw HTML for owned domains (they live in href attributes, which
     tag-stripping would throw away) and stripped text for names.
     """
+    html = _main_region(html)
     lowered = html.lower()
     for domain in entity.domains:
         d = domain.lower().removeprefix("www.")

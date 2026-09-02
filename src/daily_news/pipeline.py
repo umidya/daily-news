@@ -9,6 +9,7 @@ from zoneinfo import ZoneInfo
 from .config import Config, load_config, watchlist_staleness_warning
 from .db import (
     connect,
+    forget_urls,
     has_seen_url,
     was_used_in_digest,
     insert_article,
@@ -178,10 +179,21 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
     # feed metadata does not carry a guest byline.
     for art in new_articles:
         if not art.self_match:
-            art.self_match = detect_self_match(art, self_entity)
-    page_hits = annotate_self_bylines(new_articles, self_entity)
+            art.self_match, art.self_match_kind = detect_self_match(art, self_entity)
+    page_hits, unresolved = annotate_self_bylines(new_articles, self_entity)
     if page_hits:
         log.info("%d self-coverage article(s) found via page scan", page_hits)
+
+    # An article we could not check is NOT an article we checked and cleared.
+    # Drop it from the seen-URL history so tomorrow's run fetches it again;
+    # otherwise a single transient failure buries her coverage permanently.
+    if unresolved:
+        with connect(db_path) as conn:
+            forgotten = forget_urls(conn, [a.url_hash for a in unresolved])
+        log.warning(
+            "Forgot %d unverified byline-outlet article(s) so they are re-checked next run",
+            forgotten,
+        )
 
     # 3. Score + filter
     ranked = score_and_filter(new_articles, cfg, seen_titles)

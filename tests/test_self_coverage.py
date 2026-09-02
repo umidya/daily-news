@@ -18,7 +18,10 @@ from daily_news.fetch import (
     match_self_in_page,
 )
 from daily_news.models import Article
-from daily_news.score import SELF_SCORE_FLOOR, detect_self_match, score_and_filter
+from daily_news.score import (
+    MATCH_BYLINE, MATCH_DOMAIN, MATCH_SEARCH, MATCH_TEXT,
+    SELF_SCORE_FLOOR, detect_self_match, score_and_filter,
+)
 
 
 ENTITY = SelfEntity(
@@ -50,34 +53,34 @@ def _article(**kw) -> Article:
 
 def test_matches_firm_name_in_title():
     a = _article(title="Midya U Advisory launches AI readiness practice")
-    assert detect_self_match(a, ENTITY) == "Midya U Advisory"
+    assert detect_self_match(a, ENTITY) == ("Midya U Advisory", MATCH_TEXT)
 
 
 def test_matches_byline_in_author_field():
     a = _article(title="Six enrolment gaps", author="Midya U")
-    assert detect_self_match(a, ENTITY) == "Midya U"
+    assert detect_self_match(a, ENTITY) == ("Midya U", MATCH_BYLINE)
 
 
 def test_matches_owned_domain_in_url():
     a = _article(url="https://midyau.com/insights/ai-search", canonical_url="https://midyau.com/insights/ai-search")
-    assert detect_self_match(a, ENTITY) == "midyau.com"
+    assert detect_self_match(a, ENTITY) == ("midyau.com", MATCH_DOMAIN)
 
 
 def test_ignores_unrelated_article():
     a = _article(title="Taiwan's international enrolment up 17%", snippet="Records broken.")
-    assert detect_self_match(a, ENTITY) == ""
+    assert detect_self_match(a, ENTITY) == ("", "")
 
 
 def test_name_match_is_word_boundary_anchored():
     """'Midya U' must not fire on a longer name that merely starts the same."""
     a = _article(title="Profile of Midya Underwood, registrar")
-    assert detect_self_match(a, ENTITY) == ""
+    assert detect_self_match(a, ENTITY) == ("", "")
 
 
 def test_no_entity_configured_never_matches():
     a = _article(title="Midya U Advisory does a thing")
-    assert detect_self_match(a, None) == ""
-    assert detect_self_match(a, SelfEntity()) == ""
+    assert detect_self_match(a, None) == ("", "")
+    assert detect_self_match(a, SelfEntity()) == ("", "")
 
 
 # --- the real ICEF shape ------------------------------------------------
@@ -107,7 +110,7 @@ def test_icef_rss_entry_alone_does_not_match():
         source="ICEF Monitor",
         author="editor",
     )
-    assert detect_self_match(a, ENTITY) == ""
+    assert detect_self_match(a, ENTITY) == ("", "")
     assert is_byline_outlet(a.url, ENTITY) is True
 
 
@@ -307,3 +310,124 @@ def test_ordinary_seen_articles_are_never_resurfaced():
         with connect(Path(d) / "t.db") as conn:
             insert_article(conn, a)
             assert partition_for_self_resurface([a], conn, ENTITY) == []
+
+
+# --- the Google News search leg -----------------------------------------
+
+def test_google_news_self_search_result_is_matched_by_topic_tag():
+    """Verified live: the query '"Midya U Advisory" OR "Midya U" OR "Mi Dya U"'
+    returns her ICEF article and nothing else — but Google rewrites the link
+    to a news.google.com redirect, drops the author, and replaces the summary
+    with an anchor tag. Every content-based leg misses, and the host is not a
+    byline outlet so the page-scan tier never fires either. The search topic
+    tag is the only surviving signal.
+    """
+    a = _article(
+        url="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlB5",
+        canonical_url="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlB5",
+        title=ICEF_TITLE,
+        snippet='<a href="https://news.google.com/rss/articles/CBMi">Read</a>',
+        source='Google News: "Midya U Advisory"',
+        topics=["self", "watchlist"],
+    )
+    value, how = detect_self_match(a, ENTITY)
+    assert how == MATCH_SEARCH
+    assert value == "Midya U Advisory"
+    assert not is_byline_outlet(a.url, ENTITY)
+
+
+def test_search_topic_tag_alone_does_nothing_without_an_entity():
+    a = _article(topics=["self"])
+    assert detect_self_match(a, None) == ("", "")
+
+
+def test_ordinary_watchlist_result_is_not_a_self_match():
+    """The `watchlist` tag is on every org search; only `self` counts."""
+    a = _article(title="Capilano University names new dean", topics=["watchlist", "higher_ed_canada"])
+    assert detect_self_match(a, ENTITY) == ("", "")
+
+
+# --- page-fetch failures are retryable, not negative ---------------------
+
+def test_unreachable_page_is_reported_not_silently_cleared():
+    """A 503 on publication morning must not become a permanent miss."""
+    from unittest.mock import patch
+    from daily_news.fetch import annotate_self_bylines
+
+    a = _article(
+        url="https://monitor.icef.com/2026/09/new-piece/",
+        canonical_url="https://monitor.icef.com/2026/09/new-piece",
+        url_hash="unreach", title="Some piece", source="ICEF Monitor",
+    )
+    with patch("daily_news.fetch._fetch_page_text", return_value=None):
+        hits, unresolved = annotate_self_bylines([a], ENTITY)
+    assert hits == 0
+    assert [x.url_hash for x in unresolved] == ["unreach"]
+    assert a.self_match == ""
+
+
+def test_successfully_fetched_non_matching_page_is_not_unresolved():
+    from unittest.mock import patch
+    from daily_news.fetch import annotate_self_bylines
+
+    a = _article(
+        url="https://monitor.icef.com/2026/09/other/",
+        canonical_url="https://monitor.icef.com/2026/09/other",
+        url_hash="ok1", title="Taiwan enrolment", source="ICEF Monitor",
+    )
+    with patch("daily_news.fetch._fetch_page_text", return_value="<article>" + "x" * 600 + "Taiwan news</article>"):
+        hits, unresolved = annotate_self_bylines([a], ENTITY)
+    assert hits == 0 and unresolved == []
+
+
+def test_forget_urls_clears_only_unused_rows():
+    from daily_news.db import connect, insert_article, forget_urls, has_seen_url, mark_used_in_digest
+    import tempfile
+    from pathlib import Path
+
+    unused = _article(url_hash="u1", url="https://monitor.icef.com/a", canonical_url="https://monitor.icef.com/a")
+    used = _article(url_hash="u2", url="https://monitor.icef.com/b", canonical_url="https://monitor.icef.com/b")
+    with tempfile.TemporaryDirectory() as d:
+        with connect(Path(d) / "t.db") as conn:
+            insert_article(conn, unused)
+            insert_article(conn, used)
+            mark_used_in_digest(conn, ["u2"], "2026-09-01")
+            forget_urls(conn, ["u1", "u2"])
+            assert has_seen_url(conn, "u1") is False  # re-fetched tomorrow
+            assert has_seen_url(conn, "u2") is True   # already published; leave it
+
+
+# --- page-scan region bounding ------------------------------------------
+
+def test_page_scan_prefers_the_article_body_over_sidebars():
+    """If an outlet ever adds a 'recent contributors' sidebar naming her,
+    an unbounded scan would pin every article on that site as 'your article'."""
+    from daily_news.fetch import match_self_in_page
+    html = (
+        "<html><aside>Recent contributors: Midya U Advisory</aside>"
+        "<article>" + ("Taiwan enrolment news. " * 40) + "</article></html>"
+    )
+    assert match_self_in_page(html, ENTITY) == ""
+
+
+def test_direct_copy_beats_the_google_news_redirect_copy():
+    """The same piece arrives twice — from ICEF's feed and from the name
+    search. Keep the one whose URL points at the publisher, not at a
+    news.google.com redirect."""
+    direct = _article(
+        url="https://monitor.icef.com/2026/08/six-gaps/",
+        canonical_url="https://monitor.icef.com/2026/08/six-gaps",
+        url_hash="direct", title=ICEF_TITLE, source="ICEF Monitor",
+    )
+    direct.self_match, direct.self_match_kind = "midyau.com", "page"
+    viasearch = _article(
+        url="https://news.google.com/rss/articles/CBMiwwF",
+        canonical_url="https://news.google.com/rss/articles/CBMiwwF",
+        url_hash="search", title=ICEF_TITLE, source='Google News: "Midya U"',
+        topics=["self", "watchlist"], credibility=1.0,
+    )
+    ranked = score_and_filter([viasearch, direct], _cfg(ENTITY), [])
+    assert ranked[0].url_hash == "direct"
+    assert "monitor.icef.com" in ranked[0].url
+    # The redirect copy is dropped as a near-duplicate of the direct one.
+    assert [a.url_hash for a in ranked] == ["direct"]

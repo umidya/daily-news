@@ -36,40 +36,72 @@ def _host_matches(url: str, domains: list[str]) -> str:
     return ""
 
 
-def detect_self_match(article: Article, entity: SelfEntity | None) -> str:
-    """Return the name/domain that identifies this article as Midya's own.
+# How a self match was established. The summarizer needs this: "ran under
+# your byline" and "mentions your firm" are different claims, and a model
+# given only a matched name will confidently assert the stronger one.
+MATCH_BYLINE = "byline"
+MATCH_DOMAIN = "domain"
+MATCH_TEXT = "text"
+MATCH_SEARCH = "search"
+MATCH_PAGE = "page"
 
-    Empty string when it isn't hers. Three legs, checked cheapest first:
+# Set by fetch.build_self_searches on every result of a name-targeted Google
+# News query. Those entries are otherwise unidentifiable — see detect_self_match.
+SELF_SEARCH_TOPIC = "self"
 
-      1. byline  — her name in the RSS author field. This is the leg that
-                   catches a guest piece on someone else's outlet, where the
-                   headline and body never say "Midya U Advisory".
+# The same piece often arrives twice: once from the publisher's own feed and
+# once via the Google News query on her name. Both are self matches, and the
+# in-run title dedup keeps whichever scores higher. Prefer the direct copy —
+# the search copy's URL is a news.google.com redirect, so the briefing would
+# otherwise hand her an opaque link to her own article. Too small to reorder
+# self hits on any other axis.
+_DIRECT_MATCH_BONUS = 1.0
+
+
+def detect_self_match(article: Article, entity: SelfEntity | None) -> tuple[str, str]:
+    """Identify an article as Midya's own. Returns (matched_value, how).
+
+    ("", "") when it isn't hers. Four legs, cheapest first:
+
+      1. byline  — her name in the RSS author field.
       2. domain  — the story links to a site she owns.
       3. text    — her name in the title or snippet.
+      4. search  — the item came back from a Google News query built from her
+                   own names. This leg exists because those entries are opaque
+                   by construction: Google rewrites `link` to a
+                   news.google.com redirect, drops `author`, and replaces the
+                   summary with an anchor tag. Legs 1-3 all miss, and the
+                   host is news.google.com so the page-scan tier never fires
+                   either. Verified live: the query returns her ICEF article
+                   and exactly nothing else, so trusting the search engine's
+                   own phrase index here is both necessary and precise.
 
-    Matching is word-boundary anchored so "Midya U" doesn't fire on a longer
-    surname that merely starts the same way.
+    Word-boundary anchored so "Midya U" doesn't fire on a longer surname that
+    merely starts the same way.
     """
     if entity is None or not entity.is_configured():
-        return ""
+        return "", ""
 
     author = article.author or ""
     for byline in entity.bylines:
         if byline and _name_pattern(byline).search(author):
-            return byline
+            return byline, MATCH_BYLINE
 
     hit = _host_matches(article.url, entity.domains) or _host_matches(
         article.canonical_url, entity.domains
     )
     if hit:
-        return hit
+        return hit, MATCH_DOMAIN
 
     text = f"{article.title} {article.snippet}"
     for name in entity.names:
         if _name_pattern(name).search(text):
-            return name
+            return name, MATCH_TEXT
 
-    return ""
+    if SELF_SEARCH_TOPIC in article.topics:
+        return entity.org or (entity.names[0] if entity.names else "self"), MATCH_SEARCH
+
+    return "", ""
 
 
 def _topic_match(text: str, topic: TopicConfig) -> float:
@@ -145,14 +177,21 @@ def score_article(
     # Respect a match already set by the page-scan tier in fetch.py — it saw
     # the article body, which is strictly more than this function can see from
     # the feed metadata. Recomputing here would silently discard it.
-    self_match = article.self_match or detect_self_match(
-        article, cfg.watchlist.self_entity if cfg.watchlist else None
-    )
+    if article.self_match:
+        self_match = article.self_match
+    else:
+        self_match, how = detect_self_match(
+            article, cfg.watchlist.self_entity if cfg.watchlist else None
+        )
+        if self_match:
+            article.self_match_kind = how
     if self_match:
         article.self_match = self_match
         # Pin above every ordinary score rather than adding a bonus, so no
         # combination of recency decay and weak keyword relevance can bury it.
         final = SELF_SCORE_FLOOR + final
+        if article.self_match_kind and article.self_match_kind != MATCH_SEARCH:
+            final += _DIRECT_MATCH_BONUS
         topic = "watchlist"
 
     breakdown = {
@@ -165,6 +204,7 @@ def score_article(
     }
     if self_match:
         breakdown["self_match"] = self_match
+        breakdown["self_match_kind"] = article.self_match_kind
     return final, breakdown, topic
 
 
@@ -181,7 +221,7 @@ def score_and_filter(
         # Midya's own coverage bypasses the recency cutoff. A guest article
         # can sit in a publisher's feed for a day before it surfaces, and
         # "we found it late" is not a reason to never tell her about it.
-        if a.self_match or detect_self_match(a, self_entity):
+        if a.self_match or detect_self_match(a, self_entity)[0]:
             fresh.append(a)
             continue
         if a.published_at is None:
