@@ -218,3 +218,92 @@ def test_self_searches_cover_names_and_domains():
 def test_self_searches_empty_without_entity():
     assert build_self_searches(None) == []
     assert build_self_searches(SelfEntity()) == []
+
+
+# --- resurfacing already-seen coverage ----------------------------------
+
+def test_seen_but_unused_self_article_is_resurfaced():
+    """The bug that would have shipped.
+
+    Her ICEF article was fetched on 2026-08-27 and recorded in articles.db
+    with used=0. `has_seen_url` therefore skips it before scoring runs, so
+    every fix downstream of dedup is dead code for the one article that
+    motivated them. Verified against the production DB on the `state` branch:
+    the row is there, digest_date NULL, used 0.
+    """
+    from daily_news.db import connect, insert_article, was_used_in_digest
+    from daily_news.pipeline import partition_for_self_resurface
+    import tempfile
+    from pathlib import Path
+
+    a = _article(
+        url="https://monitor.icef.com/2026/08/six-gaps/",
+        canonical_url="https://monitor.icef.com/2026/08/six-gaps",
+        url_hash="icef1", title=ICEF_TITLE, snippet=ICEF_SNIPPET,
+        source="ICEF Monitor", author="editor",
+        published_at=datetime.now(timezone.utc) - timedelta(days=5),
+    )
+    with tempfile.TemporaryDirectory() as d:
+        with connect(Path(d) / "t.db") as conn:
+            insert_article(conn, a)
+            assert was_used_in_digest(conn, "icef1") is False
+            eligible = partition_for_self_resurface([a], conn, ENTITY)
+            assert [x.url_hash for x in eligible] == ["icef1"]
+
+
+def test_already_published_self_article_is_not_resurfaced():
+    """Once she has been told, stop telling her."""
+    from daily_news.db import connect, insert_article, mark_used_in_digest
+    from daily_news.pipeline import partition_for_self_resurface
+    import tempfile
+    from pathlib import Path
+
+    a = _article(
+        url="https://monitor.icef.com/2026/08/six-gaps/",
+        canonical_url="https://monitor.icef.com/2026/08/six-gaps",
+        url_hash="icef1", title=ICEF_TITLE, source="ICEF Monitor",
+        published_at=datetime.now(timezone.utc) - timedelta(days=5),
+    )
+    with tempfile.TemporaryDirectory() as d:
+        with connect(Path(d) / "t.db") as conn:
+            insert_article(conn, a)
+            mark_used_in_digest(conn, ["icef1"], "2026-08-27")
+            assert partition_for_self_resurface([a], conn, ENTITY) == []
+
+
+def test_resurface_window_expires():
+    """An old piece stops coming back rather than nagging forever."""
+    from daily_news.db import connect, insert_article
+    from daily_news.pipeline import partition_for_self_resurface
+    import tempfile
+    from pathlib import Path
+
+    a = _article(
+        url="https://monitor.icef.com/2020/01/ancient/",
+        canonical_url="https://monitor.icef.com/2020/01/ancient",
+        url_hash="old1", title="An old piece", source="ICEF Monitor",
+        published_at=datetime.now(timezone.utc) - timedelta(days=400),
+    )
+    with tempfile.TemporaryDirectory() as d:
+        with connect(Path(d) / "t.db") as conn:
+            insert_article(conn, a)
+            assert partition_for_self_resurface([a], conn, ENTITY) == []
+
+
+def test_ordinary_seen_articles_are_never_resurfaced():
+    """Only byline outlets are reconsidered — this is not a general re-run of
+    everything the pipeline has ever seen."""
+    from daily_news.db import connect, insert_article
+    from daily_news.pipeline import partition_for_self_resurface
+    import tempfile
+    from pathlib import Path
+
+    a = _article(
+        url="https://www.bbc.co.uk/news/x", canonical_url="https://www.bbc.co.uk/news/x",
+        url_hash="bbc1", title="Something else entirely", source="BBC",
+        published_at=datetime.now(timezone.utc) - timedelta(days=2),
+    )
+    with tempfile.TemporaryDirectory() as d:
+        with connect(Path(d) / "t.db") as conn:
+            insert_article(conn, a)
+            assert partition_for_self_resurface([a], conn, ENTITY) == []

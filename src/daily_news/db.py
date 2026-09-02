@@ -61,6 +61,19 @@ def has_seen_url(conn: sqlite3.Connection, url_hash: str) -> bool:
     return row is not None
 
 
+def was_used_in_digest(conn: sqlite3.Connection, url_hash: str) -> bool:
+    """True once an article has actually appeared in a published briefing.
+
+    Distinct from has_seen_url: the pipeline records every article it fetches,
+    but only a handful reach a digest. "Seen" means we downloaded it; "used"
+    means Midya was told about it. Resurfacing logic needs the second.
+    """
+    row = conn.execute(
+        "SELECT used FROM articles WHERE url_hash = ?", (url_hash,)
+    ).fetchone()
+    return bool(row and row[0])
+
+
 def recent_titles(conn: sqlite3.Connection, days: int = 3) -> list[str]:
     cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
     rows = conn.execute(
