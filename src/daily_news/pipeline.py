@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from .config import Config, load_config
+from .config import Config, load_config, watchlist_staleness_warning
 from .db import (
     connect,
     has_seen_url,
@@ -17,10 +17,15 @@ from .db import (
     record_digest,
     recent_titles,
 )
-from .fetch import combined_searches, fetch_feeds, fetch_searches
+from .fetch import (
+    annotate_self_bylines,
+    combined_searches,
+    fetch_feeds,
+    fetch_searches,
+)
 from .app_export import write_app_briefing
 from .render import write_digest_assets, write_index, write_podcast_feed
-from .score import score_and_filter
+from .score import detect_self_match, score_and_filter
 from .summarize import summarize, parse_audio_script, strip_audio_markers
 from .tts import synthesize, synthesize_segments
 from .models import Article
@@ -49,6 +54,12 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
     db_path = cfg.data_dir / "articles.db"
 
     log.info("Starting digest run for %s (mode=%s)", date_label, mode)
+
+    # Loud on every run: a stale watchlist is silent otherwise, and silence is
+    # exactly how a departed client sat on the roster from May to September.
+    stale = watchlist_staleness_warning(cfg.watchlist)
+    if stale:
+        log.warning("STALE WATCHLIST: %s", stale)
 
     # Same-day skip guard: if today's briefing is already live on Pages with a
     # full-strength digest, skip this run entirely. This lets us run the cron
@@ -106,6 +117,16 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
 
     log.info("%d new articles after URL-dedup; %d titles in 3-day history",
              len(new_articles), len(seen_titles))
+
+    # 2b. Flag Midya's own coverage before scoring, so the score floor and the
+    # recency bypass in score_and_filter can both see it. Page-level, because
+    # feed metadata does not carry a guest byline.
+    self_entity = cfg.watchlist.self_entity if cfg.watchlist else None
+    for art in new_articles:
+        art.self_match = detect_self_match(art, self_entity)
+    page_hits = annotate_self_bylines(new_articles, self_entity)
+    if page_hits:
+        log.info("%d self-coverage article(s) found via page scan", page_hits)
 
     # 3. Score + filter
     ranked = score_and_filter(new_articles, cfg, seen_titles)

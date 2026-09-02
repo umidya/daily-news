@@ -105,6 +105,13 @@ THE 9 SECTIONS — use these names and order exactly. Each section's `topic_key`
 
    Include 1–4 stories. Omit the section if no qualifying stories today. Do NOT pad with weak hits — a watchlist org being mentioned in a passing roundup doesn't qualify. The story should genuinely be about them or materially affect them.
 
+   THE ONE EXCEPTION — MIDYA'S OWN COVERAGE:
+     - The user message may include a SELF_COVERAGE block. Those items are about Midya herself: her firm, her byline, her website, her work being cited.
+     - The framing rule above INVERTS for these. They ARE hers. Say so directly: "your article," "your firm," "your work." Name the outlet and, when it's a byline, say it ran under her name.
+     - A SELF_COVERAGE item ALWAYS leads the Watchlist section — first story, above every client, prospect and peer — and the section is never omitted when one is present.
+     - It does NOT count against the 1–4 limit, and it is never filtered as a "weak hit." A one-line citation of her work still gets surfaced; she decides whether it matters, not you.
+     - Lead the audio script's Watchlist segment with it too, and say it plainly: she should hear that her work was published or cited before she hears anything else.
+
 2. "AI & Tech"            topic_key: "ai"
 
    Filter ruthlessly through MIDYA'S TWO LENSES:
@@ -371,6 +378,30 @@ def strip_audio_markers(script: str) -> str:
     return parse_audio_script(script)[0]
 
 
+def _self_context_lines(entity) -> list[str]:
+    """Render the SELF_IDENTITY block — who Midya is, stated once, up top.
+
+    Deliberately placed above WATCHLIST_ORGS and its arm's-length framing
+    reminder. The model reads them in order, and the inversion only makes
+    sense if it already knows which name is hers.
+    """
+    if entity is None or not entity.is_configured():
+        return []
+    lines = [
+        "SELF_IDENTITY — this is Midya herself, not an org she tracks.",
+        "",
+        f"  Firm: {entity.org}" if entity.org else "",
+        "  Also appears as: " + ", ".join(entity.aliases) if entity.aliases else "",
+        "  Bylines: " + ", ".join(entity.bylines) if entity.bylines else "",
+        "  Owns: " + ", ".join(entity.domains) if entity.domains else "",
+        "",
+        "Any story matching the above is HER coverage. The arm's-length framing "
+        "rule below does NOT apply to it — write it as hers, lead the Watchlist "
+        "section with it, and never drop it for being small.",
+    ]
+    return [ln for ln in lines if ln != ""] + [""]
+
+
 def build_watchlist_context_block(watchlist: Watchlist | None) -> str:
     """Render the volatile watchlist context for injection into the user message.
 
@@ -383,10 +414,19 @@ def build_watchlist_context_block(watchlist: Watchlist | None) -> str:
     """
     if watchlist is None:
         return ""
-    if not (watchlist.clients or watchlist.prospects or watchlist.peer_orgs):
+    if not (
+        watchlist.clients
+        or watchlist.prospects
+        or watchlist.peer_orgs
+        or (watchlist.self_entity and watchlist.self_entity.is_configured())
+    ):
         return ""
 
     lines: list[str] = []
+    self_block = _self_context_lines(watchlist.self_entity)
+    if self_block:
+        lines.extend(self_block)
+        lines.append("")
     lines.append("WATCHLIST_ORGS — orgs Midya tracks for industry-coverage reasons.")
     lines.append("")
     lines.append(
@@ -440,6 +480,8 @@ def _candidates_payload(articles: list[Article]) -> list[dict]:
             "topics": a.topics,
             "snippet": a.snippet,
             "score": round(a.score, 3),
+            **({"self_match": a.self_match} if a.self_match else {}),
+            **({"author": a.author} if a.author else {}),
         })
     return out
 
@@ -497,6 +539,31 @@ def build_recent_coverage_block(recent: "list[dict] | None") -> str:
     return "\n".join(lines) + "\n"
 
 
+def build_self_coverage_block(candidates: list[Article]) -> str:
+    """Call out Midya's own coverage explicitly, above the candidate JSON.
+
+    The scorer already pins these to the top of the list, but "it's item one
+    of sixty in a JSON array" is a weak signal for a model composing nine
+    sections. Naming them in prose, with the matched identity spelled out, is
+    what actually makes them lead the Watchlist section.
+    """
+    hits = [a for a in candidates if a.self_match]
+    if not hits:
+        return ""
+    lines = [
+        "SELF_COVERAGE — these candidates are about MIDYA HERSELF. Each one "
+        "leads the Watchlist section, framed as hers ('your article', 'your "
+        "firm'), and none may be dropped as too small:",
+        "",
+    ]
+    for a in hits:
+        byline = f" — byline: {a.author}" if a.author else ""
+        lines.append(f"  - [{a.source}] {a.title}{byline}")
+        lines.append(f"    matched on: {a.self_match}")
+        lines.append(f"    url: {a.url}")
+    return "\n".join(lines).strip() + "\n"
+
+
 def summarize(
     candidates: list[Article],
     cfg: Config,
@@ -515,11 +582,19 @@ def summarize(
         "candidates": _candidates_payload(candidates),
     }
     watchlist_block = build_watchlist_context_block(cfg.watchlist)
+    self_coverage_block = build_self_coverage_block(candidates)
     coverage_block = build_recent_coverage_block(recent_coverage)
+    if self_coverage_block:
+        log.info(
+            "Self-coverage detected in %d candidate(s): %s",
+            sum(1 for a in candidates if a.self_match),
+            ", ".join(a.self_match for a in candidates if a.self_match),
+        )
     user_msg = (
         f"Today's date: {date_label}.\n"
         f"Aim for around {cfg.target_story_count} stories in the final digest.\n\n"
         + (watchlist_block + "\n" if watchlist_block else "")
+        + (self_coverage_block + "\n" if self_coverage_block else "")
         + (coverage_block + "\n" if coverage_block else "")
         + "Candidates (already pre-filtered and pre-scored):\n"
         + json.dumps(payload["candidates"], ensure_ascii=False, indent=2)

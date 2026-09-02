@@ -22,3 +22,9 @@ class Article:
     score_breakdown: dict = field(default_factory=dict)
     # In-memory only — not persisted to the articles DB.
     image_url: Optional[str] = None
+    # RSS author field, when the publisher sets one. Carried so a guest byline
+    # on someone else's outlet can be recognised as Midya's own work.
+    author: str = ""
+    # Set by score.py when the article matches Midya's `self` block. Populated
+    # with the name/domain that matched, for the summarizer to cite.
+    self_match: str = ""
