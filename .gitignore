@@ -19,6 +19,8 @@ venv/
 # See docs/superpowers/specs/2026-05-21-client-aware-briefing-design.md
 config/watchlist.yaml
 config/peer_orgs.yaml
+# Midya's own identity — carries her legal name; repo is public.
+config/self.yaml
 
 # Local state and outputs (state lives in the `state` branch instead)
 data/*.db

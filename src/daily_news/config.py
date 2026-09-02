@@ -3,6 +3,7 @@ from __future__ import annotations
 import logging
 import os
 from dataclasses import dataclass, field
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -70,11 +71,53 @@ class WatchlistOrg:
 
 
 @dataclass
+class SelfEntity:
+    """Midya herself — the one watchlist entry that inverts the framing rule.
+
+    Every other org on the watchlist is covered at arm's length ("never imply
+    Midya has any relationship to these orgs"). This one is the opposite: a
+    match here is *her* — her firm, her byline, her site — and the briefing
+    should say so.
+
+    Matching is deliberately three-legged because a mention can arrive in any
+    of three shapes: her name in the text, her name in an RSS author field
+    (guest bylines on other outlets), or a link to a domain she owns.
+    """
+    org: str = ""
+    aliases: list[str] = field(default_factory=list)
+    bylines: list[str] = field(default_factory=list)
+    domains: list[str] = field(default_factory=list)
+    byline_outlets: list[str] = field(default_factory=list)
+
+    @property
+    def names(self) -> list[str]:
+        """Org name plus aliases, de-duplicated, longest first.
+
+        Longest-first matters for matching: "Midya U Advisory" should win over
+        the "Midya U" substring so the reported match is the specific one.
+        """
+        seen: set[str] = set()
+        out: list[str] = []
+        for n in [self.org, *self.aliases]:
+            n = (n or "").strip()
+            key = n.lower()
+            if not n or key in seen:
+                continue
+            seen.add(key)
+            out.append(n)
+        return sorted(out, key=len, reverse=True)
+
+    def is_configured(self) -> bool:
+        return bool(self.names or self.bylines or self.domains)
+
+
+@dataclass
 class Watchlist:
     clients: list[WatchlistOrg] = field(default_factory=list)
     prospects: list[WatchlistOrg] = field(default_factory=list)
     peer_orgs: list[WatchlistOrg] = field(default_factory=list)
     thought_leadership_themes: list[str] = field(default_factory=list)
+    self_entity: SelfEntity | None = None
     generated_at: str | None = None
 
 
@@ -138,6 +181,19 @@ def load_watchlist(path: Path) -> Watchlist | None:
             ))
         return out
 
+    def _self() -> SelfEntity | None:
+        block = raw.get("self")
+        if not isinstance(block, dict):
+            return None
+        ent = SelfEntity(
+            org=str(block.get("org", "") or ""),
+            aliases=[str(a) for a in (block.get("aliases") or [])],
+            bylines=[str(b) for b in (block.get("bylines") or [])],
+            domains=[str(d).lower() for d in (block.get("domains") or [])],
+            byline_outlets=[str(o).lower() for o in (block.get("byline_outlets") or [])],
+        )
+        return ent if ent.is_configured() else None
+
     return Watchlist(
         clients=_orgs("clients"),
         prospects=_orgs("prospects"),
@@ -145,7 +201,41 @@ def load_watchlist(path: Path) -> Watchlist | None:
         thought_leadership_themes=[
             str(t) for t in (raw.get("thought_leadership_themes") or [])
         ],
+        self_entity=_self(),
         generated_at=raw.get("generated_at"),
+    )
+
+
+# A watchlist regenerated less often than this is probably a dead cron, not a
+# stable roster. The sync is monthly, so ~2.5 missed cycles is the alarm point.
+WATCHLIST_STALE_AFTER_DAYS = 75
+
+
+def watchlist_staleness_warning(wl: Watchlist | None, now: datetime | None = None) -> str:
+    """Return a human-readable warning when the watchlist has gone stale.
+
+    Empty string when it is fresh, unset, or has no parseable timestamp. The
+    pipeline logs this every run: the watchlist silently rotted from
+    2026-05-22 to 2026-09-01 with nothing anywhere saying so, which is how a
+    departed client stayed on the roster for three months.
+    """
+    if wl is None or not wl.generated_at:
+        return ""
+    try:
+        gen = datetime.fromisoformat(str(wl.generated_at))
+    except ValueError:
+        return ""
+    if gen.tzinfo is None:
+        gen = gen.replace(tzinfo=timezone.utc)
+    now = now or datetime.now(timezone.utc)
+    age_days = (now - gen).days
+    if age_days < WATCHLIST_STALE_AFTER_DAYS:
+        return ""
+    return (
+        f"watchlist.yaml is {age_days} days old (generated {gen.date()}); the "
+        f"monthly sync has not run. Check the "
+        f"com.midyau.daily-news-watchlist-sync launchd job, then re-run "
+        f"`python -m daily_news.sync_watchlist`."
     )
 
 

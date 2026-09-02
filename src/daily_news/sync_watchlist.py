@@ -28,6 +28,7 @@ import yaml
 from .config import (
     DEFAULT_CONFIG_DIR,
     PROJECT_ROOT,
+    SelfEntity,
     Watchlist,
     WatchlistOrg,
 )
@@ -37,10 +38,25 @@ log = logging.getLogger(__name__)
 DEFAULT_CLIENTS_DIR = Path.home() / "Desktop" / "Clients"
 DEFAULT_PEERS_PATH = DEFAULT_CONFIG_DIR / "peer_orgs.yaml"
 DEFAULT_THEMES_PATH = DEFAULT_CONFIG_DIR / "thought_leadership_themes.yaml"
+DEFAULT_SELF_PATH = DEFAULT_CONFIG_DIR / "self.yaml"
 DEFAULT_WATCHLIST_PATH = DEFAULT_CONFIG_DIR / "watchlist.yaml"
 
 NOTION_TOKEN_PATH = Path.home() / ".claude" / ".notion-token"
 NOTION_VERSION = "2022-06-28"
+
+
+# Folders under ~/Desktop/Clients that are containers, not clients. Without
+# this, "Lost Leads" (which holds archived prospect folders and has no
+# CLAUDE.md of its own) gets picked up by the nested-folder branch below and
+# lands on the watchlist as an org literally named "Lost Leads" — while the
+# dead prospect inside it supplies the industry classification.
+EXCLUDED_CLIENT_FOLDERS = {
+    "lost leads",
+    "archive",
+    "archived",
+    "_archive",
+    "templates",
+}
 
 
 # --- Industry classification --------------------------------------------
@@ -119,6 +135,67 @@ def _find_nested_claude_md(folder: Path) -> Optional[Path]:
     return None
 
 
+# --- Posture detection --------------------------------------------------
+
+_STATUS_BLOCK_RE = re.compile(r"##\s+Status\b(.+?)(?=\n##\s|\Z)", re.DOTALL | re.IGNORECASE)
+_BULLET_RE = re.compile(r"^\s*[-*]\s+(.*)$", re.MULTILINE)
+_H2_RE = re.compile(r"^##\s+(.+?)\s*$", re.MULTILINE)
+# Explicit escape hatch: put `<!-- watchlist: posture=active -->` anywhere in a
+# client CLAUDE.md and the heuristic below is skipped entirely.
+_POSTURE_OVERRIDE_RE = re.compile(
+    r"<!--\s*watchlist:\s*posture\s*=\s*(active|wrapping|past|prospect)\s*-->",
+    re.IGNORECASE,
+)
+
+VALID_POSTURES = ("active", "wrapping", "past", "prospect")
+
+
+def detect_posture(text: str) -> str:
+    """Classify a client's current posture from their CLAUDE.md.
+
+    Reads ONLY the first bullet of the Status block, not the whole thing.
+    Client files are written newest-first, so the block is a reverse-
+    chronological history and scanning all of it means the oldest state can
+    win. Columbia College is the case that proved it: the Status block opens
+    with "PHASE 2 — IN PREP" and, four bullets down, still carries "PHASE 1
+    COMPLETE — PAST CLIENT" from July. The old whole-block scan tagged the
+    most active client on the roster `past`.
+
+    An explicit `<!-- watchlist: posture=... -->` marker always wins.
+    """
+    override = _POSTURE_OVERRIDE_RE.search(text or "")
+    if override:
+        return override.group(1).lower()
+
+    # Headings carry the verdict on some files. Capilano's opens with
+    # "## ✅ ENGAGEMENT COMPLETE — 2026-07-15" and its only Status block is
+    # "## Status (historical)", whose first bullet still describes the live
+    # engagement — so bullet-reading alone called a finished engagement active.
+    for heading in _H2_RE.findall(text or ""):
+        h = heading.lower()
+        if "engagement complete" in h or "past client" in h or "engagement closed" in h:
+            return "past"
+
+    status_match = _STATUS_BLOCK_RE.search(text or "")
+    if not status_match:
+        return "active"
+
+    bullets = [b.strip() for b in _BULLET_RE.findall(status_match.group(1)) if b.strip()]
+    if not bullets:
+        return "active"
+    current = bullets[0].lower()
+
+    # Order matters: an unsigned proposal is a prospect even if the line also
+    # says "active discussion", and "complete" beats "wrapping".
+    if any(k in current for k in ("lead —", "lead -", "proposal sent", "prospect", "unsigned")):
+        return "prospect"
+    if "past client" in current or "complete —" in current or "engagement closed" in current:
+        return "past"
+    if "wrapped" in current or "completed engagement" in current or "wrapping" in current:
+        return "wrapping"
+    return "active"
+
+
 def extract_client_from_folder(folder: Path) -> Optional[WatchlistOrg]:
     """Read folder/CLAUDE.md (or a one-level-nested CLAUDE.md) and turn it
     into a WatchlistOrg.
@@ -162,15 +239,7 @@ def extract_client_from_folder(folder: Path) -> Optional[WatchlistOrg]:
 
     industry = classify_industry_from_text(text)
 
-    # Posture — look for the Status block and guess.
-    posture = "active"
-    status_match = re.search(r"##\s+Status\b(.+?)(?=\n##\s|\Z)", text, re.DOTALL | re.IGNORECASE)
-    if status_match:
-        status_body = status_match.group(1).lower()
-        if "wrapped" in status_body or "completed engagement" in status_body:
-            posture = "wrapping"
-        elif "past client" in status_body:
-            posture = "past"
+    posture = detect_posture(text)
 
     return WatchlistOrg(
         org=org_name,
@@ -187,7 +256,12 @@ def iter_client_folders(clients_dir: Path) -> Iterable[Path]:
     CI where ~/Desktop/Clients isn't present)."""
     if not clients_dir.is_dir():
         return []
-    return [p for p in clients_dir.iterdir() if p.is_dir() and not p.name.startswith(".")]
+    return [
+        p for p in clients_dir.iterdir()
+        if p.is_dir()
+        and not p.name.startswith(".")
+        and p.name.strip().lower() not in EXCLUDED_CLIENT_FOLDERS
+    ]
 
 
 # --- Notion Leads fetch -------------------------------------------------
@@ -322,6 +396,40 @@ def _load_peer_orgs(path: Path) -> list[WatchlistOrg]:
     return out
 
 
+def _load_self(path: Path) -> SelfEntity | None:
+    """Read the curated config/self.yaml into a SelfEntity.
+
+    Curated, not derived: there is no folder or Notion row that describes
+    Midya to the pipeline, and guessing her identity from a client file would
+    be worse than asking her to keep four lines of YAML current.
+    """
+    if not path.exists():
+        log.warning(
+            "%s not found — the briefing will not flag Midya's own coverage. "
+            "Create it with org/aliases/bylines/domains.", path,
+        )
+        return None
+    try:
+        raw = yaml.safe_load(path.read_text())
+    except yaml.YAMLError as e:
+        log.warning("YAML parse failed for %s: %s", path, e)
+        return None
+    if not isinstance(raw, dict):
+        log.warning("%s did not parse to a mapping", path)
+        return None
+    ent = SelfEntity(
+        org=str(raw.get("org", "") or ""),
+        aliases=[str(a) for a in (raw.get("aliases") or [])],
+        bylines=[str(b) for b in (raw.get("bylines") or [])],
+        domains=[str(d).lower() for d in (raw.get("domains") or [])],
+        byline_outlets=[str(o).lower() for o in (raw.get("byline_outlets") or [])],
+    )
+    if not ent.is_configured():
+        log.warning("%s is empty — no self-coverage detection will run.", path)
+        return None
+    return ent
+
+
 def _load_themes(path: Path) -> list[str]:
     return [str(x) for x in _load_yaml_list(path)]
 
@@ -333,6 +441,7 @@ def build_watchlist_from_sources(
     clients_dir: Path,
     peers_path: Path,
     themes_path: Path,
+    self_path: Path = DEFAULT_SELF_PATH,
     notion_fetcher: Callable[[], list[WatchlistOrg]] = fetch_notion_leads,
 ) -> Watchlist:
     """Read all four sources and assemble a Watchlist.
@@ -361,6 +470,7 @@ def build_watchlist_from_sources(
         prospects=prospects,
         peer_orgs=_load_peer_orgs(peers_path),
         thought_leadership_themes=_load_themes(themes_path),
+        self_entity=_load_self(self_path),
         generated_at=datetime.datetime.now(datetime.timezone.utc).isoformat(),
     )
 
@@ -386,18 +496,29 @@ def _org_to_dict(org: WatchlistOrg) -> dict:
 
 def write_watchlist_yaml(wl: Watchlist, path: Path) -> None:
     """Serialize a Watchlist to YAML with a clear auto-generated header."""
-    body = {
+    body: dict = {
         "generated_at": wl.generated_at,
+    }
+    if wl.self_entity is not None:
+        body["self"] = {
+            "org": wl.self_entity.org,
+            "aliases": list(wl.self_entity.aliases),
+            "bylines": list(wl.self_entity.bylines),
+            "domains": list(wl.self_entity.domains),
+            "byline_outlets": list(wl.self_entity.byline_outlets),
+        }
+    body.update({
         "clients": [_org_to_dict(c) for c in wl.clients],
         "prospects": [_org_to_dict(p) for p in wl.prospects],
         "peer_orgs": [_org_to_dict(o) for o in wl.peer_orgs],
         "thought_leadership_themes": list(wl.thought_leadership_themes),
-    }
+    })
     header = (
         "# AUTO-GENERATED by daily_news.sync_watchlist — do not hand-edit.\n"
         "# Re-run `python -m daily_news.sync_watchlist` after roster changes.\n"
         "# Sources: ~/Desktop/Clients/*/CLAUDE.md, Notion 🎯 Leads, peer_orgs.yaml,\n"
-        "# thought_leadership_themes.yaml.\n\n"
+        "# thought_leadership_themes.yaml, self.yaml.\n"
+        "# Refreshed monthly by the com.midyau.daily-news-watchlist-sync launchd job.\n\n"
     )
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(header + yaml.safe_dump(body, sort_keys=False, allow_unicode=True))
@@ -426,6 +547,13 @@ def main(argv: list[str] | None = None) -> int:
         help="Path to thought_leadership_themes.yaml (curated).",
     )
     parser.add_argument(
+        "--self",
+        dest="self_path",
+        type=Path,
+        default=DEFAULT_SELF_PATH,
+        help="Path to self.yaml (curated — Midya's own identity).",
+    )
+    parser.add_argument(
         "--out",
         type=Path,
         default=DEFAULT_WATCHLIST_PATH,
@@ -452,6 +580,7 @@ def main(argv: list[str] | None = None) -> int:
         clients_dir=args.clients_dir,
         peers_path=args.peers,
         themes_path=args.themes,
+        self_path=args.self_path,
         notion_fetcher=fetcher,
     )
     write_watchlist_yaml(wl, args.out)

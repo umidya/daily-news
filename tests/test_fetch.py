@@ -33,7 +33,10 @@ def test_single_client_produces_one_quoted_query():
     searches = build_watchlist_searches(wl)
     assert len(searches) == 1
     s = searches[0]
-    assert s.query == '"Capilano University"'
+    # Higher-ed names collide with US schools whose athletics departments
+    # out-publish their administrations, so sports terms are negated.
+    assert s.query.startswith('("Capilano University")')
+    assert "-soccer" in s.query
     assert "watchlist" in s.topics
     assert "higher_ed_canada" in s.topics
 
@@ -140,4 +143,4 @@ def test_combined_searches_appends_watchlist_searches():
     assert len(out) == 2
     queries = [s.query for s in out]
     assert "static" in queries
-    assert '"Capilano University"' in queries
+    assert any(q.startswith('("Capilano University")') for q in queries)

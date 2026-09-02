@@ -22,3 +22,12 @@ class Article:
     score_breakdown: dict = field(default_factory=dict)
     # In-memory only — not persisted to the articles DB.
     image_url: Optional[str] = None
+    # RSS author field, when the publisher sets one. Carried so a guest byline
+    # on someone else's outlet can be recognised as Midya's own work.
+    author: str = ""
+    # Set when the article matches Midya's `self` block. `self_match` holds
+    # the name/domain that matched; `self_match_kind` records HOW (byline,
+    # domain, text, search, page) so the summarizer can describe it accurately
+    # instead of asserting a byline it cannot verify.
+    self_match: str = ""
+    self_match_kind: str = ""
