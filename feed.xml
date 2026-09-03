@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:41:50 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, September 2, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-02.html</link>
-      <description>Today's throughline is measurement and trust in AI — and it lands squarely in your lanes. A HousingWire experiment showing seven AI engines still reward old-school SEO signals is the clearest AI Search Readiness proof point you'll get this quarter, and it generalizes cleanly from...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-02.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-02.mp3" length="12808704" type="audio/mpeg"/>
-      <pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, September 3, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-03.html</link>
+      <description>Today's through-line is AI moving from theory to the ledger — a wellness brand let autonomous agents plan and buy its television advertising and made five times its money back, while forecasters now expect 80 percent of US ad spend to flow through AI-powered platforms by 2028. Th...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-03.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-03.mp3" length="13120128" type="audio/mpeg"/>
+      <pubDate>Thu, 03 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
