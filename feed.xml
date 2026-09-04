@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:36:49 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, September 3, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-03.html</link>
-      <description>Today's through-line is AI moving from theory to the ledger — a wellness brand let autonomous agents plan and buy its television advertising and made five times its money back, while forecasters now expect 80 percent of US ad spend to flow through AI-powered platforms by 2028. Th...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-03.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-03.mp3" length="13120128" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, September 4, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-04.html</link>
+      <description>Today's throughline is AI reliability and governance — exactly the terrain Midya is trying to own. OpenAI shipped GPT-6 Astra with a messy rollout and a warning buried in the coverage: the newest frontier models are getting harder to monitor even as institutions rush to deploy th...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-04.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-04.mp3" length="11212416" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
