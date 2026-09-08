@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:37:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:36:27 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, September 7, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-07.html</link>
-      <description>Today's throughline is governance and scrutiny — of AI, of budgets, of public institutions — and it lands squarely in Midya's lanes. America's two largest school districts banning AI is the clearest signal yet that adoption without a governance framework is triggering backlash, w...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-07.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-07.mp3" length="11230464" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, September 8, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-08.html</link>
+      <description>Today's throughline is generative search eating the brand-discovery layer — the exchange4media piece asking whether an AI recommendation is advertising lands squarely in your AI Search Readiness lane, and it's the sharpest thought-leadership hook of the day. Higher education is w...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-08.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-08.mp3" length="11766528" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
