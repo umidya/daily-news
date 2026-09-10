@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:38:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:36:03 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, September 9, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-09.html</link>
-      <description>Today's throughline is the widening gap between AI ambition and AI reality — and that gap is exactly where your consulting value lives. A Globe opinion piece is telling Canadian universities to overhaul themselves for AI "fast," while a rigorous STAT field study shows AI scribes ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-09.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-09.mp3" length="11878272" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, September 10, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-10.html</link>
+      <description>Today's through-line is the widening gap between what AI promises and what it actually delivers on the ground — a theme that sits at the exact centre of Midya's thesis. The Axios 'twilight zone' framing and the MIT piece on healthcare AI integration both make the same underrated ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-10.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-10.mp3" length="12177024" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
