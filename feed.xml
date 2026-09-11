@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:36:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:36:17 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, September 10, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-10.html</link>
-      <description>Today's through-line is the widening gap between what AI promises and what it actually delivers on the ground — a theme that sits at the exact centre of Midya's thesis. The Axios 'twilight zone' framing and the MIT piece on healthcare AI integration both make the same underrated ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-10.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-10.mp3" length="12177024" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, September 11, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-11.html</link>
+      <description>Today's signal is concentrated in one lane that's core to your practice: the economics and policy of international students. Canada just tightened the proof-of-funds requirement, the Netherlands published government-commissioned proof that foreign students pay for themselves, and...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-11.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-11.mp3" length="11438976" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
