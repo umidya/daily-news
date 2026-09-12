@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:36:41 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, September 11, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-11.html</link>
-      <description>Today's signal is concentrated in one lane that's core to your practice: the economics and policy of international students. Canada just tightened the proof-of-funds requirement, the Netherlands published government-commissioned proof that foreign students pay for themselves, and...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-11.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-11.mp3" length="11438976" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, September 12, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-12.html</link>
+      <description>Today's throughline is the collision of AI and higher education — and it lands squarely in Midya's enrollment lane. The Globe's piece on how AI is rewriting computer-science curricula, paired with sector leaders arguing that international-student compliance pressure is a structur...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-12.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-12.mp3" length="11496192" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
