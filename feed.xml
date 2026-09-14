@@ -12,7 +12,7 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:42:37 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
@@ -21,9 +21,9 @@
     <item>
       <title>Daily News for Monday, September 14, 2026</title>
       <link>https://umidya.github.io/daily-news/digests/2026-09-14.html</link>
-      <description>Today's dominant thread runs straight through your Canadian higher-ed lane: falling international enrolment is now visibly reshaping a university town's economy, and the U.S. is finalizing the end of its decades-old duration-of-status rule the same week — two forces that will pus...</description>
+      <description>Today's dominant thread is AI governance colliding with AI adoption — Microsoft publishing a 37-page "humanist" code of conduct while Trump publicly rejects guardrails, all against a backdrop of marketing teams drowning in AI-generated content they can't review fast enough. That'...</description>
       <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-14.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-14.mp3" length="12710400" type="audio/mpeg"/>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-14.mp3" length="10892160" type="audio/mpeg"/>
       <pubDate>Mon, 14 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>

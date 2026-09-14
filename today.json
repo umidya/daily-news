@@ -3,317 +3,315 @@
   "date": "Monday, September 14, 2026",
   "dateIso": "2026-09-14",
   "greeting": "Good morning, Midya",
-  "totalDuration": "13:14",
+  "totalDuration": "11:20",
   "currentTime": "0:00",
-  "remaining": "13 min total",
+  "remaining": "11 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today's dominant thread runs straight through your Canadian higher-ed lane: falling international enrolment is now visibly reshaping a university town's economy, and the U.S. is finalizing the end of its decades-old duration-of-status rule the same week — two forces that will push Canadian institutions to fight harder for a shrinking, more compliance-anxious global student pool. That is exactly the pressure that makes AI-driven enrolment marketing a sale, not a nicety.",
+  "digestIntro": "Today's dominant thread is AI governance colliding with AI adoption — Microsoft publishing a 37-page \"humanist\" code of conduct while Trump publicly rejects guardrails, all against a backdrop of marketing teams drowning in AI-generated content they can't review fast enough. That's your exact territory: the gap between what teams can now produce and the governance frameworks (FIPPA, data residency, review workflows) they lack. Two publishable angles sit right in front of you — the content-review bottleneck for marketing ops, and the governance-lens read on corporate AI codes of conduct.",
   "digestReadingTime": "8 min read",
-  "whyItMatters": "Today's dominant thread runs straight through your Canadian higher-ed lane: falling international enrolment is now visibly reshaping a university town's economy, and the U.S. is finalizing the end of its decades-old duration-of-status rule the same week — two forces that will push Canadian institutions to fight harder for a shrinking, more compliance-anxious global student pool. That is exactly the pressure that makes AI-driven enrolment marketing a sale, not a nicety. On the AI front, the split you should watch is governance: Google is rolling age-estimation AI into Canada while Washington is paralyzed on federal rules, which sharpens your public-institution governance and AI Search Readiness pitches around who is accountable for algorithmic decisions. Carney's investment summit sets the macro backdrop for the real-estate and enrolment economies you both sell into. And a rare local note — Sun Peaks has a new mayor by acclamation — is worth a glance given your property footprint. The through-line: scarcity and accountability are becoming the market's dominant themes, and both play to your methodologies.",
+  "whyItMatters": "Today's dominant thread is AI governance colliding with AI adoption — Microsoft publishing a 37-page \"humanist\" code of conduct while Trump publicly rejects guardrails, all against a backdrop of marketing teams drowning in AI-generated content they can't review fast enough. That's your exact territory: the gap between what teams can now produce and the governance frameworks (FIPPA, data residency, review workflows) they lack. Two publishable angles sit right in front of you — the content-review bottleneck for marketing ops, and the governance-lens read on corporate AI codes of conduct. On the ground in BC, a fresh wave of up-market Vancouver foreclosures and steady 3% inflation reinforce that mortgage-renewal pressure is real for the real-estate lane. And a third Pennsylvania measles death is a quiet reminder to keep family vaccination current heading into respiratory season.",
   "audioUrl": "https://umidya.github.io/daily-news/audio/2026-09-14.mp3",
-  "audioDurationSeconds": 794,
-  "audioScript": "Good morning, Midya. It's Monday, September fourteenth, twenty twenty-six. Here's what matters today — and the through-line is scarcity and accountability, both of which land right in the middle of your work.\n\nLet's start with higher education, because today the abstract policy story becomes a concrete street-level one, and it's happening in your backyard. Castanet is reporting that businesses and the rental market in Kamloops are actively adjusting to falling international enrolment at Thompson Rivers University. This is the moment the study-permit caps stop being a headline about Ottawa and start being a headline about landlords, restaurants, and part-time jobs in a mid-size university town. When a school like TRU sees its international numbers come down, the effects ripple outward fast — housing demand softens, service businesses feel it, and the institution itself faces a revenue problem it can't paper over. For your practice, this is the single most useful story of the day, and here's why. Every Canadian university and college recruiting internationally is now competing for a smaller, more anxious, more compliance-scrutinized global pool. That scarcity is precisely what turns AI-driven enrolment marketing from a nice-to-have into a survival tool. The institutions that win the next three years will be the ones that get smarter about domestic recruitment, about diversifying source countries, and about converting interest into applications with far less waste. That is a thought-leadership lane sitting wide open for you: the enrolment-resilience playbook — how declining international numbers force institutions to adopt AI-driven, tightly measured recruitment rather than spray-and-pray spend. If TRU is visibly hurting, so is a long list of your addressable market, and they know it.\n\nThe pressure isn't only domestic. This is the week the United States formally ends its roughly fifty-year-old duration-of-status policy for international students, replacing open-ended stays with fixed limits. Inside Higher Ed has a clear explainer on what changes and who's affected. The practical upshot: the U.S. just got materially less welcoming and less predictable for international students, and a chunk of that demand will look north. That's genuinely good news for Canadian institutions — but only for the ones positioned to catch it. Canada spent the last two years signalling its own restrictions, so the country can't assume students will simply arrive. This is a competitive window that rewards clarity, speed, and reassurance in messaging, and punishes institutions that look bureaucratic or ambivalent. If you're advising a recruitment office, the message this week is: the Americans just handed you a talking point about stability — use it, and make sure your digital presence answers the compliance questions students are now terrified about.\n\nTwo more from the higher-ed file worth your radar. The Globe reports Ontario universities pulled in more than a billion dollars in private-sector investment over three years. That tells you where growth capital is flowing as public funding tightens — toward research partnerships and applied programs that industry will co-fund. It's a useful signal for how institutions are trying to de-risk their revenue away from tuition volatility. And more soberly, The Hub published a sharp opinion piece arguing that Canadian campuses are failing to protect Jewish students amid ongoing tensions. Set the politics aside and look at it through your lens: campus climate is now a brand and reputation risk that lands directly on the enrolment funnel. Prospective students and their parents are watching how institutions handle safety and belonging. This is the kind of reputational exposure that recruitment and communications teams increasingly have to manage in real time — and it's a reminder that brand work in higher ed is no longer just viewbooks and rankings.\n\nNow to AI, where today's story is less about a shiny new model and more about the governance vacuum you keep pointing to. Google is bringing its age-assurance technology to Canada — AI that estimates a user's age to detect underage account holders. This arrives as Ottawa moves on digital-safety legislation that would restrict social media for kids under sixteen. On the surface it's a child-safety story. Underneath, it's a near-perfect case study for your public-institution governance lane. You have an AI system making a consequential inference about a person — their age — with real downstream effects on access, and questions immediately follow: How accurate is it across different populations? What data does it collect and where does it live? What's the appeal path when it's wrong? Who is accountable for the decision? Swap 'age' for 'admissions risk' or 'financial-aid eligibility' and you've described exactly the governance conversation public institutions in BC should be having before they deploy algorithmic decision tools. This is fresh, Canadian, and concrete — a strong hook for a piece on algorithmic accountability, consent, and FIPPA-grade data-residency questions. When a system decides something about a person, someone has to own that decision.\n\nThat local governance story sits against a national and continental backdrop of paralysis. Axios has a piece framing Washington's AI split as 'let 'er rip versus hit the brakes' — the administration all-in on acceleration, Democrats internally divided, and the result being that meaningful federal AI regulation is basically off the table for years. Why this matters to you: when the top of the system won't set rules, the responsibility flows downward — to states, to provinces, to institutions, and ultimately to the firms and consultants advising them. In other words, the governance vacuum in Washington is exactly what makes provincial and institution-level governance frameworks valuable. Your clients don't get to wait for clarity from above; they have to build their own guardrails now. That's not a threat to your positioning — it's the entire premise of it.\n\nAnd one for the intellectual pile, from Nature Medicine: a commentary arguing that trust in clinical AI cannot be benchmarked into existence — it has to be earned through rigorous, real-world prospective studies, and the hardest lessons are almost always about the humans and systems around the AI, not the technology itself. I flag it because that sentence is transferable to everything you do. Whether it's a medical AI or an enrolment chatbot or a real-estate valuation tool, the leaderboard score is not the same as trust, and the failure points are usually organizational, not technical. That's a durable frame for your writing: benchmarks are marketing; prospective, real-world evidence is governance.\n\nOn the marketing front, a few moves worth noting. Accenture named Emma Chalwin as its new chief marketing officer to lead a global marketing push. Accenture is one of those firms whose own marketing posture ripples through the enterprise-buyer world, so a new CMO with a growth mandate is a small signal of where big-consultancy marketing is heading — and worth watching, given how much AI-services messaging flows through that channel.\n\nMore interesting for your thinking is a move out of Droga5: senior creative Mariano Jeger is joining OutFront to launch something called IRL Studios. The thesis behind it is the part to sit with. The bet is that in-person, real-world marketing becomes more valuable precisely as online trust degrades. Think about that in the context of the AI-slop conversation — as feeds fill with synthetic content and consumers grow more skeptical of what they see online, physical presence, real events, and tangible experiences regain a premium. There's a genuine strategic idea there for both your lanes. Higher-ed recruitment has always leaned on campus visits and in-person fairs; this thesis says don't discount them. And real estate is fundamentally an in-person trust business. The counter-intuitive takeaway for an AI consultant is worth saying out loud: the more you automate the top of the funnel, the more the human, in-person moments at the bottom of the funnel matter.\n\nAnd a quick craft note — Nutrafol has a new campaign that rewinds the tired 'before and after' makeover format to focus on the moment someone chooses to change. It's a small thing, but it's a clean example of narrative reframing in a saturated category: instead of selling the transformation, sell the decision. That's a technique that travels well into any high-consideration purchase, including the ones your clients sell.\n\nGlobally, the story with the most relevance to your world is at home. Prime Minister Carney is hosting Canada's first-ever investment summit in Toronto today, courting global investors in a high-stakes bid to attract capital into the country. This is the macro backdrop for almost everything you and your husband's brokerage care about — capital flows, confidence, and the growth story that underpins both real-estate demand and institutional funding. Watch the tone and the commitments that come out of it; a credible signal that Canada is open for investment supports the whole ecosystem you sell into, from commercial real estate to university research partnerships.\n\nThe second global note continues a theme you've been tracking: the anti-migration turn is spreading. Australia's One Nation opposition party has pledged net-negative migration and a cut of more than seven hundred fifty thousand temporary visas within three years. Whether or not it becomes policy, it tells you that the political mood squeezing international education isn't a Canadian or American quirk — it's a shared trend across the major English-speaking destinations. For institutions, that means the global competition for students is happening inside a shrinking overall pie in every market at once. Diversification and efficiency stop being strategy options and become the only strategy.\n\nClose to home, a genuinely local item: White has been acclaimed as the new mayor of Sun Peaks after filing as the only candidate. So the resort community's leadership is settled without a vote. Given your property there, it's worth knowing who's steering the municipality — mayors of small resort communities have outsized influence over development approvals, short-term-rental posture, and infrastructure priorities. An acclamation means no campaign to reveal priorities, so the thing to watch is the early agenda once the new council is seated in October.\n\nOn the health file, one study that clears the bar. STAT News reports that Definium's LSD-based therapy eased anxiety in a second large trial. The significance is the pattern: this is the first wave of psychedelic biotechs approaching regulatory approval, for a class of treatments that appear to deliver rapid benefits rather than the slow onset of conventional options. A second large trial matters because replication is what separates a promising signal from a real one. It's early, and regulation will move carefully, but the direction of travel on mental-health treatment is worth keeping in your peripheral vision — both personally and as a marker of how quickly a once-fringe therapeutic category can move toward the mainstream.\n\nFinally, a couple of practical items. Statistics Canada reports August inflation figures this morning. This is the number that shapes the Bank of Canada's next move, which in turn shapes mortgage rates and the real-estate conditions your household and your real-estate lane care about. Worth a glance at the print once it lands. And a BC safety note: BC Ferries says two people were pulled from the water between the Lower Mainland and Vancouver Island after their fishing vessel sank. Both were rescued — a reminder more than an alarm, but the kind of local-waters item worth noting given family in the province.\n\nSo here's where I'd point your attention today, Midya. The higher-ed story is the one to act on: enrolment scarcity at TRU and shifting U.S. visa rules together create a real competitive window for Canadian institutions, and that's the moment your AI-driven enrolment argument is most persuasive. On the content side, the Google age-assurance rollout is your cleanest governance hook this week — a Canadian, concrete example of an AI making a consequential decision about a person, with all the accountability questions that follow. And keep half an eye on the Carney summit and this morning's inflation number, because they set the mood music for the real-estate and institutional economies you both work in. Fewer, sharper moves today than usual — but the higher-ed thread is one worth building a piece around while the window is open. Talk tomorrow.",
+  "audioDurationSeconds": 680,
+  "audioScript": "Good morning, Midya. It's Monday, September fourteenth, twenty twenty-six. Here's what matters today, and the through-line this morning is governance — specifically, the widening gap between how fast AI can now produce work and how slowly organizations are learning to control it.\n\nLet's start there, because it's the richest thread of the day and it lands squarely in your practice. Microsoft published a thirty-seven-page document today it's calling a humanist AI code of conduct. The timing is not an accident. Over the weekend, Anthropic's Dario Amodei called for a coordinated slowdown in AI development, and researchers have been warning that model progress could outpace our ability to deploy these systems safely and verify what they're doing. So Microsoft is planting a flag: people matter more than AI, here's our framework, here are our principles. Now, you can be cynical about a big tech company publishing a values document — and some skepticism is healthy — but here's why this matters to you specifically. Corporate and institutional AI codes of conduct are shifting from optional to expected. Boards want them. Public institutions, the ones you advise through your governance lens, are going to be asked, what is your AI policy, and increasingly, why doesn't it look as thoughtful as Microsoft's? That's an opening. Microsoft has just handed you a reference artifact. There's a strong piece of thought leadership in taking that thirty-seven-page document and doing a teardown through your public-institution lens — what translates to a Canadian university or college operating under FIPPA and BC data-residency rules, and what's just corporate branding that wouldn't survive contact with a freedom-of-information request. That's the governance-lens content you've been building toward, and today gave you the hook.\n\nThe counterpoint to Microsoft came, predictably, from Washington. President Trump posted that the only guardrail AI needs is, in his words, a strong and smart, high-IQ president, and warned AI critics to, quote, beware. He's positioning himself firmly against new safety regulation, right as a growing chorus of AI-lab CEOs is calling for exactly that. I don't raise this for the politics — I raise it because of what it means operationally. If federal regulation in the largest AI market is going to be minimal and combative, then the burden of governance falls back onto individual organizations. Institutions self-govern or they don't govern at all. That's not a reason to wait for policy clarity that isn't coming — it's a reason for the organizations you advise to build their own defensible frameworks now, because nobody is going to hand them one. The regulatory vacuum is itself the business case for your work.\n\nAnd then there's the story that's closest to your marketing lane. Marketing Dive ran a sharp piece today with a title that says it all: the AI content tsunami — creation is the easy part. The argument is that AI has made content generation effectively free and effortless, and as a result companies are now drowning in output they cannot review fast enough. The bottleneck has moved. It used to be production — you needed writers, designers, time. Now production is trivial and the constraint is quality control and governance: who approves this, does it match the brand, is it accurate, is it legally clean, is it even on-strategy. This is a genuinely publishable idea for you, and it unifies both your lanes. For a marketing team, the review-workflow bottleneck is an operations problem — you can build an audit checklist around it. For a public institution, that unreviewed content firehose is a brand-and-compliance liability. The take almost writes itself: velocity without a review framework isn't productivity, it's exposure. If you want one piece of content out of this briefing this week, that's the one — the content bottleneck has moved from creation to control, and here's the checklist.\n\nStaying with marketing, a few moves worth your attention. Sonos launched what's being called the biggest rebrand in its history — the first campaign under new chief marketing officer Colleen DeCourcy. This is a trust-recovery play, two full years after that botched app update that alienated a big chunk of their customer base. It's a clean case study in brand repair after self-inflicted damage: what a repositioning looks like when the problem wasn't the market, it was you. If you're ever advising a brand that has to climb out of a credibility hole — and in the real-estate and institutional worlds that happens more than people admit — Sonos is going to be a reference point worth watching.\n\nColumbia Sportswear is getting industry notice for the opposite reason — not recovery, but distinctiveness. Their \"Engineered for Whatever\" platform leans into deliberately weird creative, fax machines and flat-Earth gags, and it's cutting through. The lesson there is evergreen and worth repeating to clients who default to safe: distinctiveness beats polish. Attention is the scarce resource, and bland doesn't earn it.\n\nAnd on the agency side, Liz Rutgersson, formerly CEO of Dentsu's iProspect, was named CEO of Stagwell's Assembly with a mandate to build, in their words, an agency for the future. Read: an AI-and-data-native operating model. I flag every one of these leadership moves because they're a pattern, not isolated events. The agency world is reorganizing its top ranks explicitly around AI capability. That's the competitive context your independent practice operates in — and honestly, it's an advantage, because you can move faster on AI-search-readiness and governance than a legacy holding company restructuring itself.\n\nTo higher education. Two items. First, close to home: BCIT is building a prefabrication teaching micro-factory — a hands-on facility to train students in modular construction. I like this as a signal because it's a BC institution aligning a program directly with the housing-supply crisis and trades demand. It's the kind of concrete, employment-linked story that plays well in enrollment marketing, and it's a reminder that the institutions differentiating themselves right now are the ones tying programs visibly to real economic need.\n\nSecond, and bigger picture: Times Higher Education reports a major study destination is slashing student visas under an explicitly stated net-negative-migration policy. I'm flagging this because upstream policy shocks in competitor destinations don't stay contained — they redirect global student flows. When one major market signals it wants fewer international students, the mobile demand looks elsewhere, and Canada is one of the places it looks, even with our own tightening. For anyone working the international-recruitment side of higher ed, these foreign policy shifts are leading indicators worth tracking as carefully as domestic IRCC changes.\n\nNow real estate, and there's a genuinely notable BC story. The Vancouver Sun is reporting a new wave of foreclosures in Metro Vancouver — and the striking detail is that it's shifted up-market. Zealty's president describes a surge of foreclosure activity in the region's most expensive housing segments, and he doesn't mince words, calling it a disturbing signal about the economy. Distress reaching premium properties is different from distress at the entry level — it suggests the pressure is broad, not just squeezing first-time buyers. For your husband's brokerage and for the commercial-investment conversations you're part of, this is the ground truth beneath the macro numbers.\n\nAnd on those numbers: Canadian inflation held at three percent in August, with slower gasoline growth offset by rising rent and travel costs. Steady at three percent keeps the Bank of Canada boxed in — it's not the clean disinflation that would justify aggressive cuts, and rent still climbing tells you shelter costs aren't cooperating. For homeowners crowdsourcing whether to renew early, and we covered that debate last week, this print doesn't resolve anything. It reinforces that mortgage-renewal pressure is a live, ongoing story rather than one about to be relieved by rate cuts.\n\nOne broader item to keep you oriented. MIT Technology Review published a thoughtful piece weighing whether the AI extinction warnings are real or overblown — distilling the actual substance behind all those AI-lab CEO slowdown calls we've been tracking. I mention it not to alarm you but because you're going to be in rooms where clients and colleagues ask, genuinely, should I be worried about this stuff. Having a measured, well-sourced read — one that separates the credible near-term concerns from the science-fiction ones — is part of being the calm, informed voice on AI in your market. It's worth the read for exactly that reason.\n\nLocally in Kamloops, the Blazers wrapped their WHL pre-season without a regulation loss, beating the Prince George Cougars four to three. Small thing, but the season's ramping up, and it's the kind of local rhythm that's good to have on your radar when you're talking to people around town.\n\nTwo health items from sources worth trusting. STAT News reports Pennsylvania has recorded a third measles-related death this year — a woman who died from measles complications amid an ongoing outbreak, and this comes as RSV season approaches. I keep flagging measles because it's entirely preventable and the case counts reflect declining vaccination coverage. With family in BC and respiratory season starting, it's a simple, unglamorous prompt: make sure everyone's MMR and seasonal vaccinations are current. That's the whole action item.\n\nAnd from Nature Medicine, a substantial genomics study — whole-genome sequencing of nearly eight thousand parent-offspring families — found that paternal mutational burden statistically mediates the effects of advanced parental age and certain assisted-reproduction procedures on gestational duration and birth outcomes. It's early, foundational science rather than anything actionable today, but it's a real finding from a top-tier journal on how parental factors translate into offspring health, and worth being aware of if the topic touches your circle.\n\nFinally, a quick safety note. The CFIA has issued a recall pulling burgers and chicken bites from Canadian shelves. Details on the specific brands are still thin in the reporting, but it's worth a thirty-second check of your freezer for affected products, and I'll flag the specifics if more emerge.\n\nThat's your Monday, Midya. If you do one thing with this briefing, sit with the AI governance thread — Microsoft's code of conduct, Trump's rejection of guardrails, and the marketing content-tsunami piece all point at the same opening: the gap between AI capability and AI control is your entire value proposition, and it's widening in public this week. That's not just client work, it's your thought-leadership lane handing you a topic. Have a sharp, focused start to the week — I'll be here tomorrow.",
   "topStories": [
-    {
-      "id": "story-higher_ed_canada-0",
-      "category": "Higher Ed",
-      "headline": "Kamloops businesses and rental market adjust to falling international enrolment at TRU",
-      "summary": "Local businesses and landlords are recalibrating as Thompson Rivers University's international enrolment declines, a visible sign of Canada's study-permit caps hitting a mid-size university town's economy.",
-      "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYS1zZUo3MXc0dWVPNWtoN25YanE4Q3EwV3pycE5wRDFhb0hmT01rWmtpbE5vU0RyV0h4RjVhT3FDd29oZHl1X1Q3NjIzRVV3YUI2MTBBd21LdXJydjRyRG5nWWpBTERVZGJvVHA1RGEyN1dneWUtQlRoei13YTJPbVlkMUh3Tmdvc2xNdUNVa0IyY1lJTFI0cC02Z3hmaER4a3dPUVFvV2dSMURpc2U0dWQ4dUExVlFaWW1NZUQyMFd2cGQ3cEt3aGJRLU1rNklReXc?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "contentAngle": "AI in higher-ed enrollment: as international pipelines shrink, the case for AI-driven domestic and diversified recruitment — the enrolment-resilience playbook."
-    },
-    {
-      "id": "story-higher_ed_canada-1",
-      "category": "Higher Ed",
-      "headline": "Ontario universities drew over $1 billion in private-sector investment in three years",
-      "summary": "A new report finds Ontario universities attracted more than $1-billion in private-sector investment over three years, signalling where institutional growth capital is flowing as public funding tightens.",
-      "source": "The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYjRzTEJWaWxjRjJkd2ZpaTNpV3lUOEI1VGFGV1puVWt3RWluaGZRZGJCVWNKU0t0ei1PMFhOa0czaGt5a2NTS21LdUFYdm94TlNMSTZfTG84Vk5ScnA5OHg3azZhZkpYc2FCS254OGg5VXQ2MDl5WUc2U0x4Y2lrMEl6YXJialF5cjVLeENTUVRKM3lxOWptcmtqOF9Zakt1OUVXdFU2aUdRWHV1Y0J5ODBFUVBCOEU?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    },
-    {
-      "id": "story-higher_ed_canada-2",
-      "category": "Higher Ed",
-      "headline": "5 things to know as new U.S. international student visa limits take effect",
-      "summary": "The U.S. ends its roughly 50-year duration-of-status policy this week, imposing fixed stay limits on international students — a shift likely to redirect some demand toward Canadian institutions.",
-      "source": "Inside Higher Ed",
-      "url": "https://www.insidehighered.com/news/global/international-students-us/2026/09/14/key-questions-about-international-student-visa",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-10/Visa_flying_Trump.png?itok=24v6lmna"
-    }
-  ],
-  "digestStories": [
-    {
-      "id": "story-higher_ed_canada-0",
-      "category": "Higher Ed",
-      "headline": "Kamloops businesses and rental market adjust to falling international enrolment at TRU",
-      "summary": "Local businesses and landlords are recalibrating as Thompson Rivers University's international enrolment declines, a visible sign of Canada's study-permit caps hitting a mid-size university town's economy.",
-      "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYS1zZUo3MXc0dWVPNWtoN25YanE4Q3EwV3pycE5wRDFhb0hmT01rWmtpbE5vU0RyV0h4RjVhT3FDd29oZHl1X1Q3NjIzRVV3YUI2MTBBd21LdXJydjRyRG5nWWpBTERVZGJvVHA1RGEyN1dneWUtQlRoei13YTJPbVlkMUh3Tmdvc2xNdUNVa0IyY1lJTFI0cC02Z3hmaER4a3dPUVFvV2dSMURpc2U0dWQ4dUExVlFaWW1NZUQyMFd2cGQ3cEt3aGJRLU1rNklReXc?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "contentAngle": "AI in higher-ed enrollment: as international pipelines shrink, the case for AI-driven domestic and diversified recruitment — the enrolment-resilience playbook."
-    },
-    {
-      "id": "story-higher_ed_canada-1",
-      "category": "Higher Ed",
-      "headline": "Ontario universities drew over $1 billion in private-sector investment in three years",
-      "summary": "A new report finds Ontario universities attracted more than $1-billion in private-sector investment over three years, signalling where institutional growth capital is flowing as public funding tightens.",
-      "source": "The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYjRzTEJWaWxjRjJkd2ZpaTNpV3lUOEI1VGFGV1puVWt3RWluaGZRZGJCVWNKU0t0ei1PMFhOa0czaGt5a2NTS21LdUFYdm94TlNMSTZfTG84Vk5ScnA5OHg3azZhZkpYc2FCS254OGg5VXQ2MDl5WUc2U0x4Y2lrMEl6YXJialF5cjVLeENTUVRKM3lxOWptcmtqOF9Zakt1OUVXdFU2aUdRWHV1Y0J5ODBFUVBCOEU?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    },
-    {
-      "id": "story-higher_ed_canada-2",
-      "category": "Higher Ed",
-      "headline": "5 things to know as new U.S. international student visa limits take effect",
-      "summary": "The U.S. ends its roughly 50-year duration-of-status policy this week, imposing fixed stay limits on international students — a shift likely to redirect some demand toward Canadian institutions.",
-      "source": "Inside Higher Ed",
-      "url": "https://www.insidehighered.com/news/global/international-students-us/2026/09/14/key-questions-about-international-student-visa",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-10/Visa_flying_Trump.png?itok=24v6lmna"
-    },
-    {
-      "id": "story-higher_ed_canada-3",
-      "category": "Higher Ed",
-      "headline": "Canada's universities accused of letting Jewish students be pushed out",
-      "summary": "A pointed opinion piece argues Canadian campuses are failing to protect Jewish students amid persistent tensions, a reputational and campus-climate risk institutions are now navigating.",
-      "source": "The Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ0NIbEthZGFYOWRhYXdLMWpiYldXY3FHZ2pKXzB5bEJiamdlMFhFUlhzQkdvLW92RS05allGR3V3UU1ld2k3U0gtV0M4MEx0LWpjdm9tdm1IdGxlOWVUY2NZWFdSZ3RyTWZ2dFRmaXJTVzJ4dl9NSTluS0JrZEloaldQM0lSMHMxeDM5NkF1ZDViZllmU0ZXcVRMSDY1Wl9KVnBHa0xBYzl2VFV4d1BhUm1oUS1VY05yajNWUGlaYjUzbEE?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    },
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Google to deploy age-assurance AI to identify underage accounts in Canada",
-      "summary": "Google is bringing AI-based age estimation to Canada to flag underage users, as Ottawa moves on digital-safety legislation — putting algorithmic age decisions and data handling squarely into policy debate.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/09/14/google-to-begin-using-age-assurance-tech-to-identify-underage-accounts-in-canada/",
+      "headline": "Microsoft publishes 37-page \"humanist AI code of conduct\" amid safety pressure",
+      "summary": "Microsoft released a formal humanist AI code of conduct as Anthropic's Dario Amodei called for a coordinated slowdown, signalling that corporate AI governance documents are becoming a board-level expectation, not a nicety.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F03225d31-d336-4150-9dd7-a161b0e9d02f%2F716fbe0a656f1dc0a4f4a8d264683bd196b03f7a3cbec7a0acefbb823710f18c.jpg",
-      "contentAngle": "Public-institution AI governance: age-estimation AI in Canada as a case study in algorithmic accountability, consent and FIPPA-grade data-residency questions."
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "contentAngle": "Public-institution AI governance: use Microsoft's code as a template teardown for what a defensible institutional AI policy should actually contain under FIPPA/data-residency constraints."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Washington's AI paralysis: 'let 'er rip' versus 'hit the brakes'",
-      "summary": "With Trump all-in on AI acceleration and Democrats internally split, Axios argues federal AI regulation is effectively unimaginable through 2029 — leaving the governance vacuum to states, institutions and firms.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/14/trump-ai-safety-regulations-congress",
+      "headline": "The AI content tsunami: creation is the easy part",
+      "summary": "With AI making content generation effortless, companies are now drowning in output they can't review fast enough — the real bottleneck has shifted from production to governance and quality control.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/spons/the-ai-content-tsunami-creation-is-the-easy-part/830184/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/Dxnr9D_SsTtZrkpZVvVSgGD1DGw=/128x128/smart/2026/09/14/1789350080910.jpg"
+      "contentAngle": "AI in marketing operations: the \"review bottleneck\" thesis — why content velocity without an approval/governance workflow is a brand-risk liability, with an audit checklist."
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "Nature Medicine: prospective evidence for conversational medical AI is 'non-negotiable'",
-      "summary": "Nature Medicine commentary argues trust in clinical AI can't be benchmarked into existence — it must be earned through rigorous real-world prospective studies, with the hardest problems being humans and systems, not the model.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04639-5",
+      "headline": "Trump says a strong, smart president is the only \"guardrail\" AI needs",
+      "summary": "Trump publicly rejected calls for new AI safety regulation, deepening the split with AI-lab CEOs pushing for a coordinated slowdown — a widening policy gap that leaves institutions to self-govern.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/14/trump-ai-safety-anthropic-dario-amodei",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04639-5/MediaObjects/41591_2026_4639_Fig1_HTML.png"
+      "imageUrl": "https://images.axios.com/ml-nluLH0_qm9Q9o9OCC1x2PzkY=/1495x0:5495x4000/320x320/2026/09/14/1789394829827.jpeg"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Microsoft publishes 37-page \"humanist AI code of conduct\" amid safety pressure",
+      "summary": "Microsoft released a formal humanist AI code of conduct as Anthropic's Dario Amodei called for a coordinated slowdown, signalling that corporate AI governance documents are becoming a board-level expectation, not a nicety.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "contentAngle": "Public-institution AI governance: use Microsoft's code as a template teardown for what a defensible institutional AI policy should actually contain under FIPPA/data-residency constraints."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "The AI content tsunami: creation is the easy part",
+      "summary": "With AI making content generation effortless, companies are now drowning in output they can't review fast enough — the real bottleneck has shifted from production to governance and quality control.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/spons/the-ai-content-tsunami-creation-is-the-easy-part/830184/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "contentAngle": "AI in marketing operations: the \"review bottleneck\" thesis — why content velocity without an approval/governance workflow is a brand-risk liability, with an audit checklist."
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Trump says a strong, smart president is the only \"guardrail\" AI needs",
+      "summary": "Trump publicly rejected calls for new AI safety regulation, deepening the split with AI-lab CEOs pushing for a coordinated slowdown — a widening policy gap that leaves institutions to self-govern.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/14/trump-ai-safety-anthropic-dario-amodei",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/ml-nluLH0_qm9Q9o9OCC1x2PzkY=/1495x0:5495x4000/320x320/2026/09/14/1789394829827.jpeg"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Accenture names Emma Chalwin as CMO to steer global marketing push",
-      "summary": "Accenture appointed Emma Chalwin as chief marketing officer to lead a global marketing push, a notable senior move at a firm whose marketing posture influences enterprise buyers.",
-      "source": "marketech-apac.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFBxNGZVY1dmcE5qUFRCNFZmQTVlOThZR1ZZU1ZzU0xEOW5hTDBTQ1BoNm1wNXdYWFo1d05HSFZtLUxYOTB1ZDVYR3RJeW1aVkh4RUFYN3lkeDVMcXc1Qjhxa2lwWTltZHBhVUlFNDFtWlZKZFd1b1pZRm44bTZSSWhDc3YtWTNWOWdYUTNvN0c4R0FMdk12VE13?oc=5",
+      "headline": "Sonos launches biggest rebrand in its history to rebuild trust after app fiasco",
+      "summary": "The first campaign under new CMO Colleen DeCourcy is a full repositioning aimed at winning back customers two years after a botched app update — a case study in brand recovery after self-inflicted damage.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/creativity/sonos-new-brand-story-aims-to-win-back-trust-two-years-after-botched-app-update/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone"
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/09/SonosMain.png?w=600&h=315&crop=1"
     },
     {
       "id": "story-marketing-1",
       "category": "Marketing",
-      "headline": "Droga5 creative Mariano Jeger joins OutFront to launch IRL Studios",
-      "summary": "A senior Droga5 creative is launching an in-person marketing studio at OutFront, betting that real-world experiential marketing grows more valuable as online trust degrades.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/agencies/droga5-mariano-jeger-outfront-irl-studios/",
+      "headline": "How Columbia's marketing breaks through with fax machines and flat Earth",
+      "summary": "Columbia Sportswear's \"Engineered for Whatever\" platform is drawing industry notice for its edgy, attention-grabbing creative — a reminder that distinctiveness still outperforms polish.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/how-columbias-marketing-breaks-through-with-fax-machines-flat-earth/829991/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2021/02/sola-moments-in-culture-2021.jpg?w=600&h=315&crop=1"
+      "imageUrl": "https://imgproxy.divecdn.com/awp1yHZxh3iXW152sOYRXOriec7-FBi3RKxoHd-MrNM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hYjE1MmY3OS02MWRmLTRhN2QtYjJlNi1mMDQzZWQ1ZDdlODQuanBn.webp"
     },
     {
       "id": "story-marketing-2",
       "category": "Marketing",
-      "headline": "Nutrafol reframes the 'before and after' on the red carpet's biggest night",
-      "summary": "Nutrafol's new campaign rewinds traditional makeover storytelling to spotlight the moment of choosing to change — a tidy example of narrative reframing in a crowded wellness category.",
+      "headline": "Liz Rutgersson named CEO of Stagwell's Assembly to build \"agency for the future\"",
+      "summary": "The former iProspect CEO takes over Assembly with a mandate to reshape it around AI and data — another signal of how agency leadership is reorganizing around AI-native operations.",
       "source": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/nutrafol-reframes-the-makeover-on-red-carpets-biggest-night/",
+      "url": "https://www.adweek.com/agencies/liz-rutgersson-named-ceo-of-stagwells-assembly-to-build-agency-for-the-future/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/09/Untitled-design-4.png?w=1024"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/09/Assembly-Liz-Rutgersson.png?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "BCIT building a prefabrication teaching micro-factory",
+      "summary": "BCIT is constructing a hands-on prefabrication micro-factory to train students in modular construction — aligning a BC institution's program directly with housing-supply and trades demand.",
+      "source": "ConstructConnect",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWFQcHJkN3RkbEVpY1JaUWNoanVNaGlYdXBSMkJNczZ0dUtqMWJnNG02dk9oUjFFemQwenZ6WTJRSHc4TkxjZW8xbnFYU1owSmEyMFlxaTBPNE82UFdlUk1CeHNwWUlXWVcxYWJ0UmtoYTN6SFhPYnNwOHhmRkpjTmh6VkxKSEJway1JeXlmZmE0Yi02QjJhNmJuV0xnMlJfbjMtcEp5akhHeFNHX0s5X05yNjRydw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "Student visas slashed under \"net negative migration\" policy",
+      "summary": "A major destination is cutting student visas as part of an explicit net-negative migration stance — the kind of upstream policy shock that redirects international recruitment pipelines toward Canada.",
+      "source": "Times Higher Education",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVWdpcVBUVVZNRG9XUVdLU2FNZm1xVnlXLVJKMGdITlM3c05xUllWdVdqNnBIMG1kUmtGdldZTmc5YlNpTllCTVhoZEpfNWxMSUtyLW1wdlVGbm5OUC1pYVcxUHFLODJGbmNTMFA4ZEd1UHRRc1FDVlNnUldFamxIQUgwUDYtOW1SLUhXaWkzb3JQdktiOFJxRQ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "'Big trouble': Vancouver's foreclosure wave shifts up-market",
+      "summary": "A new surge of foreclosures is hitting Metro Vancouver's most expensive housing segments — Zealty's president calls it a disturbing economic signal, notable because distress is now reaching premium properties.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/real-estate/vancouver-new-wave-foreclosures",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "Canadian inflation holds at 3% in August as rent and travel rise",
+      "summary": "Inflation stayed at 3% with rent still climbing, keeping pressure on the Bank of Canada and on homeowners weighing early renewals — a mixed signal for anyone forecasting near-term rate relief.",
+      "source": "Canadian Mortgage Trends",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdW9zdW9XNDFlMmNBYzRlM0lVQjFsS1Q5R2IyanV6S1Q0bWNERGt5aXNLSDhUY0tlYWYza1pCbm9YbUliSVpIaFI1Q3ZHeWZSU18xSTZydkxXWGhvZUM2cTFSZnk5Z01zbzFFLWg3Qm0yMEVLMUdJZWYxY2NRb3hBSzlRTjgxazluLUI3bk9xcHRzT09uOHJMdGY5dktWVjVlTkxMb1R2TlpFZTB6SDN3cg?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
     },
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Carney kicks off Canada's first-ever investment summit in Toronto",
-      "summary": "Prime Minister Carney is hosting global investors in Toronto for a high-stakes summit aimed at attracting capital, setting the macro tone for the real-estate and institutional economies tied to Canadian growth.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/09/14/prime-minister-carney-to-kick-off-first-investment-summit-in-toronto/",
+      "headline": "AI's real extinction threat — and the case for and against the doomers",
+      "summary": "MIT Technology Review weighs whether AI-lab employees warning of civilizational risk are right or overstating it, distilling the substance behind the recent wave of CEO slowdown calls.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F6fbf1832-0f3d-4161-a53e-6464a6671c7e%2F035067751e734ee53ce9d07ceb3b7b521cb7bee26aa6ca96d5c0820a2cc11259.jpg"
-    },
-    {
-      "id": "story-global_business_tech-1",
-      "category": "Global",
-      "headline": "Australia's One Nation pledges net-negative migration and 750,000 visa cut",
-      "summary": "Australia's One Nation opposition party pledged net-negative migration and a cut of over 750,000 temporary visas within three years — a sign the anti-migration turn squeezing international education is spreading globally.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/one-nation-pledges-net-negative-migration-and-750000-cut-to-temporary-visas/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "globe",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/09/iStock-601924788.jpg"
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/09/September.26_Roundtables-Assets-2.png?resize=1200,600"
     },
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "White acclaimed as new Sun Peaks mayor after filing as sole candidate",
-      "summary": "White will become Sun Peaks' new mayor by acclamation after being the only candidate to file, settling municipal leadership in the resort community without a vote.",
-      "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORGN6NVBWOVFjc1l1MGIxa003a3BGMjN4dDhyQk1VRUF5cWNPOGxVNjRoTVZMRFZieDBlUEJ0X3U0Y2JheE1xazh2QUpiQzlsWmotVzdBUHhDRGwzWnV0VkJvb0VPMGJRQXl6cUpXYmwxZnM4UkZfSXV3dmpsVDhydFItRGk1UDZvbGZuelAwb202cDNVM0pEdV9nYm94NGRMcFhiRnRIUW5WSUF6NlZwd1AzNlYwbVQ3UTJQRW85OEQ?oc=5",
+      "headline": "Blazers close pre-season unbeaten in regulation, edge Cougars 4-3",
+      "summary": "The Kamloops Blazers finished their WHL pre-season without a regulation loss, beating Prince George 4-3 as the local season gears up.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/09/14/blazers-conclude-pre-season-without-losing-in-regulation-defeat-cougars-4-3/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "mountains"
+      "thumbnailKind": "mountains",
+      "imageUrl": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2311/files/2026/09/0969bf0f-47fc-41f0-ba07-cadb0a356114.jpg"
     },
     {
       "id": "story-longevity-0",
       "category": "Longevity",
-      "headline": "Definium's LSD therapy eased anxiety in second large trial",
-      "summary": "STAT News: Definium reports its LSD-based therapy reduced anxiety in a second large trial, as the first wave of psychedelic biotechs nears regulatory approval for treatments showing rapid effects.",
+      "headline": "Pennsylvania reports third measles-related death amid outbreak",
+      "summary": "STAT News: a Pennsylvania woman died from measles complications, the state's third such death this year, as RSV season approaches — a reminder to keep family vaccinations current heading into respiratory season.",
       "source": "STAT News",
-      "url": "https://www.statnews.com/2026/09/14/definiums-lsd-therapy-eased-anxiety-large-trial-psychedelic/?utm_campaign=rss",
+      "url": "https://www.statnews.com/2026/09/14/third-measles-related-death-pennsylvania-outbreak/?utm_campaign=rss",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "leaf",
-      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/09/Dosing-Room-Layout-645x645.jpeg"
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/09/AP26237531065807-645x645.jpg"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "De novo mutations link parental reproductive factors to offspring health",
+      "summary": "Nature Medicine, whole-genome sequencing of 7,851 parent-offspring families: paternal mutational burden statistically mediates effects of advanced parental age and assisted-reproduction procedures on gestational duration and birth outcomes.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04676-0",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04676-0/MediaObjects/41591_2026_4676_Fig1_HTML.png"
     },
     {
       "id": "story-misc-0",
       "category": "Misc",
-      "headline": "Statistics Canada to report August inflation figures",
-      "summary": "Statistics Canada releases August inflation data this morning, a key read for the Bank of Canada's rate path and, by extension, mortgage and real-estate conditions.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/09/14/statistics-canada-to-report-inflation-figures-for-august-this-morning/",
+      "headline": "Recall: burgers and chicken bites pulled from shelves in Canada",
+      "summary": "A CFIA recall has pulled burgers and chicken bites from Canadian shelves — worth a quick check of your freezer for the affected products.",
+      "source": "INsauga",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ0VPdmZtVFpJaUw4Qk5POTE4SGRibG9tTGxXazU4YW5wYlQ5ZzROcmszUVVqT0xzVk9vajl5V0U4QTNzdTYxdHhlWXFxYkhyeGU2M245Ry1wTnFOTFJTS0JUTU1iRXJwOXoyRno0VmhkalRLa1l0UkhkLXJOTjJTWlVKRUtLSkRodnln?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F5d509551-d9cd-4e9f-ad50-be4307b197f6%2F22a3df1294ad100960223439b48126c2d1e94f3a517171848ca431f3be73a84f.jpg"
-    },
-    {
-      "id": "story-misc-1",
-      "category": "Misc",
-      "headline": "Two pulled from water near B.C. Lower Mainland after fishing vessel sinks",
-      "summary": "BC Ferries reports two people were rescued from the waters between the Lower Mainland and Vancouver Island after their fishing vessel sank.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/09/13/two-pulled-from-water-near-b-c-lower-mainland-after-fishing-vessel-sinks/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F4ac81649-61bf-4f92-a622-286c138c473f%2F20248a377dda3c3fd737b318f946eaa9c89ef763eb597fc6985b26faa91282da.jpg"
+      "thumbnailKind": "bars"
     }
   ],
   "audioChapters": [
     {
       "id": "c1",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "3:53",
-      "startSeconds": 13
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:48",
+      "startSeconds": 17
     },
     {
       "id": "c2",
-      "title": "AI & Tech",
-      "category": "AI & Tech",
-      "duration": "2:57",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:46",
       "startSeconds": 245
     },
     {
       "id": "c3",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "1:55",
-      "startSeconds": 422
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "1:15",
+      "startSeconds": 351
     },
     {
       "id": "c4",
-      "title": "Global News",
-      "category": "Global",
-      "duration": "1:26",
-      "startSeconds": 537
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:20",
+      "startSeconds": 426
     },
     {
       "id": "c5",
-      "title": "Local News",
-      "category": "Local News",
-      "duration": "0:35",
-      "startSeconds": 623
+      "title": "Global News",
+      "category": "Global",
+      "duration": "0:40",
+      "startSeconds": 505
     },
     {
       "id": "c6",
-      "title": "Longevity",
-      "category": "Longevity",
-      "duration": "0:46",
-      "startSeconds": 658
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "0:18",
+      "startSeconds": 545
     },
     {
       "id": "c7",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:09",
+      "startSeconds": 563
+    },
+    {
+      "id": "c8",
       "title": "Misc",
       "category": "Misc",
-      "duration": "0:38",
-      "startSeconds": 704
+      "duration": "0:18",
+      "startSeconds": 632
     }
   ],
   "upNext": {
-    "id": "story-higher_ed_canada-1",
-    "category": "Higher Ed",
-    "headline": "Ontario universities drew over $1 billion in private-sector investment in three years",
-    "summary": "A new report finds Ontario universities attracted more than $1-billion in private-sector investment over three years, signalling where institutional growth capital is flowing as public funding tightens.",
-    "source": "The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYjRzTEJWaWxjRjJkd2ZpaTNpV3lUOEI1VGFGV1puVWt3RWluaGZRZGJCVWNKU0t0ei1PMFhOa0czaGt5a2NTS21LdUFYdm94TlNMSTZfTG84Vk5ScnA5OHg3azZhZkpYc2FCS254OGg5VXQ2MDl5WUc2U0x4Y2lrMEl6YXJialF5cjVLeENTUVRKM3lxOWptcmtqOF9Zakt1OUVXdFU2aUdRWHV1Y0J5ODBFUVBCOEU?oc=5",
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "The AI content tsunami: creation is the easy part",
+    "summary": "With AI making content generation effortless, companies are now drowning in output they can't review fast enough — the real bottleneck has shifted from production to governance and quality control.",
+    "source": "Marketing Dive",
+    "url": "https://www.marketingdive.com/spons/the-ai-content-tsunami-creation-is-the-easy-part/830184/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "university"
+    "thumbnailKind": "chip",
+    "contentAngle": "AI in marketing operations: the \"review bottleneck\" thesis — why content velocity without an approval/governance workflow is a brand-risk liability, with an audit checklist."
   },
   "mainStory": {
-    "id": "story-higher_ed_canada-0",
-    "category": "Higher Ed",
-    "headline": "Kamloops businesses and rental market adjust to falling international enrolment at TRU",
-    "summary": "Local businesses and landlords are recalibrating as Thompson Rivers University's international enrolment declines, a visible sign of Canada's study-permit caps hitting a mid-size university town's economy.",
-    "source": "Castanet Kamloops",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYS1zZUo3MXc0dWVPNWtoN25YanE4Q3EwV3pycE5wRDFhb0hmT01rWmtpbE5vU0RyV0h4RjVhT3FDd29oZHl1X1Q3NjIzRVV3YUI2MTBBd21LdXJydjRyRG5nWWpBTERVZGJvVHA1RGEyN1dneWUtQlRoei13YTJPbVlkMUh3Tmdvc2xNdUNVa0IyY1lJTFI0cC02Z3hmaER4a3dPUVFvV2dSMURpc2U0dWQ4dUExVlFaWW1NZUQyMFd2cGQ3cEt3aGJRLU1rNklReXc?oc=5",
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Microsoft publishes 37-page \"humanist AI code of conduct\" amid safety pressure",
+    "summary": "Microsoft released a formal humanist AI code of conduct as Anthropic's Dario Amodei called for a coordinated slowdown, signalling that corporate AI governance documents are becoming a board-level expectation, not a nicety.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "university",
-    "contentAngle": "AI in higher-ed enrollment: as international pipelines shrink, the case for AI-driven domestic and diversified recruitment — the enrolment-resilience playbook."
+    "thumbnailKind": "chip",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "contentAngle": "Public-institution AI governance: use Microsoft's code as a template teardown for what a defensible institutional AI policy should actually contain under FIPPA/data-residency constraints."
   },
-  "heroImageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-10/Visa_flying_Trump.png?itok=24v6lmna"
+  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
 }
