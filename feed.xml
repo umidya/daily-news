@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 19 Sep 2026 11:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 11:37:06 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Saturday, September 19, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-19.html</link>
-      <description>Two threads dominate your Saturday, Midya, and both hit lanes you sell into. First, the ground is shifting under Canada's international-education economy: ILAC — one of the country's largest language-training groups — has filed for bankruptcy in the same week another operator fol...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-19.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-19.mp3" length="12286848" type="audio/mpeg"/>
-      <pubDate>Sat, 19 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Sunday, September 20, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-20.html</link>
+      <description>The dominant Canadian thread today is the collapse of ILAC — one of the country's largest private English-language schools — which stranded roughly 1,300 international students overnight. Read alongside this week's IRCC study-permit crackdown and shrinking enrolments at UPEI and ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-20.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-20.mp3" length="12125568" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
