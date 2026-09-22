@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 21 Sep 2026 11:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:35:58 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, September 21, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-21.html</link>
-      <description>The through-line today is governance catching up to AI's momentum — and that's your lane. The UN's first major assessment warning that agentic AI can't wait for certainty, plus Amazon slamming the door on Meta's shopping agent, are both concrete signals that the era of unbounded ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-21.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-21.mp3" length="12624384" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, September 22, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-22.html</link>
+      <description>Today's through-line is AI expectation-setting: a wave of skepticism pieces — MIT Technology Review's hype takedown, Axios on safety versus market speed, and a U.S.–China 'red telephone' floated for AI emergencies — arrives just as your clients in higher ed and real estate are de...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-22.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-22.mp3" length="12664704" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
