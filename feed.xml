@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:35:55 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, September 24, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-24.html</link>
-      <description>Today the through-line is AI moving from headlines into operations — and that's exactly the seam Midya sells into. Gemini 4 nearing launch resets the generative-search landscape her AI Search Readiness product audits, while a quieter HousingWire piece on model drift hands her the...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-24.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-24.mp3" length="12224256" type="audio/mpeg"/>
-      <pubDate>Thu, 24 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, September 25, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-25.html</link>
+      <description>Today's through-line is governance and trust in AI — the exact terrain where your practice earns its fee. Meta reframing privacy as a competitive weapon for its AI assistant is a gift for your public-institution governance lane: if a company built on harvesting data is now sellin...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-25.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-25.mp3" length="11456256" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
