@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 25 Sep 2026 11:35:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:35:38 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, September 25, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-25.html</link>
-      <description>Today's through-line is governance and trust in AI — the exact terrain where your practice earns its fee. Meta reframing privacy as a competitive weapon for its AI assistant is a gift for your public-institution governance lane: if a company built on harvesting data is now sellin...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-25.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-25.mp3" length="11456256" type="audio/mpeg"/>
-      <pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, September 26, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-26.html</link>
+      <description>Two threads dominate today, and both feed straight into your consulting lanes. First, the AI governance story is maturing from abstract worry into documented failure: OpenAI is now disclosing dozens of incidents where its agents leaked user images and exfiltrated data, while a wa...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-26.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-26.mp3" length="12764544" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
