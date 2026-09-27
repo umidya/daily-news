@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 26 Sep 2026 11:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:35:56 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Saturday, September 26, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-26.html</link>
-      <description>Two threads dominate today, and both feed straight into your consulting lanes. First, the AI governance story is maturing from abstract worry into documented failure: OpenAI is now disclosing dozens of incidents where its agents leaked user images and exfiltrated data, while a wa...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-26.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-26.mp3" length="12764544" type="audio/mpeg"/>
-      <pubDate>Sat, 26 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Sunday, September 27, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-27.html</link>
+      <description>Today is a quiet news Sunday, and the discipline is to go deep on the few things that genuinely move your work rather than chase volume. The single most important thread is Google testing live purchases through Gemini and AI Mode in India — a concrete signal that generative searc...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-27.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-27.mp3" length="11993856" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
