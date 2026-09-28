@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 27 Sep 2026 11:35:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:36:34 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, September 27, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-27.html</link>
-      <description>Today is a quiet news Sunday, and the discipline is to go deep on the few things that genuinely move your work rather than chase volume. The single most important thread is Google testing live purchases through Gemini and AI Mode in India — a concrete signal that generative searc...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-27.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-27.mp3" length="11993856" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, September 28, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-28.html</link>
+      <description>Today's through-line is governance — who's accountable when autonomous systems act, and who's accountable when public institutions and communities feel unsafe. The MIT liability piece on rogue AI agents lands squarely in your public-institution governance lane: as enrollment offi...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-28.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-28.mp3" length="11996928" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
