@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 28 Sep 2026 11:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:36:36 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, September 28, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-09-28.html</link>
-      <description>Today's through-line is governance — who's accountable when autonomous systems act, and who's accountable when public institutions and communities feel unsafe. The MIT liability piece on rogue AI agents lands squarely in your public-institution governance lane: as enrollment offi...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-28.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-28.mp3" length="11996928" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Sep 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, September 29, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-09-29.html</link>
+      <description>Today's through-line is governance under pressure — of AI, of institutions, and of budgets. Washington's AI showcase is happening at the same moment the industry is disclosing its own failures, which is exactly the tension you can own in your public-institution governance lane: l...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-09-29.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-09-29.mp3" length="12355200" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
