@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 01 Oct 2026 11:36:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:36:23 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, October 1, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-10-01.html</link>
-      <description>Today's throughline is AI narrative control. The industry — with Washington's backing — is actively rebranding itself as "superintelligence" to outrun public backlash, and that messaging fight is exactly the terrain your practice sits on: how institutions and brands talk about AI...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-01.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-01.mp3" length="10385280" type="audio/mpeg"/>
-      <pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, October 2, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-10-02.html</link>
+      <description>Today's dominant thread is the quiet erosion of the open web's economics and the governance vacuum around AI — both directly feed your AI Search Readiness and public-institution governance lanes. Wikipedia reporting an 8% traffic drop while AI assistants resell its knowledge is t...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-02.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-02.mp3" length="12427008" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
