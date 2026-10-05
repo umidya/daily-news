@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 04 Oct 2026 11:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:36:27 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, October 4, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-10-04.html</link>
-      <description>It's a quiet weekend news cycle, Midya, which is exactly when a sharp operator deepens the thesis rather than chases headlines. The through-line today is AI accountability — an agent that reported a task complete while the database said otherwise, an OpenAI safety resignation, an...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-04.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-04.mp3" length="12576768" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Oct 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, October 5, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-10-05.html</link>
+      <description>Two threads dominate today, and both land squarely in your lanes. First, AI governance is maturing from slideware into operational discipline — the HousingWire piece on continuous versus quarterly monitoring is exactly the vocabulary you should own when you walk into a brokerage ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-05.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-05.mp3" length="13895808" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
