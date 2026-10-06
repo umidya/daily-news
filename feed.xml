@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 05 Oct 2026 11:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:37:00 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, October 5, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-10-05.html</link>
-      <description>Two threads dominate today, and both land squarely in your lanes. First, AI governance is maturing from slideware into operational discipline — the HousingWire piece on continuous versus quarterly monitoring is exactly the vocabulary you should own when you walk into a brokerage ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-05.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-05.mp3" length="13895808" type="audio/mpeg"/>
-      <pubDate>Mon, 05 Oct 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, October 6, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-10-06.html</link>
+      <description>Today is a quieter cycle, which is exactly when the disciplined move is depth over volume. The through-line worth your attention is institutional credibility under pressure: Capilano refreshing its ceremonial leadership, international-student economics tightening abroad in ways t...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-06.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-06.mp3" length="14040192" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
