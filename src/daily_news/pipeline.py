@@ -26,7 +26,7 @@ from .fetch import (
     fetch_feeds,
     fetch_searches,
 )
-from .app_export import write_app_briefing
+from .app_export import write_app_briefing, write_mentions
 from .render import write_digest_assets, write_index, write_podcast_feed
 from .score import detect_self_match, score_and_filter
 from .summarize import summarize, parse_audio_script, strip_audio_markers
@@ -212,6 +212,11 @@ def run(cfg: Config | None = None, mode: str | None = None) -> dict:
                 for a in candidates
             ],
         }
+
+    # 3b. Publish every self-match for the cloud Mention Alert routine. Taken
+    # from new_articles, not candidates: a mention she'd want to hear about
+    # can still lose the race for a digest slot.
+    write_mentions(new_articles, date_label, cfg)
 
     # 4. Summarize via Claude — recent_coverage gives the model memory of the
     # last 3 briefings so it frames follow-ups as updates and skips re-covers.

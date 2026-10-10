@@ -446,3 +446,40 @@ def write_app_briefing(
 
     log.info("App briefing JSON written to %s and %s", today_path, archive_path)
     return today_path, archive_path
+
+
+def write_mentions(articles: list[Article], date_label: str, cfg: Config) -> Path:
+    """Write mentions.json: every article this run matched to Midya's `self`
+    block, whether or not it made the digest. The cloud Mention Alert routine
+    reads it from gh-pages and emails her about anything new, so she hears
+    about coverage the morning it lands rather than finding it in the briefing.
+
+    Always written, even when empty: an empty list means "checked, nothing
+    found"; a stale dateIso means the pipeline did not run.
+
+    Published to the PUBLIC site, so `self_match` (the alias that matched,
+    which can be her legal name) is deliberately left out.
+    """
+    seen: set[str] = set()
+    mentions = []
+    for a in articles:
+        if not a.self_match or a.url in seen:
+            continue
+        seen.add(a.url)
+        mentions.append({
+            "title": a.title,
+            "url": a.url,
+            "source": a.source,
+            "published": a.published_at.isoformat() if a.published_at else "",
+            "matchedVia": a.self_match_kind,
+        })
+
+    public = cfg.public_dir
+    public.mkdir(parents=True, exist_ok=True)
+    path = public / "mentions.json"
+    path.write_text(
+        json.dumps({"dateIso": date_label, "mentions": mentions}, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    log.info("mentions.json written (%d mention(s))", len(mentions))
+    return path
