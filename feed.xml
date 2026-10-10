@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 09 Oct 2026 11:36:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:36:13 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, October 9, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-10-09.html</link>
-      <description>Today's signal is diffuse but the throughline is governance — of AI, of data, of migration. The Lancet carries a blunt call to regulate medical AI before deployment, and MIT Tech Review questions whether we're over-trusting AI's ability to refuse harmful instructions; both land s...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-09.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-09.mp3" length="13241472" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Oct 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, October 10, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-10-10.html</link>
+      <description>Today's signal is concentrated in two lanes that sit at the centre of your practice: a public institution in your own backyard adopting AI, and the BC post-secondary sector waiting on a review that could reshape how colleges and universities operate. Thompson Rivers rolling out M...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-10.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-10.mp3" length="11420544" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
