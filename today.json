@@ -1,115 +1,135 @@
 {
   "schemaVersion": 2,
-  "date": "Sunday, October 11, 2026",
-  "dateIso": "2026-10-11",
+  "date": "Monday, October 12, 2026",
+  "dateIso": "2026-10-12",
   "greeting": "Good morning, Midya",
-  "totalDuration": "11:41",
+  "totalDuration": "14:38",
   "currentTime": "0:00",
-  "remaining": "11 min total",
+  "remaining": "14 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today is a quiet Sunday news cycle — heavy on sports and syndicated wire copy — which makes the few substantive stories worth slowing down on. The thread that actually matters for your thought-leadership pipeline is Satya Nadella's weekend essay arguing we should assume every AI model is compromised and build an 'emergency brake'; that is the exact language a public-institution governance lens turns into client-ready advice. Pair it with the growing viability of locally-run models, and you have a concrete FIPPA/BC-data-residency angle that higher-ed and public-sector clients will ask about within a year.",
-  "digestReadingTime": "6 min read",
-  "whyItMatters": "Today is a quiet Sunday news cycle — heavy on sports and syndicated wire copy — which makes the few substantive stories worth slowing down on. The thread that actually matters for your thought-leadership pipeline is Satya Nadella's weekend essay arguing we should assume every AI model is compromised and build an 'emergency brake'; that is the exact language a public-institution governance lens turns into client-ready advice. Pair it with the growing viability of locally-run models, and you have a concrete FIPPA/BC-data-residency angle that higher-ed and public-sector clients will ask about within a year. On the real estate side, US mortgage rates spiking to 7.4% is a leading indicator worth watching even from a Western Canada seat, because rate psychology crosses the border fast. Locally, Kamloops municipal politics, a labour-organizing drive, and a renewed push for a cardiac cath lab are the civic currents to track. Nothing on the BC family-safety front today — no recalls, no wildfire or weather alerts near home.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-11.mp3",
-  "audioDurationSeconds": 701,
-  "audioScript": "Good morning, Midya. It's Sunday, October eleventh, twenty twenty-six. It's a quiet news cycle — mostly sports scores and wire copy out there today — so rather than rush through a long list, let's slow down on the handful of stories that genuinely matter and pull some real thinking out of them.\n\nLet's start with AI, because the lead item today is a gift for your thought-leadership pipeline. Satya Nadella, Microsoft's CEO, spent his Saturday morning writing a long, deliberate post about the trust architecture around advanced AI. His core argument is blunt: we should assume all AI models are, in his word, compromised. He says we can no longer accept a world where AI is treated as a set of nested black boxes whose advice and actions we simply accept and act on. And he's calling for something like an emergency brake — a way to step back, assess, and interrupt when a model behaves in ways we can't verify.\n\nNow, think about who is saying this. This isn't a safety activist or an academic skeptic. This is the chief executive of the company selling Copilot and Azure OpenAI into virtually every large enterprise and public institution on the planet, including the Canadian universities and public-sector bodies you advise. When the vendor's own CEO tells you to assume the product is compromised, that is not a footnote. That is the opening line of a governance framework.\n\nHere's the angle I'd want you to own. Most of your public-institution clients are being sold AI capabilities faster than they can govern them. Procurement happens, the tool lands, and only afterward does anyone ask about accountability, auditability, or what happens when the model is wrong in a way that touches a student record or a FIPPA obligation. Nadella has just handed you the framing to flip that sequence. The content piece practically writes itself: if the people building these systems are telling us to assume they're compromised, then every public institution needs an emergency-brake clause and a trust-architecture review before deployment, not after. That's your public-institution AI governance lane, and this is the hook that makes it timely rather than theoretical.\n\nConnected to that, there's a second AI story worth your attention — a hands-on account of running powerful AI models locally, on your own hardware, rather than sending your data off to cloud services. The writer's motivation is exactly the one your clients wrestle with: reluctance to hand personal and sensitive data to third-party services. And the quiet headline here is that local models are now genuinely capable. Still clunky, still frustrating in spots, but increasingly viable.\n\nWhy does that matter for you? Because the single biggest objection you hear from BC public institutions on AI adoption is data residency — the fear that using a cloud model means student or citizen data leaving the province or the country, in tension with FIPPA. For years the answer was essentially, that's the tradeoff, live with it. Local and on-premise models start to dissolve that tradeoff. A university could, in principle, run a capable model inside its own data boundary. That doesn't solve governance by itself, but it changes the architecture of what's possible, and it's something you should be able to speak to fluently when a client raises the residency objection. Watch this space — the gap between hype and practical local deployment is closing faster than most higher-ed IT shops realize.\n\nAnd one lighter AI note to file away: Apple has disclosed a deal to hire the team and license the technology from a personalized-podcast startup called Huxe, which suggests Apple is moving toward AI-generated audio. I flag it not because it's urgent, but because AI-generated audio content is coming to the channels marketers rely on, and when a platform like Apple makes it native, it moves from novelty to infrastructure quickly. Keep it in the back of your mind for the content-strategy conversations.\n\nThat Apple item is actually a good bridge to the marketing story of the day, which is all about what happens when AI-generated content floods a platform and someone finally gets sued over it. DistroKid — the big independent music distributor — has quietly been pulling songs off streaming services without notifying the artists. This week DistroKid confirmed that the takedowns are a direct response to a lawsuit Universal Music Group filed back in September, in which UMG accused the distributor of enabling what it memorably called an AI-slop pipeline. In other words, a flood of low-quality, AI-generated tracks gaming the system.\n\nNow, you're not in the music business, but pay attention to the shape of this, because it's a preview of a reckoning coming to every content-heavy marketing channel. The pattern is: AI makes content generation nearly free, the volume explodes, the platform can't tell signal from slop, a rights-holder sues, and suddenly the distributor is yanking content first and asking questions later. Brands that have quietly leaned into high-volume AI content generation to feed their channels are sitting in exactly this exposure. When the platform or the rights-holder comes knocking, the question is going to be: can you prove provenance? Can you show what was human-made, what was AI-assisted, and what was fully synthetic?\n\nThere's a genuine piece of thought leadership here for you — the authenticity and provenance reckoning in AI-assisted marketing. The take is that the brands winning the next two years won't be the ones generating the most AI content; they'll be the ones who can document and defend how their content was made. That's a governance checklist, and it sits right at the intersection of your AI-in-marketing lane and your governance lens. DistroKid is the cautionary tale that makes it concrete.\n\nLet's turn to real estate and rates. Two related signals out of the US today. American thirty-year mortgage rates have climbed to seven-point-four percent — the highest level since November of twenty twenty-three. And HousingWire's Logan Mohtashami, who's one of the more sober voices on rate direction, is cautioning that October still holds plenty of variables that could push rates even higher. His read, essentially: don't assume this spike is the ceiling.\n\nNow, this is US data, and I want to be careful not to overstate the direct read-across to Western Canada, because our rate environment runs on the Bank of Canada and our own bond market, not the Fed. But here's why it belongs in your briefing. Rate psychology is contagious across the border. When American headlines scream seven-point-four percent and highest since twenty twenty-three, that sentiment seeps into Canadian buyer and seller behaviour — it shapes the mood at the kitchen table and at the closing table, regardless of what our own rates are doing. For a brokerage, sentiment is often as powerful as the actual number, because it changes whether a buyer feels urgency or paralysis. So the useful thing here isn't the specific US figure; it's the reminder that the rates-have-peaked narrative is far from settled, and anyone advising on real estate right now should be framing the fall market around uncertainty, not around a confident call that the worst is behind us.\n\nNow to home — Kamloops. Three things worth knowing. First, a continuation of the municipal election coverage we've been tracking all week: there's a sense that controversy at city hall could actually boost voter turnout this cycle. After a week of mayoral debates dominated by debt, taxes, capital projects, and public safety, the city-hall drama may be the thing that gets people off the couch and to the ballot box. Worth keeping an eye on turnout, because a higher-engagement election tends to produce a council with a clearer mandate — and that shapes everything from development approvals to how the city handles the issues you care about locally.\n\nSecond, a charity founder in Kamloops is renewing the call for a cardiac catheterization lab in the city. This is a recurring and genuinely important regional healthcare-access story: right now, cardiac patients in the Kamloops region have to travel for interventions that a local cath lab could provide. For a growing interior city — and for anyone with family in the region — the absence of that capability is a real gap, and these renewed pushes are how pressure builds over time. Not a one-day story; a slow-burn civic issue to follow.\n\nAnd third, addiction-treatment workers in Kamloops have voted to join the United Steelworkers and are now preparing for their first contract negotiations. That's a notable labour signal in a sector that is chronically stretched — these are frontline workers in an area of acute community need. First-contract talks can be bumpy, and how they resolve says something about the stability of local health-and-social services going forward.\n\nFinally, a few things from the wider world that a senior leader should simply be aware of this morning. There's an update on the Saudi Arabia story we touched on earlier in the week. The attack on Riyadh has escalated in its aftermath: Saudi Arabia has kept its main international airport closed and moved Riyadh schools online, as Yemen's Houthi rebels threaten further strikes. Reports put the toll from the airport attack at twelve killed and more than three hundred injured. This matters for the obvious geopolitical reasons, but also watch it for its potential ripple into energy markets and global travel — a major Gulf airport closing for days is not a small disruption.\n\nSecond, Pope Leo the Fourteenth announced he'll undergo surgery this week to remove a nodular lesion on his lung. He's seventy-one, less than eighteen months into his papacy, and I mention it partly for the human significance and partly because — relevant to our earlier theme — this is a pope who has staked out notably skeptical public positions on AI. His voice has been part of the global conversation about AI's limits and ethics, so his health is worth tracking beyond the Vatican.\n\nAnd one item close to home in a diplomatic sense: France's new ambassador to Canada says her country admires the Carney government's response to what she called extremely radical American demands, and signalled interest in closer alignment with Ottawa. It's a small story on the surface, but it's a marker of something larger — Canada is being watched internationally for how it navigates the current US relationship, and European interest in partnering more closely with Ottawa is a theme that will keep recurring. For anyone whose business touches cross-border flows of students, capital, or talent, that realignment is worth watching.\n\nThat's your Sunday, Midya. Light cycle, but two things are worth carrying into the week. The Nadella piece is the one I'd act on — it's the cleanest hook you've had in a while to turn public-institution AI governance from a dry compliance topic into a timely, named-expert-backed argument, and the window for that framing is open right now while it's fresh. And keep a quiet eye on the rates narrative, because the fall real estate conversation is going to be shaped more by sentiment than by any single number. Enjoy the slower pace today — it's a good morning to write rather than just read. Talk tomorrow.",
+  "digestIntro": "Today's through-line is the fight to be visible inside AI answers — and Midya sits squarely at the centre of it. Adweek's map of the best-funded GEO startups and Google opening AI Mode to even its most regulated ad category both confirm that generative-search visibility has become a funded, contested, enterprise category — exactly the territory her AI Search Readiness methodology was built to audit. In parallel, higher ed is splitting into haves and have-nots on AI: institutions making divergent choices about AI's place in their public mission, and admissions offices quietly deploying AI-detection without telling applicants — a governance gap that is pure content fuel for her.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Today's through-line is the fight to be visible inside AI answers — and Midya sits squarely at the centre of it. Adweek's map of the best-funded GEO startups and Google opening AI Mode to even its most regulated ad category both confirm that generative-search visibility has become a funded, contested, enterprise category — exactly the territory her AI Search Readiness methodology was built to audit. In parallel, higher ed is splitting into haves and have-nots on AI: institutions making divergent choices about AI's place in their public mission, and admissions offices quietly deploying AI-detection without telling applicants — a governance gap that is pure content fuel for her. The real-estate thread (eXp's leadership reset, a new push for trustworthy mortgage AI) tells her brokerages are past experimentation and now arguing about accountability. And on home ground, the Kamloops mayor being ordered to recall messages for 'flagrant disregard' is the FIPPA/records-governance story playing out in her own backyard — a live case study for the public-institution lens she sells. Watch the AI-visibility arms race closely; it is maturing faster than most of her clients realize.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-12.mp3",
+  "audioDurationSeconds": 878,
+  "audioScript": "Good morning, Midya. It's Monday, October twelfth, twenty twenty-six. Let's get into what actually matters today, because the AI-visibility story has grown up over the weekend and it lands right on your doorstep.\n\nLet's start with AI, because today the lead isn't a model release or a benchmark — it's money and infrastructure flowing into the exact problem you've built a methodology around. Adweek published a map of the eleven best-funded GEO startups, and the number that's getting all the attention is Profound's one-point-eight-billion-dollar valuation. But the valuation isn't really the story. The story is that generative engine optimization — getting brands surfaced inside AI answers rather than in a list of blue links — is now a crowded, venture-backed, enterprise category. A year ago this was a curiosity you had to explain to clients. Now there's an entire funded industry sprinting to own it, which means your prospects in higher ed and real estate are about to start hearing pitches from vendors selling GEO as a product. And here's where your angle sharpens: the vendors sell the tooling, but almost none of them start with the diagnostic. Nobody can tell a university or a brokerage whether they're even visible in ChatGPT, Perplexity, or Google's AI Mode today, what their current answer-share looks like, or where the gaps are. That's the readiness audit — the thing that comes before you spend a dollar on a GEO platform. The content piece almost writes itself: you don't need a GEO vendor, you need an audit first. When a category gets this hot this fast, the buyers who win are the ones who understand their starting position before they buy the solution. That's a thought-leadership post I'd want you to have out this week, while the Adweek piece is still circulating.\n\nThe second AI story reinforces exactly why that visibility layer is becoming non-negotiable. Google has started testing prescription drug ads inside AI Mode. Think about what that signals. Pharma is one of the most heavily regulated ad categories that exists — the legal and compliance overhead is enormous. If Google is willing to bring that category into its AI answers, it tells you AI Mode is no longer an experiment; it's a monetized advertising surface that Google intends to defend commercially. For your clients, the takeaway is blunt: the AI answer box is where attention is consolidating, and it's now a place brands pay to appear. Organic visibility and paid visibility inside AI results are both becoming real line items. The marketing teams you advise need to understand that search is bifurcating — the ten blue links are being hollowed out, and both the organic and paid games are moving into the generative layer. That's a structural shift, not a feature update.\n\nThe third AI story is quieter but it's squarely in your public-institution governance lane. The Conversation ran a piece examining how universities are making genuinely divergent choices about AI — some leaning in aggressively, some holding back — and asking whether those choices actually align with their obligations as public bodies. This is the governance tension you've been naming for months. A public institution doesn't get to adopt AI the way a startup does. There are data-residency questions, FIPPA obligations, transparency duties to students and the public. When one university rolls out AI tooling enthusiastically and another freezes, the difference usually isn't strategy — it's that one of them has a governance framework and the other is improvising. That's the gap your Public-Institution Governance Lens is built to close, and this article is a useful citation to anchor a piece on why AI adoption in the public sector has to start with the mission, not the tool.\n\nThat governance thread carries straight into higher education, where the sharpest story today is about admissions. Inside Higher Ed published an argument that admissions offices should be transparent about their AI-detection policies — and the framing is that opaque AI screening is quietly creating a new disadvantage for applicants. Here's why this matters for your enrollment work. Admissions offices across North America have started running applicant essays and materials through AI-detection tools, often without telling anyone they're doing it, and often with tools that have well-documented false-positive problems. When a flagged essay can tank an application and the applicant never knows the screen exists, you've created an equity and due-process problem that sits right at the intersection of AI and enrollment. This is a content angle I want you to take: the case for publishing an AI-detection disclosure in admissions. Not a think-piece about whether students use AI — everyone's tired of that — but a practical governance checklist that an enrollment office can actually adopt. What tools are you using, what's the false-positive rate, what's the appeal process, how do you disclose it. That's the kind of concrete, operational governance content that positions you as the person who turns AI anxiety into a defensible policy. Enrollment leaders are terrified of this issue and nobody's handing them a framework. You can.\n\nThe second higher-ed story is a market-structure shift you should track for your recruitment clients. UK universities have begun revoking offers to students from Bangladesh, Pakistan and Nigeria as that country's visa rules tighten. Set aside the politics for a moment and look at the flows. International students are globally mobile, and when one major destination slams the door, demand reroutes. Sometimes Canada is the beneficiary; sometimes, when Canada's own caps are biting, that demand goes to Australia or elsewhere entirely. Either way, the destination-choice map is being redrawn in real time, and any Canadian institution serious about its international funnel needs to be watching these foreign-policy shocks as leading indicators. The schools that win the next two years are the ones reading these signals and repositioning their recruitment messaging while competitors are still reacting.\n\nAnd a smaller, practical note on that same funnel: a study-in-Canada fair in Hong Kong is actively connecting families with Canadian institutions. It's a reminder that even in an era of caps and digital recruitment, in-market events still anchor the top of the funnel, especially in high-trust, relationship-driven markets like Hong Kong. For the institutions you advise, the question is whether their AI-era recruitment stack — chatbots, automated nurture sequences, generative-search visibility — is actually reinforcing these human touchpoints or quietly cannibalizing them. The best programs make the fair and the follow-up work together.\n\nOn to real estate, where the brokerage industry gave us a clear bellwether this weekend. eXp named a new CEO at its annual eXpcon conference and rolled out a batch of new agent tools. eXp matters as a signal because it pioneered the cloud-brokerage, agent-centric model that's reshaped how large brokerages think about overhead, recruiting and technology. A leadership reset plus a product push at the flagship event tells you the large-brokerage operating model is still very much in flux — these organizations are competing on agent productivity tools now, not just splits and branding. For your real-estate lane, and for the brokerage conversations in your household, that's the frame: the differentiation has moved to the tooling layer, and increasingly that tooling is AI.\n\nWhich brings me to the second real-estate story, a HousingWire piece arguing that mortgage AI needs a standard of trust built on experience. The thesis is that lender adoption of AI is outrunning accountability — that the industry is deploying AI into underwriting and borrower-facing workflows faster than it's building the oversight, auditability and financial-protection guardrails around it. This is the real-estate-operations version of the exact governance argument we keep coming back to. Whether it's a university adopting an AI chatbot or a lender adopting AI underwriting, the pattern is identical: enthusiastic adoption, thin governance, and a trust gap that eventually bites. The firms that build the accountability layer deliberately are the ones that survive the first bad outcome. There's a cross-industry thought-leadership thesis sitting in here — that AI accountability frameworks are portable across regulated industries — but I'd hold it for now and let it mature.\n\nAnd a quick third note from the mortgage data world: an analysis of six-and-a-half billion dollars in declined loan volume found that thirty-five percent of it could have been salvaged with structured down-payment-assistance data standards. The headline is about DPA, but the real lesson is that data plumbing — not product, not marketing — is often what quietly kills deals. It's a useful reminder for any operations-focused client: the unglamorous standardization work frequently has more revenue impact than the shiny front-end tool.\n\nCloser to home now, and there's a real development in the Kamloops city hall story we've been tracking through the election. The mayor has now been ordered to recall messages after a finding of what's being described as flagrant disregard. This is squarely a records-governance story — it's about how a public official handled official communications and records obligations — and it's landing right in the middle of the 2026 municipal campaign. I flag it for you not just as local news but because it's a live, local case study in exactly the public-institution accountability questions you advise on. Records management, transparency, the duties that attach to public office — it's the same governance muscle, playing out visibly in your own city.\n\nOn a brighter note, a tower crane is going up at the Kamloops Centre for the Arts construction site. After years of planning and debate, the downtown cultural project is clearly moving into a serious build phase — a crane is about as concrete a signal of momentum as you get. It's a meaningful piece of civic infrastructure for a city you spend real time in, and worth watching as it reshapes the downtown core.\n\nAnd one more local item with a thread back to today's themes: Kamloops school trustee candidates debated classroom AI alongside student wellbeing and SOGI issues. It's a small thing, but notice the pattern — AI governance is now a line item in a school board race. The questions being argued at the most local level of public institutions are the same ones the universities and lenders are wrestling with. The governance conversation has gone fully mainstream, and that's exactly the moment when expertise becomes valuable.\n\nOn the global front, two stories with direct Canadian relevance. First, Canada's trade minister, Maninder Sidhu, is leading a three-hundred-member trade mission to India this week, with both countries aiming to land a free-trade agreement by year-end. This is significant on multiple axes. A thaw in the Canada-India relationship affects trade, yes, but also talent mobility and international-student flows — India has been the single largest source market for Canadian international students, and the diplomatic temperature between the two countries directly shapes that pipeline. If you advise institutions on their international strategy, this is a leading indicator worth watching: a warming relationship could meaningfully reopen a funnel that's been under strain.\n\nSecond, an update on the France-Canada thread we touched on last week. France's new ambassador in Ottawa says Paris is open to closer defence-procurement cooperation with Canada, even as France champions European arms independence. It's a reminder that Canada is actively diversifying its strategic partnerships in a volatile geopolitical moment — and for senior leaders, the macro backdrop of realigning alliances and supply chains eventually filters down into trade, investment and the confidence climate your clients operate in.\n\nFor longevity today, one genuinely substantial finding from Nature Medicine. Researchers built a health-system-scale atlas of cancer cachexia — that's the severe wasting and weight loss that affects many cancer patients — using longitudinal data from more than fifty-two thousand patients. What they found is that weight-loss episodes are linked to specific systemic blood signatures and particular tumour genotypes, and crucially, that the wasting can be predicted early by combining clinical and molecular data. Why this matters: cachexia is a major driver of mortality and quality-of-life decline in cancer, and historically it's been reactive — you notice the weight loss after it's well underway. A validated way to predict it early opens the door to earlier intervention. This is real, large-scale, peer-reviewed work from a top-tier journal, not a press-release study, and it's the kind of finding that quietly moves clinical practice over the next few years.\n\nFinally, one item for awareness given your family in the Lower Mainland. B.C.'s police watchdog is investigating after an officer shot a man in Burnaby, and they're seeking witnesses. It's a developing situation and details are still thin, but it's in Metro Vancouver, so I'm surfacing it. No food recalls and no weather or wildfire alerts affecting your areas today, which at this point in the fall is itself good news.\n\nThat's your Monday, Midya. If you do one thing with this briefing, make it the GEO piece — the AI-search category just got validated by a wave of funding, and the window to own the 'audit before you buy' position is open right now, before every vendor and competitor floods the conversation. The governance thread running through today — admissions AI, mortgage AI, a school board debating classroom AI, even the records fight at Kamloops city hall — is the same story told five ways, and you're one of the few people who can name the common pattern. Lead with that clarity this week. I'll keep watching the Kamloops council situation and the Canada-India file for you.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Satya Nadella: assume every AI model is 'compromised,' build an emergency brake",
-      "summary": "Microsoft's CEO used a lengthy weekend post to argue AI can no longer be treated as a set of 'nested black boxes' whose outputs we simply accept, calling for a rethink of the 'trust architecture' around advanced models.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "headline": "11 of the best-funded GEO startups racing to win AI search",
+      "summary": "Adweek maps a crowded, well-capitalized field — led by Profound's $1.8B valuation — chasing the same prize: getting brands surfaced inside AI-generated answers rather than blue links.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/11-best-funded-geo-startups-racing-to-win-ai-search/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
-      "contentAngle": "Public-institution AI governance: when the vendor's own CEO says assume models are compromised, that's the opening line for a FIPPA-era governance framework clients can adopt before procurement, not after."
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=600&h=315&crop=1",
+      "contentAngle": "AI Search Readiness: generative-engine optimization is now a funded enterprise category — the 'you don't need a GEO vendor, you need an audit first' positioning piece."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Running AI locally is getting real — and that changes the data-residency calculus",
-      "summary": "A hands-on diary of running powerful open models locally rather than in the cloud, driven by reluctance to hand personal data to third-party services — a shift increasingly relevant to institutions with data-sovereignty constraints.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "headline": "Google opens AI Mode to prescription drug ads",
+      "summary": "Google is testing pharma ads inside its AI answers — bringing one of advertising's most tightly regulated categories into generative search, a signal that AI Mode is becoming a real monetized ad surface.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=600&h=315&crop=1"
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "Apple licenses tech and hires team from AI podcast startup Huxe",
-      "summary": "Apple disclosed a deal to acqui-hire personalized-podcast startup Huxe, signalling a move toward AI-generated audio — a format marketers and content teams will have to reckon with.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "headline": "Universities are making divergent choices on AI — and their public missions are at stake",
+      "summary": "The Conversation examines how institutions are landing in very different places on AI adoption, raising the question of whether those choices align with their obligations as public bodies.",
+      "source": "The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3dLOXdrd2IyNnpjakNSWlVQR3VybHp3UkxUSlJua05vZG1hWUpUV3B0aG5SNV9kVjI0OWJ1c2t3YnMtSWFnQThuZFUwbmRoV05Ybzc0bDNFUjRzc2VORnVJN3N3dmVoNjlWQkZPcjBOWXg3czg3RlQ0V1JRRE1MYjBrNjI1c2pYOWllM3JjQ1FWQy1BTVZOVkgwUzQ1akYxemM2RGN3eDVqNEFZRlhBX3lUd1hkRWRQY1JURWZPams4SVJmaXBSVzBn?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200"
+      "thumbnailKind": "chip"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Satya Nadella: assume every AI model is 'compromised,' build an emergency brake",
-      "summary": "Microsoft's CEO used a lengthy weekend post to argue AI can no longer be treated as a set of 'nested black boxes' whose outputs we simply accept, calling for a rethink of the 'trust architecture' around advanced models.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "headline": "11 of the best-funded GEO startups racing to win AI search",
+      "summary": "Adweek maps a crowded, well-capitalized field — led by Profound's $1.8B valuation — chasing the same prize: getting brands surfaced inside AI-generated answers rather than blue links.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/11-best-funded-geo-startups-racing-to-win-ai-search/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
-      "contentAngle": "Public-institution AI governance: when the vendor's own CEO says assume models are compromised, that's the opening line for a FIPPA-era governance framework clients can adopt before procurement, not after."
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=600&h=315&crop=1",
+      "contentAngle": "AI Search Readiness: generative-engine optimization is now a funded enterprise category — the 'you don't need a GEO vendor, you need an audit first' positioning piece."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Running AI locally is getting real — and that changes the data-residency calculus",
-      "summary": "A hands-on diary of running powerful open models locally rather than in the cloud, driven by reluctance to hand personal data to third-party services — a shift increasingly relevant to institutions with data-sovereignty constraints.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "headline": "Google opens AI Mode to prescription drug ads",
+      "summary": "Google is testing pharma ads inside its AI answers — bringing one of advertising's most tightly regulated categories into generative search, a signal that AI Mode is becoming a real monetized ad surface.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=600&h=315&crop=1"
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "Apple licenses tech and hires team from AI podcast startup Huxe",
-      "summary": "Apple disclosed a deal to acqui-hire personalized-podcast startup Huxe, signalling a move toward AI-generated audio — a format marketers and content teams will have to reckon with.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "headline": "Universities are making divergent choices on AI — and their public missions are at stake",
+      "summary": "The Conversation examines how institutions are landing in very different places on AI adoption, raising the question of whether those choices align with their obligations as public bodies.",
+      "source": "The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3dLOXdrd2IyNnpjakNSWlVQR3VybHp3UkxUSlJua05vZG1hWUpUV3B0aG5SNV9kVjI0OWJ1c2t3YnMtSWFnQThuZFUwbmRoV05Ybzc0bDNFUjRzc2VORnVJN3N3dmVoNjlWQkZPcjBOWXg3czg3RlQ0V1JRRE1MYjBrNjI1c2pYOWllM3JjQ1FWQy1BTVZOVkgwUzQ1akYxemM2RGN3eDVqNEFZRlhBX3lUd1hkRWRQY1JURWZPams4SVJmaXBSVzBn?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200"
+      "thumbnailKind": "chip"
     },
     {
-      "id": "story-marketing-0",
-      "category": "Marketing",
-      "headline": "DistroKid quietly pulls songs amid UMG 'AI-slop pipeline' lawsuit",
-      "summary": "DistroKid confirmed it has been removing artists' tracks without notice in response to Universal Music Group's September suit alleging the distributor enabled an 'AI-slop pipeline' — a live test of who's liable when AI content floods a platform.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "AI literacy and the new admissions disadvantage",
+      "summary": "An Inside Higher Ed argument that admissions offices should be transparent about their AI-detection policies — because opaque screening is quietly creating a new equity gap among applicants.",
+      "source": "Inside Higher Ed",
+      "url": "https://www.insidehighered.com/opinion/views/2026/10/12/ai-literacy-and-new-admissions-disadvantage-opinion",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&amp;strip=all&amp;crop=0,24.460477589069,100,51.079044821862",
-      "contentAngle": "AI in marketing: the authenticity and provenance reckoning — brands flooding channels with AI content face the same platform-liability exposure, and that's a governance checklist worth publishing."
+      "thumbnailKind": "university",
+      "imageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-09/GettyImages-1471170655.jpg?itok=9aECAYIG",
+      "contentAngle": "AI in higher-ed enrollment: the case for publishing an AI-detection disclosure in admissions — a governance checklist enrollment offices can adopt now."
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "UK universities revoke offers amid visa crackdown",
+      "summary": "UK institutions are pulling offers to students from Bangladesh, Pakistan and Nigeria as visa rules tighten — a destination-market disruption that reshapes where globally mobile students look, with Canada a direct beneficiary or casualty.",
+      "source": "The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2hlbWt0c2U3VllmOTJCa2Q2R2hTb2VHS19PZS1keS1WeElfMW9Fb1VQTWZUZTlaNEpHMkxNWEQ4Q1BEa1NyZ1EwU3dfTko3SGtHQTNfTDZYTWRxblktc1hBeHVJdUxKUzFlMVRGYk9SWUlleHE3VjZ6czB3WGQ1c3NSMmVZZVNvOFpWcnIwd0Q3a3cwTElqQlVMYkhuYWNfMFBwTEZtTHVtWWk0T01iUmFqN0w0VjBhTVdOYm02SE1QQQ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-2",
+      "category": "Higher Ed",
+      "headline": "Study-in-Canada fair connects Hong Kong families with Canadian institutions",
+      "summary": "A recruitment fair in Hong Kong is channeling demand toward Canadian colleges and universities — a reminder that in-market recruitment events still anchor the funnel even as policy caps bite.",
+      "source": "The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdFVaLUtFYmFuSWRFVnFoTjh5SXJTMEdRNnJKOUZkY1ZYUzZDVVYtLVZsSnhvdk1QNEc2TTlQZDU0bFJYQXNnblV5Uy1EZTBGQXRBeWNPS3l4WDJQMVRRaHE3bGRiYlhwQTdQc3FYb2NHaENDOW5ISXhyODViNDF5MWxoV3FPaEFITEpNNGJzUHpkckhkelJya0dRLUZNaFZXN3pvN0lRajh3a1RfWkFUT0ltU3hoZUhPVmdwYzJZcFB6T0k1ZGthT3hCaU5sbHFxNnpZMDBTSF9TbkN6cVhOb2wxX28?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
     },
     {
       "id": "story-canadian_real_estate-0",
       "category": "Real Estate",
-      "headline": "US mortgage rates climb to 7.4%, highest since November 2023",
-      "summary": "American 30-year rates hit 7.4%, their highest in nearly two years — a cross-border sentiment signal worth watching, since US rate psychology tends to ripple into Canadian buyer and seller behaviour.",
-      "source": "Beinsure (Google News)",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wWkdwamdIakVwSkdncXNaZDdXMTRuRVRnc0U2aEdhZnJCZWNmUktBZF9xb09rOXBnUTBmbl82WVhzLTJmR09jNDNqRlVVYm9GUW94clVRVW14Z21kY0NRb2dYQnAxdW40WjBKTVMxTQ?oc=5",
+      "headline": "eXp names new CEO at eXpcon, unveils launches",
+      "summary": "The cloud-brokerage giant reset its top leadership and rolled out new agent tools at its annual conference — a bellwether for where large brokerage operating models are heading.",
+      "source": "Inman",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5iNDEtbmJVbENlTi1MY2RwWlVIcmh6Y3dHNjJHelIzLU4tY1hodXhmMGRxamNMYVZfVzlVbGRUTFp2elFBR1dSTkltTHV6RG5FNHpsNlVTMUpIN0ZkNVZnNDZndnljYmlCdEtyUFYtZGJxNDFXZ042QzV0NXFaX0Vra1NRd3FyTGJyaE1ONTlwWUlrOHRScVRaTmY2emxWcW5QMEN6c1czVFZUc1JzOVBR?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house"
@@ -117,22 +137,34 @@
     {
       "id": "story-canadian_real_estate-1",
       "category": "Real Estate",
-      "headline": "Have US mortgage rates peaked, or is more chaos coming?",
-      "summary": "HousingWire's Logan Mohtashami warns October still holds variables that could push rates higher, cautioning against assuming the recent spike is the ceiling.",
+      "headline": "Mortgage AI needs a standard of trust built on experience",
+      "summary": "A HousingWire analysis argues lender AI adoption is outrunning accountability, and that two decades of mortgage cycles should inform how the industry builds trust, oversight and financial protection into AI tools.",
       "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/have-mortgage-rates-peaked-or-will-we-see-even-more-chaos/",
+      "url": "https://www.housingwire.com/articles/mortgage-ai-trust-standard/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2025/10/House-up-down-rate.png"
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Image-from-iOS.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-2",
+      "category": "Real Estate",
+      "headline": "Down payment assistance needs standardization, not simplification",
+      "summary": "Analysis of $6.5B in declined loan volume found 35% could have been salvaged with structured DPA data standards — a quiet reminder that data plumbing, not product, often gates deals.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/dpa-mismo-data-standards/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Contributors-Piece-2026-10-05T160949.325.png"
     },
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "City hall controversy could boost Kamloops voter turnout",
-      "summary": "Observers suggest ongoing controversy at Kamloops city hall may drive higher turnout in the 2026 municipal election — a continuation of the mayoral and council coverage running all week.",
+      "headline": "Kamloops mayor ordered to recall messages over 'flagrant disregard'",
+      "summary": "An update on the city hall controversy: the mayor has been ordered to recall messages after a finding of flagrant disregard — a records-governance fight unfolding at the centre of the 2026 election.",
       "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnZ0Z0NOS3lEcjBlQk53bV9BaWszR2NQd3d3aVNFOVBjTlR3OEVuLVdHVVF2YzhmUUFsUEUyeDBLTmJKZ0dwcWNBQUlfZjJpQ19hWGxqMzUxUE5YVjRfcHozY1JZQlpFR2dYUmJiOG9CNzl2S3NnNXNVR053V3ZvMGNkTnZzcjgyUjZfYTlLMFBoZm1aVWJLenJXUVFDMmVnV1c5THg5UEJiZFpHY0p1U015bTJRbDJDbUdtMnNjYnBRQ0hx?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTEZoQmJKVERPU2luMUVIYnNPcFB6M3F3MUNFWlltZDkxUXc4MzI2NnVvUGJXdUw5OUlzb2FqbEZsQzNXU3dUUHF2UGlsTnA4M3V3eVVDYWpRWEhUOVdtMzU1dzNJSzUyY05IZld0NEdTaDVEeVRiSVRQX1lTREdKcF82M244X011R1gwTENZWkU0N0VBaU5hUFpQdzFlcEFWaXA1YmNGdWEwb3R4TDA3SWp2ZVN2UmVYMXdwcllVcklnemRq?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -140,10 +172,10 @@
     {
       "id": "story-kamloops_sun_peaks-1",
       "category": "Local News",
-      "headline": "Charity founder renews call for a Kamloops cardiac catheterization lab",
-      "summary": "A local charity founder is again pressing for a cardiac cath lab in Kamloops, highlighting the gap patients face travelling for cardiac intervention — a recurring regional healthcare-access issue.",
+      "headline": "Tower crane going up at Kamloops Centre for the Arts site",
+      "summary": "A tower crane is set for installation at the Kamloops Centre for the Arts construction site — a visible sign the long-planned downtown cultural project is moving into a major build phase.",
       "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWlk0VmNvcFRSMUJ4N0ZuOFFBQXNxZkpvSnExOVhzVHg5U2pDbzBDOWQyRXN3SGM5UmROWmNud0xXSF9tcEVySERTWUNGNUZ1MEF6TWtNalctcW5lc2lrNk0tRUJWQUpYcWx0QmktTVNWcG9hXzVqaFhodVJTc0tWdlNwMTliMXREa3NKWExlT2RsSWVzNFhRMlRqeXVLZjItV09CZDQ3bHFrRVVvY2drM1paVkdtc3BJeGpNYlctcGQza2dyMlpsLVBKUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2dlWF96alRHbG9uNFJnZnBiSXc4ekdhVWlGSW1RdEtHRTh2Nk1SLXJjLTh1c2dtd0NLSlRoTlpZRVdTd24xLWlGRHdEU2V6LTFIb1RsbFNqUkFBdTlra2NSZ2VEWTU1SEpWMkxQcWxGVV91REh0WU14R003MENLT1NMSEZ0WHVlM21xa00tWWhhUnJlOGc0NzJIcGlTT1M5ZUZZd1RjdnFLOFAyTnVSMHRCOFJmZmRmeTZ5Z3k5TWZTX0U3OWZCTlg3dw?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -151,10 +183,10 @@
     {
       "id": "story-kamloops_sun_peaks-2",
       "category": "Local News",
-      "headline": "Kamloops addiction-treatment workers unionize with USW, head into first contract talks",
-      "summary": "Addiction-treatment workers in Kamloops have joined the United Steelworkers and are preparing for first-contract bargaining — a labour signal in a stretched local health-and-social-services sector.",
+      "headline": "Kamloops trustee candidates weigh student wellbeing, AI and SOGI",
+      "summary": "School board candidates debated classroom AI alongside student wellbeing and SOGI — a local preview of the governance questions every public institution now faces on AI use.",
       "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM01VV05ib2V5MWpYU2FCMlo4Sm1LYlJEVTFkWVhlZUdLZlN0ekZFOFZrNFNvWDVDZlpPZlBIQXFyRlhRV0VNNlF5MDNhbW5waGc4clFZcGRKVEs4VWRLR0JnSkJaeUZxalUtMDNueU9oMS1Zanl4bm5SVnNGaUoxVGwxWXgwTFlxT1JQUHN0R2VjUmpSSXJyWGFORE50SWJiWEJqVWRTc2hpV21iMS1MMkZxZGk1YkpWZVhkTDR4SS14aDI2NkM4RjIxOUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3p3al9KdXlHbWJLZFYyanYxendHdDBaUXFDUm5MbEtWeDBPMGZTaVhkbTl4YW1oVEV3TEprUlVsUERxLVFhVEJZUHF3ZHBxRmxQQ3V2WGFwMzNyaTJmdFR3NTdxWThjSXl1ck1XX2VSZXdpMW1EdGRiMUxqMGRxTXR1SVFON2JJTXJSRnoyNXYzWEVNRFdCZGUwVVE1Q0dMVGVDemluNVRZMkp6Zl9WQk81OUF4UkVuZHN1YnJUalFGN1JnUkE?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -162,38 +194,50 @@
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Saudi Arabia keeps Riyadh airport closed, moves schools online after missile attack",
-      "summary": "An update on the Riyadh developments from earlier this week: Saudi Arabia extended its main airport closure and shifted Riyadh schools online as Houthi rebels threatened further strikes, after an attack that killed 12 and injured over 300.",
-      "source": "CFJC Today / AP",
-      "url": "https://cfjctoday.com/2026/10/11/missile-attack-on-airport-in-saudi-arabias-capital-kills-12-people-and-injures-over-300/",
+      "headline": "Canada's trade minister leads 300-member mission to India",
+      "summary": "Trade Minister Maninder Sidhu is in India this week as the two countries aim to land a free-trade agreement by year-end — a thaw with real implications for trade, talent and international-student flows.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/12/trade-minister-leading-300-member-mission-to-india-this-week/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F4299e761-ee78-455b-830c-1279b4bf71e5%2F9583a3829481110cbec95888fbb4dc89bac659b4718fe5ed7443a871fd3b9ab8.jpg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F218505c0-61e2-4eaf-a1d4-e8b938af50a4%2F822af2155b44f06fd33644858a70d2f1fa055354cdae5276bd22e31b03296076.jpg"
     },
     {
       "id": "story-global_business_tech-1",
       "category": "Global",
-      "headline": "Pope Leo XIV to have lung nodule surgically removed",
-      "summary": "The 71-year-old pontiff announced he will undergo surgery this week to remove a nodular lesion on his lung; his papacy has been marked by clashes with the White House and notable skepticism about AI.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/11/pope-leo-nodule-lung",
+      "headline": "France open to defence deals with Canada despite arms-autonomy push",
+      "summary": "An update on the France-Canada thread: the new ambassador in Ottawa says Paris wants closer defence-procurement ties with Canada even as it champions European arms independence.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/12/france-open-to-defence-deals-with-canada-despite-its-push-for-arms-autonomy-envoy/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://images.axios.com/oaYNYHhPZlUM_bCGLYspwuHLjZM=/1632x0:7136x5504/320x320/2026/10/11/1791715563812.jpeg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F21ace98a-ac0b-4949-8941-30d43983679f%2F1cbd180d011a0d41d1cc858cb02b7c2a43d234b3bccac89caa8f49fd9d688ad2.jpg"
     },
     {
-      "id": "story-global_business_tech-2",
-      "category": "Global",
-      "headline": "France's envoy says Carney admired for response to 'extremely radical' US demands",
-      "summary": "France's new ambassador to Canada praised the Carney government's handling of hardline American demands, signalling European interest in closer alignment with Ottawa.",
-      "source": "CFJC Today / CP",
-      "url": "https://cfjctoday.com/2026/10/11/frances-envoy-says-carney-admired-for-response-to-extremely-radical-u-s/",
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "A health-system-scale atlas of cancer cachexia",
+      "summary": "Nature Medicine, 52,236 patients: longitudinal data links cancer weight-loss episodes to systemic blood signatures and specific tumour genotypes, and shows the wasting can be predicted early from integrated clinical and molecular data.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04689-9",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fa948b012-331a-4c4e-b2a6-b24c22c9d4db%2F61a77f87afae1840364bed0260be6cdcaaab7243b3d890bb0d0ad9582cda35a8.jpg"
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04689-9/MediaObjects/41591_2026_4689_Fig1_HTML.png"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Watchdog investigating after police shoot man in Burnaby",
+      "summary": "B.C.'s police watchdog is seeking witnesses after an officer shot a man in Burnaby — a developing Metro Vancouver incident worth noting for family in the region.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/11/watchdog-investigating-after-police-officer-shoots-man-in-burnaby-b-c/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fbc68913f-f9c0-4b08-90f2-169b4574ec06%2F94f780a949e28e6076815abbb163759f3c66a58a56ef094b4c774d846f0ac06e.jpg"
     }
   ],
   "audioChapters": [
@@ -201,62 +245,76 @@
       "id": "c1",
       "title": "AI & Tech",
       "category": "AI & Tech",
-      "duration": "3:48",
-      "startSeconds": 17
+      "duration": "3:41",
+      "startSeconds": 13
     },
     {
       "id": "c2",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "1:55",
-      "startSeconds": 245
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "3:06",
+      "startSeconds": 234
     },
     {
       "id": "c3",
       "title": "Real Estate & AirBnB",
       "category": "Real Estate",
-      "duration": "1:30",
-      "startSeconds": 360
+      "duration": "2:24",
+      "startSeconds": 420
     },
     {
       "id": "c4",
       "title": "Local News",
       "category": "Local News",
-      "duration": "1:42",
-      "startSeconds": 450
+      "duration": "1:46",
+      "startSeconds": 564
     },
     {
       "id": "c5",
       "title": "Global News",
       "category": "Global",
-      "duration": "1:52",
-      "startSeconds": 552
+      "duration": "1:21",
+      "startSeconds": 670
+    },
+    {
+      "id": "c6",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:00",
+      "startSeconds": 751
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:26",
+      "startSeconds": 811
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "Running AI locally is getting real — and that changes the data-residency calculus",
-    "summary": "A hands-on diary of running powerful open models locally rather than in the cloud, driven by reluctance to hand personal data to third-party services — a shift increasingly relevant to institutions with data-sovereignty constraints.",
-    "source": "The Verge AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "headline": "Google opens AI Mode to prescription drug ads",
+    "summary": "Google is testing pharma ads inside its AI answers — bringing one of advertising's most tightly regulated categories into generative search, a signal that AI Mode is becoming a real monetized ad surface.",
+    "source": "Adweek",
+    "url": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=600&h=315&crop=1"
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "Satya Nadella: assume every AI model is 'compromised,' build an emergency brake",
-    "summary": "Microsoft's CEO used a lengthy weekend post to argue AI can no longer be treated as a set of 'nested black boxes' whose outputs we simply accept, calling for a rethink of the 'trust architecture' around advanced models.",
-    "source": "The Verge AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "headline": "11 of the best-funded GEO startups racing to win AI search",
+    "summary": "Adweek maps a crowded, well-capitalized field — led by Profound's $1.8B valuation — chasing the same prize: getting brands surfaced inside AI-generated answers rather than blue links.",
+    "source": "Adweek",
+    "url": "https://www.adweek.com/media/11-best-funded-geo-startups-racing-to-win-ai-search/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
-    "contentAngle": "Public-institution AI governance: when the vendor's own CEO says assume models are compromised, that's the opening line for a FIPPA-era governance framework clients can adopt before procurement, not after."
+    "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=600&h=315&crop=1",
+    "contentAngle": "AI Search Readiness: generative-engine optimization is now a funded enterprise category — the 'you don't need a GEO vendor, you need an audit first' positioning piece."
   },
-  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200"
+  "heroImageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=600&h=315&crop=1"
 }

@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 11 Oct 2026 11:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:37:35 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, October 11, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-10-11.html</link>
-      <description>Today is a quiet Sunday news cycle — heavy on sports and syndicated wire copy — which makes the few substantive stories worth slowing down on. The thread that actually matters for your thought-leadership pipeline is Satya Nadella's weekend essay arguing we should assume every AI ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-11.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-11.mp3" length="11229312" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Oct 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, October 12, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-10-12.html</link>
+      <description>Today's through-line is the fight to be visible inside AI answers — and Midya sits squarely at the centre of it. Adweek's map of the best-funded GEO startups and Google opening AI Mode to even its most regulated ad category both confirm that generative-search visibility has becom...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-12.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-12.mp3" length="14061312" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
