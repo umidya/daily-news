@@ -1,170 +1,172 @@
 {
   "schemaVersion": 2,
-  "date": "Monday, October 12, 2026",
-  "dateIso": "2026-10-12",
+  "date": "Tuesday, October 13, 2026",
+  "dateIso": "2026-10-13",
   "greeting": "Good morning, Midya",
-  "totalDuration": "14:38",
+  "totalDuration": "13:55",
   "currentTime": "0:00",
-  "remaining": "14 min total",
+  "remaining": "13 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today's through-line is the fight to be visible inside AI answers — and Midya sits squarely at the centre of it. Adweek's map of the best-funded GEO startups and Google opening AI Mode to even its most regulated ad category both confirm that generative-search visibility has become a funded, contested, enterprise category — exactly the territory her AI Search Readiness methodology was built to audit. In parallel, higher ed is splitting into haves and have-nots on AI: institutions making divergent choices about AI's place in their public mission, and admissions offices quietly deploying AI-detection without telling applicants — a governance gap that is pure content fuel for her.",
+  "digestIntro": "Today's dominant thread is governance — the quiet discipline that turns AI enthusiasm into defensible strategy. Canadian academics are publicly warning that AI models can't be reliably contained, Microsoft is unveiling custom silicon to escape Nvidia, and Unilever is tying AI spend to outcomes rather than hype — all signals that the market is maturing past the demo phase and toward accountability, which is exactly the terrain where your Public-Institution Governance Lens and AI Search Readiness work earn their keep. On the enrollment side, Quebec's proposal to halve foreign workers and cut international student numbers is the clearest reminder yet that the Canadian recruitment pipeline is a policy-contingent business — anyone advising higher-ed clients needs scenario planning, not optimism.",
   "digestReadingTime": "8 min read",
-  "whyItMatters": "Today's through-line is the fight to be visible inside AI answers — and Midya sits squarely at the centre of it. Adweek's map of the best-funded GEO startups and Google opening AI Mode to even its most regulated ad category both confirm that generative-search visibility has become a funded, contested, enterprise category — exactly the territory her AI Search Readiness methodology was built to audit. In parallel, higher ed is splitting into haves and have-nots on AI: institutions making divergent choices about AI's place in their public mission, and admissions offices quietly deploying AI-detection without telling applicants — a governance gap that is pure content fuel for her. The real-estate thread (eXp's leadership reset, a new push for trustworthy mortgage AI) tells her brokerages are past experimentation and now arguing about accountability. And on home ground, the Kamloops mayor being ordered to recall messages for 'flagrant disregard' is the FIPPA/records-governance story playing out in her own backyard — a live case study for the public-institution lens she sells. Watch the AI-visibility arms race closely; it is maturing faster than most of her clients realize.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-12.mp3",
-  "audioDurationSeconds": 878,
-  "audioScript": "Good morning, Midya. It's Monday, October twelfth, twenty twenty-six. Let's get into what actually matters today, because the AI-visibility story has grown up over the weekend and it lands right on your doorstep.\n\nLet's start with AI, because today the lead isn't a model release or a benchmark — it's money and infrastructure flowing into the exact problem you've built a methodology around. Adweek published a map of the eleven best-funded GEO startups, and the number that's getting all the attention is Profound's one-point-eight-billion-dollar valuation. But the valuation isn't really the story. The story is that generative engine optimization — getting brands surfaced inside AI answers rather than in a list of blue links — is now a crowded, venture-backed, enterprise category. A year ago this was a curiosity you had to explain to clients. Now there's an entire funded industry sprinting to own it, which means your prospects in higher ed and real estate are about to start hearing pitches from vendors selling GEO as a product. And here's where your angle sharpens: the vendors sell the tooling, but almost none of them start with the diagnostic. Nobody can tell a university or a brokerage whether they're even visible in ChatGPT, Perplexity, or Google's AI Mode today, what their current answer-share looks like, or where the gaps are. That's the readiness audit — the thing that comes before you spend a dollar on a GEO platform. The content piece almost writes itself: you don't need a GEO vendor, you need an audit first. When a category gets this hot this fast, the buyers who win are the ones who understand their starting position before they buy the solution. That's a thought-leadership post I'd want you to have out this week, while the Adweek piece is still circulating.\n\nThe second AI story reinforces exactly why that visibility layer is becoming non-negotiable. Google has started testing prescription drug ads inside AI Mode. Think about what that signals. Pharma is one of the most heavily regulated ad categories that exists — the legal and compliance overhead is enormous. If Google is willing to bring that category into its AI answers, it tells you AI Mode is no longer an experiment; it's a monetized advertising surface that Google intends to defend commercially. For your clients, the takeaway is blunt: the AI answer box is where attention is consolidating, and it's now a place brands pay to appear. Organic visibility and paid visibility inside AI results are both becoming real line items. The marketing teams you advise need to understand that search is bifurcating — the ten blue links are being hollowed out, and both the organic and paid games are moving into the generative layer. That's a structural shift, not a feature update.\n\nThe third AI story is quieter but it's squarely in your public-institution governance lane. The Conversation ran a piece examining how universities are making genuinely divergent choices about AI — some leaning in aggressively, some holding back — and asking whether those choices actually align with their obligations as public bodies. This is the governance tension you've been naming for months. A public institution doesn't get to adopt AI the way a startup does. There are data-residency questions, FIPPA obligations, transparency duties to students and the public. When one university rolls out AI tooling enthusiastically and another freezes, the difference usually isn't strategy — it's that one of them has a governance framework and the other is improvising. That's the gap your Public-Institution Governance Lens is built to close, and this article is a useful citation to anchor a piece on why AI adoption in the public sector has to start with the mission, not the tool.\n\nThat governance thread carries straight into higher education, where the sharpest story today is about admissions. Inside Higher Ed published an argument that admissions offices should be transparent about their AI-detection policies — and the framing is that opaque AI screening is quietly creating a new disadvantage for applicants. Here's why this matters for your enrollment work. Admissions offices across North America have started running applicant essays and materials through AI-detection tools, often without telling anyone they're doing it, and often with tools that have well-documented false-positive problems. When a flagged essay can tank an application and the applicant never knows the screen exists, you've created an equity and due-process problem that sits right at the intersection of AI and enrollment. This is a content angle I want you to take: the case for publishing an AI-detection disclosure in admissions. Not a think-piece about whether students use AI — everyone's tired of that — but a practical governance checklist that an enrollment office can actually adopt. What tools are you using, what's the false-positive rate, what's the appeal process, how do you disclose it. That's the kind of concrete, operational governance content that positions you as the person who turns AI anxiety into a defensible policy. Enrollment leaders are terrified of this issue and nobody's handing them a framework. You can.\n\nThe second higher-ed story is a market-structure shift you should track for your recruitment clients. UK universities have begun revoking offers to students from Bangladesh, Pakistan and Nigeria as that country's visa rules tighten. Set aside the politics for a moment and look at the flows. International students are globally mobile, and when one major destination slams the door, demand reroutes. Sometimes Canada is the beneficiary; sometimes, when Canada's own caps are biting, that demand goes to Australia or elsewhere entirely. Either way, the destination-choice map is being redrawn in real time, and any Canadian institution serious about its international funnel needs to be watching these foreign-policy shocks as leading indicators. The schools that win the next two years are the ones reading these signals and repositioning their recruitment messaging while competitors are still reacting.\n\nAnd a smaller, practical note on that same funnel: a study-in-Canada fair in Hong Kong is actively connecting families with Canadian institutions. It's a reminder that even in an era of caps and digital recruitment, in-market events still anchor the top of the funnel, especially in high-trust, relationship-driven markets like Hong Kong. For the institutions you advise, the question is whether their AI-era recruitment stack — chatbots, automated nurture sequences, generative-search visibility — is actually reinforcing these human touchpoints or quietly cannibalizing them. The best programs make the fair and the follow-up work together.\n\nOn to real estate, where the brokerage industry gave us a clear bellwether this weekend. eXp named a new CEO at its annual eXpcon conference and rolled out a batch of new agent tools. eXp matters as a signal because it pioneered the cloud-brokerage, agent-centric model that's reshaped how large brokerages think about overhead, recruiting and technology. A leadership reset plus a product push at the flagship event tells you the large-brokerage operating model is still very much in flux — these organizations are competing on agent productivity tools now, not just splits and branding. For your real-estate lane, and for the brokerage conversations in your household, that's the frame: the differentiation has moved to the tooling layer, and increasingly that tooling is AI.\n\nWhich brings me to the second real-estate story, a HousingWire piece arguing that mortgage AI needs a standard of trust built on experience. The thesis is that lender adoption of AI is outrunning accountability — that the industry is deploying AI into underwriting and borrower-facing workflows faster than it's building the oversight, auditability and financial-protection guardrails around it. This is the real-estate-operations version of the exact governance argument we keep coming back to. Whether it's a university adopting an AI chatbot or a lender adopting AI underwriting, the pattern is identical: enthusiastic adoption, thin governance, and a trust gap that eventually bites. The firms that build the accountability layer deliberately are the ones that survive the first bad outcome. There's a cross-industry thought-leadership thesis sitting in here — that AI accountability frameworks are portable across regulated industries — but I'd hold it for now and let it mature.\n\nAnd a quick third note from the mortgage data world: an analysis of six-and-a-half billion dollars in declined loan volume found that thirty-five percent of it could have been salvaged with structured down-payment-assistance data standards. The headline is about DPA, but the real lesson is that data plumbing — not product, not marketing — is often what quietly kills deals. It's a useful reminder for any operations-focused client: the unglamorous standardization work frequently has more revenue impact than the shiny front-end tool.\n\nCloser to home now, and there's a real development in the Kamloops city hall story we've been tracking through the election. The mayor has now been ordered to recall messages after a finding of what's being described as flagrant disregard. This is squarely a records-governance story — it's about how a public official handled official communications and records obligations — and it's landing right in the middle of the 2026 municipal campaign. I flag it for you not just as local news but because it's a live, local case study in exactly the public-institution accountability questions you advise on. Records management, transparency, the duties that attach to public office — it's the same governance muscle, playing out visibly in your own city.\n\nOn a brighter note, a tower crane is going up at the Kamloops Centre for the Arts construction site. After years of planning and debate, the downtown cultural project is clearly moving into a serious build phase — a crane is about as concrete a signal of momentum as you get. It's a meaningful piece of civic infrastructure for a city you spend real time in, and worth watching as it reshapes the downtown core.\n\nAnd one more local item with a thread back to today's themes: Kamloops school trustee candidates debated classroom AI alongside student wellbeing and SOGI issues. It's a small thing, but notice the pattern — AI governance is now a line item in a school board race. The questions being argued at the most local level of public institutions are the same ones the universities and lenders are wrestling with. The governance conversation has gone fully mainstream, and that's exactly the moment when expertise becomes valuable.\n\nOn the global front, two stories with direct Canadian relevance. First, Canada's trade minister, Maninder Sidhu, is leading a three-hundred-member trade mission to India this week, with both countries aiming to land a free-trade agreement by year-end. This is significant on multiple axes. A thaw in the Canada-India relationship affects trade, yes, but also talent mobility and international-student flows — India has been the single largest source market for Canadian international students, and the diplomatic temperature between the two countries directly shapes that pipeline. If you advise institutions on their international strategy, this is a leading indicator worth watching: a warming relationship could meaningfully reopen a funnel that's been under strain.\n\nSecond, an update on the France-Canada thread we touched on last week. France's new ambassador in Ottawa says Paris is open to closer defence-procurement cooperation with Canada, even as France champions European arms independence. It's a reminder that Canada is actively diversifying its strategic partnerships in a volatile geopolitical moment — and for senior leaders, the macro backdrop of realigning alliances and supply chains eventually filters down into trade, investment and the confidence climate your clients operate in.\n\nFor longevity today, one genuinely substantial finding from Nature Medicine. Researchers built a health-system-scale atlas of cancer cachexia — that's the severe wasting and weight loss that affects many cancer patients — using longitudinal data from more than fifty-two thousand patients. What they found is that weight-loss episodes are linked to specific systemic blood signatures and particular tumour genotypes, and crucially, that the wasting can be predicted early by combining clinical and molecular data. Why this matters: cachexia is a major driver of mortality and quality-of-life decline in cancer, and historically it's been reactive — you notice the weight loss after it's well underway. A validated way to predict it early opens the door to earlier intervention. This is real, large-scale, peer-reviewed work from a top-tier journal, not a press-release study, and it's the kind of finding that quietly moves clinical practice over the next few years.\n\nFinally, one item for awareness given your family in the Lower Mainland. B.C.'s police watchdog is investigating after an officer shot a man in Burnaby, and they're seeking witnesses. It's a developing situation and details are still thin, but it's in Metro Vancouver, so I'm surfacing it. No food recalls and no weather or wildfire alerts affecting your areas today, which at this point in the fall is itself good news.\n\nThat's your Monday, Midya. If you do one thing with this briefing, make it the GEO piece — the AI-search category just got validated by a wave of funding, and the window to own the 'audit before you buy' position is open right now, before every vendor and competitor floods the conversation. The governance thread running through today — admissions AI, mortgage AI, a school board debating classroom AI, even the records fight at Kamloops city hall — is the same story told five ways, and you're one of the few people who can name the common pattern. Lead with that clarity this week. I'll keep watching the Kamloops council situation and the Canada-India file for you.",
+  "whyItMatters": "Today's dominant thread is governance — the quiet discipline that turns AI enthusiasm into defensible strategy. Canadian academics are publicly warning that AI models can't be reliably contained, Microsoft is unveiling custom silicon to escape Nvidia, and Unilever is tying AI spend to outcomes rather than hype — all signals that the market is maturing past the demo phase and toward accountability, which is exactly the terrain where your Public-Institution Governance Lens and AI Search Readiness work earn their keep. On the enrollment side, Quebec's proposal to halve foreign workers and cut international student numbers is the clearest reminder yet that the Canadian recruitment pipeline is a policy-contingent business — anyone advising higher-ed clients needs scenario planning, not optimism. Local politics are heating up in Kamloops with school-board and civic candidates sharpening positions ahead of the vote, continuity worth tracking given the city-hall controversy earlier this week. And watch the marketing platform wars: Meta blocking TikTok links is a structural constraint media buyers will feel immediately. Pay attention where policy, platform power, and AI accountability intersect — that's your thought-leadership lane for the next eighteen months.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-13.mp3",
+  "audioDurationSeconds": 835,
+  "audioScript": "Good morning, Midya. It's Tuesday, October thirteenth, twenty twenty-six. Today's briefing circles one idea — governance — and the way it's quietly becoming the real product in the AI economy, so let's get into it.\n\nLet's start with AI, because three stories today tell the same story from three angles, and that story is about discipline replacing hype.\n\nFirst, the one with the most direct relevance to your consulting work: CIO Dive has a piece on how Unilever is tailoring its AI focus to business outcomes. On the surface that sounds like corporate boilerplate, but read it as a marketing-operations signal and it's actually important. Unilever isn't talking about experimentation for its own sake. They're anchoring AI investment to specific, measurable business outcomes — and then saying no to the rest. That is the exact posture the market is lurching toward right now. We've spent two years in what I'd call pilot purgatory, where marketing teams stand up a dozen AI experiments, none of them tied to a number anyone cares about, and then the CFO asks what the return was and the room goes quiet. The teams that will actually keep their AI budgets in twenty twenty-seven are the ones that can draw a straight line from a model to a dollar. This is a thought-leadership lane for you. The framework piece practically writes itself: outcome-first AI adoption as the antidote to pilot purgatory, a decision checklist for CMOs who've bought AI without an ROI thesis. You advise clients in exactly this gap. Unilever gives you a brand-name anchor to hang the argument on.\n\nSecond, and this one feeds your governance lane directly: CFJC is carrying a story out of Ottawa where dozens of Canadian academics have joined an international group of scientists calling for stronger containment measures for AI models. Their core message is blunt — these models cannot be reliably controlled, and without better containment we should expect more damaging hacking incidents. Now, I want you to hear why this matters for the way you advise public institutions. When Canadian academics — not vendors, not think tanks, actual researchers — go on record saying the technology is uncontainable, that language becomes citable. It becomes the thing a risk-averse university counsel reaches for when enrollment marketing wants to deploy an AI chatbot that touches student data. Your Public-Institution Governance Lens is built for precisely this moment. The content angle here is a risk-register piece: what a FIPPA-aware, data-residency-conscious AI policy looks like when your own national research community is telling you the models can't be contained. That's not fear-mongering. That's responsible framing, and it positions you as the adult in the room.\n\nThird, reinforcing the same theme from the technical side: MIT Technology Review published a careful piece on open models — do their real benefits outweigh the risks? This comes after Anthropic released a report flagging a specific model as a major cyberattack risk. The open-versus-closed model question used to be an abstract debate for researchers. It's now a procurement decision for every institution you touch. Open models give you control and data residency — huge for a BC public body worried about where student information lives. But they also shift the security burden onto you. Closed models hand you capability and a vendor to blame, but you lose sovereignty over the data. There's no clean answer, and that's exactly why clients need an advisor who can map the tradeoff to their specific risk tolerance rather than just picking the shiniest tool. File this one as background reading that sharpens the governance narrative you're already building.\n\nOn the marketing and platform front, two items worth your attention.\n\nThe bigger structural story is from Adweek: Meta is moving to block brands from linking out to TikTok in their ads. Media buyers are split. Blocking a direct rival, they understand — that's competitive hardball and everyone expects it. But stopping brands from linking to TikTok content at all is a different kind of constraint, because it reaches into how advertisers run cross-platform creator campaigns. Think about the mechanics. A lot of brands build awareness on TikTok and then retarget or amplify on Meta, or vice versa. If Meta walls off the outbound link, it forces a rethink of the whole funnel. For anyone advising on paid social strategy, this is the kind of platform-power move that quietly rewrites best practice overnight. The lesson I'd pull for clients is durability: don't build your acquisition engine on a bridge between two platforms that are at war, because one of them can burn the bridge whenever it serves their shareholders.\n\nThe second marketing item is lighter but genuinely useful as a read on consumer behaviour. Marketing Dive covered a panel at Advertising Week where Smirnoff and Hinge talked about reaching Gen Z. The headline is 'don't be boring,' but the substance is this: younger consumers are drinking less, going out to bars less, and approaching dating differently. The brands that connect aren't the ones showing up more often — they're the ones showing up with genuine cultural fluency. There's a quiet through-line to your higher-ed work here, actually. The same generation that these brands are chasing is the prospective-student cohort universities are trying to recruit. Cultural authenticity over repetition is a transferable insight. Enrollment marketing teams that still run on frequency and reach metrics could learn something from how consumer brands are adapting to a generation that tunes out anything that smells like a pitch.\n\nNow to higher education, where the lead story is a policy shift you need to put on your radar immediately.\n\nQuebec is proposing to halve its intake of temporary foreign workers and cut international student numbers. Let me be clear about why this is more than a Quebec story. It is the sharpest provincial-level signal yet that Canada's international recruitment pipeline is not a growth market you can plan around — it's a policy-contingent business that can be cut in half by a cabinet decision. We've watched the federal government tighten study permits, we've watched PGWP rules shift, and now a province is moving unilaterally on top of that. For any institution relying on international tuition to balance its budget, the message is stark: your revenue model has a political dependency, and that dependency is tightening. If you're advising higher-ed clients, this is the moment to push scenario planning rather than optimism. What does the enrollment funnel look like if intake drops twenty percent? Thirty? Where's the domestic and diversification strategy? The institutions that survive this decade will be the ones that stopped treating international enrollment as a faucet and started treating it as a hedge.\n\nTwo supporting stories reinforce the frame. First, University Affairs published an argument for why Canadian academics shouldn't boycott U.S. conferences despite the political tension across the border. It's a smaller debate, but it speaks to how Canadian institutions are navigating their relationship with an increasingly unpredictable American academic environment — and that positioning matters for brand and reputation. Second, from The PIE News: Australia's independent tertiary sector is accusing its government of 'choking' international education and the country's long-term skills pipeline through rising costs and tighter policy. I include this deliberately as a parallel. Australia is a few steps ahead of Canada on the restriction curve, and the sector there is now openly warning about the damage. It's a preview of the political fight Canadian institutions may be having in eighteen months. Watch how the Australian providers frame their counterargument — there are messaging lessons in it for the Canadian sector.\n\nQuick item on the real estate marketing front. RisMedia reports that Kelly Silver has taken on a dual chief marketing officer role across two large Berkshire Hathaway HomeServices regions, overseeing brand and marketing strategy for both. On its own it's an executive move, but read it as a trend signal. Brokerage networks are consolidating marketing leadership — one senior marketer running brand across multiple regions rather than each region maintaining its own function. That's a cost and consistency play, and it tells you where the industry's head is: centralize the brand, standardize the tools, scale the marketing operation. For a brokerage thinking about how to modernize its marketing — and about where AI-driven efficiency fits into agent productivity and brand consistency — this is the organizational direction of travel. Worth tucking away as context for the real estate lane.\n\nClose to home now, in Kamloops, where the municipal election continues to dominate local coverage. Castanet has two threads worth tracking. School-board candidates are pitching fixes for the classroom space crunch — a real infrastructure pressure as the city grows, and one that connects to housing and family affordability. And in a broader voter-sentiment piece, Kamloops residents are naming integrity, homelessness, and public safety as their top concerns heading into the vote. That integrity theme is worth watching as a continuation of the city-hall controversy we covered earlier this week — the mayor's recall-of-messages order has clearly seeped into how voters are framing the race. When integrity becomes a ballot-box issue, it reshapes turnout and it reshapes which candidates get oxygen. If you're paying attention to the local civic landscape — and as a property owner and resident you should be — this is the thread that matters most in the final stretch.\n\nTwo global items to keep you oriented as a senior leader.\n\nThe one with the most strategic weight: Microsoft unveiled its Maia 300 custom AI chip, and Axios frames it exactly right — every major Nvidia customer is now also a Nvidia competitor. The trillion-dollar AI race is shifting from software to silicon. Microsoft, Google, Amazon — they're all building their own chips to escape Nvidia's pricing power and to control the economics of inference, which is the computing needed to actually generate AI responses at scale. Why should you care? Because the cost of running AI is about to start falling as this competition bites, and that changes the math for every client deploying AI at scale. The tools you recommend will get cheaper and more capable, but the vendor landscape is also going to get more fragmented and more political. Lock-in risk is real. It's another argument for advising clients to stay portable rather than marrying a single stack.\n\nAnd for geopolitical awareness: drones struck two ships in the Black Sea off Bulgaria, sinking one and triggering rescue operations. It's another escalation in the maritime theatre of a conflict that keeps finding new ways to touch global shipping and energy routes. Nothing that demands action from you, but it's the kind of background instability that keeps pressure on commodity prices and supply chains — worth holding in your peripheral vision.\n\nOne genuinely promising item in the longevity file, and it clears the source bar. Nature Medicine published a secondary analysis of trial data on HIV. The finding: both the patient's own antibodies and infused, broadly neutralizing antibodies against HIV help delay viral rebound after someone stops antiretroviral therapy. In plain terms, this is a step toward durable, treatment-free HIV control — the long-sought goal of letting people manage the virus without lifelong daily medication. It's early, it's a secondary analysis, and it's not a cure. But it's real science from a top-tier journal pointing in a hopeful direction, and it's the kind of quiet progress that doesn't make headlines but genuinely moves medicine forward.\n\nA couple of final items. An update on the Pope Leo story from the weekend: Pope Leo the Fourteenth has arrived at Rome's Gemelli hospital for surgery to remove a lung nodule. He walked in under his own power, which is a reassuring sign. We flagged the nodule earlier in the week; this is the follow-through, and it's worth noting for the global attention it draws.\n\nAnd closer to your world: British Columbia's three major party leaders made a campaign stop at the Vancouver trade board to pitch their economic plans with the provincial election just weeks away. For you, with property and family across the province, the thing to listen for in the coming days is where these leaders land on housing and short-term rental policy. That's the lever that touches your Sun Peaks, Langley, and Vancouver holdings directly, and campaign season is when the positions get locked in.\n\nSo here's the throughline, Midya. Across AI, higher ed, and even the chip wars, the market is shifting from 'can we do this' to 'should we, and how do we govern it.' That's your terrain. The Unilever outcome-first story and the Canadian academics' containment warning are two halves of the same thesis you're building — accountability as the real deliverable. I'd pick one of those two for a post this week; the governance angle is the more ownable of the two. Keep the Quebec enrollment story close for your higher-ed conversations, and watch the BC campaign for housing signals. That's your Tuesday. Go make something of it.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "11 of the best-funded GEO startups racing to win AI search",
-      "summary": "Adweek maps a crowded, well-capitalized field — led by Profound's $1.8B valuation — chasing the same prize: getting brands surfaced inside AI-generated answers rather than blue links.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/11-best-funded-geo-startups-racing-to-win-ai-search/",
+      "headline": "How Unilever tailors AI focus to business outcomes",
+      "summary": "Unilever is anchoring its AI investment to specific business outcomes rather than broad experimentation, a discipline marketing teams increasingly need to justify spend to the C-suite.",
+      "source": "CIO Dive",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazc1dFZucWktdlpQTzNjQ1p4NjB1QmxYSE1aSnJmQ04yRjg0TnpKLTBENVotOTY5OFlmR2Jta3pjNk0xNlMwUl9Kb0EyWDZqd0RPQjFKejNHdGlMTEotenc3Q3haeU83N3MzWmYtQ3dudDZUaDdUUl9EMmw5MjJLSHczY25qMjg?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=600&h=315&crop=1",
-      "contentAngle": "AI Search Readiness: generative-engine optimization is now a funded enterprise category — the 'you don't need a GEO vendor, you need an audit first' positioning piece."
+      "contentAngle": "AI in marketing operations: the outcome-first adoption playbook as an antidote to pilot-purgatory — a framework piece for CMOs buying AI without an ROI thesis."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Google opens AI Mode to prescription drug ads",
-      "summary": "Google is testing pharma ads inside its AI answers — bringing one of advertising's most tightly regulated categories into generative search, a signal that AI Mode is becoming a real monetized ad surface.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
+      "headline": "More damaging AI hacking incidents to come unless changes are made, scientists warn",
+      "summary": "Dozens of Canadian academics joined an international call for stronger AI containment measures, warning that models can't be reliably controlled — a direct governance concern for public institutions deploying them.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/13/more-damaging-ai-hacking-incidents-to-come-unless-changes-are-made-scientists-warn/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=600&h=315&crop=1"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fe3cb8b73-6b06-403e-bd8b-f71a55a64d62%2F09d0bac23f67b8d51ae025d002d5656e9d659a1b60f24a656dc0aa2e32d2d4dd.jpg",
+      "contentAngle": "Public-institution AI governance: Canadian scientists saying models can't be contained — the risk-register angle for universities and public bodies writing FIPPA-aware AI policy."
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "Universities are making divergent choices on AI — and their public missions are at stake",
-      "summary": "The Conversation examines how institutions are landing in very different places on AI adoption, raising the question of whether those choices align with their obligations as public bodies.",
-      "source": "The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3dLOXdrd2IyNnpjakNSWlVQR3VybHp3UkxUSlJua05vZG1hWUpUV3B0aG5SNV9kVjI0OWJ1c2t3YnMtSWFnQThuZFUwbmRoV05Ybzc0bDNFUjRzc2VORnVJN3N3dmVoNjlWQkZPcjBOWXg3czg3RlQ0V1JRRE1MYjBrNjI1c2pYOWllM3JjQ1FWQy1BTVZOVkgwUzQ1akYxemM2RGN3eDVqNEFZRlhBX3lUd1hkRWRQY1JURWZPams4SVJmaXBSVzBn?oc=5",
+      "headline": "Open models have real benefits. Do they outweigh the risks?",
+      "summary": "Following Anthropic's report flagging a model as a major cyberattack risk, the open-vs-closed model debate sharpens — a decision point for any institution weighing data residency against capability.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip"
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "11 of the best-funded GEO startups racing to win AI search",
-      "summary": "Adweek maps a crowded, well-capitalized field — led by Profound's $1.8B valuation — chasing the same prize: getting brands surfaced inside AI-generated answers rather than blue links.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/11-best-funded-geo-startups-racing-to-win-ai-search/",
+      "headline": "How Unilever tailors AI focus to business outcomes",
+      "summary": "Unilever is anchoring its AI investment to specific business outcomes rather than broad experimentation, a discipline marketing teams increasingly need to justify spend to the C-suite.",
+      "source": "CIO Dive",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazc1dFZucWktdlpQTzNjQ1p4NjB1QmxYSE1aSnJmQ04yRjg0TnpKLTBENVotOTY5OFlmR2Jta3pjNk0xNlMwUl9Kb0EyWDZqd0RPQjFKejNHdGlMTEotenc3Q3haeU83N3MzWmYtQ3dudDZUaDdUUl9EMmw5MjJLSHczY25qMjg?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=600&h=315&crop=1",
-      "contentAngle": "AI Search Readiness: generative-engine optimization is now a funded enterprise category — the 'you don't need a GEO vendor, you need an audit first' positioning piece."
+      "contentAngle": "AI in marketing operations: the outcome-first adoption playbook as an antidote to pilot-purgatory — a framework piece for CMOs buying AI without an ROI thesis."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Google opens AI Mode to prescription drug ads",
-      "summary": "Google is testing pharma ads inside its AI answers — bringing one of advertising's most tightly regulated categories into generative search, a signal that AI Mode is becoming a real monetized ad surface.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
+      "headline": "More damaging AI hacking incidents to come unless changes are made, scientists warn",
+      "summary": "Dozens of Canadian academics joined an international call for stronger AI containment measures, warning that models can't be reliably controlled — a direct governance concern for public institutions deploying them.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/13/more-damaging-ai-hacking-incidents-to-come-unless-changes-are-made-scientists-warn/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=600&h=315&crop=1"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fe3cb8b73-6b06-403e-bd8b-f71a55a64d62%2F09d0bac23f67b8d51ae025d002d5656e9d659a1b60f24a656dc0aa2e32d2d4dd.jpg",
+      "contentAngle": "Public-institution AI governance: Canadian scientists saying models can't be contained — the risk-register angle for universities and public bodies writing FIPPA-aware AI policy."
     },
     {
       "id": "story-ai-2",
       "category": "AI & Tech",
-      "headline": "Universities are making divergent choices on AI — and their public missions are at stake",
-      "summary": "The Conversation examines how institutions are landing in very different places on AI adoption, raising the question of whether those choices align with their obligations as public bodies.",
-      "source": "The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3dLOXdrd2IyNnpjakNSWlVQR3VybHp3UkxUSlJua05vZG1hWUpUV3B0aG5SNV9kVjI0OWJ1c2t3YnMtSWFnQThuZFUwbmRoV05Ybzc0bDNFUjRzc2VORnVJN3N3dmVoNjlWQkZPcjBOWXg3czg3RlQ0V1JRRE1MYjBrNjI1c2pYOWllM3JjQ1FWQy1BTVZOVkgwUzQ1akYxemM2RGN3eDVqNEFZRlhBX3lUd1hkRWRQY1JURWZPams4SVJmaXBSVzBn?oc=5",
+      "headline": "Open models have real benefits. Do they outweigh the risks?",
+      "summary": "Following Anthropic's report flagging a model as a major cyberattack risk, the open-vs-closed model debate sharpens — a decision point for any institution weighing data residency against capability.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip"
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600"
     },
     {
-      "id": "story-higher_ed_canada-0",
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Meta's TikTok link ban could hobble media buyers' creator campaigns",
+      "summary": "Meta is blocking brands from linking to TikTok in ads; buyers accept blocking a rival but say stopping outbound links is a structural constraint that reshapes cross-platform creator strategy.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/social-marketing/meta-tiktok-ad-ban-advertisers/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2025/01/ad-dollars-move-tiktok-ban-2025.jpg?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "'Don't be boring': How Smirnoff, Hinge cozy up to Gen Z through culture",
+      "summary": "With younger consumers avoiding bars and rethinking dating, Smirnoff and Hinge marketers argued at Advertising Week that cultural fluency, not frequency, wins Gen Z attention.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/dont-be-boring-how-smirnoff-hinge-cozy-up-to-gen-z-through-culture/832572/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/C7163_TNRNdGwxmf1dgzatHCS45ZQbwEyYsfrozpRHc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BVzI2X05ZMjYtSUQ2ODYtU0hPV0lORy1VUC1JTi1DVUxUVVJFLVdPUkxELUJVSUxESU5HLUFORC1QQVJUSUNJUEFUSU5HLUlNUEFDVEZVTExZXzE0LkpQRw==.webp"
+    },
+    {
+      "id": "story-intl_students_canada-0",
       "category": "Higher Ed",
-      "headline": "AI literacy and the new admissions disadvantage",
-      "summary": "An Inside Higher Ed argument that admissions offices should be transparent about their AI-detection policies — because opaque screening is quietly creating a new equity gap among applicants.",
-      "source": "Inside Higher Ed",
-      "url": "https://www.insidehighered.com/opinion/views/2026/10/12/ai-literacy-and-new-admissions-disadvantage-opinion",
+      "headline": "Quebec proposes halving foreign workers, cutting student numbers",
+      "summary": "Quebec is proposing to halve temporary foreign workers and cut international student intake, the sharpest provincial signal yet that Canada's recruitment pipeline is policy-contingent and needs scenario planning.",
+      "source": "Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONG1aWWhfaG5ONDZsai1heXhXTTFvZWdVcG1ONFRmTXZHR1NGT2M1UnpQcm5fM3BJbGM0ZFpvb3MwdlJuU3VqQ0YxY1VXeTJ3SnBDOWplSENlYmtiM1NNUTZNSGxLN1dRYy1KME5YNmdCMmdkR1R4VzZaNk5VUFFqWS1BdTJSMVE4VTVZTXA3RC1TZWd6eGZycEcyZHJDaTFOVnlVNXZjLThNNnVlb1pITENoWVJ0Q3d0cFZieG5Xd1VpRnFreHJuMm9lTnhENjBLWHJKX9IB2gFBVV95cUxQN3VwWnBzcUgxOEx2NXFQVlh2a21Oa3VrdjBNcTZ6RndsdFJodkxoLXNJR1IzS0RIVnNJclBJVVBzMXdGbDVUNW1CeUd2WERKRk5vaVh4VzkxMFl2LUFoek0zNms0b3IzM0dYQ1Q2R1kxZHdxRDdsTE05bzZuYUozYVQ1RW44bERnMGVwTG9BNnZ1NnBWRWh4cGwzSzJoZVJaQ05xRjFxcW82bnBvc2pOaFV2bGVHeGxlN2RRd0NadHlhVThuRHJoY3lQQnlCMVRjaUU2amJGS2gzZw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "Why Canadian academics shouldn't boycott U.S. conferences",
+      "summary": "University Affairs argues Canadian scholars should keep attending U.S. conferences despite political tension, a debate shaping cross-border academic engagement and institutional positioning.",
+      "source": "Education News Canada",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdGVXbmpCb3FmWUR5Nlp1VFRIazJXYmdzTjlVQk54RlptdGlENzFJVTlNN09ZbE5QLXNJanZOdEg4TkMwZ1ZFdF9zZWlROEZHOHJUa05YUnJxZXVxNXBHclhRWVNtRmV4VjJEWlVKYjlfclFrYlFDTmUySU1iYTU1Z1BtYUdkSDV4VkR3UFNCRjJFaE51Z3BrN0RtVnBtRUtjam45cFJ3NHVORlltbXR4SkVOV2MwejBVTkhBUVRWb1VnV1RkLWpISFRqcXc2RV9WM2kwOUNB?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "ITECA warns Australian policy is 'choking' international education",
+      "summary": "Australia's independent tertiary sector accuses the government of throttling international education and the skills pipeline through rising costs and tighter settings — a cautionary parallel for Canada's own tightening.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/iteca-warns-australian-policy-is-choking-international-education-and-skills-pipeline/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university",
-      "imageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-09/GettyImages-1471170655.jpg?itok=9aECAYIG",
-      "contentAngle": "AI in higher-ed enrollment: the case for publishing an AI-detection disclosure in admissions — a governance checklist enrollment offices can adopt now."
-    },
-    {
-      "id": "story-higher_ed_canada-1",
-      "category": "Higher Ed",
-      "headline": "UK universities revoke offers amid visa crackdown",
-      "summary": "UK institutions are pulling offers to students from Bangladesh, Pakistan and Nigeria as visa rules tighten — a destination-market disruption that reshapes where globally mobile students look, with Canada a direct beneficiary or casualty.",
-      "source": "The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2hlbWt0c2U3VllmOTJCa2Q2R2hTb2VHS19PZS1keS1WeElfMW9Fb1VQTWZUZTlaNEpHMkxNWEQ4Q1BEa1NyZ1EwU3dfTko3SGtHQTNfTDZYTWRxblktc1hBeHVJdUxKUzFlMVRGYk9SWUlleHE3VjZ6czB3WGQ1c3NSMmVZZVNvOFpWcnIwd0Q3a3cwTElqQlVMYkhuYWNfMFBwTEZtTHVtWWk0T01iUmFqN0w0VjBhTVdOYm02SE1QQQ?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    },
-    {
-      "id": "story-higher_ed_canada-2",
-      "category": "Higher Ed",
-      "headline": "Study-in-Canada fair connects Hong Kong families with Canadian institutions",
-      "summary": "A recruitment fair in Hong Kong is channeling demand toward Canadian colleges and universities — a reminder that in-market recruitment events still anchor the funnel even as policy caps bite.",
-      "source": "The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdFVaLUtFYmFuSWRFVnFoTjh5SXJTMEdRNnJKOUZkY1ZYUzZDVVYtLVZsSnhvdk1QNEc2TTlQZDU0bFJYQXNnblV5Uy1EZTBGQXRBeWNPS3l4WDJQMVRRaHE3bGRiYlhwQTdQc3FYb2NHaENDOW5ISXhyODViNDF5MWxoV3FPaEFITEpNNGJzUHpkckhkelJya0dRLUZNaFZXN3pvN0lRajh3a1RfWkFUT0ltU3hoZUhPVmdwYzJZcFB6T0k1ZGthT3hCaU5sbHFxNnpZMDBTSF9TbkN6cVhOb2wxX28?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/10/iStock-2198864178.jpg"
     },
     {
       "id": "story-canadian_real_estate-0",
       "category": "Real Estate",
-      "headline": "eXp names new CEO at eXpcon, unveils launches",
-      "summary": "The cloud-brokerage giant reset its top leadership and rolled out new agent tools at its annual conference — a bellwether for where large brokerage operating models are heading.",
-      "source": "Inman",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5iNDEtbmJVbENlTi1MY2RwWlVIcmh6Y3dHNjJHelIzLU4tY1hodXhmMGRxamNMYVZfVzlVbGRUTFp2elFBR1dSTkltTHV6RG5FNHpsNlVTMUpIN0ZkNVZnNDZndnljYmlCdEtyUFYtZGJxNDFXZ042QzV0NXFaX0Vra1NRd3FyTGJyaE1ONTlwWUlrOHRScVRaTmY2emxWcW5QMEN6c1czVFZUc1JzOVBR?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "house"
-    },
-    {
-      "id": "story-canadian_real_estate-1",
-      "category": "Real Estate",
-      "headline": "Mortgage AI needs a standard of trust built on experience",
-      "summary": "A HousingWire analysis argues lender AI adoption is outrunning accountability, and that two decades of mortgage cycles should inform how the industry builds trust, oversight and financial protection into AI tools.",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/mortgage-ai-trust-standard/",
+      "headline": "Kelly Silver assumes dual CMO role for two BHHS regional giants",
+      "summary": "A veteran marketer takes on brand and marketing strategy across two large Berkshire Hathaway HomeServices regions, a signal of consolidation in how brokerage networks centralize marketing leadership.",
+      "source": "RisMedia",
+      "url": "https://www.rismedia.com/2026/10/12/kelly-silver-assumes-dual-role-cmo-two-bhhs-regional-giants/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Image-from-iOS.jpg"
-    },
-    {
-      "id": "story-canadian_real_estate-2",
-      "category": "Real Estate",
-      "headline": "Down payment assistance needs standardization, not simplification",
-      "summary": "Analysis of $6.5B in declined loan volume found 35% could have been salvaged with structured DPA data standards — a quiet reminder that data plumbing, not product, often gates deals.",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/dpa-mismo-data-standards/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Contributors-Piece-2026-10-05T160949.325.png"
+      "imageUrl": "https://www.rismedia.com/wp-content/uploads/2026/10/101226_KellySilver.jpg"
     },
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "Kamloops mayor ordered to recall messages over 'flagrant disregard'",
-      "summary": "An update on the city hall controversy: the mayor has been ordered to recall messages after a finding of flagrant disregard — a records-governance fight unfolding at the centre of the 2026 election.",
+      "headline": "ELECTION 2026: Kamloops trustee hopefuls pitch fixes for school space crunch",
+      "summary": "School-board candidates are pitching solutions to Kamloops's classroom space crunch, continuing the local election coverage ahead of the vote.",
       "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTEZoQmJKVERPU2luMUVIYnNPcFB6M3F3MUNFWlltZDkxUXc4MzI2NnVvUGJXdUw5OUlzb2FqbEZsQzNXU3dUUHF2UGlsTnA4M3V3eVVDYWpRWEhUOVdtMzU1dzNJSzUyY05IZld0NEdTaDVEeVRiSVRQX1lTREdKcF82M244X011R1gwTENZWkU0N0VBaU5hUFpQdzFlcEFWaXA1YmNGdWEwb3R4TDA3SWp2ZVN2UmVYMXdwcllVcklnemRq?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWd0eEVkUGxKMHR5MVRMRFh0VDhBcUl6bTdmTXI4eDB3UC03Vm5IREZWUE1GX1VpVmM2ZFdQYXpTSHVCOW44bU8wUy1iZVE4RmZicVYzY2RKWnRrTEUwRTdOQ2ZQVnh1Ni05R2RzSWEzMDdmOG5qelBaZGRIdnRDUC1TZjQ4Y2xuc01aTnp0MTlva080SDFpZGtuX0hBZmVSbW1LT09zeEdpNGxvaGZVREQzRW4xenozQjdBVnAxeWFwSHlIenREeg?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -172,21 +174,10 @@
     {
       "id": "story-kamloops_sun_peaks-1",
       "category": "Local News",
-      "headline": "Tower crane going up at Kamloops Centre for the Arts site",
-      "summary": "A tower crane is set for installation at the Kamloops Centre for the Arts construction site — a visible sign the long-planned downtown cultural project is moving into a major build phase.",
+      "headline": "ELECTION 2026: Kamloops voters eye integrity, homelessness, public safety",
+      "summary": "An update on the Kamloops race: voters name integrity, homelessness and public safety as top concerns, with the city-hall controversy earlier this week sharpening the integrity theme.",
       "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2dlWF96alRHbG9uNFJnZnBiSXc4ekdhVWlGSW1RdEtHRTh2Nk1SLXJjLTh1c2dtd0NLSlRoTlpZRVdTd24xLWlGRHdEU2V6LTFIb1RsbFNqUkFBdTlra2NSZ2VEWTU1SEpWMkxQcWxGVV91REh0WU14R003MENLT1NMSEZ0WHVlM21xa00tWWhhUnJlOGc0NzJIcGlTT1M5ZUZZd1RjdnFLOFAyTnVSMHRCOFJmZmRmeTZ5Z3k5TWZTX0U3OWZCTlg3dw?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "mountains"
-    },
-    {
-      "id": "story-kamloops_sun_peaks-2",
-      "category": "Local News",
-      "headline": "Kamloops trustee candidates weigh student wellbeing, AI and SOGI",
-      "summary": "School board candidates debated classroom AI alongside student wellbeing and SOGI — a local preview of the governance questions every public institution now faces on AI use.",
-      "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3p3al9KdXlHbWJLZFYyanYxendHdDBaUXFDUm5MbEtWeDBPMGZTaVhkbTl4YW1oVEV3TEprUlVsUERxLVFhVEJZUHF3ZHBxRmxQQ3V2WGFwMzNyaTJmdFR3NTdxWThjSXl1ck1XX2VSZXdpMW1EdGRiMUxqMGRxTXR1SVFON2JJTXJSRnoyNXYzWEVNRFdCZGUwVVE1Q0dMVGVDemluNVRZMkp6Zl9WQk81OUF4UkVuZHN1YnJUalFGN1JnUkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVlFqa3JxWGNZV01rUk56eVFkaFA0WEhDZXNObWM5dkNSNEQwTVBOMDlCWUFVb1o0N0lVRm95WUFQbkVhTTc2ZWNlaFg3QnpKbC1iZHZWOWUwdVMxcDh2aUJyVDg3dENiOHEyaDJ4TUtPVWRCUWExUWRDdnAzYndJUkprczJIbFZYWi1zWlFPaUstSHFHMFAzV0NtYUM4NzJROW1XVHNKYjJUQjBRTXd5b2w2S2RrQ0NqdTZSMUZaWHRwUQ?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -194,50 +185,62 @@
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Canada's trade minister leads 300-member mission to India",
-      "summary": "Trade Minister Maninder Sidhu is in India this week as the two countries aim to land a free-trade agreement by year-end — a thaw with real implications for trade, talent and international-student flows.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/10/12/trade-minister-leading-300-member-mission-to-india-this-week/",
+      "headline": "Every major Nvidia customer is now a competitor as Microsoft reveals Maia chip",
+      "summary": "Microsoft unveiled its Maia 300 custom silicon, deepening Big Tech's push to wean off Nvidia and signalling the AI race is shifting from software to the economics of inference.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F218505c0-61e2-4eaf-a1d4-e8b938af50a4%2F822af2155b44f06fd33644858a70d2f1fa055354cdae5276bd22e31b03296076.jpg"
+      "imageUrl": "https://images.axios.com/XT7u-IURQjtenmY-PZT2TS-ApQk=/393x0:1473x1080/320x320/2026/10/12/1791823054821.png"
     },
     {
       "id": "story-global_business_tech-1",
       "category": "Global",
-      "headline": "France open to defence deals with Canada despite arms-autonomy push",
-      "summary": "An update on the France-Canada thread: the new ambassador in Ottawa says Paris wants closer defence-procurement ties with Canada even as it champions European arms independence.",
+      "headline": "Drones hit ships in Black Sea, sinking one, Bulgaria says",
+      "summary": "Drones struck two ships off Bulgaria in the Black Sea, sinking one and prompting rescue operations — a fresh escalation in the maritime theatre with implications for shipping and energy routes.",
       "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/10/12/france-open-to-defence-deals-with-canada-despite-its-push-for-arms-autonomy-envoy/",
+      "url": "https://cfjctoday.com/2026/10/12/drones-hit-ships-in-black-sea-sinking-1-and-prompting-rescue-operations-bulgaria-says/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F21ace98a-ac0b-4949-8941-30d43983679f%2F1cbd180d011a0d41d1cc858cb02b7c2a43d234b3bccac89caa8f49fd9d688ad2.jpg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F73fa4a84-7037-46ed-90d8-8a098993f9c4%2Fa54645906acbc78805b2754fad1b89e7ff1e41665d670cf74ab8db32c47da590.jpg"
     },
     {
       "id": "story-longevity-0",
       "category": "Longevity",
-      "headline": "A health-system-scale atlas of cancer cachexia",
-      "summary": "Nature Medicine, 52,236 patients: longitudinal data links cancer weight-loss episodes to systemic blood signatures and specific tumour genotypes, and shows the wasting can be predicted early from integrated clinical and molecular data.",
+      "headline": "Autologous and broadly neutralizing antibodies drive ART-free HIV control",
+      "summary": "Nature Medicine secondary analysis: both host and infused antibodies against HIV help delay viral rebound after stopping antiretroviral therapy, pointing toward durable, treatment-free HIV control.",
       "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04689-9",
+      "url": "https://www.nature.com/articles/s41591-026-04714-x",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "leaf",
-      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04689-9/MediaObjects/41591_2026_4689_Fig1_HTML.png"
+      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04714-x/MediaObjects/41591_2026_4714_Fig1_HTML.png"
     },
     {
       "id": "story-misc-0",
       "category": "Misc",
-      "headline": "Watchdog investigating after police shoot man in Burnaby",
-      "summary": "B.C.'s police watchdog is seeking witnesses after an officer shot a man in Burnaby — a developing Metro Vancouver incident worth noting for family in the region.",
+      "headline": "Pope Leo XIV arrives at Rome's Gemelli hospital ahead of lung surgery",
+      "summary": "An update on the story from the weekend: Pope Leo XIV has been admitted to Gemelli hospital for surgery to remove a lung nodule, walking in under his own power.",
       "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/10/11/watchdog-investigating-after-police-officer-shoots-man-in-burnaby-b-c/",
+      "url": "https://cfjctoday.com/2026/10/13/popes-motorcade-leaves-vatican-for-expected-admission-to-hospital-for-surgery-to-remove-lung-nodule/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fbc68913f-f9c0-4b08-90f2-169b4574ec06%2F94f780a949e28e6076815abbb163759f3c66a58a56ef094b4c774d846f0ac06e.jpg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fead7c7a7-4548-450e-bba9-8674ddd9cb2d%2Fc9ade8873705f506a4b8dc450b954f48117e8877502fd49ce40e576c938d4607.jpg"
+    },
+    {
+      "id": "story-misc-1",
+      "category": "Misc",
+      "headline": "B.C. party leaders make campaign stop at Vancouver trade board ahead of election",
+      "summary": "B.C.'s three major party leaders pitched business leaders in Vancouver with the provincial election weeks away, a signal of where economic and housing priorities are headed province-wide.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/13/b-c-party-leaders-make-campaign-stop-at-vancouver-trade-board-ahead-of-election/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Ff86249ab-c2f4-4b7a-952b-548e4008a221%2F0a6167044be3fc5dc1afdc5678a7cc74a779a7945d799a4381aa1cb181e73194.jpg"
     }
   ],
   "audioChapters": [
@@ -245,76 +248,83 @@
       "id": "c1",
       "title": "AI & Tech",
       "category": "AI & Tech",
-      "duration": "3:41",
+      "duration": "3:38",
       "startSeconds": 13
     },
     {
       "id": "c2",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "3:06",
-      "startSeconds": 234
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "2:01",
+      "startSeconds": 231
     },
     {
       "id": "c3",
-      "title": "Real Estate & AirBnB",
-      "category": "Real Estate",
-      "duration": "2:24",
-      "startSeconds": 420
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:21",
+      "startSeconds": 352
     },
     {
       "id": "c4",
-      "title": "Local News",
-      "category": "Local News",
-      "duration": "1:46",
-      "startSeconds": 564
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "0:56",
+      "startSeconds": 493
     },
     {
       "id": "c5",
-      "title": "Global News",
-      "category": "Global",
-      "duration": "1:21",
-      "startSeconds": 670
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:01",
+      "startSeconds": 549
     },
     {
       "id": "c6",
-      "title": "Longevity",
-      "category": "Longevity",
-      "duration": "1:00",
-      "startSeconds": 751
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:28",
+      "startSeconds": 610
     },
     {
       "id": "c7",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "0:46",
+      "startSeconds": 697
+    },
+    {
+      "id": "c8",
       "title": "Misc",
       "category": "Misc",
-      "duration": "0:26",
-      "startSeconds": 811
+      "duration": "0:54",
+      "startSeconds": 743
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "Google opens AI Mode to prescription drug ads",
-    "summary": "Google is testing pharma ads inside its AI answers — bringing one of advertising's most tightly regulated categories into generative search, a signal that AI Mode is becoming a real monetized ad surface.",
-    "source": "Adweek",
-    "url": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
+    "headline": "More damaging AI hacking incidents to come unless changes are made, scientists warn",
+    "summary": "Dozens of Canadian academics joined an international call for stronger AI containment measures, warning that models can't be reliably controlled — a direct governance concern for public institutions deploying them.",
+    "source": "CFJC Today Kamloops",
+    "url": "https://cfjctoday.com/2026/10/13/more-damaging-ai-hacking-incidents-to-come-unless-changes-are-made-scientists-warn/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=600&h=315&crop=1"
+    "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fe3cb8b73-6b06-403e-bd8b-f71a55a64d62%2F09d0bac23f67b8d51ae025d002d5656e9d659a1b60f24a656dc0aa2e32d2d4dd.jpg",
+    "contentAngle": "Public-institution AI governance: Canadian scientists saying models can't be contained — the risk-register angle for universities and public bodies writing FIPPA-aware AI policy."
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "11 of the best-funded GEO startups racing to win AI search",
-    "summary": "Adweek maps a crowded, well-capitalized field — led by Profound's $1.8B valuation — chasing the same prize: getting brands surfaced inside AI-generated answers rather than blue links.",
-    "source": "Adweek",
-    "url": "https://www.adweek.com/media/11-best-funded-geo-startups-racing-to-win-ai-search/",
+    "headline": "How Unilever tailors AI focus to business outcomes",
+    "summary": "Unilever is anchoring its AI investment to specific business outcomes rather than broad experimentation, a discipline marketing teams increasingly need to justify spend to the C-suite.",
+    "source": "CIO Dive",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazc1dFZucWktdlpQTzNjQ1p4NjB1QmxYSE1aSnJmQ04yRjg0TnpKLTBENVotOTY5OFlmR2Jta3pjNk0xNlMwUl9Kb0EyWDZqd0RPQjFKejNHdGlMTEotenc3Q3haeU83N3MzWmYtQ3dudDZUaDdUUl9EMmw5MjJLSHczY25qMjg?oc=5",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=600&h=315&crop=1",
-    "contentAngle": "AI Search Readiness: generative-engine optimization is now a funded enterprise category — the 'you don't need a GEO vendor, you need an audit first' positioning piece."
+    "contentAngle": "AI in marketing operations: the outcome-first adoption playbook as an antidote to pilot-purgatory — a framework piece for CMOs buying AI without an ROI thesis."
   },
-  "heroImageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=600&h=315&crop=1"
+  "heroImageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fe3cb8b73-6b06-403e-bd8b-f71a55a64d62%2F09d0bac23f67b8d51ae025d002d5656e9d659a1b60f24a656dc0aa2e32d2d4dd.jpg"
 }
