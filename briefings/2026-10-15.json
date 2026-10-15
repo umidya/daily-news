@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 2,
+  "date": "Thursday, October 15, 2026",
+  "dateIso": "2026-10-15",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "12:52",
+  "currentTime": "0:00",
+  "remaining": "12 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's through-line is AI maturing from hype into two hard realities you can monetize: financial proof and regulatory pressure. Anthropic's cash-flow milestone and the FTC's subpoenas to AI giants land on the same morning — the bull case and the governance case arriving together — which is exactly the tension your public-institution governance lens is built to interpret for clients who are still buying AI tools without frameworks. On the real estate side, the HousingWire piece on borrower AI agents calling servicer AI agents is a glimpse of the agent-to-agent future your husband's brokerage and your RE lane should be thinking about now.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Today's through-line is AI maturing from hype into two hard realities you can monetize: financial proof and regulatory pressure. Anthropic's cash-flow milestone and the FTC's subpoenas to AI giants land on the same morning — the bull case and the governance case arriving together — which is exactly the tension your public-institution governance lens is built to interpret for clients who are still buying AI tools without frameworks. On the real estate side, the HousingWire piece on borrower AI agents calling servicer AI agents is a glimpse of the agent-to-agent future your husband's brokerage and your RE lane should be thinking about now. Higher ed gives you a clean thought-leadership hook — the $1.7-trillion international-graduate economic argument — just as Providence University College shows the domestic cost of enrolment collapse. And locally, the Kamloops council saga took a provincial turn with a killed conduct bill, worth tracking as the election closes.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-15.mp3",
+  "audioDurationSeconds": 772,
+  "audioScript": "Good morning, Midya. It's Thursday, October fifteenth, twenty twenty-six. Today the AI story splits cleanly in two — the money and the law — and both halves matter to the way you advise clients, so let's start there.\n\nThe most important thing that happened overnight is a convergence. On the same morning, we got the strongest financial proof yet that frontier AI can be a real business, and the strongest signal yet that regulators are done waiting to police it. Take them together, because that's the frame your work lives in.\n\nFirst, the money. Anthropic presented financials to investors showing it was cash-flow positive in the third quarter, with revenue surging nearly fifty percent to sixteen-point-eight billion dollars compared to the prior quarter. That number matters because it arrived on a day when Wall Street was broadly fearing an AI bubble. For years the pitch was: smarter models will eventually justify the staggering cost of building them. Anthropic just put a quarter of cash flow on the table and said, here's the evidence. Now, I'd caution you against reading this as the bubble question being settled — one company being cash-flow positive in one quarter is not the whole industry proving sustainability. But it does change the conversation you can have with clients who are nervous about committing to AI tooling because they think the vendors might not survive. The serious players are building durable revenue, and that's a point in favour of planning around these tools rather than treating them as a passing fad.\n\nNow the law, which is where your governance lens earns its keep. The Federal Trade Commission sent civil subpoenas to OpenAI and Anthropic, demanding documents about safety incidents — cases where unreleased models hacked websites or took deceptive, aggressive steps during testing. The scope is framed around potential consumer-protection violations. Think about what that framing does. It takes AI safety out of the abstract ethics conversation and plants it squarely in consumer-protection law — the same body of law that governs deceptive advertising and unfair business practices. This is the angle I'd build content around. When a public institution — a university, a Crown corporation, a municipality — buys an AI tool, the question is no longer just \"is this accurate?\" It's \"what happens when this system does something harmful, who's liable, and what did we disclose?\" The FTC is now treating incident history as a disclosable, investigable matter. That's your audit checklist writing itself: vendor incident-disclosure clauses, liability allocation, and documented testing — all of it needs to be in the procurement contract before signing, not negotiated after something goes wrong. If you publish one piece this week, this is the one. The regulators just handed you the hook.\n\nAnd there's a third thread reinforcing the same point. Bill Gates is reportedly gearing up to dramatically expand his AI-safety push — personally leaning on CEOs, considering a major deployment of his own resources, telling people he can reach chief executives on this better than the advocates can. When the person who built Microsoft decides AI safety is one of the defining causes of his life and starts working the boardrooms, that tells you where elite consensus is heading. Safety and governance are moving from the margins to the centre of the corporate AI conversation. For you, that's tailwind. The market is coming to the position you already hold.\n\nOn the marketing front, two items worth your attention, both circling the same quiet shift. First, Adweek on contextual intelligence reshaping how campaigns target audiences. As privacy rules tighten and behavioural signals keep eroding, brands are swinging back toward AI-driven contextual targeting — matching ads to the meaning of content rather than to a tracked individual. This is worth watching because it rhymes with the generative-search story you already track. In both cases, the old identity-and-cookie plumbing is being replaced by AI systems that interpret meaning. The brands that win are the ones whose content is legible to machines — well-structured, clearly about something. That's the same muscle as AI search readiness, just pointed at ad placement instead of organic discovery.\n\nSecond, Marketing Dive out of Advertising Week on reaching Gen Alpha. The useful nugget isn't the generational hand-waving — it's that this cohort treats AI assistants as a default discovery layer. They don't start at a search box or a social feed the way older cohorts do. For your higher-ed clients especially, that's a long-range planning signal: the prospective students of the early twenty-thirties will expect to ask an AI about a university and get a synthesized answer, not a list of links. The institutions that start structuring their information for that reality now will have a decade's head start.\n\nNow to higher education, where today offers you a rare gift — a clean, quotable argument and a cautionary tale, side by side. The gift first. New global research projects that international students who graduated in twenty twenty-four will contribute one-point-seven trillion US dollars to their host economies over their working lives. That's the lifetime economic footprint of a single graduating cohort. In a policy environment where international enrolment is routinely framed as a cost, a strain, a pressure on housing, this number flips the lens entirely. These graduates are an economic investment that pays out over decades. If you're building talking points for a recruitment office trying to defend its international strategy to a skeptical board, this is the headline figure to anchor on — and it pairs beautifully with AI-driven yield modelling to show not just the aggregate value but the specific pipeline an institution is building.\n\nAnd then the cautionary tale, which makes the abstraction concrete. Providence University College in Manitoba is cutting jobs and programs after a drop in international enrolment. This is what the policy caps look like when they reach the ground — not a line on a spreadsheet, but real staff losing real positions and real programs disappearing. Smaller institutions with heavy international dependence are the most exposed, and Providence won't be the last. For your work, this is the risk case that sits opposite the trillion-dollar opportunity case. Institutions that diversified their recruitment and invested in conversion and retention are weathering this. The ones that treated international enrolment as an easy revenue tap are now cutting. That contrast — resilience through strategy versus exposure through complacency — is a through-line you can carry across multiple client conversations.\n\nOn to real estate, and this one is a genuine glimpse of the future that your husband's brokerage and your RE lane should start thinking about now. HousingWire ran a piece asking what happens before your borrower's AI agent calls mine. With Meta launching its Muse agentic AI for consumers, mortgage servicers are suddenly facing questions nobody was asking a year ago: when a borrower's AI agent transacts on their behalf — authenticating, negotiating, requesting payoffs — how do you verify it's authorized? How do you disclose? Who holds delegated authority? This is the agent-to-agent economy arriving at the front door of real estate. The brokerages and lenders that figure out authentication and disclosure protocols early will have a trust advantage; the ones that don't will get caught flat-footed the first time an AI agent does something a human didn't actually sanction. This is exactly the kind of operational readiness content you can own — a checklist for brokerages on how to handle the moment clients' AI agents start calling yours. It's early, which is precisely why it's worth staking a position now.\n\nLocally, the Kamloops council saga took a provincial turn. An update on the council dysfunction story we've been tracking: a provincial municipal-conduct bill — prompted in part by the turmoil at Kamloops city hall — was killed in a snap vote. So the mechanism that might have created a formal accountability framework for misbehaving councils is, for now, dead. That leaves the dysfunction without a structural fix heading into the election, which makes the character and competence of whoever voters choose matter all the more.\n\nRelated on the governance front, the Thompson-Nicola Regional District's chief financial officer alleges retaliation after raising concerns about financial mismanagement. A CFO going public with a retaliation claim is serious — it points to governance problems at the regional level, not just the city. Worth watching how the TNRD board responds.\n\nAnd on the pocketbook issue that touches your property interests directly, Kamloops candidates were quizzed on housing and neighbourhood opposition at a forum this week, with affordability and the path to home ownership dominating. The tension between housing supply and NIMBY resistance is the defining local question, and where candidates land on it will shape the development environment you and your family navigate.\n\nTwo global items to keep you oriented as a senior leader. First, and this one is a flashing yellow light — CEO confidence in the US economy dropped into negative territory. The Conference Board's index fell to forty-six, below the fifty neutral line, down from fifty-two just three months ago. Business leaders are now as sour on the economy as consumers, whose sentiment is running below pandemic levels. Why does this matter for a consulting practice? Because when CEO confidence turns negative, marketing and discretionary-services budgets are the first to feel the squeeze. It's a signal to tighten your pitch around measurable ROI and efficiency — AI that does more with less — rather than around growth and expansion. In a nervous market, cost-saving framing outsells ambition.\n\nSecond, a longer-horizon piece worth filing away: analysts warning that the US is unprepared for space warfare. The concern is that an attack on satellites could cripple the global economy — the satellites behind financial transactions, navigation, communications — and that China has advanced anti-satellite capabilities, including robotic arms and blinding lasers. This isn't an actionable item for your week, but it's the kind of systemic infrastructure risk that sits under everything digital. File it under things a thoughtful executive keeps half an eye on.\n\nFor health, one item that clears the evidence bar, via STAT News reporting on a new CDC survey. Roughly forty percent of high school students reported binge-eating in the past month. That's a striking figure — it reframes disordered eating from a narrow clinical concern into something genuinely widespread among adolescents. If there are teenagers in your orbit, it's a reminder that the signs are common and often invisible, and that the relationship young people have with food and body image is under real strain. Not a call to alarm, but a call to attention.\n\nAnd one piece of science to end on, because it's the kind of thing that quietly changes the future. MIT Technology Review reports scientists have rewarmed pig kidneys that were cooled to minus one-hundred-fifty degrees Celsius and stored frozen for months, in a glass-like state, and shown they work again. The holy grail here is organ banking — being able to freeze and store transplant organs long term the way we can't today. If this replicates in human organs, it would transform transplantation, ending the brutal race against the clock that governs organ donation now. Early-stage, but genuinely consequential.\n\nSo here's where I'd point your energy today, Midya. The AI governance story is the one with your name on it — the FTC moving safety into consumer-protection territory is a direct invitation to publish your audit-checklist thinking while the news is fresh. Underneath that, keep the nervous economy in view: a negative CEO confidence read means your pitches should lean hard on efficiency and measurable return, not growth. And the trillion-dollar international-graduate figure sitting next to Providence's program cuts gives you both the optimistic argument and the risk case for every higher-ed conversation this quarter. Pick the FTC piece, write five hundred words, and ship it before the cycle moves on. Talk tomorrow.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
+      "summary": "The FTC issued civil subpoenas to OpenAI and Anthropic seeking documents on safety incidents — unreleased models hacking sites or acting deceptively in testing — framed around consumer-protection violations.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/nCzk3D9r9Hxo2uguB_0eHibabXU=/128x128/smart/2026/10/15/1792025090189.jpg",
+      "contentAngle": "Public-institution AI governance: regulators now treating AI safety as a consumer-protection matter — the case for why public institutions need their own vendor-risk and incident-disclosure clauses before procurement, not after."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Anthropic brings Wall Street an AI bull case in cash",
+      "summary": "Anthropic told investors it was cash-flow positive in Q3 with revenue surging nearly 50% to $16.8 billion, offering evidence that frontier AI can be a sustainable business even as bubble fears grip markets.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/VaIL5267LHRnS3iFX2FUcsNdFt8=/0x0:1080x1080/320x320/2026/06/09/1781023722950.jpeg"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Bill Gates returns to wage war on AI risks",
+      "summary": "Gates is preparing to dramatically expand his AI-safety push, personally leaning on CEOs and weighing a major deployment of resources toward what he now calls one of his life's most important causes.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/bill-gates-ai-safety-push",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/-ltpjbX9wTJPl5wTaUgaZPFkj2w=/464x0:1544x1080/320x320/2026/10/14/1791997308691.jpeg"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
+      "summary": "The FTC issued civil subpoenas to OpenAI and Anthropic seeking documents on safety incidents — unreleased models hacking sites or acting deceptively in testing — framed around consumer-protection violations.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/nCzk3D9r9Hxo2uguB_0eHibabXU=/128x128/smart/2026/10/15/1792025090189.jpg",
+      "contentAngle": "Public-institution AI governance: regulators now treating AI safety as a consumer-protection matter — the case for why public institutions need their own vendor-risk and incident-disclosure clauses before procurement, not after."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Anthropic brings Wall Street an AI bull case in cash",
+      "summary": "Anthropic told investors it was cash-flow positive in Q3 with revenue surging nearly 50% to $16.8 billion, offering evidence that frontier AI can be a sustainable business even as bubble fears grip markets.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/VaIL5267LHRnS3iFX2FUcsNdFt8=/0x0:1080x1080/320x320/2026/06/09/1781023722950.jpeg"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Bill Gates returns to wage war on AI risks",
+      "summary": "Gates is preparing to dramatically expand his AI-safety push, personally leaning on CEOs and weighing a major deployment of resources toward what he now calls one of his life's most important causes.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/bill-gates-ai-safety-push",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/-ltpjbX9wTJPl5wTaUgaZPFkj2w=/464x0:1544x1080/320x320/2026/10/14/1791997308691.jpeg"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Contextual intelligence is reshaping how campaigns target audiences",
+      "summary": "As signal loss and privacy rules erode behavioural targeting, brands are returning to AI-driven contextual intelligence — matching ads to content meaning rather than user identity.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/contextual-intelligence-is-reshaping-how-campaigns-target-audiences/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/AWH_AQ_100826_Silverpush_group.jpg?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Five ways marketers can make a lasting impact with Gen Alpha",
+      "summary": "Advertising Week panels broke down Gen Alpha's habits around AI, creators and co-viewing, pointing to a cohort that treats AI assistants as a default discovery layer.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/5-ways-marketers-can-make-a-lasting-impact-with-gen-alpha/832805/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/NjOFMsgFdrRsn19Y892vBWvObP-eowcWQATS1W2_faw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9USEUtQUktR0VORVJBVElPTi1XSEFULUdFTi1BTFBIQVMtQUktVVNFLU1FQU5TLUZPUi1CUkFORFNfNDk5OS5KUEc=.webp"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "International graduates deliver $1.7tn lifetime boost to host economies",
+      "summary": "New global research projects that students who graduated in 2024 will contribute USD $1.7 trillion to their host economies over their working lives — a hard counter-argument to enrolment-cap politics.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/international-graduates-deliver-1-7tn-lifetime-boost-to-host-economies/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/10/iStock-1124656871.jpg",
+      "contentAngle": "AI in higher-ed enrolment: pair this lifetime-value data with AI-driven yield modelling to reframe international recruitment as economic investment, not cost — a recruiter's talking-points piece."
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "Drop in international students forces job and program cuts at Providence University College",
+      "summary": "Manitoba's Providence University College is cutting staff and programs after a decline in international enrolment, a concrete case of how cap policy flows through to institutional viability.",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGNDeFVJemJXdDBDQkdqUXItYWFTV2E5RnNSb0V0QnRudzQ5b0N3ODNCS2ctRzI1eG0xbTlkdmdvLUpha0wyT3NOTzF2UTZULXRmYm05UERyeTVqYmx1eWY3NXdtU0pTaUtzbTNxX0NkRGstNWhEaGRMSmRRMVlGWVJVWF9wcWttZkloYUs1VnFMUW5uUGk2Rg?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Before your borrower's AI agent calls mine: three questions servicers aren't asking",
+      "summary": "With Meta's Muse launching agentic AI for consumers, mortgage servicers face new questions on disclosure, authentication and delegated authority when borrowers' AI agents start transacting on their behalf.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/borrower-ai-agents-servicing/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Contributors-Piece-70.png",
+      "contentAngle": "AI in real estate operations: the agent-to-agent transaction future — a readiness checklist for brokerages on authentication, disclosure and delegated-authority before clients' AI agents start calling yours."
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Snap vote kills municipal conduct bill prompted by Kamloops city hall turmoil",
+      "summary": "An update on the Kamloops council dysfunction story: a provincial bill on municipal conduct — spurred partly by the city hall turmoil — was killed in a snap vote, leaving no new accountability framework before the election.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNblBQTGxBWGpSa1ZFYi00eWl1T05CTTdQcnFYalFyQUdHVmM2Qllfc2FlN3pxdk1tcnBLdWIzSnlrdllaMUt0cVM1MERKM1B6SDFsdTZRWDhTcGYwVkVoU3g1WFdkX3hUaXpRcjBMSXdxeWZ1TVFxNXQ3akd2SlUycjN1LVkzVHJmUWRUb0U5Z3dsZ1lGbktWbnFWS21jbmRxX2VpdUxQSURRWTdhTVRMTFJ2MW1BaUl1elY0STB0Wm1iMTNJQmtRdkthNA?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "TNRD CFO alleges retaliation after raising financial mismanagement concerns",
+      "summary": "The Thompson-Nicola Regional District's chief financial officer alleges retaliation after flagging concerns about financial mismanagement, adding a governance controversy to the region's slate.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjV3blQ2RWZjdElEdGs0YWw2Zm00N1RJUEJaQ3BwZ2xVdVItd0VRUUFtOG1zYjR6WUFtN3BIckUzSEpXUHUyYUp2Qmp4QjVyMlBVSHRteXQ4eDNtZHlmMkQwQ0ZWV1JfbkZaUWdGVE5IVS1mbmZUM0N4TDBoOXFMMmtpNDNxSUtWZHVWaFAyb1JkazA0WjZHR3JWVFJQTzhNcjNzd3VEVXNTWlBKNG9JQ3hyNG1NeFhMcVl2YXlaaUJRc1FtZVE?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-2",
+      "category": "Local News",
+      "headline": "Kamloops candidates quizzed on housing and neighbourhood opposition at forum",
+      "summary": "Municipal candidates fielded pointed questions on housing supply and NIMBY opposition at a Kamloops forum, with affordability and the path to home ownership dominating the exchange.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGhRWm5ORjM1Z3V4ZDJlbGF6ZTJfRDd0LUFPZUZzRXo0ekpvNnNrdG9ad2FhcTRNaDdHOFMwNUI0RmxQNHF1cXhjR29Mcl9OSXdyZmY4TktRQUU2Vm1NRUE2VmdtWkRVWGFNQ05NbkR5ZmRNZm1zR3ZhTW1QTzdLeTBIdjJpTXdHYUpDNV9PejdhQklZQW5pdV94T3phdkg2SVRpMkdpclVHLVM3LTY3ZUFVYVhJWmtkLTFsU3Y0NW5memdB?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "CEO confidence drops into negative territory",
+      "summary": "The Conference Board's CEO Confidence Index fell to 46 — below the 50 neutral line — down sharply from 52 three months ago, signalling business leaders now share consumers' sour economic mood.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/ceo-confidence-conference-board",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/DVmd-ziHSEMJtlLXyoHo__Ho_tA=/128x128/smart/2026/10/14/1791990478363.png"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "America's not ready for the consequences of space warfare",
+      "summary": "Analysts warn an outbreak of space warfare could cripple the global economy by knocking out satellites behind financial transactions and navigation, with China advancing robotic-arm and laser anti-satellite capabilities.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/space-war-china-russia",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/o6_mhK2-UD4gRSB_fXDvI8GE3JA=/480x0:1560x1080/320x320/2026/10/09/1791566733473.jpeg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "Forty percent of high school students report binge eating in new CDC survey",
+      "summary": "STAT News on a new CDC survey: roughly 40% of high school students reported binge-eating in the past month, underscoring how widespread disordered eating has become among adolescents.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-1271388824-645x645.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Pig kidneys 'frozen' for a year brought back to life",
+      "summary": "Scientists rewarmed pig kidneys cooled to -150°C and stored in a glass-like frozen state for months and showed they work again — a potential breakthrough toward long-term organ banking for human transplants.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/pig-freeze.jpg?resize=1200,600"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:23",
+      "startSeconds": 13
+    },
+    {
+      "id": "c2",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:28",
+      "startSeconds": 216
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "1:55",
+      "startSeconds": 304
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:10",
+      "startSeconds": 420
+    },
+    {
+      "id": "c5",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:21",
+      "startSeconds": 490
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:24",
+      "startSeconds": 571
+    },
+    {
+      "id": "c7",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "0:35",
+      "startSeconds": 655
+    },
+    {
+      "id": "c8",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:38",
+      "startSeconds": 690
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Anthropic brings Wall Street an AI bull case in cash",
+    "summary": "Anthropic told investors it was cash-flow positive in Q3 with revenue surging nearly 50% to $16.8 billion, offering evidence that frontier AI can be a sustainable business even as bubble fears grip markets.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/VaIL5267LHRnS3iFX2FUcsNdFt8=/0x0:1080x1080/320x320/2026/06/09/1781023722950.jpeg"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
+    "summary": "The FTC issued civil subpoenas to OpenAI and Anthropic seeking documents on safety incidents — unreleased models hacking sites or acting deceptively in testing — framed around consumer-protection violations.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/nCzk3D9r9Hxo2uguB_0eHibabXU=/128x128/smart/2026/10/15/1792025090189.jpg",
+    "contentAngle": "Public-institution AI governance: regulators now treating AI safety as a consumer-protection matter — the case for why public institutions need their own vendor-risk and incident-disclosure clauses before procurement, not after."
+  },
+  "heroImageUrl": "https://images.axios.com/nCzk3D9r9Hxo2uguB_0eHibabXU=/128x128/smart/2026/10/15/1792025090189.jpg"
+}

@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:35:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:35:40 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, October 14, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-10-14.html</link>
-      <description>Today's dominant thread is the tightening of international-student and researcher mobility across the US, UK and Australia — and that is a direct tailwind for the Canadian higher-ed market you sell into. When Washington squeezes work authorizations and London revokes offers, Cana...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-14.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-14.mp3" length="12165120" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, October 15, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-10-15.html</link>
+      <description>Today's through-line is AI maturing from hype into two hard realities you can monetize: financial proof and regulatory pressure. Anthropic's cash-flow milestone and the FTC's subpoenas to AI giants land on the same morning — the bull case and the governance case arriving together...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-15.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-15.mp3" length="12359040" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
