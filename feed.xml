@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:36:45 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, October 16, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-10-16.html</link>
-      <description>Today's signal is concentrated in your core higher-ed lane: Canada's own data now suggests the 2026 study-permit intake will land well below the 408,000 cap, which reframes the enrolment conversation from 'how do we comply with the cap' to 'how do we compete for a shrinking pool....</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-16.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-16.mp3" length="12526464" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Oct 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, October 17, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-10-17.html</link>
+      <description>Today's signal is coming from your core market, not the headlines: the international-student contraction is now showing up as hard numbers — an 18% projected drop across Atlantic Canada — at the very moment Ottawa rewires Express Entry to favour domestic work experience and the U...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-17.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-17.mp3" length="11835264" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
