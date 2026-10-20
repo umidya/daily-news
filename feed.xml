@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 19 Oct 2026 11:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:36:12 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, October 19, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-10-19.html</link>
-      <description>Today's through-line is AI's governance edge sharpening in real time — deepfake attack ads flooding US races, AI finance adoption climbing in mortgage operations, and Silicon Valley's AI giants about to become the world's largest philanthropies. Each is a live demonstration of yo...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-19.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-19.mp3" length="13350144" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Oct 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, October 20, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-10-20.html</link>
+      <description>Today's through-line is AI governance and AI's physical limits — two threads that feed directly into your thought-leadership pipeline. The leading AI companies are quietly building a private self-regulation structure while Goldman warns that power infrastructure, not model qualit...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-20.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-20.mp3" length="13148544" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,323 @@
+{
+  "schemaVersion": 2,
+  "date": "Tuesday, October 20, 2026",
+  "dateIso": "2026-10-20",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "13:41",
+  "currentTime": "0:00",
+  "remaining": "13 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's through-line is AI governance and AI's physical limits — two threads that feed directly into your thought-leadership pipeline. The leading AI companies are quietly building a private self-regulation structure while Goldman warns that power infrastructure, not model quality, is the real ceiling on the AI boom. Both are gifts for your public-institution governance lens: when the vendors regulate themselves, the burden of defensible oversight shifts onto the institutions buying the tools — exactly the gap your FIPPA and data-residency framework fills.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Today's through-line is AI governance and AI's physical limits — two threads that feed directly into your thought-leadership pipeline. The leading AI companies are quietly building a private self-regulation structure while Goldman warns that power infrastructure, not model quality, is the real ceiling on the AI boom. Both are gifts for your public-institution governance lens: when the vendors regulate themselves, the burden of defensible oversight shifts onto the institutions buying the tools — exactly the gap your FIPPA and data-residency framework fills. On the enrolment side, the international-student narrative is shifting from tuition to talent, and Chinese K-12 numbers in Canada are softening, which reshapes how recruitment offices should message and measure. Watch the Kamloops file too — the outgoing mayor's hospitalization closes out an election cycle you've been tracking, and a pile-burning operation near Sun Peaks is worth noting for air quality this week.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-20.mp3",
+  "audioDurationSeconds": 821,
+  "audioScript": "Good morning, Midya. It's Tuesday, October twentieth, twenty twenty-six. The thread running through today is about who controls AI, what physically limits it, and how that lands on the institutions you advise — so let's start there.\n\nThe lead story this morning is one you could write a column about before lunch. Axios is reporting that the leading AI companies — Anthropic, OpenAI and their peers — are quietly building what amounts to a private, national self-governing structure. With Washington largely hands-off, these firms are not just regulating their own technology, they're setting up their own plans to redistribute their wealth and decide how their private fortunes should serve the public good. The framing Axios uses is deliberate and sharp: not since the age of the robber barons have America's industrial titans wielded such sweeping power to shape society.\n\nNow, why does this matter to your practice specifically? Because self-regulation by the vendor is not governance for the buyer. When OpenAI or Anthropic writes its own oversight rules, that is a corporate risk-management exercise — it is not a FIPPA-compliant, data-residency-aware framework for a Canadian public institution. And here's the trap your clients can fall into: they see a vendor publishing a glossy responsible-AI charter and they assume the governance work is done. It isn't. The accountability gap actually widens when the vendor self-regulates, because the institution starts to outsource its own judgment to a supplier whose incentives are not aligned with a British Columbia university's obligations to its students and its privacy commissioner. This is exactly the wedge your public-institution governance lens is built for. The content angle almost writes itself: when the people building the tools become the people policing the tools, the burden of defensible oversight shifts entirely onto the organization deploying them — and most enrolment offices and marketing teams have no framework to carry that weight. That's a thought-leadership post, and it's also a sales conversation.\n\nThe second AI story is the one that keeps the hype honest. Goldman Sachs has told Axios that power — electricity, the grid, physical infrastructure — is probably the forever bottleneck for the AI race. Their warning is blunt: energy infrastructure, not chips and not model quality, is the single biggest risk to the trillions of dollars being poured into the AI build-out. Goldman expects global data-centre power demand to surge by roughly a hundred and seventy percent, and the problem is that Silicon Valley moves fast and breaks things while the electrical grid moves slowly and requires permits. I flag this for you not because you advise energy companies, but because it's the sober counterweight to every breathless AI pitch you'll hear this quarter. When a client or a conference audience asks you whether the AI boom is sustainable, this is your grounding fact: the constraint is no longer imagination, it's megawatts and transmission lines and permitting timelines. That reframe makes you sound like the adult in the room, and it's a useful hedge against being seen as just another AI cheerleader.\n\nAnd a quick third note from the tooling world: Otter.ai has raised three hundred and twenty million dollars from General Catalyst's growth fund, notably as non-dilutive capital tied to marketing results rather than equity. I mention it because Otter is the kind of AI meeting tool that's quietly embedding itself into sales and marketing workflows — and the structure of that financing, capital against marketing spend returns, is itself a signal of how investors now think about AI go-to-market. Worth a glance if you're mapping the martech stack your clients are actually adopting versus the one they're talking about.\n\nOn to higher education, where the international-student picture keeps evolving in ways that matter for enrolment strategy. ICEF Monitor is reporting fresh CAPS-I data: in the twenty twenty-five, twenty twenty-six year, just under thirty-two thousand international K-12 students attended a hundred and twenty-five Canadian public schools in the association's membership. That's a four percent decline year-over-year, and the drop is attributed mostly to fewer Chinese students enrolling. Other key markets are holding up, which is the important nuance — this isn't a broad collapse, it's a concentration risk in one source country softening. For anyone forecasting the post-secondary pipeline, the K-12 numbers are a leading indicator. Fewer Chinese families placing children in Canadian schools today is a signal about the undergraduate funnel two and three years out, and it reinforces the diversification imperative that the enrolment cap already forced onto the sector.\n\nThe companion piece from ICEF is more of a strategy provocation, and it's a good one: what if international recruitment started with graduate success? The argument is that Canadian institutions, operating under the twenty twenty-four enrolment cap and a much tighter market, should reframe their entire recruitment pitch around graduate outcomes rather than enrolment volume. This is squarely in your enrolment-marketing lane, and there's a genuine AI angle here worth developing. If the story you're telling prospective students shifts from \"come here\" to \"here's where our graduates end up,\" then you need data infrastructure to surface and model those outcomes credibly — and AI is increasingly how institutions mine, segment and present that graduate-success evidence in their search and brand presence. The content play: outcomes-first recruitment messaging, powered by AI that can model graduate-success signals, is how a capped institution differentiates itself in generative search and in the SEM funnel. That's a post that connects your AI Search Readiness work to your higher-ed enrolment work, which is exactly the kind of cross-lane thinking that builds a thought-leadership reputation.\n\nTurning to marketing and business leadership. There's meaningful churn at the top of the brand function this week. Performance Marketing World reports a former Dentsu network chief has resurfaced in a new role, and American Express's chief marketing officer has announced her retirement. Individually these are just personnel moves, but collectively they're a reminder that the CMO seat remains one of the least stable in the C-suite — and that instability is, frankly, part of your market. Every CMO transition is a moment when agencies get re-reviewed, strategies get re-litigated, and consultants get hired to bridge the gap. Keep a running mental list of these transitions; they're your pipeline weather report.\n\nTwo brand-strategy case studies are also worth your attention. Anthropologie's CMO, Barbra Sainsurin, is running a holiday campaign that deliberately balances emotional, sentimental brand advertising with hard conversion plays — a creator-led social series on one side, a new DoorDash partnership on the other. It's a clean, teachable example of the brand-versus-performance tension every marketing team is managing in Q4, and the fact that she's articulating it publicly makes it citable. And over at Grindr, the CMO is building a tentpole around Halloween as, in his framing, \"Gay Christmas\" — his sharper point being that brands overlooking queer audiences are leaving real money on the table. Set the specific brand aside; the strategic lesson is audience-first marketing, owning a cultural moment that your core audience already treats as theirs. That's a principle that travels, including into higher-ed and real estate brand work, where the temptation is always to market to everyone and therefore resonate with no one.\n\nOn the real estate and lending front, two structural shifts worth noting from HousingWire. The first is about underwriting, and it's genuinely relevant to how brokerages and originators will operate going forward. Roughly half of Gen Z workers now earn independent income — gig work, multiple streams, non-traditional pay — and lenders are responding by leaning on cash-flow analysis combined with underwriter expertise rather than the old pay-stub-and-T4 model. For a residential brokerage, this is a buyer-qualification story: the next cohort of first-time buyers doesn't fit the box the mortgage system was built for, and the firms that adapt their guidance and their lender relationships to that reality will convert clients the laggards turn away. It's also a natural AI-in-real-estate-operations angle if you ever want it — cash-flow underwriting at scale is a pattern-recognition problem, which is to say an AI problem.\n\nThe second is a policy template from California, where new starter-home laws are letting small developers stack state tools — backyard accessory dwelling units, small subdivisions of up to ten homes — to make previously unviable lots pencil out. I include it not because California is your market, but because the missing-middle supply problem it's addressing is the same one BC and Alberta jurisdictions are wrestling with. When you're advising on where residential development and demand are heading, these regulatory experiments are the leading edge. Watch which tools actually move the needle on supply, because the successful ones tend to migrate north.\n\nClose to home now. First, a practical heads-up: a scheduled pile-burning project near Sun Peaks is set to begin this week. Expect smoke in the area and the possibility of some localized air-quality impact — nothing alarming, but worth knowing if you or family are up the mountain and wondering where the haze is coming from.\n\nSecond, an update on a story we've been tracking through the municipal election. The outgoing Kamloops mayor, Reid Hamer-Jackson — who finished fourth and whose team wouldn't confirm or deny hospitalization rumours in the final campaign week — has now confirmed he was in hospital, telling CBC, in his words, \"I guess it was a heart attack.\" That closes the loop on a rumour we flagged last week and caps what was, by any measure, a turbulent end to his mayoral tenure. I'd wish him well on the recovery.\n\nAnd rounding out the local picture, mayoral runner-up Dever and departing councillor Bass have both offered their reflections on election night. It's the kind of post-mortem that tells you how the new council under mayor-elect O'Reilly will actually function — who's gracious, who's bitter, and where the fault lines will be when the new term begins. If you do any work touching Kamloops institutions, the tenor of these transitions is worth absorbing.\n\nTwo items on the wider stage. The big Canadian story has resolved: Albertans voted decisively to stay in Canada. Early returns show roughly seventy-six percent rejecting separation — a clear repudiation of the separation push we previewed last week. Interestingly, the nine other referendum questions on the ballot produced much closer splits, so the headline is unity on the big question but genuine division on the rest. For your purposes, the relevant read is stability: the business and investment climate in Alberta, where your husband's brokerage operates, just got a reassuring answer to the question that was making some capital nervous.\n\nAnd on the macro front, the US federal budget deficit has swelled to two trillion dollars — the largest since twenty twenty-one — driven in meaningful part by the rising cost of servicing the national debt as interest rates climb. I flag this because it's the kind of backdrop that keeps upward pressure on North American rates and shapes cross-border capital flows. It's a slow-burn factor behind mortgage rates and investment-sale financing, and it's the sort of thing that informs the macro paragraph of any real estate or higher-ed-finance conversation you're having this fall.\n\nFinally, one piece I want to put in front of you for both professional and personal reasons. University Affairs has published a feature on a real research gap: two-thirds of Alzheimer's patients in Canada are women, yet the research enterprise still treats female patients as something of an afterthought in study design. It's a women's-health story, a research-governance story, and — given how Alzheimer's touches so many families — a personally relevant one. I include it partly because the governance critique at its heart rhymes with your own work: systems designed around a default assumption, failing the majority they actually serve, and no one accountable for fixing the design. That's a theme you understand well from the AI-governance side, and it's worth reading for the parallel alone.\n\nThat's your Tuesday, Midya. If you do one thing with this briefing, let it be the AI self-governance story — it's the cleanest setup you've had in a while for a governance-lens post that positions you above the hype and right where your buyers are nervous. The higher-ed outcomes-first angle is your second-best lever today, and it ties your search and enrolment lanes together neatly. Everything else is situational awareness. I'll keep tracking the Kamloops transition and the international-student source-market shift as they develop. Talk tomorrow.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "AI giants build their own self-governing structure as Washington stays hands-off",
+      "summary": "Anthropic, OpenAI and peers are creating private national oversight mechanisms and wealth-redistribution plans in the absence of federal regulation, concentrating societal-shaping power not seen since the robber-baron era.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/20/ai-govern-anthropic-openai",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/-9PlMzxbupZNaGLcjaAbUtQbEXc=/399x0:1479x1080/320x320/2026/10/19/1792429019246.jpeg",
+      "contentAngle": "Public-institution AI governance: when vendors self-regulate, the accountability gap lands on the institutions deploying the tools — the case for an independent FIPPA/data-residency governance lens on every procurement."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Goldman: power is the 'forever bottleneck' threatening the AI race",
+      "summary": "Goldman Sachs warns energy infrastructure — not chips or models — is the biggest risk to trillions in AI spending, with global data-centre power demand set to surge 170% as grid build-out lags.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/iOC9R-UV4WIjSHrAGMJpbtIKHfw=/320x320/smart/2024/05/24/170130-1716570090544.jpg"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Otter.ai raises $320M for its AI meeting tool",
+      "summary": "General Catalyst's growth fund backs Otter.ai with non-dilutive capital for enterprise expansion, signalling continued investor appetite for AI tools embedded in everyday marketing and sales workflows.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "AI giants build their own self-governing structure as Washington stays hands-off",
+      "summary": "Anthropic, OpenAI and peers are creating private national oversight mechanisms and wealth-redistribution plans in the absence of federal regulation, concentrating societal-shaping power not seen since the robber-baron era.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/20/ai-govern-anthropic-openai",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/-9PlMzxbupZNaGLcjaAbUtQbEXc=/399x0:1479x1080/320x320/2026/10/19/1792429019246.jpeg",
+      "contentAngle": "Public-institution AI governance: when vendors self-regulate, the accountability gap lands on the institutions deploying the tools — the case for an independent FIPPA/data-residency governance lens on every procurement."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Goldman: power is the 'forever bottleneck' threatening the AI race",
+      "summary": "Goldman Sachs warns energy infrastructure — not chips or models — is the biggest risk to trillions in AI spending, with global data-centre power demand set to surge 170% as grid build-out lags.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/iOC9R-UV4WIjSHrAGMJpbtIKHfw=/320x320/smart/2024/05/24/170130-1716570090544.jpg"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Otter.ai raises $320M for its AI meeting tool",
+      "summary": "General Catalyst's growth fund backs Otter.ai with non-dilutive capital for enterprise expansion, signalling continued investor appetite for AI tools embedded in everyday marketing and sales workflows.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Former Dentsu chief takes new role; American Express CMO to retire",
+      "summary": "Two senior marketing moves reshape the leadership map — a former Dentsu network head resurfaces and Amex's CMO announces retirement, both signals of the ongoing churn at the top of the brand function.",
+      "source": "Performance Marketing World",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdzl5QTk3anN2N1JRblpma3V4NDVHS0hLVXc5YkRHN3M0dlZTZXRVckVmN09hWndCTDUwOElkN1Q1LWJQa0FPQVlPWmRKQzBRVjVfLXAxNVZZRkI0UTUxT3Y5SFZkOGh3S3A1cGthdUFETmtXUkE1Y0tPbUxtMk5IMy1fdnVVWHdvSEpXSlBpWHJsSXM0Ml9QbEJJSm43aTlod3g2RG1mV2NobDBsTEUxQUhrWVVCdFJ2a3Q3eEFrYTRwRWFRV3lhdk5laFM5TDJDd0FaLWFTUGxBRjNuZUs4S0VrVQ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Anthropologie balances emotion and business impact in holiday push",
+      "summary": "CMO Barbra Sainsurin pairs sentimental brand ads and a creator-led social series with conversion plays like a DoorDash partnership — a textbook brand-versus-performance balancing act heading into Q4.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/anthropologies-holiday-marketing-seeks-to-balance-emotion-business-impact/833172/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/K6Bim8oiULhuN7DZxEaqQ8bQZQW3bigGBSgGV6ar7sk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yU2dwUHhMdi5qcGVn.webp"
+    },
+    {
+      "id": "story-marketing-2",
+      "category": "Marketing",
+      "headline": "Grindr bets on Halloween as 'Gay Christmas' to own a cultural moment",
+      "summary": "Grindr's CMO argues brands overlooking queer audiences are leaving money on the table, building a tentpole campaign around a culturally owned holiday — a sharp example of audience-first brand strategy.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/creativity/halloween-is-gay-christmas-and-grindr-wants-to-own-it/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/GrindrPleasureBall2025.png?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "Chinese enrolments in Canadian public K-12 schools decline, other markets hold",
+      "summary": "CAPS-I data shows 31,875 international K-12 students across 125 member schools in 2025/26, down 4% year-over-year, driven mostly by fewer Chinese students — an early signal of shifting source-market demand feeding the post-secondary pipeline.",
+      "source": "ICEF Monitor",
+      "url": "https://monitor.icef.com/2026/10/canada-chinese-enrolments-in-public-k-12-schools-decline-but-other-key-markets-remain-strong/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/10/vlad-d-qb1yWj0GZ8I-unsplash-1200.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "What if international recruitment started with graduate success?",
+      "summary": "A feature argues Canadian institutions should reframe recruitment around graduate outcomes rather than enrolment volume — a repositioning made urgent by the 2024 cap and tighter market conditions.",
+      "source": "ICEF Monitor",
+      "url": "https://monitor.icef.com/2026/10/what-if-international-student-recruitment-started-with-graduate-success/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/10/passage-1200.jpg",
+      "contentAngle": "AI in higher-ed enrolment: outcomes-first recruitment messaging — using AI to model and surface graduate-success signals that differentiate a capped institution's SEM and brand story."
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Lenders rethink underwriting for Gen Z's independent income",
+      "summary": "With half of Gen Z workers earning independent income, lenders are leaning on cash-flow analysis plus underwriter judgment rather than traditional pay stubs — a structural shift brokerages and originators need to absorb.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/non-traditional-income-underwriting/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Contributors-Piece-2026-10-13T164331.818.png"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "California starter-home laws reshape small-scale building",
+      "summary": "Small developers are stacking state tools — backyard ADUs to 10-home subdivisions — to make lots pencil out, a policy template worth watching as Canadian jurisdictions chase missing-middle supply.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/california-adu-boom-starter-homes/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/ADU-starter-home.png"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Pile-burning project near Sun Peaks starts this week",
+      "summary": "Crews begin a scheduled pile burn near Sun Peaks this week; expect smoke and possible air-quality effects locally — worth noting if you're in the area.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlFiZ0J1SEtBdFUwS2xEZ0FpNHlpM1plVVRxZVNoc256MldvQTZ4MUlBSHpWSzJXejQyaW9kZTBMR2JQUW5Kb3FwUlo5TlNwbGxHYjNrbHRQYTNnN0N3U2U2ZHE1SFFCOWltai1lZ1Y3VFBtY2JaMzRLX2VQQjZrQTc0WkhtaExISTYyLTI4b2pjVWRKSFBVVDQySF96aWJWTHlUNHJJZ2RfWmppNFFtQXNwblRHUDhZSVE?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Outgoing Kamloops mayor hospitalized: 'I guess it was a heart attack'",
+      "summary": "An update to last week's campaign-trail hospitalization rumours: outgoing mayor Hamer-Jackson confirms he was hospitalized with what he describes as a heart attack, closing out a turbulent election cycle.",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUN3RThpdENQZmJTc0RNVDRFeG9zWk15Mi1aODVmSUR3R2pmY2dSLVpXZTloaGQ0dE5rZlZOcmg2WS1kX1QzQzVqbVptX0NndjZlb1NGWWpQVVd5bWN2M1UxVkloUlBJS0p0bE5HbDRScnZwTHhPcFZsNnc5cDh5UVVOMWxaU0RrSlI5dTg0Z1kzaXZqOGxFU3Z3?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-2",
+      "category": "Local News",
+      "headline": "Kamloops mayoral runner-up Dever, outgoing councillor Bass reflect on losses",
+      "summary": "Mayoral runner-up Dever and departing councillor Bass offer post-mortems on election night, rounding out the picture of Kamloops' new council makeup under mayor-elect O'Reilly.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2poVnVSWXNoR21WRkpTR29sem1uY3ZvTjIxU19WQWdSdEhsWjRsY1IzeXZQU2g0TF9VQmlNUDU3Y1ZWSXRZdUR2Qkd5d2I5NmNMSXVXQkE1X3hwTC1RcS0xNGh5UTVXMmlydWFrUDc4ZDRRbFRnMVVhWFE0YXFwaXVRSlJ3bDFnTnhBWTdFTzhCcFI3TUZqRGpGZWJUOGtxUHV0SGlqMWVRa2JoNEhkYzlLbUtuZw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Albertans vote decisively to stay in Canada; closer splits on other questions",
+      "summary": "An update on Monday's referendum: roughly 76% rejected separation, while early returns on nine other ballot questions were much tighter — a clear repudiation of the separation push with mixed signals elsewhere.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/20/albertans-split-in-early-returns-on-remaining-9-referendum-questions/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F6e4dfba0-01b0-4b29-be40-e69e4935c6f2%2Fb2116d14d5f6c0561c8abd186396f531902958abb96c6da85f3ed1738c077770.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "US budget deficit swells to $2 trillion as debt-servicing costs climb",
+      "summary": "The US federal deficit hit its largest level since 2021, driven partly by rising interest costs — a macro backdrop that keeps upward pressure on North American rates and cross-border capital flows.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/20/federal-deficit-debt-interest-rates",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/INfE6oAPvNR2HYAp4vvPgQZ82pU=/128x128/smart/2026/10/19/1792444430730.png"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Why Alzheimer's research still treats women as an afterthought",
+      "summary": "Two-thirds of Canada's Alzheimer's patients are women, yet research design continues to under-serve them — a women's-health and research-governance gap with real family relevance.",
+      "source": "University Affairs",
+      "url": "https://universityaffairs.ca/features/womens-health-gap-alzheimers-research-canada/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:44",
+      "startSeconds": 14
+    },
+    {
+      "id": "c2",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:16",
+      "startSeconds": 238
+    },
+    {
+      "id": "c3",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:49",
+      "startSeconds": 374
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:38",
+      "startSeconds": 483
+    },
+    {
+      "id": "c5",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:20",
+      "startSeconds": 581
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:17",
+      "startSeconds": 661
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:50",
+      "startSeconds": 738
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Goldman: power is the 'forever bottleneck' threatening the AI race",
+    "summary": "Goldman Sachs warns energy infrastructure — not chips or models — is the biggest risk to trillions in AI spending, with global data-centre power demand set to surge 170% as grid build-out lags.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/iOC9R-UV4WIjSHrAGMJpbtIKHfw=/320x320/smart/2024/05/24/170130-1716570090544.jpg"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "AI giants build their own self-governing structure as Washington stays hands-off",
+    "summary": "Anthropic, OpenAI and peers are creating private national oversight mechanisms and wealth-redistribution plans in the absence of federal regulation, concentrating societal-shaping power not seen since the robber-baron era.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/10/20/ai-govern-anthropic-openai",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/-9PlMzxbupZNaGLcjaAbUtQbEXc=/399x0:1479x1080/320x320/2026/10/19/1792429019246.jpeg",
+    "contentAngle": "Public-institution AI governance: when vendors self-regulate, the accountability gap lands on the institutions deploying the tools — the case for an independent FIPPA/data-residency governance lens on every procurement."
+  },
+  "heroImageUrl": "https://images.axios.com/-9PlMzxbupZNaGLcjaAbUtQbEXc=/399x0:1479x1080/320x320/2026/10/19/1792429019246.jpeg"
+}
