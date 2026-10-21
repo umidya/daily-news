@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 2,
+  "date": "Wednesday, October 21, 2026",
+  "dateIso": "2026-10-21",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "12:51",
+  "currentTime": "0:00",
+  "remaining": "12 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's through-line is governance — specifically, who gets to make the call when AI is in the room. A new survey showing executives trust AI over their own judgment at twice the rate of their staff is exactly the kind of finding your Public-Institution Governance Lens was built to interrogate, and it's prime thought-leadership fuel. On the enrolment side, Canada's study-permit processing has stretched to seven weeks for Indian applicants while commentary piles up about whether Canada's international-student appeal is fading — both matter directly to the higher-ed clients you sell into, where pipeline math is already tightening under IRCC caps.",
+  "digestReadingTime": "7 min read",
+  "whyItMatters": "Today's through-line is governance — specifically, who gets to make the call when AI is in the room. A new survey showing executives trust AI over their own judgment at twice the rate of their staff is exactly the kind of finding your Public-Institution Governance Lens was built to interrogate, and it's prime thought-leadership fuel. On the enrolment side, Canada's study-permit processing has stretched to seven weeks for Indian applicants while commentary piles up about whether Canada's international-student appeal is fading — both matter directly to the higher-ed clients you sell into, where pipeline math is already tightening under IRCC caps. Nvidia's sovereign-AI push and Anthropic's forced march to an IPO tell you the infrastructure and capital stakes behind every tool your clients are being sold. Watch the affordability signal too: BC food-bank visits have doubled since 2019, a consumer-stress indicator that bleeds into both real estate and institutional budgets. Keep your antennae on the governance framing all week — it's where your differentiated POV lives.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-21.mp3",
+  "audioDurationSeconds": 771,
+  "audioScript": "Good morning, Midya. It's Wednesday, October twenty-first, twenty twenty-six. The thread running through today's news is governance — who's actually making the call when AI is in the room — and it lands right in your wheelhouse.\n\nLet's start with the story I think you should sit with the longest, because it's almost custom-built for your point of view. Axios is reporting on a new survey from Charter, a workplace research firm, and the headline finding is this: executives are more likely to trust AI than they are to trust themselves. Specifically, nearly thirty-three percent of executives said they trust AI over their own judgment. That's twice the rate of individual contributors — the rank-and-file workers who actually do the hands-on work. Now sit with the irony of that for a second. Leaders are hired precisely for their experience, their pattern recognition, their earned judgment. And they're the ones most willing to hand that judgment to a model. The frontline folks, the people with less positional authority, are more skeptical.\n\nThis is a gift of a story for your governance lens, and here's why. Everyone's been worried about workers over-relying on AI — the junior analyst who copies a ChatGPT answer without checking it. But this survey flips the risk upward. When a senior leader defers to AI, the error doesn't stay contained. It reverberates. It becomes strategy. It becomes a budget line, a policy, an enrolment target, a pricing decision. And in a public institution — a university, a college, a Crown-adjacent body — that's where your Public-Institution Governance Lens earns its keep. The question you can productize out of this is simple and sharp: when a leader defers to AI, where is the accountability layer? Who signs off? Is there a human-in-the-loop requirement that's actually enforced, or is it theatre? Is there a FIPPA-grade record of how the decision was reached? That's a thought-leadership piece practically writing itself — the executive over-trust gap, and the sign-off framework that closes it. I'd flag that as your lead content candidate this week.\n\nTwo more AI stories worth your attention, both about the machinery underneath the tools your clients are being sold. First, Nvidia's Jensen Huang is touring Europe with what Axios describes as a multibillion-dollar checkbook, pushing the idea of sovereign AI — the notion that every country, and by extension every major institution, should build and control its own AI infrastructure rather than renting it from a handful of American hyperscalers. Huang is essentially trying to manufacture demand for his own chips by convincing governments they need localized, customized systems. Now, cynicism about his motives aside, notice what this does to the conversation you're already having with clients about data residency. When the most powerful figure in AI is on stage telling governments they should keep their AI at home, the sovereignty and data-residency argument you've been making to BC public institutions stops sounding like caution and starts sounding like strategy. That's useful air cover.\n\nAnd second, Anthropic — the maker of Claude — is being pushed toward an IPO, and the reporting is blunt about why: the company has simply grown too big for private fundraising. Frontier AI firms are now racking up twelve-figure spending commitments, and private borrowing costs are spiking, so they need the deep liquidity of public markets to keep funding the arms race. Why does this matter to you? Because it's a reminder that the economics of the tools your clients adopt are precarious and consolidating. When you advise a college or a brokerage on which AI platform to standardize on, you're also implicitly betting on that vendor still being around, still being priced the way it is today, in three years. The capital intensity here is a governance risk in itself — vendor concentration, pricing volatility, the chance of a sudden pivot. Worth folding into your diligence checklist.\n\nNow to higher education, where the pipeline math keeps getting harder. The concrete data point today: Indian applicants to Canadian study programs are now facing roughly a seven-week wait for study permits. That's processing friction stacked on top of the intake caps that are already squeezing enrolment. And a seven-week permit wait isn't just an administrative annoyance — it changes yield timing, it changes when a deposit converts to a bum in a seat, and it makes the forecasting that enrolment offices depend on far noisier. This is exactly the kind of operational volatility that argues for AI-driven pipeline modelling and smarter applicant nurture — keeping a committed student warm and confident through a seven-week black box of uncertainty. There's a content lane in that for you: AI in higher-ed enrolment as a hedge against policy-induced unpredictability.\n\nLayered on top of the data is the sentiment. India Today is running a piece asking, bluntly, whether Canada's international-student dream is fading as Ottawa tightens intake. The argument is that the combination of caps, visa friction, and messaging has cooled Canada's appeal in its single most important source market. Whether or not you fully buy the framing, the demand signal is real, and it should shape how the institutions you work with position themselves — because when the top-of-funnel softens, differentiation and conversion efficiency matter more, not less. The schools that win the next two years will be the ones that recruit smarter, not just louder.\n\nAnd for contrast, look at New Zealand, which is moving in exactly the opposite direction. The government there is investing up to two and a half million New Zealand dollars in a dedicated support service to help schools recruit, enrol, and retain international students starting in twenty twenty-seven. While Canada pulls back, New Zealand is building scaffolding to grow. That divergence is worth watching, because international students are mobile, and the destinations that signal openness tend to capture the demand that more restrictive markets shed. If you're advising Canadian institutions, this is the competitive context — the students Canada is making wait seven weeks have other doors opening to them.\n\nOn the marketing front, two campaigns that are more instructive than they first appear. Dollar Shave Club is unifying its advertising under a single omnichannel campaign while continuing to lean into AI, according to its Chief Brand and Innovation Officer, Laura Higgins. The tagline angle — marketing their razors as 'perfectly good' — is a confident, slightly self-deprecating brand voice, and the interesting part is the pairing: a distinctive human brand voice sitting on top of an AI-driven operational backbone. That's the balance every marketing team is trying to strike right now, and it's the exact tension you help clients navigate — how do you industrialize production with AI without flattening the voice that makes a brand recognizable. It's a clean case study to keep in your back pocket.\n\nAnd Domino's has linked up with Minecraft to push a new personal pizza offering, bundling creator content, in-game items, branded packaging, and giveaways. On the surface it's a stunt. But the signal underneath is that gaming and creator ecosystems are now mainstream brand channels, not experimental side bets — and for any client wondering where attention has migrated, this is a data point. The audiences aren't coming back to the old channels; the brands are going to where the audiences already are.\n\nA quick but genuinely useful one on the real estate side, and it's a methodology point more than a market call. HousingWire has a piece arguing that national housing forecasts miss what they call the lot-level reality. The example is Dallas–Fort Worth, where there are something like a hundred and ten thousand vacant developed lots — on paper, thirty-two months of supply, which sounds like a glut. But the actual outcomes are driven by submarket mix, not the headline number. The macro forecast tells you almost nothing without the local data underneath it. I'm flagging it because that principle travels directly to the brokerage world you and your husband operate in — Western Canada markets behave at the neighbourhood and lot level, and anyone selling a national narrative is selling a blur. It's a good reminder, and frankly a good framing for how you'd pitch data-driven, hyper-local intelligence as a brokerage service differentiator.\n\nTwo things from the wider world. First, an update on the Alberta story we've been tracking all week. After Albertans decisively rejected separation in Monday's referendum, Premier Danielle Smith takes questions from reporters today for the first time since the vote. This is the moment where the political fallout gets sorted — how she frames the loss, whether there's a cabinet reset, and what it means for the national-unity conversation going forward. Given that your husband's brokerage has an Edmonton footprint, the stability signal here is worth noting: the separation question is settled, at least for now, and that removes a cloud of uncertainty that had been hanging over Alberta business sentiment.\n\nAnd second, a modest diplomatic thaw: Russia released Stephen Hubbard, a retired American teacher who'd been imprisoned on mercenary charges, during a St. Petersburg visit by US envoy Steve Witkoff. One released prisoner doesn't remake the geopolitics of the Ukraine war, but these gestures are the texture of whatever back-channel diplomacy is underway, and they're worth logging as a leading indicator.\n\nOn health, two from STAT News. The first is actually a marketing-and-trust story wearing a public-health coat, and I think you'll find it quietly fascinating. Some public-health experts are arguing that measles vaccine messaging would be more credible if it stopped leading with death statistics and instead acknowledged the truth that most children who get measles survive. The counterintuitive logic is that overstating the scariest outcome erodes trust, because people can see it doesn't match their lived experience — and once they catch the message exaggerating, they discount everything else. That's a persuasion principle that applies far beyond vaccines: credibility comes from acknowledging the base rate honestly, not from maximum alarm. Worth tucking away, both for your family's sake as measles outbreaks spread and as a communications lesson.\n\nThe second is a watch-item in cancer: the German biotech Immatics is approaching pivotal Phase 3 results for a cell therapy targeting a protein called PRAME in melanoma. After twenty-five years of work, this is their moment, and it's part of the broader push to make cell therapies work against solid tumours, not just blood cancers. Nothing to act on — just a marker on the horizon in a field that matters.\n\nAnd finally, one number I don't want you to skim past, because it's the affordability signal underneath a lot of the other stories. Food Banks Canada's twenty twenty-six HungerCount is out, and in British Columbia food-bank visits have doubled since twenty nineteen — up a hundred percent — with a fourteen percent jump in just the past year. That's more than two hundred and fifty thousand monthly visits in BC, and nearly seventy-six thousand of them are from children. Nationally, food-bank use is up a hundred and seventeen percent since twenty nineteen. This is the real economy under the headline inflation rate, and it connects straight to the housing-cost story, the Bank of Canada's rate decision next week, and the consumer stress that eventually shows up in institutional budgets and real estate demand. When household budgets are this stretched, it ripples outward into everything you advise on. Keep it in view.\n\nSo here's where I'd point your attention, Midya. The governance thread is the one to pull on — that executive over-trust survey is your strongest content opening in weeks, and the sovereign-AI and data-residency drumbeat gives you cover to make the argument with confidence. On the client side, the seven-week permit wait and the fading-dream narrative mean your higher-ed conversations should shift from volume to conversion efficiency. And keep that BC food-bank number somewhere you'll see it — it's the quiet backdrop to every affordability decision this province is about to make. Have a sharp Wednesday; I'll be here tomorrow.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Executives are more likely to trust AI than themselves",
+      "summary": "A Charter survey found 32.8% of executives trust AI over their own judgment — twice the rate of individual contributors — raising the risk of leaders outsourcing hard-won experience to tools they don't govern.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/21/ai-trust-executives-survey",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/i0jk5eunmPa-BDYjOxYhkHkHRXU=/840x0:1920x1080/320x320/2026/10/20/1792511364124.jpeg",
+      "contentAngle": "Public-institution AI governance: the executive over-trust gap is the opening for a 'who signs off' framework — when leaders defer to AI, where's the FIPPA-grade accountability layer."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Nvidia's Jensen Huang wants every country to build its own AI",
+      "summary": "Huang is touring Europe with a multibillion-dollar checkbook pushing 'sovereign AI,' betting governments and institutions will demand their own customized infrastructure — a direct validation of data-residency and localization concerns.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/_13vzjk_UboswwZTt6oieHW3Hmo=/422x0:1502x1080/320x320/2026/10/20/1792521329984.jpeg"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Why Anthropic can't afford to delay its IPO",
+      "summary": "Anthropic has grown too big for private fundraising and is being pushed toward public markets as frontier AI firms rack up 12-figure spending commitments that strain the financial system.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/21/anthropic-ipo-ai-costs",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/W2ZF50NCmM4WlcwYd0tLYJwyEGg=/438x0:1518x1080/320x320/2026/09/23/1790194223976.jpeg"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Executives are more likely to trust AI than themselves",
+      "summary": "A Charter survey found 32.8% of executives trust AI over their own judgment — twice the rate of individual contributors — raising the risk of leaders outsourcing hard-won experience to tools they don't govern.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/21/ai-trust-executives-survey",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/i0jk5eunmPa-BDYjOxYhkHkHRXU=/840x0:1920x1080/320x320/2026/10/20/1792511364124.jpeg",
+      "contentAngle": "Public-institution AI governance: the executive over-trust gap is the opening for a 'who signs off' framework — when leaders defer to AI, where's the FIPPA-grade accountability layer."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Nvidia's Jensen Huang wants every country to build its own AI",
+      "summary": "Huang is touring Europe with a multibillion-dollar checkbook pushing 'sovereign AI,' betting governments and institutions will demand their own customized infrastructure — a direct validation of data-residency and localization concerns.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/_13vzjk_UboswwZTt6oieHW3Hmo=/422x0:1502x1080/320x320/2026/10/20/1792521329984.jpeg"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Why Anthropic can't afford to delay its IPO",
+      "summary": "Anthropic has grown too big for private fundraising and is being pushed toward public markets as frontier AI firms rack up 12-figure spending commitments that strain the financial system.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/21/anthropic-ipo-ai-costs",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/W2ZF50NCmM4WlcwYd0tLYJwyEGg=/438x0:1518x1080/320x320/2026/09/23/1790194223976.jpeg"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Dollar Shave Club markets 'perfectly good' razors as AI push continues",
+      "summary": "The brand is unifying its advertising under an omnichannel campaign while leaning further into AI, per Chief Brand and Innovation Officer Laura Higgins — a tidy case study in pairing brand voice with AI operations.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/dollar-shave-club-markets-perfectly-good-razors-as-ai-push-continues/833343/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/ZBn03HjRefXvN5ruGnFI-DTvCeLzsyJ_qlrTeiR3jyk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV80X3FGdTJkRHQuanBn.webp"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Domino's links with Minecraft to push personal pizza via gaming",
+      "summary": "Domino's collaboration with Minecraft bundles creator content, in-game items, packaging and giveaways — a reminder that gaming and creator ecosystems are now mainstream brand channels, not experiments.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/dominos-links-with-minecraft-to-push-personal-pizza-via-gaming/833357/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/aNJ8M1fp4EqGy7XhRJJLZZdWxshRWMWapcmK051h4Qk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Eb21pbm9zX01pbmVjcmFmdF9QUl9IZXJvX0ltYWdlXzFfQm94RG9taW5vRExDLnBuZw==.webp"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "Indian applicants now face a 7-week study-permit wait for Canada",
+      "summary": "Processing times for Canadian study permits from India have stretched to roughly seven weeks, adding friction to an already cap-constrained pipeline that enrolment offices are trying to forecast.",
+      "source": "Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbDItdFVhZUR3cVFWN1lnUjdETWpwWDFNdTRrZ1lIaE1TRllMcDFJdEh1V3lfR09LSUJnei1MYlVZVnNuMWtEUnVIQzM2aGpSSTdfcVlicXNoMUV1WUlDbGc3TTl1eDdlMGR5U0k1S0VUWHQ0X0c4c1JHemhzcEFPcEZxM3lvOVAwOUJ5alBKUFdXSmg2RWJrRDlTbFlYX01ZaXZfVlF1b19waGJ4RW83bVlRNUlINkdaYllZTlU1WFZ1bmlyX0I3aWxRcEtsZGo1LVlXa012SWQ2NEnSAeABQVVfeXFMTW4wT25LMlZSNGhNWmc2Yk45SEtCUFlLa2lLX0hHSkpoQkFWNE9ENl81bnprcDBySzAwU3BVU1JrQVpzSFJKRDNYNVhPUzVkU2k4bDYtcDNwZy00VHhXdFdILURuMGJTbXpmdXpCY1ktVGphQllrdi0teUh0a29oYWRWLWthYnVWT25VcnpzOG9yaVZqR2ViSGR3OUdJUWdVbHd0NE92V3VZaHVwcUxVTkM0U1BuR2VYNHhkWGVTUDMyZU1FRE9icGh1SE02di1xN3RQOGRtaG1HNVFiRmlWMDk?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "contentAngle": "AI in higher-ed enrolment: permit-delay volatility is the case for AI-driven pipeline forecasting and applicant-nurture sequencing when yield timing is unpredictable."
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "Is Canada's international-student dream fading as Ottawa tightens intake?",
+      "summary": "Commentary mounts that tighter caps and visa friction are cooling Canada's appeal to Indian students, a demand-side signal that reshapes recruitment strategy for Canadian institutions.",
+      "source": "India Today",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd1dRaFZoWUx5SERnbEM5MEZUcTBVbWtHcFdna3B5WW5SWk4wNUtvcUlIajFsVjhHNFY0LXBtdzVmVzhFazM4bzlqQUJFVS1CaEVPZVZPVkhLNUw3NUlDRzBWMkpHMkQ2Y2NGeExpVDJ6Q0sxTnZaM1VGMkxzUi1nRkZiMktUeUVhQUZLeDZUT0ZxNENDdjlBMUNrRFRVblZyaEQzUW5EQzYyczB1ZXZGeDB5a2w5MTl4cGh1Q2U3UzNzQTM2SWNQeFI1aHNqTGs0ZGlYT095WndGNFZIT0Y1RHBtOFAtV253VGVJT0I2X2lKeknSAfgBQVVfeXFMT3Y5Y2dkcGg4dVFKbVFzTTQxMHo1bEEyeTNmTThQRG9RdHVXaHhFNVI3ZWpHM0lIc3FJMThJWm5wUThGSEhiMlUwU1BuM0dHUXl2SF9ma084dnZJNTJZTUt0NEtvRHhYeEdQSUJ0OWk3UVRUZ01qQlQ1QjFma1NwclFjYldoek9oRFQ1VTNEam0zWHZZMGxOY2pCQld4YjBxX1p2VFktd1ZreFFQbFNTRlo5R2hxa255Zi1iTjFNT3RvV2ZqRU9nbjNZSmxVQzdSbmhvSWZpcjdxSzk1QTlhUVdieTV4b05jendJVmdmbld1SkIwWFE3T2o?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "New Zealand invests to help more schools recruit international students",
+      "summary": "New Zealand is putting up to NZ$2.5M into a new service to help schools recruit, enrol and retain international students from 2027 — a counterpoint as Canada and others pull back.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/new-zealand-to-help-more-schools-recruit-international-students/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/10/iStock-1134698121.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "National housing forecasts miss the lot-level reality",
+      "summary": "A look at Dallas–Fort Worth shows 110,000 vacant developed lots equalling 32 months of supply, but submarket mix drives real outcomes — a reminder that macro forecasts mislead without local data.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/underwrite-land-local-data/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2025/11/Scott-Finfer-hero-image.jpg"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Alberta's Danielle Smith to take questions after separation vote defeat",
+      "summary": "An update on Monday's Alberta referendum: Premier Smith faces reporters for the first time since Albertans decisively rejected separation, with cabinet and national-unity fallout now in play.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/21/alberta-premier-danielle-smith-to-take-questions-for-first-time-since-separation-vote/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fdd91fe16-4f22-473b-a697-ff0c1807e7d7%2F7ce3536a2204bb77d484f67def20fb7aeb1fac45576fa9a0f2115ad415b44c8d.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Russia releases detained American Stephen Hubbard during US envoy visit",
+      "summary": "Russia freed the retired American teacher imprisoned on mercenary charges during a St. Petersburg visit by Trump envoy Steve Witkoff — a small thaw signal amid ongoing Ukraine diplomacy.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/21/russia-releases-imprisoned-american-man-us-envoy-witkoff-says-on-visit-to-st-petersburg/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F3b21706d-7cac-4536-a699-6dc4d249cfca%2F452cd1250a265221c1729930c40cf04d962c2a51177f5a8f0dce3313b034f36c.jpg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "A counterintuitive way to build trust in measles vaccines",
+      "summary": "STAT News: some public-health experts argue messaging would be more credible if it acknowledged that most children survive measles rather than leading with death statistics — a trust-and-persuasion lesson as outbreaks spread.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2259640923-645x645.jpg"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "German biotech Immatics nears pivotal Phase 3 cancer results",
+      "summary": "STAT News: after 25 years, Immatics awaits Phase 3 melanoma data for its cell therapy targeting the PRAME protein — a watch-item in the solid-tumour immunotherapy race.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/10/21/immatics-cancer-cell-therapy-targets-prame-protein/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/10/L4A2797-645x645.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "BC food-bank use has doubled since 2019",
+      "summary": "Food Banks Canada's 2026 HungerCount shows BC food-bank visits up 100% since 2019 and 14% in the past year, topping 250,000 monthly with nearly 76,000 from children — a stark affordability signal.",
+      "source": "Daily Hive Vancouver",
+      "url": "https://dailyhive.com/vancouver/bc-food-bank-use-sky-rockets-2026",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/04/food-banks-bc.jpg?format=auto"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:53",
+      "startSeconds": 12
+    },
+    {
+      "id": "c2",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:21",
+      "startSeconds": 245
+    },
+    {
+      "id": "c3",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:21",
+      "startSeconds": 386
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "0:59",
+      "startSeconds": 467
+    },
+    {
+      "id": "c5",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:10",
+      "startSeconds": 525
+    },
+    {
+      "id": "c6",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:19",
+      "startSeconds": 595
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:58",
+      "startSeconds": 674
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Nvidia's Jensen Huang wants every country to build its own AI",
+    "summary": "Huang is touring Europe with a multibillion-dollar checkbook pushing 'sovereign AI,' betting governments and institutions will demand their own customized infrastructure — a direct validation of data-residency and localization concerns.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/_13vzjk_UboswwZTt6oieHW3Hmo=/422x0:1502x1080/320x320/2026/10/20/1792521329984.jpeg"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Executives are more likely to trust AI than themselves",
+    "summary": "A Charter survey found 32.8% of executives trust AI over their own judgment — twice the rate of individual contributors — raising the risk of leaders outsourcing hard-won experience to tools they don't govern.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/10/21/ai-trust-executives-survey",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/i0jk5eunmPa-BDYjOxYhkHkHRXU=/840x0:1920x1080/320x320/2026/10/20/1792511364124.jpeg",
+    "contentAngle": "Public-institution AI governance: the executive over-trust gap is the opening for a 'who signs off' framework — when leaders defer to AI, where's the FIPPA-grade accountability layer."
+  },
+  "heroImageUrl": "https://images.axios.com/i0jk5eunmPa-BDYjOxYhkHkHRXU=/840x0:1920x1080/320x320/2026/10/20/1792511364124.jpeg"
+}
