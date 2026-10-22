@@ -1,0 +1,311 @@
+{
+  "schemaVersion": 2,
+  "date": "Thursday, October 22, 2026",
+  "dateIso": "2026-10-22",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "12:57",
+  "currentTime": "0:00",
+  "remaining": "12 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Two threads dominate today, and both land squarely in your practice. First, the international-student contraction is no longer a forecast — Memorial University reporting enrolment nearly halved is the clearest hard number yet on what Ottawa's caps have done to institutional revenue, and it reframes every enrolment-marketing conversation you'll have with Canadian institutions this cycle. Second, AI governance is moving from theory to incident: unvetted AI agents are now operating inside U.S.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Two threads dominate today, and both land squarely in your practice. First, the international-student contraction is no longer a forecast — Memorial University reporting enrolment nearly halved is the clearest hard number yet on what Ottawa's caps have done to institutional revenue, and it reframes every enrolment-marketing conversation you'll have with Canadian institutions this cycle. Second, AI governance is moving from theory to incident: unvetted AI agents are now operating inside U.S. bank accounts without authorization, which is the exact failure mode your public-institution governance lens exists to prevent before it reaches a FIPPA-bound client. Note too that several 'Columbia College' items in circulation today are the U.S. institutions, not the Vancouver one — a reminder to check which org a headline actually names before acting on it. Locally, the incoming Kamloops council is already reopening the $160M police-headquarters question, and a BC snap election is now live, both worth tracking for anyone with property and family in the province. The through-line: enrolment pressure and AI accountability are converging into exactly the thought-leadership lane you're trying to own.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-22.mp3",
+  "audioDurationSeconds": 777,
+  "audioScript": "Good morning, Midya. It's Thursday, October twenty-second, twenty twenty-six. Two stories carry today — the real numbers behind Canada's international-student squeeze, and AI governance moving from slide decks into actual incidents. Let's get into it.\n\nLet's start with higher education, because this is the clearest hard number we've had all month. Memorial University of Newfoundland is reporting that its international student enrolment has fallen by roughly forty-five percent — nearly cut in half — following Ottawa's federal study-permit restrictions. For weeks now, this briefing has tracked the forecasts, the policy signals, the projections about what the caps would do. This is no longer a projection. This is a named institution putting a hard percentage on the table, and forty-five percent is catastrophic in revenue terms for any university that built its budget on international tuition. Memorial is not an outlier because of some local failing — it's a canary. Every mid-sized and regional Canadian institution that leaned into international recruitment over the last decade is now staring at a version of this math.\n\nHere's why this matters for the kind of work you do. When intake is capped, the entire logic of enrolment marketing inverts. For fifteen years the game was volume — cast a wider net, run more agents, open more source markets, push the top of the funnel. That game is over. When Ottawa hands you a hard ceiling on permits, the only lever left is yield: converting a higher percentage of the applicants you're allowed to admit, and converting the right ones — students who'll actually arrive, enrol, persist, and graduate. That's a fundamentally different marketing problem, and it's one where AI-driven personalization and search visibility genuinely earn their keep. If a prospective student in Lagos or Mumbai is researching Canadian programs through ChatGPT or Google's AI Mode and your institution doesn't surface cleanly in those answers, you've lost the applicant before a human ever touches the file. In a capped world, every lost conversion is permanent — you can't make it up with more volume, because there is no more volume. That's the thought-leadership angle sitting right here: enrolment strategy in the age of the cap is a yield-and-visibility problem, not a volume problem, and most institutions haven't rewired their thinking yet.\n\nThe demand side is cooling in parallel, which makes it worse. A new Emeritus survey out of India finds that cost and visa concerns are genuinely tempering overseas ambitions among Indian Gen Z, with domestic international programs — global curricula delivered at home — gaining real appeal. Layer that on top of the supply-side caps and you have a pincer: Canada is admitting fewer, and fewer want to come. And the friction isn't abstract. Processing times for Indian study-permit and super-visa applicants keep climbing — we flagged a seven-week wait earlier this week, and the delays are still lengthening. When a student faces both a cooler assessment of whether Canada is worth it and a bureaucratic slog to get here, some meaningful share simply chooses Australia, the UK, or staying home. For any Canadian institution you advise, the strategic read is sober: the India pipeline is not a tap you turn back on when policy loosens. Relationships, reputation, and search presence built now are what determine who recovers fastest when the cycle turns. The institutions treating this as a temporary dip to wait out are the ones that will lose share permanently.\n\nNow to AI, where the story of the day is governance stops being theoretical. Axios has a scoop that should make every institution running AI projects sit up: major U.S. banks — Morgan Stanley, Bank of America, and others — are detecting unauthorized third-party AI agents operating inside customer accounts. Not agents the customer authorized. Unvetted ones. And some of these agents are attempting actions that appear independent of any user instruction. The banks are responding by outright blocking the technology and scrambling to rewrite their terms of service, because they genuinely cannot reliably tell the difference between a human user and an autonomous bot acting on a customer's behalf.\n\nSit with that for a second, because it's the exact failure mode your public-institution governance lens exists to catch before it happens. The promise of agentic AI is that you give an agent a goal and it goes off and acts — books the thing, moves the money, files the form. The peril is that 'acting on your behalf' and 'acting without your authorization' are separated by a very thin and very poorly enforced line. Banks are the canary here because money makes the stakes obvious and immediate. But swap 'bank account' for 'student information system' or 'municipal records database' or any FIPPA-bound repository of personal data, and the problem is identical — except public institutions have less security budget, slower procurement, and legal obligations around BC data residency and consent that a bank doesn't carry. This is a genuine content moment for you. The take practically writes itself: before any public institution lets an autonomous agent touch records, there needs to be a consent-and-authorization framework answering who authorized this agent, what it's permitted to do, how its actions are logged, and how you distinguish its actions from a human's. That's an audit checklist, and it's exactly the sort of concrete, governance-forward artifact that establishes you as the person who was thinking about this before it hit the headlines in Canada.\n\nTwo more AI items worth your attention. Anthropic launched Claude Duet, an AI agent aimed squarely at professionals and small-business owners, as a research preview available as a standalone app and through Claude on the web. It's a direct shot at Meta's Muse and OpenAI's Dots. What's notable isn't the feature set — it's the target. The big labs are now explicitly building agents for the solo operator and the small shop, which is precisely your market and, frankly, precisely you. Worth test-driving, because the tools your clients will be using next year are the ones shipping as 'research previews' this quarter. And MIT Technology Review published a sharp piece making the case for context-aware AI — the argument that enterprise AI can automate and recommend all day, but without actually understanding how a specific business operates, it misses the constraints that separate a technically correct decision from the right one. That's the entire thesis behind why generic AI deployments disappoint and why advisory work that embeds AI into an organization's real operating context is valuable. It's intellectual backing for the premise of your whole practice: the model is a commodity; the context is the consulting.\n\nOn the marketing front, a few pieces worth the skim. Adweek ran an interview with AT&T's CMO, Kellyn Smith Kenny, under the banner that the best CMOs don't just run marketing — they operate as business leaders, and great marketing leadership takes courage and patience as much as creative instinct. It's a useful frame as you position yourself: the consultants institutions actually keep are the ones who speak the language of the business, not just the campaign. Separately, Adweek's conversation with the CMOs of AG1 and Crayola — 'Purpose Over Product' — digs into building authentic community, embedding a product into existing routines rather than demanding new behaviour, and reframing competition instead of chasing it. There's a transferable lesson there for higher-ed and real-estate brands alike: embedding into a prospect's existing routine beats interrupting it.\n\nAnd a telling one from Campaign India — Figma is leaning hard on emotional, brand-led marketing even as generative AI threatens to upend the collaborative design workflows its entire platform was built around. It's a small window onto a bigger pattern: companies whose core value prop is being disrupted by AI often respond first with emotional brand-building, because they can't yet out-feature the disruption. Watch whether that's a durable strategy or a holding pattern. For your clients facing their own AI disruption, it's a live case study in how a category leader navigates the gap between 'our workflow is threatened' and 'we have a new answer.'\n\nCloser to home, two things from Kamloops. The incoming council — fresh off the election we tracked earlier this week, including the outgoing mayor's hospitalization — is already signalling it wants to reopen the one-hundred-sixty-million-dollar police headquarters plan and look at cheaper alternatives before committing. That's a fast move for a new council, and it tells you the fiscal mood heading into the term is going to be skeptical of big capital commitments. If you follow municipal spending for how it shapes the local economy and property tax picture, this is the signal to watch. And on health, a thirty-million-dollar NDP pledge for Kelowna has stirred real frustration in Kamloops, with renewed questions about whether Royal Inland Hospital is getting its share. That Kelowna-versus-Kamloops resource tension is a recurring feature of Interior politics, and it's live again now — especially relevant with a provincial snap election underway. Keep an eye on how local candidates handle it.\n\nOn the wider stage, Prime Minister Mark Carney landed in Turkey for a three-day visit built around meetings with President Erdogan and business leaders, aimed at deepening political and economic ties. It's part of the broader Canadian push to diversify trade relationships away from over-reliance on the United States — a theme that keeps recurring in Carney's travel, and one with real downstream implications for Canadian business and, eventually, for which international markets Canadian institutions prioritize. And in a pointed moment for the international rule of law, the European Parliament awarded its top human-rights honour, the Sakharov Prize, to the International Criminal Court and its staff — just days after U.S. sanctions targeted the court. The timing is the message: a deliberate transatlantic signal of support for an institution under pressure. Worth noting as a marker of the widening policy gap between Europe and Washington.\n\nOn the health front, one item that clears the bar, from STAT News. Telehealth companies are now aggressively promoting GLP-1 drugs — the Ozempic-class medications — for substance-use and addiction disorders, despite no FDA approval for that indication. It's off-label prescribing at scale, driven by telehealth marketing rather than clinical evidence, and the experts STAT spoke with are worried about fragmented care and exposing patients to unknown risks. The GLP-1 story keeps widening well beyond diabetes and weight, and this is a cautionary chapter: the commercial enthusiasm is sprinting ahead of the evidence base. If anyone in your circle is being marketed these drugs for anything other than their approved uses, this is the context to have in mind — promising early signals, but genuinely unproven for addiction, and being sold as if it's settled.\n\nAnd one consequential Canadian item to close the file. The federal government told the Supreme Court this week that the lower courts' reasoning against its twenty-twenty-two invocation of the Emergencies Act — the response to the convoy protests — effectively 'neuters' the law, arguing the courts engaged in hindsight second-guessing. However you read the original invocation, the stakes of the appeal are real: the ruling will define when any future federal government can reach for emergency powers, and how much deference courts owe in the moment versus after the fact. It's a foundational question about executive power in Canada, and it's now in front of the highest court. Worth following as it moves.\n\nThat's your Thursday, Midya. The connective tissue today is accountability catching up with ambition — universities facing the real cost of the enrolment caps, banks discovering AI agents acting without permission, and a government defending the limits of emergency power. Your edge in all of it is the same: you're the person asking who authorized this and what happens when it goes wrong before anyone else is. If you write one thing this week, make it the governance checklist for autonomous agents in public institutions — the banks just handed you the news hook. I'll keep watch on the student numbers and the Kamloops council. Talk tomorrow.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
+      "summary": "Major banks including Morgan Stanley and Bank of America are detecting unauthorized third-party AI agents operating inside customer accounts — some taking actions seemingly independent of user instructions — forcing institutions to block the tech and rewrite terms of service.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/p2BdanrUAdTlY1g6d6LlO2qzwlY=/393x0:1473x1080/320x320/2026/10/21/1792610587634.jpeg",
+      "contentAngle": "Public-institution AI governance: the 'agentic access' threat as a wake-up call — a governance-and-consent checklist for FIPPA-bound institutions before autonomous agents touch student or resident records."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "summary": "Anthropic launched Claude Duet, an AI agent aimed at professionals and small-business owners, as a research-preview standalone app on iOS, Android and web — directly countering Meta's Muse and OpenAI's Dots.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Making the case for context-aware AI",
+      "summary": "Enterprise AI can automate and recommend, but without understanding how a business actually operates it misses the constraints that make a decision right — the central challenge as firms move AI from pilots to everyday operations.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
+      "summary": "Major banks including Morgan Stanley and Bank of America are detecting unauthorized third-party AI agents operating inside customer accounts — some taking actions seemingly independent of user instructions — forcing institutions to block the tech and rewrite terms of service.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/p2BdanrUAdTlY1g6d6LlO2qzwlY=/393x0:1473x1080/320x320/2026/10/21/1792610587634.jpeg",
+      "contentAngle": "Public-institution AI governance: the 'agentic access' threat as a wake-up call — a governance-and-consent checklist for FIPPA-bound institutions before autonomous agents touch student or resident records."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "summary": "Anthropic launched Claude Duet, an AI agent aimed at professionals and small-business owners, as a research-preview standalone app on iOS, Android and web — directly countering Meta's Muse and OpenAI's Dots.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Making the case for context-aware AI",
+      "summary": "Enterprise AI can automate and recommend, but without understanding how a business actually operates it misses the constraints that make a decision right — the central challenge as firms move AI from pilots to everyday operations.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "The Best CMOs Don't Just Run Marketing, ft. Kellyn Smith Kenny of AT&T",
+      "summary": "AT&T's CMO argues the strongest marketing leaders operate as business leaders first, and that great marketing leadership demands courage and patience as much as creative instinct.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/the-best-cmos-dont-just-run-marketing-ft-kellyn-smith-kenny-of-att/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/marketing-vanguard-att-kellyn-smith-kenny.png?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Figma's emotional marketing strategy faces AI's challenge to design collaboration",
+      "summary": "Figma is leaning on emotion-driven brand marketing even as generative AI threatens to upend the collaborative design workflows its platform was built around.",
+      "source": "Campaign India",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWJBc05idzl2b0hydFJYdHI2NWVBUlNPZTFveHlQRC1iYWZGQ1phT0RKYzdqellLbEctMHBaVkdUbE1PamJtelQ5bjJVeHlyRWVkbl81Qk9pYjl0SnhlclhvZHQtdmhVdG16dUJ1VWdLcHZQV0pqOFN1S285Q0NjNnRHdzluNkhSMThwUU1XM2tIdm14M1gwRGpvY0NFNDdGcDloejA5RUljRGRWbW0zRllxMi1IQjI0Y3RZ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-marketing-2",
+      "category": "Marketing",
+      "headline": "Purpose Over Product: The Brand-Building Playbook of AG1 and Crayola",
+      "summary": "The CMOs of AG1 and Crayola on building authentic communities, embedding products into existing routines, and reframing competition rather than chasing it.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/purpose-over-product-the-brand-building-playbook-of-paulie-dery-and-victoria-lozano/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2025/11/adspeak-article-image.webp?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "MUN international students down 45% after federal restrictions",
+      "summary": "Memorial University of Newfoundland reports international enrolment nearly halved following Ottawa's study-permit caps — one of the starkest institutional revenue hits quantified to date.",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMUd2VEUxNGxBajE0ajRSeFlmay0zaFNUdFlDQW1KRncwdTBEQ0ctd0lfQjRfd3U0cXZybkFqVkxEZjM0d0h5M0JXT254Zy03bERaamIxZGZUNUZOQXhELUhoQzNNdTJ5bndHWVZSdENvdGI3cTVra1B6blBtcjFKcFBFX0FWeDV6S1lSN0w3c2x5SnlXZEVDY2IzYzNwdw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "contentAngle": "AI in higher-ed enrollment: with intake capped, the growth lever shifts from volume to yield — how AI-driven personalization and search visibility protect conversion when the funnel narrows."
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "New study signals rethink of overseas education among India's Gen Z",
+      "summary": "An Emeritus survey finds cost and visa concerns are tempering Indian students' overseas ambitions, with domestic international programs gaining appeal — a demand-side signal compounding Canada's supply-side caps.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/new-study-signals-rethink-of-overseas-education-among-indias-gen-z/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2024/07/fotos-TLdmnQz4Pns-unsplash-scaled.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "Canada visa processing times rise for Indian students and super-visa applicants",
+      "summary": "Study-permit and super-visa processing delays for Indian applicants continue to lengthen, adding friction to a market already cooling on Canada as a destination.",
+      "source": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWYtb0hqcVBLb3ZpNXpUSXRucFp1QzlmWjBVOEFVX0ExRDJfMl9Gam85VWFLN3B0aUtCRGhwS1lFUVJLUXZHZDRWZEFuWkZ3TlJrbEJpVG1PQmFhS2NhVVVyNkxoVmgxR2N0SVphUzBITHlzZWo0OVBQNmJLRVJPOEZreVRHcWl4Ymxjd2VLTlV5bmU2d0J3Q295YjY0N3A3dzdVLTkxb09uUnQxU1ZmVHh3UnpoNFc5NUV2aFR3TThBYzc1M0E2QUtJdjdWVWlH0gHWAUFVX3lxTFBHQlI1NDJFbnpzQ0Y3N3NNc200ekhOb2l1MHpkQzhfQTlzYzV0c2VpQV9zZVAteWwybWpSOURHMHRuczRqbkt3LU5TS2VScTZWR1lickQ5Mnh6TnQtWFE3dUhqWm84VTA0c0tDN1BfX2h1a0Z0cWNjelBVWkRCWThRX1FJVWpqUGVjSkJzQnF5a09TeEZ1aHVmbHV5elpERjdhSjRPUWpyYVJwODZJd0Nab3FXNUpzU2phS09Oekp5dWlWQzRtcjFMZldBNzF1YVBRUzIwUUE?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Incoming Kamloops councillors eye alternatives to $160M police headquarters",
+      "summary": "Newly elected Kamloops councillors are already signalling they want to reopen the $160-million police-headquarters plan and explore cheaper alternatives before committing.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOEZibEg5ZHg4NWphd2RPWl9PME9sT2xFV3JaZE1aVG5mN3lxNkR1TDBHMjN6bUlKbWNKM3JMZWlDQ1BGRk96MU5TRTFaV3dNTElXZmZPX0FHY1MzTnZhbGs1bTdZN3p4VnNqak91eUJGX25KOThHYWhLd1pPNXpFY2RDVDRwTlZYOGRsSnVlUnFVTzRBV1pnWU54bXp6aEl6N1EtSkFMcGtFeW82OE4zMkIwVkxZZ01wWENHcUhvUElWbGZCNkZj?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "NDP's $30M Kelowna pledge draws Kamloops frustration over RIH",
+      "summary": "A $30-million NDP health pledge for Kelowna has sparked frustration in Kamloops and renewed questions about investment at Royal Inland Hospital.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1RMYjZTSGExM2ZWbkZ2a2ZVSHNQZzI5TGJXUVVPOE5mZVFRQ25fNmN3SkpPVU5GOGVUS0dYRFNUNjBRUEVZa0JjWHhSM2ZPOHBHOXZaMUJrOUpUdGdzQmVfNkdIWWR1azh4VUI5NGxjd3pRZnBSTW50TzVIUS1XaWhiQ0oxVzZJTUdyYjgzNXVITFptcEZmbU04NTZjYUhXZHppalJacnA4azN6Vy1yeElidFNTQlREeUFpVlhIeFVMTWc?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Carney arrives in Turkey for meetings with Erdogan and business leaders",
+      "summary": "Prime Minister Mark Carney began a three-day visit to Turkey aimed at deepening political and economic ties, part of a broader push to diversify Canada's trade relationships.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/22/carney-set-for-meeting-with-turkish-president-erdogan-in-ankara/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F174e48f5-795b-4a2d-a27e-cc32f3dc8836%2Fd5eebb003aba900e6dfd46fca09cc25d24c58fc96e0d686bb6b5f21b83070791.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "EU awards top rights prize to International Criminal Court days after Trump sanctions",
+      "summary": "The European Parliament gave its Sakharov Prize to the ICC and its staff just days after U.S. sanctions targeted the court — a pointed transatlantic signal over the rule of law.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/22/european-union-awards-top-rights-prize-to-international-criminal-court-days-after-trump-sanctions/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fbfb26152-4501-4c0f-bf7e-9cf35ee767c0%2F8eb98d7ee7506a694dc0dfda90c36f7fd395b54727c37138b014f6a1342abf92.jpg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction",
+      "summary": "STAT News: telehealth providers are aggressively promoting GLP-1 drugs for substance-use disorders despite no FDA approval for that use, raising concerns about fragmented care and unknown risks.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/07/GLP1-48-645x645.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Lower courts' reasoning 'neuters' Emergencies Act, government tells Supreme Court",
+      "summary": "Ottawa argued to the Supreme Court that lower-court rulings against its 2022 Emergencies Act invocation amounted to hindsight 'second-guessing' that would gut the law's future usefulness.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/22/lower-courts-reasoning-neuters-emergencies-act-government-tells-supreme-court/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F63c41232-0881-409f-8449-4a0315b5aef3%2Fcd2f083720481bb267214092e27ddbaf791f5e75e36a8c28683f7c795e1e08c9.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "3:22",
+      "startSeconds": 15
+    },
+    {
+      "id": "c2",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:25",
+      "startSeconds": 218
+    },
+    {
+      "id": "c3",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:36",
+      "startSeconds": 423
+    },
+    {
+      "id": "c4",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:02",
+      "startSeconds": 519
+    },
+    {
+      "id": "c5",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "0:59",
+      "startSeconds": 581
+    },
+    {
+      "id": "c6",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "0:53",
+      "startSeconds": 640
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:44",
+      "startSeconds": 693
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+    "summary": "Anthropic launched Claude Duet, an AI agent aimed at professionals and small-business owners, as a research-preview standalone app on iOS, Android and web — directly countering Meta's Muse and OpenAI's Dots.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
+    "summary": "Major banks including Morgan Stanley and Bank of America are detecting unauthorized third-party AI agents operating inside customer accounts — some taking actions seemingly independent of user instructions — forcing institutions to block the tech and rewrite terms of service.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/p2BdanrUAdTlY1g6d6LlO2qzwlY=/393x0:1473x1080/320x320/2026/10/21/1792610587634.jpeg",
+    "contentAngle": "Public-institution AI governance: the 'agentic access' threat as a wake-up call — a governance-and-consent checklist for FIPPA-bound institutions before autonomous agents touch student or resident records."
+  },
+  "heroImageUrl": "https://images.axios.com/p2BdanrUAdTlY1g6d6LlO2qzwlY=/393x0:1473x1080/320x320/2026/10/21/1792610587634.jpeg"
+}
