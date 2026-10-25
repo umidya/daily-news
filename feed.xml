@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 24 Oct 2026 11:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:35:34 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Saturday, October 24, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-10-24.html</link>
-      <description>Today is BC election day, and that single fact touches almost everything in your world — your properties in Sun Peaks, Langley and Vancouver all sit inside the next government's housing and short-term-rental agenda, and your family's province gets a new mandate tonight. Keep an e...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-24.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-24.mp3" length="13692288" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Sunday, October 25, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-10-25.html</link>
+      <description>The single story that reorders your Sunday is the BC election: Conservatives have swept to a majority, David Eby has resigned, and Lorne Doerkson becomes premier-elect. For you that is not spectator news — you own property in Sun Peaks, Langley and Vancouver, and a new government...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-25.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-25.mp3" length="10559616" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
