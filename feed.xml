@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 25 Oct 2026 11:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:44:29 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, October 25, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-10-25.html</link>
-      <description>The single story that reorders your Sunday is the BC election: Conservatives have swept to a majority, David Eby has resigned, and Lorne Doerkson becomes premier-elect. For you that is not spectator news — you own property in Sun Peaks, Langley and Vancouver, and a new government...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-25.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-25.mp3" length="10559616" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Oct 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, October 26, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-10-26.html</link>
+      <description>The dominant thread today is AI moving from story to structure: Anthropic's IPO filing puts a hard number and a 90-page risk list on the industry you're building your thought-leadership thesis around, while a sharp MIT Technology Review piece argues the policy conversation is fix...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-10-26.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-10-26.mp3" length="13772544" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

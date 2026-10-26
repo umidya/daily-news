@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 2,
+  "date": "Monday, October 26, 2026",
+  "dateIso": "2026-10-26",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "14:20",
+  "currentTime": "0:00",
+  "remaining": "14 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "The dominant thread today is AI moving from story to structure: Anthropic's IPO filing puts a hard number and a 90-page risk list on the industry you're building your thought-leadership thesis around, while a sharp MIT Technology Review piece argues the policy conversation is fixating on sci-fi catastrophe and ignoring the everyday harms institutions actually have to govern. That everyday-harms framing is exactly where your Public-Institution Governance Lens lives — FIPPA, data residency, defensible deployment — and it's fresh commentary fuel. On the enrollment side, the UK, Australia, and the US are all tightening the screws on international students and the agents who recruit them, which keeps repricing the Canadian pipeline your higher-ed clients depend on.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "The dominant thread today is AI moving from story to structure: Anthropic's IPO filing puts a hard number and a 90-page risk list on the industry you're building your thought-leadership thesis around, while a sharp MIT Technology Review piece argues the policy conversation is fixating on sci-fi catastrophe and ignoring the everyday harms institutions actually have to govern. That everyday-harms framing is exactly where your Public-Institution Governance Lens lives — FIPPA, data residency, defensible deployment — and it's fresh commentary fuel. On the enrollment side, the UK, Australia, and the US are all tightening the screws on international students and the agents who recruit them, which keeps repricing the Canadian pipeline your higher-ed clients depend on. In real estate, four brokerage giants launching a shared listings platform is the kind of data-access shift that reshapes how brokerages compete — worth watching for the Canadian read-through. And as always, the STAT cancer-vaccine momentum out of ESMO is worth two minutes of your attention. Pay attention to the governance angle this week; it's the most ownable position you have.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-26.mp3",
+  "audioDurationSeconds": 860,
+  "audioScript": "Good morning, Midya. It's Monday, October twenty-sixth, twenty twenty-six. Let's get into what matters today — and the throughline this morning is AI growing up: from a story we tell to a structure institutions have to govern.\n\nStart with the headline the whole industry is reacting to: Anthropic has officially filed for its IPO. This is the company behind Claude, and they beat OpenAI to the public markets with an S-1 that is, frankly, extraordinary reading. The financials show soaring revenue and mounting losses — the classic growth-at-all-costs profile — but the number that stops you is seven hundred and fifty billion dollars in compute commitments. That's not a typo. That's the scale of the bet. They're planning to list on the Nasdaq under the ticker ANT, and they've built in an unusual governance structure designed to preserve founder control and keep the company's stated AI-safety mission intact even as public shareholders come in.\n\nHere's why I'd have you read past the financial-press excitement. The prospectus includes over ninety pages of risk factors — roughly a third of the entire document — and Axios called them the wildest risk factors in IPO history. The company literally warns that its own technology could pose catastrophic risk, including scenarios around models that could blackmail or deceive. Now, cynically, a lot of that is lawyers papering over liability. But strategically, it tells you something about the position Anthropic is staking out: safety as a differentiator, governance as a product feature. For you, building a thought-leadership platform around responsible AI deployment, this is a gift. When the most-hyped AI company on earth makes 'we might be dangerous and here's how we're structured to handle it' a core part of its pitch to Wall Street, that validates the entire premise of a governance lens. Enterprise adoption is also front and centre in the filing — this isn't consumer novelty, it's companies embedding Claude in workflows. That's the market your clients live in.\n\nWhich brings me to the piece I actually want you to sit with this morning — a sharp opinion in MIT Technology Review arguing that the obsession with AI safety disasters ignores everyday harms. The authors make a point I think you should make your own: consider what passes for success in tech policy right now. An AI company promises its chatbot won't encourage suicide. A platform makes it harder for kids to buy fentanyl. These are important — but they're astonishingly low bars. Companies clear them and then keep shipping products that cause quieter, systemic, everyday harm, and nobody's governing that layer. That's the whole game. The catastrophic-risk conversation — the one Anthropic just put ninety pages into — sucks up all the oxygen, while the mundane, boring, actually-happening harms go unmanaged.\n\nThis is directly your Public-Institution Governance Lens, and I think there's a content piece here with your name on it. The take is this: when a Canadian university or a public agency deploys an AI chatbot for admissions or student services, the risk isn't that it becomes Skynet — it's that it quietly gives wrong financial-aid information, embeds bias in triage, or moves student data somewhere it shouldn't under FIPPA. The everyday-harms frame is the practical audit lens. Govern the mundane deployment, not the apocalypse. That's an ownable position and it's timely, because the Anthropic filing has everyone talking about the dramatic end of the spectrum. You can be the voice saying: the real work is at the boring end.\n\nAnd one more, quieter AI story that matters more than it looks. The Verge is asking whether AI can solve the COBOL code crisis. COBOL is the decades-old programming language still running banks, airlines, the IRS, and government infrastructure around the world — systems nobody dares touch because the people who understood them have retired. OpenAI is now claiming its latest models can help migrate that legacy code. Why does this touch you? Because public institutions — universities, government agencies — are exactly the organizations sitting on antique systems they can't afford to break. If AI-led modernization becomes real, the governance questions get enormous: who validates the migrated code, who owns the risk, where does the data live during the transition. File this one. It's going to come up in public-sector AI conversations within a year.\n\nOn the marketing side, there's a genuinely useful strategy story out of Clorox. Their CMO, Eric Schwartz, is describing a shift from creating brand campaigns to building what he calls 'systems of relevance.' He walked through how they're running Pine-Sol, Brita, and Hidden Valley — marketing that's 'intentional but flexible' and 'insightful but bite-sized.' Strip away the jargon and what he's describing is the move away from the big-bang campaign launch toward always-on, modular, responsive content.\n\nI'd push you to read this through your AI-in-marketing lane, because that's the real story underneath. 'Systems of relevance' is, functionally, the AI-native operating model. You can't run bite-sized, intentional-but-flexible, always-on content at scale with a traditional campaign team and a quarterly planning cycle — the economics only work when AI is doing the production and personalization lifting. So there's a content angle for you: the case that the campaign-launch ritual is dying, and what replaces it is a system, powered by AI, that treats relevance as a continuous output rather than a seasonal event. For your marketing clients, especially the leaner ones, that's reassuring — they don't need Clorox's budget, they need Clorox's operating model.\n\nAnd a lighter but instructive counterpoint: Walmart's CMO broke down the retailer's holiday campaign, which recreates the world of 'The Muppet Christmas Carol' and extends their 'Who Knew?' brand platform. It's the opposite move from Clorox in some ways — a big, unified, nostalgia-driven seasonal push. But notice the common thread: platform continuity. Walmart isn't inventing a one-off; they're extending an existing brand platform into a new seasonal expression. That's the durable lesson for any brand builder — whether you're running systems of relevance or a Muppet spectacular, the equity compounds when it ladders back to a platform, not a campaign that evaporates in January.\n\nNow to higher education, where the international-student squeeze keeps tightening across every major destination — and that's the context your Canadian higher-ed work lives inside. Three stories today, and together they paint a picture.\n\nFirst, the UK is planning to charge universities roughly twelve hundred dollars per international student — a per-head levy aimed at pulling in about five hundred and ninety-four million dollars in its first year, hitting students from Nigeria, Kenya, India, Pakistan and beyond. Think about what that does. It makes British institutions more expensive to operate on the very students that keep them solvent, and it signals, politically, that international students are being treated as a revenue lever and a migration-politics target rather than an asset. That's the same narrative we saw play out in Australia, and that we've been tracking in Canada.\n\nSecond, out of the US, a policy advocate argues that the proposed new fee on Optional Practical Training — OPT, the program that lets international graduates work after study — would decimate the talent pipeline, harming students, employers, and American competitiveness. OPT is one of the biggest reasons students choose the US over alternatives, because it's the bridge to a career. Tax it, and you weaken the whole value proposition.\n\nHere's the strategic read for you, Midya. When the UK adds costs, the US adds friction to post-study work, and Australia keeps playing migration politics with students, the relative attractiveness of Canada shifts — but only if Canada doesn't do the same thing to itself. And we know from recent coverage that Ottawa is planning fewer international students and foreign workers from twenty twenty-seven. So the global picture is: every major destination is pulling back at once. For your higher-ed clients, that means the pie is shrinking everywhere, and the institutions that win are the ones that recruit smarter, not just harder — better targeting, better conversion, better brand clarity. That's precisely the enrollment-marketing and AI-in-recruitment story you sell.\n\nWhich connects to the third item: six major Australian universities have backed a new benchmark for education agents — an initiative putting student feedback at the centre of how recruitment agents get evaluated, with real evidence of their contribution. This is quietly important. The agent channel is a black box in most international recruitment, and accountability frameworks like this are where the industry is heading. For your Canadian enrollment work, it's a preview: expect institutions and regulators to demand more evidence that agent spend actually produces good student outcomes. There's advisory value in helping a client get ahead of that — building the measurement framework before it's imposed.\n\nTo real estate, where there's a structural story worth your attention and your husband's. Four — actually five — real estate giants are teaming up to build a shared national listings platform: eXp, NextHome, HomeServices, Keller Williams, and the Real/RE/MAX group have joined a data-sharing program. It comes alongside an industry open letter calling for standardized data sharing across MLSs and portals, under the banner that housing markets must stay open to all. This is US-centred, but the implications travel north. The fight over who controls listing data — the brokerages or the portals like Zillow and, in Canada, the dominant players — is the defining competitive battle in the industry. When major brokerages pool their data to reduce dependence on portals, they're trying to reclaim leverage. For a brokerage owner, that's the chess game that determines margins over the next five years. Worth watching for the Canadian read-through, because the same tension absolutely exists here.\n\nAnd a quick mortgage-mechanics note: FICO is freezing the price of its ten-dollar mortgage score bundle, holding flat pricing on both Classic FICO and the newer FICO 10T as scoring competition intensifies. Small item, but credit-scoring costs feed into mortgage costs feed into affordability — the conversation every buyer is having right now. Keep it in your back pocket.\n\nOn the health front, two items from STAT worth a moment. First, the cancer-vaccine momentum continues out of the ESMO conference. Moderna's CEO says their personalized cancer vaccine — intismeran, developed with Merck — is headed for FDA submission in twenty twenty-seven after strong melanoma results. This builds on the breakthrough we flagged last week. The through-line is that personalized mRNA cancer vaccines are moving from 'promising' to 'filing for approval,' and that's genuinely one of the more hopeful developments in oncology right now. Worth tracking if cancer touches your family's health planning.\n\nSecond, a smaller curiosity with a reassuring footnote: French officials report the first-ever human infection with Shamonda virus, which normally afflicts cattle. The World Health Organization says broader transmission is unlikely. I mention it not to alarm but because zoonotic firsts — diseases jumping from animals to humans — are exactly the signals worth noticing calmly and early. This one looks contained. No action, just awareness.\n\nOne global item for your executive radar. Top Democrats are laying the groundwork to probe President Trump's agreement with Moscow on Russian diesel, demanding that major banks and ports preserve any records tied to potential imports. The signal here isn't the politics — it's that these investigations are poised to extend beyond the White House and into corporate C-suites if Democrats regain either chamber of Congress next year. For any firm with exposure to that supply chain, it's a live compliance and reputational risk. A useful reminder that political transitions turn into corporate record-preservation demands faster than most executives plan for.\n\nClose to home in Kamloops, the TRU WolfPack season is underway — the women's volleyball team swept both matches of its opening weekend, while the men's side dropped a pair. A quiet local note, but the WolfPack are part of the Kamloops rhythm, and after last week's playoff-clinching news from the broader program, the fall season is officially rolling.\n\nAnd one forward-looking B.C. item. The Vancouver Sun has a piece on regenerative agriculture and whether it's the future of farming in the province. The core idea is that growing food can actually improve ecosystem health rather than degrade it, and it's gaining traction as B.C. takes food security more seriously. It's a slow-burn story, not an alert, but it touches provincial land use, resilience, and the kind of long-term thinking about place that matters when you own property and have family rooted here.\n\nSo here's where I'd point you today, Midya. The Anthropic filing and that MIT everyday-harms piece are the two to act on — not just to read, but to react to publicly. The governance lens you've been sharpening is suddenly the most relevant frame in the room, and the window to own 'govern the mundane, not the apocalypse' is open right now while everyone else is dazzled by the catastrophic end of the spectrum. On enrollment, keep zooming out: every major destination is pulling back at once, and the clients who win will be the ones recruiting smarter. And keep half an eye on that listings-data fight in real estate — it's the structural story under the brokerage business. That's your Monday. Make the AI post; it's there for the taking.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Anthropic files for IPO with 90 pages of risk factors — and soaring enterprise adoption",
+      "summary": "Anthropic's S-1 reveals surging revenue, mounting losses, $750B in compute commitments, and an unusual founder-control governance structure, alongside warnings its own technology could pose catastrophic risk.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "The focus on AI safety disasters ignores everyday harms",
+      "summary": "MIT Technology Review argues policymakers chase catastrophic AI scenarios while companies clear low bars and ship products that cause mundane, systemic harm — the gap institutions actually have to manage.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600",
+      "contentAngle": "Public-institution AI governance: the 'everyday harms' frame as the practical audit lens for public-sector clients — govern the mundane deployment, not the apocalypse."
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Can AI help solve the COBOL code crisis?",
+      "summary": "OpenAI claims its latest models can tackle the decades-old legacy code propping up banks, airlines and government systems — a quiet but consequential bet on AI-led modernization of critical public infrastructure.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1246435991.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Anthropic files for IPO with 90 pages of risk factors — and soaring enterprise adoption",
+      "summary": "Anthropic's S-1 reveals surging revenue, mounting losses, $750B in compute commitments, and an unusual founder-control governance structure, alongside warnings its own technology could pose catastrophic risk.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "The focus on AI safety disasters ignores everyday harms",
+      "summary": "MIT Technology Review argues policymakers chase catastrophic AI scenarios while companies clear low bars and ship products that cause mundane, systemic harm — the gap institutions actually have to manage.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600",
+      "contentAngle": "Public-institution AI governance: the 'everyday harms' frame as the practical audit lens for public-sector clients — govern the mundane deployment, not the apocalypse."
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Can AI help solve the COBOL code crisis?",
+      "summary": "OpenAI claims its latest models can tackle the decades-old legacy code propping up banks, airlines and government systems — a quiet but consequential bet on AI-led modernization of critical public infrastructure.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1246435991.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Why Clorox shifted from brand campaigns to 'systems of relevance'",
+      "summary": "CMO Eric Schwartz reframes Pine-Sol, Brita and Hidden Valley marketing around 'intentional but flexible' and 'bite-sized' content — a move from big-campaign thinking to always-on, modular relevance.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/NMt6t4n-CijjRIWwM1wIN4nhexsBPWn-ryobn983bp0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+      "contentAngle": "AI in marketing: 'systems of relevance' is the AI-native operating model — the case that modular, always-on content beats the campaign-launch ritual."
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Walmart CMO breaks down the Muppet-fueled holiday campaign",
+      "summary": "Walmart recreates 'The Muppet Christmas Carol' to unify its holiday push and extend its 'Who Knew?' brand platform — a bet on nostalgia and platform continuity over one-off seasonal spots.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/833778/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://imgproxy.divecdn.com/DL0lgoJQimRrr791nVOI4bHMQIR-xG3EYp3o2Pyz9Zw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3Jvb2dlX0dob3N0c19GaW5hbC5qcGc=.webp"
+    },
+    {
+      "id": "story-higher_ed_global-0",
+      "category": "Higher Ed",
+      "headline": "UK to charge universities $1,200 per international student",
+      "summary": "Britain plans a per-student levy on international enrolments — targeting roughly $594M in first-year revenue — adding cost pressure to a sector already squeezed, and reshaping the global competition Canada recruits against.",
+      "source": "Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWlUWExjOUVoT1dSNFNOUXViTXhNdGdGMUg5VjRxSUVSLVUtWW42N05qcE5aQVpUUV9WSlMwdnN0QjdNTnI1UkpCSy1KamI2Tjg1UGtBQzRZcEMyWDhxN0FvbGVQLUMyWTl0M05QUGdiQUxHeG5TWjdka0szV0hUd2xoYWI0QVgxRFpqTnVtcDQwakVkVnNsaVpRMGRRRDczTGlDNEJPZHlsZTlvTDV2WnRFMjU2RW9qTTF1Wlk2Sm9pUjhram5lV1Iwenh0bmRwWVhNaVpnMA?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_global-1",
+      "category": "Higher Ed",
+      "headline": "Australian universities back new benchmark for education agents",
+      "summary": "Six major Australian providers launched an initiative putting student feedback at the centre of how recruitment agents are evaluated — an accountability model worth watching for Canadian enrollment and agent-channel practice.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/australian-universities-back-new-benchmark-for-education-agents/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/10/iStock-1382951455.jpg"
+    },
+    {
+      "id": "story-higher_ed_global-2",
+      "category": "Higher Ed",
+      "headline": "Proposed new OPT fee would decimate the international talent pipeline",
+      "summary": "A policy advocate argues the Trump administration's proposed Optional Practical Training fee would harm students, employers and US competitiveness — another push factor sending international talent toward alternative destinations.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/the-trump-administrations-proposed-new-opt-fee-would-decimate-the-international-talent-pipeline/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/10/iStock-2238969007.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Four real estate giants team up to build a shared listings platform",
+      "summary": "eXp, NextHome, HomeServices, Keller Williams and Real/RE/MAX join a national data-sharing program, amid an industry open letter pushing standardized data across MLSs and portals — a structural shift in listing access.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/open-real-estate-data-initiative/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Replace_the_four_abstra-e1793023336780.png"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "FICO freezes $10 mortgage score bundle price amid competition",
+      "summary": "FICO holds flat pricing on Classic FICO and FICO 10T as scoring competition heats up — a signal on mortgage-cost mechanics worth tracking for brokerage and buyer affordability conversations.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/fico-holds-10-mortgage-score-pricing/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/FICO_Pricing.png"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "STAT: Moderna and Merck race personalized cancer vaccine toward 2027 FDA filing",
+      "summary": "STAT's post-ESMO roundup: Moderna CEO says the personalized cancer vaccine (intismeran) is headed for FDA submission in 2027 after strong melanoma data — continued momentum on the mRNA cancer-vaccine front.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/10/26/biotech-news-moderna-ceo-on-whats-next-after-intismeran-success/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/05/AdobeStock_525738206_Editorial_Use_Only-645x645.jpeg"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "STAT: A cow virus makes its first jump to a human",
+      "summary": "French officials report the first human infection with Shamonda virus; the WHO says broader transmission is unlikely — a low-alarm but notable zoonotic first worth filing away.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/10/26/health-news-virus-afflicting-cows-makes-the-jump-to-humans/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/02/GettyImages-1258750603-645x645.jpg"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Democrats lay groundwork to probe Trump's Russian diesel deal",
+      "summary": "Top Democrats are demanding banks and ports preserve records tied to potential Russian diesel imports, signalling C-suite-level investigations if they regain Congress — a compliance and reputational risk for firms touching the deal.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/26/democrats-trump-diesel-deal",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/oZ9JPe-c7Fpaiqm77OmW7NzwO98=/320x320/smart/2024/02/19/214832-1708379312573.jpg"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "TRU WolfPack women's volleyball sweep opening weekend; men drop two",
+      "summary": "Thompson Rivers University's women's volleyball team opened its season with two wins while the men's side dropped a pair — the local season getting underway in Kamloops.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/26/wolfpack-womens-volleyball-team-pick-up-two-wins-over-opening-weekend-men-drop-two-games/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains",
+      "imageUrl": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2311/files/2026/10/8addf5ba-3ea8-4485-80a0-dbe7dd63e472.png"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "What regenerative agriculture could mean for B.C. food security",
+      "summary": "The idea that farming can improve ecosystem health is gaining traction as B.C. weighs food security — a slow-burn shift relevant to provincial land use and resilience.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/what-is-regenerative-agriculture-and-why-it-might-be-the-future-of-farming-in-bc",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "4:21",
+      "startSeconds": 13
+    },
+    {
+      "id": "c2",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "2:00",
+      "startSeconds": 275
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:55",
+      "startSeconds": 395
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:25",
+      "startSeconds": 570
+    },
+    {
+      "id": "c5",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:06",
+      "startSeconds": 655
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "0:41",
+      "startSeconds": 721
+    },
+    {
+      "id": "c7",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "0:22",
+      "startSeconds": 762
+    },
+    {
+      "id": "c8",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:31",
+      "startSeconds": 784
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "The focus on AI safety disasters ignores everyday harms",
+    "summary": "MIT Technology Review argues policymakers chase catastrophic AI scenarios while companies clear low bars and ship products that cause mundane, systemic harm — the gap institutions actually have to manage.",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600",
+    "contentAngle": "Public-institution AI governance: the 'everyday harms' frame as the practical audit lens for public-sector clients — govern the mundane deployment, not the apocalypse."
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Anthropic files for IPO with 90 pages of risk factors — and soaring enterprise adoption",
+    "summary": "Anthropic's S-1 reveals surging revenue, mounting losses, $750B in compute commitments, and an unusual founder-control governance structure, alongside warnings its own technology could pose catastrophic risk.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
+  },
+  "heroImageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
+}
