@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 2,
+  "date": "Tuesday, October 27, 2026",
+  "dateIso": "2026-10-27",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "13:43",
+  "currentTime": "0:00",
+  "remaining": "13 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's thread is enrollment economics, and it runs straight through your higher-ed lane. Thompson Rivers is openly reporting the pattern every Canadian institution is now living — domestic online enrolment rising while international numbers keep falling under the federal caps — which means recruitment and brand budgets are being reallocated in real time, and that's precisely where your AI-in-enrollment work earns its keep. On the AI side, the money story matters less for the dollar figures than for the signal: capital is being poured into AI infrastructure faster than public institutions are building governance around it, and the data-centre backlash shows the politics catching up.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Today's thread is enrollment economics, and it runs straight through your higher-ed lane. Thompson Rivers is openly reporting the pattern every Canadian institution is now living — domestic online enrolment rising while international numbers keep falling under the federal caps — which means recruitment and brand budgets are being reallocated in real time, and that's precisely where your AI-in-enrollment work earns its keep. On the AI side, the money story matters less for the dollar figures than for the signal: capital is being poured into AI infrastructure faster than public institutions are building governance around it, and the data-centre backlash shows the politics catching up. Your two methodologies — AI Search Readiness and the public-institution governance lens — are the calm in that noise. On the real-estate side, the fraud warnings out of the mortgage sector are a reminder that AI in brokerage operations cuts both ways. And keep half an eye on the macro: a consequential Israeli election and a tightening Ebola outbreak are the kind of context a senior advisor should carry into client conversations even when they never make the slide deck.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-27.mp3",
+  "audioDurationSeconds": 823,
+  "audioScript": "Good morning, Midya. It's Tuesday, October twenty-seventh, twenty twenty-six. Today the thread that matters most for your practice is enrolment economics, so let's start there and work outward.\n\nThe lead story this morning is close to home in every sense. Thompson Rivers University, right there in Kamloops, is reporting that its domestic online enrolment is climbing even as its international student numbers keep falling. On the surface it reads like a routine institutional update, but I want you to read it as a leading indicator, because that is exactly what it is. Every Canadian institution is living this same arithmetic right now. The federal caps on international students are doing what caps do — they are draining a revenue stream that many schools quietly built their operating budgets around, and the institutions that survive the next two years gracefully are the ones that figure out how to recapture that gap domestically. TRU's answer, at least in part, is online. That is a recruitment and brand problem before it is anything else. When you pivot from recruiting internationally — where agents and in-country reputation carry you — to competing for a shrinking pool of domestic learners online, you are suddenly fighting on search, on discoverability, on the quality of your digital funnel. And here is the sharper point for your thesis: a domestic online learner comparing programs in twenty twenty-six does a meaningful chunk of that comparison inside AI — Google's AI Mode, AI Overviews, ChatGPT, Perplexity. If an institution's programs don't surface cleanly in those answers, they are invisible at exactly the moment the funnel got more competitive. That's the audit. That's the 'where did your funnel go, and why can't the machines find you' conversation. This TRU story is the real-world version of the pitch you've been building, and it's happening in your own backyard.\n\nStaying with higher ed, the Globe is reporting on plans for a new medical school in Surrey, British Columbia, and how it could transform that city's downtown. This is part of the province's broader push to expand physician training capacity, and it matters to you for two reasons. One, it's a signal of where provincial capital and institutional ambition are flowing in BC higher ed — new programs, new campuses, new brand-building mandates. And two, a brand-new school is a greenfield marketing problem: no legacy reputation, no established search footprint, everything to build from scratch. Those are the engagements where strategy actually gets to shape outcomes rather than defend them.\n\nAnd one more on the international side. Ottawa is reminding international students that exceeding the twenty-four-hour off-campus weekly work limit can cost them their visa. On its own it's a compliance notice, but stack it on everything else — the caps, the proposed OPT fee changes we talked about yesterday, the UK's new per-student levy — and you see a clear through-line: the entire international recruitment model is being re-priced and re-regulated simultaneously across the English-speaking world. For any institution still leaning on international tuition, the message is that the ground is still moving, and the smart money is diversifying the funnel now, not next year.\n\nNow to AI, where the money got loud. An update on the Anthropic IPO filing we covered yesterday: the picture is now bigger than the company itself. Anthropic's offering may seek to raise a record one hundred billion dollars, and it landed on the same day that SpaceX secured forty billion in debt financing to lease GPUs and Meta signalled it would seek up to ninety-five billion for its own AI buildout. Axios adds it up to roughly two hundred thirty-five billion dollars of AI dealmaking in a single day — nearly one percent of US GDP. I don't flag that number to impress you with scale. I flag it because of the gap it reveals. Capital is being deployed into AI infrastructure faster than institutions are building the governance around how AI gets used. That gap is your entire professional opportunity. When the money moves this fast, boards and enrolment offices and brokerages feel pressure to 'do something with AI' immediately, and that pressure is precisely when governance gets skipped. Your public-institution governance lens — FIPPA, BC data residency, defensible AI policy — is the adult in a room full of people being handed enormous budgets and told to move fast.\n\nThe second AI story is the other side of that same coin, and it's genuinely interesting as a political signal. The Verge reports that the data-centre buildout has become one of the few issues uniting American voters across party lines heading into the twenty twenty-six midterms. The massive server facilities that power all this AI come with real costs to local communities — strained power grids, rising electricity prices, construction disruption — and opposition is activating voters everywhere. Why does that matter to you? Because it marks the moment the AI conversation stops being abstract and starts being about who pays. That framing — benefits concentrated, costs localized — is coming to every institution that wants to brag about its AI investments. A university or a public body that rolls out AI without being able to answer 'what does this cost, who bears it, and how is it governed' is going to find itself on the wrong side of exactly this kind of backlash. There's a thought-leadership piece in that intersection if you want it.\n\nAnd quickly, a quieter structural story worth filing away: MIT Technology Review on solid-state transformers. The humble grid transformer — a design that hasn't meaningfully changed in a century — has become a bottleneck for AI's power demand, and a solid-state redesign could ease the shortage. It's not something you'll act on, but it's the kind of detail that makes you sound credible in a room: the constraint on AI's growth right now isn't just chips, it's the physical grid, and that shapes where data centres — and the politics around them — land next.\n\nOn the marketing-technology front, there's a piece on the rise of what vendors are calling 'decision intelligence' in next-generation martech. The short version: instead of dashboards that report what happened, the pitch now is AI layered over your marketing data that recommends and even automates the decision itself. I'm giving you this one with a healthy dose of editorial skepticism, because 'decision intelligence' is partly a rebrand of things marketers have done for years. But the directional signal is real and it's relevant to how you position your own work. The martech conversation is shifting from measurement to automated judgment, and that's a governance question dressed up as a feature. When a tool stops telling a marketing team what happened and starts deciding what to do, someone needs to own accountability for those decisions — the data it learned from, the biases baked in, the audit trail. That's a natural extension of your methodology into the commercial marketing lane, not just the public-sector one.\n\nOver to real estate, where the story that should catch your husband's attention and yours is about fraud. At the Mortgage Bankers Association's twenty twenty-six risk conference, speakers warned that AI-generated synthetic identities and fake deeds are now undermining mortgage underwriting, quality control, and servicing. Read that carefully: AI in real estate operations is not purely an upside story. The same generative tools that make an agent twice as productive also let bad actors manufacture convincing fake borrowers and fraudulent documents at scale. Every brokerage racing to adopt AI for the productivity gains is simultaneously, and usually unknowingly, expanding its attack surface. There's a clean thought-leadership angle here that bridges both your lanes — the idea that an AI adoption plan without an AI fraud-defence plan is only half a plan. For a brokerage principal, that reframes AI from a shiny productivity toy into an operational risk that needs governance, which is a far more serious and sellable conversation.\n\nAlso on the US mortgage side, a more technical note: a new appraisal data standard, UAD three-point-six, is coming, and the rep-and-warranty protections on the older format start dropping in March twenty twenty-seven. The industry is being nudged toward hybrid appraisal models. It's American and it's in the weeds, but appraisal modernization tends to migrate north eventually, so it's worth knowing the direction of travel.\n\nLet me give you the wider world, because a senior advisor should carry this context even when it never shows up on a slide. First, Israel votes today in what both sides are calling one of the most consequential elections in the country's history. It's effectively a referendum on Netanyahu — on the security failures that preceded the October seventh attacks, and on the three years of war since. Rival camps are each warning that the other's victory would put the country's future in jeopardy. Whatever the outcome, expect volatility in the days after, and expect it to ripple through energy markets and the broader risk mood.\n\nCloser to home, two Canadian diplomatic moves worth noting. Carney and the European Union are unveiling the next step in a deeper transatlantic partnership today, though the EU ambassador has clarified that a full free-labour-movement provision is not on the table — so this is about trade and strategic alignment, not open borders for workers. And separately, Abu Dhabi's crown prince is in Ottawa as Canada and the United Arab Emirates move to cement trade ties and a strategic partnership. Taken together, these are signals of a Canada actively diversifying its economic relationships away from a single dominant trading partner. For anyone advising institutions or businesses with international exposure, that diversification is the strategic backdrop of the next few years.\n\nNow the health desk, and today it's strong on sources. First, a review in Nature Medicine on the metabolic heterogeneity of obesity. The core idea is one worth internalizing: obesity is not one condition. The paper maps the cellular, organ-level, and whole-body differences between metabolically healthy and metabolically unhealthy obesity, and crucially, why people respond so differently to weight loss. The practical takeaway — the one that actually matters for you and your family — is that the scale is a poor single measure of metabolic health, and that the biology underneath explains why two people of the same weight can have radically different cardiometabolic risk, and why weight-loss interventions, including the GLP-1 drugs everyone's talking about, work beautifully for some and not others. It's a reminder to think in terms of metabolic markers, not just pounds.\n\nSecond, a STAT opinion piece that's a direct follow-on from the cancer vaccine news we covered over the weekend. The argument from two oncology leaders is simple and urgent: the mRNA cancer vaccines are posting their first real successes, but success in a trial doesn't mean patients get access. They warn that the same delivery and access barriers that slowed BRCA genetic testing adoption for years are lining up again, and that the time to solve them is now — before the science outruns the system that's supposed to deliver it. It's a clear-eyed counterweight to the hype, and a good example of experts taking a defensible, non-obvious position in public. The structure of that argument — 'the breakthrough is real, but here's the unglamorous access problem that will decide whether it matters' — is exactly the kind of honest framing that builds credibility, in medicine and in your field too.\n\nFinally, two things you should simply be aware of. Congo's Ebola outbreak has now topped ten thousand confirmed cases as health authorities race to slow its spread into neighbouring African countries. It's not at your doorstep, but a fast-moving outbreak of that scale is worth tracking, because these things shape travel advisories and global health posture quickly. And at home, Ottawa has tabled legislation that would bar medical assistance in dying for people suffering solely from mental illness, while provinces and dementia doctors remain split on the separate question of advance consent. It's one of the more consequential and genuinely difficult pieces of social policy moving through Parliament right now, and it touches families everywhere, so it's worth following as it develops.\n\nSo here's where I'd point your attention today, Midya. The TRU enrolment story is not just local colour — it's the live, named proof of the thesis you're building your practice on, and I'd capture it while it's fresh, because it makes your pitch concrete in a way an abstract trend never will. The AI money and the data-centre backlash are the same story told from two ends: capital moving faster than governance, and the public starting to ask who pays. That gap is your opening. Pick one of those threads this week and write five hundred honest words — not hype, just the governance question nobody in the room wants to slow down and ask. That's how thought leadership compounds. I'll talk to you tomorrow.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Anthropic IPO leads a $235-billion day of AI dealmaking",
+      "summary": "An update on Anthropic's IPO filing: the company may seek a record $100-billion raise, part of a single day of AI dealmaking — SpaceX's $40B in GPU debt, Meta's $95B financing push — that nearly equalled one percent of US GDP.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/4aBbU2e-wif7SL7rZrpaAB354A4=/320x320/smart/2023/10/31/211347-1698786827513.jpg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Data-centre backlash is uniting American voters",
+      "summary": "The rapid buildout of AI data centres — and the power demand and cost increases that come with them — has become a cross-partisan flashpoint in the 2026 midterms, activating opposition in communities across the country.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "How solid-state transformers could help power the AI boom",
+      "summary": "Century-old grid transformers are now a bottleneck for AI's electricity demand; a solid-state redesign could ease the shortages constraining data-centre growth.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_digitaltransformers.jpg?resize=1200,600"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Anthropic IPO leads a $235-billion day of AI dealmaking",
+      "summary": "An update on Anthropic's IPO filing: the company may seek a record $100-billion raise, part of a single day of AI dealmaking — SpaceX's $40B in GPU debt, Meta's $95B financing push — that nearly equalled one percent of US GDP.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/4aBbU2e-wif7SL7rZrpaAB354A4=/320x320/smart/2023/10/31/211347-1698786827513.jpg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Data-centre backlash is uniting American voters",
+      "summary": "The rapid buildout of AI data centres — and the power demand and cost increases that come with them — has become a cross-partisan flashpoint in the 2026 midterms, activating opposition in communities across the country.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "How solid-state transformers could help power the AI boom",
+      "summary": "Century-old grid transformers are now a bottleneck for AI's electricity demand; a solid-state redesign could ease the shortages constraining data-centre growth.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_digitaltransformers.jpg?resize=1200,600"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Decision intelligence moves into next-generation martech",
+      "summary": "Marketing-technology vendors are pushing 'decision intelligence' — AI layered over marketing data to recommend and automate decisions rather than simply report on them, reframing what a modern martech stack is expected to do.",
+      "source": "MarTech Cube",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZb0pyODg4amFXTHdUaTZLd016eGtlTVRmSHh3Y25TZmtXNk9JbDdJWnJuM05pbkw2UGtyYVJjblVlWjZLZjFraGtQYmQxc21aWWlMTVE4WC1raV9qSnN5djFoeHFXaDFsSXplUERPTzVBeEE?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "TRU sees domestic online enrolment rise as international numbers keep falling",
+      "summary": "Thompson Rivers University reports growing domestic online enrolment even as its international student count continues to decline — the clearest local marker yet of the enrolment reshuffle hitting Canadian institutions under federal caps.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMzZCSzV6SkV2UFphUlEzTW9maUlPQnU2NVdZMmdKeFVzX0RpNVh4UGhhcnJSLXBKczNXQ0twUGVDTFZ3Sy1YaU1VMVJhSWpOV0xEMGpPTnFwTlkwelZjaEZDQ29LaFZ0OHU3V0w4U2lOUDhOUlJMdXlEZTFlU0tONXp6MjVGTVFDMEZBSnFqcGtDNnF4dlpUUjc3dlQzZXVGU19MUTFJeHh3UEh3aXdZRmd6NEl5SV9jUEN1QVFGbVV6aFBWRDAtRERTYUJCakRSVGhEZC1n?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "contentAngle": "AI in higher-ed enrollment: as caps collapse international pipelines, institutions pivoting to domestic online need AI-driven SEM and search-readiness to compete for a shrinking domestic pool — the 'where did your funnel go' audit angle."
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "A new Surrey medical school could transform the city's downtown",
+      "summary": "Plans for a new medical school in Surrey, BC, could reshape the city's core, part of the province's push to expand physician training capacity.",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZnFBMVFJa3AwdnQtTGo1SERZa2dMaWpESm8xa3d2dmdRYU9DMVNPemo2OVZnOHFoZjF6dktSa2dsSE9SUDBjTWVJdGVXaUVPZ053b1k5bU9aSHQ1N2JTQ0xBZG5NUGxvMmFxcWRwUVJGanlWSGxLR0xLOXFXcU1SbUI0YXNFcWQ0NFhuOS1NeGk2MGRvdWlMWTU1UGJpX2lFbWNEOHhYNUJhdlNxM0VoYkNuMzhDcnhIZ3lxeDRQa0I2bEJQYl9sRXlsWURfTXpMNUdnUU9ndXlwT2Rs?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-2",
+      "category": "Higher Ed",
+      "headline": "Ottawa warns international students on the 24-hour work limit",
+      "summary": "The federal government is reminding international students that exceeding the 24-hour off-campus weekly work cap can cost them their visa — tightening the compliance messaging around an already constrained pipeline.",
+      "source": "The Australia Today",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUVlakhzSnEtUGhCZlA2MkVMYW0xX2ZRRWlLZ0xzNkprOXhYeGh3NVBwN0RiWkJoMHlMMFZFeFFha25zQ2g4UXRDY004Z2kzMTZxVFMxdlpTOVV5dEw5WmhaYkJCTkMxS3RtR2pPdmZWTHdJd2E4bGNiRlR5UlVScHJ3SVdRVXJ0MFozQnZydjdmTXkwdmdOWEZ6elJxdDdJOElfYTFVeVlmNHoybmZHVmY5VXh0SmJlVXUtUWlDd1B4TFU?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Mortgage risk conference: AI fraud now a underwriting threat",
+      "summary": "At the MBA's 2026 risk conference, speakers warned that AI-generated synthetic identities and fake deeds are undermining mortgage underwriting, quality control and servicing — fraud scaling faster than many brokerages' controls.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/mba-risk-2026-ai-fraud/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Contributors-Piece-2026-10-21T122539.943.png",
+      "contentAngle": "AI in real estate operations: brokerages racing to adopt AI for productivity are under-investing in AI-enabled fraud defence — the 'your AI stack is also your attack surface' governance brief."
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "UAD 3.6 is coming — hybrid appraisals built for it",
+      "summary": "A new appraisal data standard, UAD 3.6, is rolling out, with rep-and-warranty protections on the old format dropping starting March 2027 — pushing the industry toward hybrid appraisal models.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/uad-3-6-hybrid-appraisals-2/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Contributors-Piece-2026-10-21T123646.275.png"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Israel votes in a consequential election",
+      "summary": "Israelis head to the polls in one of the country's most consequential elections, a referendum on Netanyahu after the October 7 security failures and three years of war, with rival camps each warning that the other's victory spells ruin.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/27/israel-election-netanyahu-eisenkot",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/RWfIIWOBCFFvvF5Xfc9rrlVgoc0=/174x0:1254x1080/320x320/2026/10/26/1793033817579.jpeg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Canada and EU unveil deeper transatlantic pact",
+      "summary": "Carney and the EU present the next step in their relationship today, though the EU ambassador confirms a full free-labour-movement provision is not on the table.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/27/free-labour-movement-not-something-canada-and-eu-considering-in-new-pact-ambassador/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F847d8cac-9c30-413b-8dad-bf572a34c69d%2Ff63981c7dc03e3d89f3eb9e1368843f815a5849cdcf93ab5b99c09b2965465ed.jpg"
+    },
+    {
+      "id": "story-global_business_tech-2",
+      "category": "Global",
+      "headline": "Canada and UAE to detail strategic partnership",
+      "summary": "Abu Dhabi's crown prince is in Ottawa as Canada and the United Arab Emirates move to cement trade ties and a strategic partnership.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/27/united-arab-emirates-canada-to-share-details-of-strategic-partnership-today/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fb69571fe-fbca-4c61-ba97-78d6a33ab480%2Fd0f06162dbaaf2a178943cfda37bac41445fe4cd9422239d39affc3a9c1a307f.jpg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "The metabolic heterogeneity of obesity",
+      "summary": "Nature Medicine review: maps the cellular, organ-level and whole-body differences between metabolically healthy and unhealthy obesity — and why weight-loss responses vary — to sharpen prevention and treatment of obesity-related metabolic disease.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04718-7",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04718-7/MediaObjects/41591_2026_4718_Fig1_HTML.png"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "Cancer vaccines are here — the access problem is next",
+      "summary": "STAT opinion: with mRNA cancer vaccines posting their first successes, oncology leaders warn that delivery and access barriers — the same ones that slowed BRCA testing adoption — must be solved now if patients are to benefit soon.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_439900410-645x645.jpeg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Congo's Ebola outbreak tops 10,000 cases",
+      "summary": "Confirmed cases in Congo's fast-moving Ebola outbreak have passed 10,000 as health authorities race to slow spread into neighbouring African countries.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/27/congos-ebola-outbreak-tops-10000-cases-as-authorities-race-to-slow-the-spread-in-african-countries/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F1526f7cf-d2ba-4d25-baa0-56d0607bc936%2F76b8687658469f88df82c67406a0f36d55262e7acda10593ffdf36ec3b54bdc6.jpg"
+    },
+    {
+      "id": "story-misc-1",
+      "category": "Misc",
+      "headline": "Ottawa tables bill restricting MAID for mental illness",
+      "summary": "The federal government introduced legislation to bar medical assistance in dying for people suffering solely from mental illness, reopening a contentious national debate while provinces and dementia doctors split on advance consent.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/27/liberals-set-to-table-bill-restricting-access-to-maid-in-cases-of-mental-illness/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F9129a876-bc4c-43d1-863c-b2b56cbb28b1%2Fdcfebbdbdcfbcc9e321aa6ba428ebcf54ebb7cb5cd7a9e3578598f15b1ba93dc.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "3:11",
+      "startSeconds": 12
+    },
+    {
+      "id": "c2",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "2:53",
+      "startSeconds": 203
+    },
+    {
+      "id": "c3",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:04",
+      "startSeconds": 376
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:31",
+      "startSeconds": 441
+    },
+    {
+      "id": "c5",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:27",
+      "startSeconds": 532
+    },
+    {
+      "id": "c6",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:51",
+      "startSeconds": 619
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:50",
+      "startSeconds": 730
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Data-centre backlash is uniting American voters",
+    "summary": "The rapid buildout of AI data centres — and the power demand and cost increases that come with them — has become a cross-partisan flashpoint in the 2026 midterms, activating opposition in communities across the country.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Anthropic IPO leads a $235-billion day of AI dealmaking",
+    "summary": "An update on Anthropic's IPO filing: the company may seek a record $100-billion raise, part of a single day of AI dealmaking — SpaceX's $40B in GPU debt, Meta's $95B financing push — that nearly equalled one percent of US GDP.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/4aBbU2e-wif7SL7rZrpaAB354A4=/320x320/smart/2023/10/31/211347-1698786827513.jpg"
+  },
+  "heroImageUrl": "https://images.axios.com/4aBbU2e-wif7SL7rZrpaAB354A4=/320x320/smart/2023/10/31/211347-1698786827513.jpg"
+}
