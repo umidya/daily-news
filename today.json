@@ -1,110 +1,100 @@
 {
   "schemaVersion": 2,
-  "date": "Friday, October 30, 2026",
-  "dateIso": "2026-10-30",
+  "date": "Saturday, October 31, 2026",
+  "dateIso": "2026-10-31",
   "greeting": "Good morning, Midya",
-  "totalDuration": "12:31",
+  "totalDuration": "14:22",
   "currentTime": "0:00",
-  "remaining": "12 min total",
+  "remaining": "14 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Two threads dominate today, and both land squarely in your lanes. First, the enrolment story is getting concrete and painful: Memorial University's reported 45% student drop is what the aggregate international-decline numbers look like when they hit one institution's budget—exactly the environment where recruitment and brand advisory gets purchased, not postponed. Second, the AI conversation has quietly matured from 'tools' to 'outcomes,' which is the moment CMOs stop experimenting and start demanding measurable systems—your AI-in-marketing POV should meet that shift head-on.",
+  "digestIntro": "Today is a classic light Saturday news cycle, which means the signal is in a few durable threads rather than a flood. The dominant one for your practice is AI's shift from hype to operational reality — marketing teams building workflows around AI agents, and a jittery hyperscaler earnings season that's testing whether the AI capex story holds. Both feed your thought-leadership pipeline directly: the agent-governance angle is squarely in your AI-in-marketing-operations lane.",
   "digestReadingTime": "7 min read",
-  "whyItMatters": "Two threads dominate today, and both land squarely in your lanes. First, the enrolment story is getting concrete and painful: Memorial University's reported 45% student drop is what the aggregate international-decline numbers look like when they hit one institution's budget—exactly the environment where recruitment and brand advisory gets purchased, not postponed. Second, the AI conversation has quietly matured from 'tools' to 'outcomes,' which is the moment CMOs stop experimenting and start demanding measurable systems—your AI-in-marketing POV should meet that shift head-on. Watch the public-institution governance angle too: US regulators scrambling over state AI 'sandboxes' in healthcare is a preview of the FIPPA/data-residency questions Canadian institutions will face. Locally, Sun Peaks is mid-ski-launch and Kamloops crime remains a steady drumbeat. And on the family-health front, there's a serious Lancet men's-health series worth your attention.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-30.mp3",
-  "audioDurationSeconds": 751,
-  "audioScript": "Good morning, Midya. It's Friday, October thirtieth, twenty twenty-six. Let's close out the week with a briefing that's heavy on your two core lanes—higher ed enrolment and the maturing of AI in marketing—plus a few things worth your attention as a senior leader and a BC resident.\n\nLet's start with higher education, because today it stops being abstract. Memorial University is reporting a forty-five percent drop in students. Let that number sit for a second. For weeks this briefing has been walking you through the aggregate story—the OECD data on graduate-level competition, Australia's appeal plunging, Canada's asylum and work-hour clampdowns, TRU's falling international numbers. This is what all of that looks like when it lands on a single institution's income statement. A forty-five percent decline isn't a trend line; it's a budget emergency. And here's the advisory point you already know but that bears repeating: these are precisely the conditions under which enrolment, recruitment, and brand advisory gets purchased rather than deferred. When institutions are coasting, marketing is a nice-to-have. When they're staring at a gap like Memorial's, the conversation shifts to survival—how do we protect the domestic pipeline, how do we diversify source countries, how do we make every recruitment dollar measurable. That's your pitch, and the market is being handed to you by circumstance. Keep a close eye on which institutions publish these numbers publicly versus which bury them, because the ones naming the problem out loud are the ones ready to act on it.\n\nThere's a second Canadian higher-ed story today that connects directly to your AI thesis. A coalition of Canadian universities is asking Ottawa for ten million dollars to help creative workers grapple with AI. On the surface it reads as a labour-adjustment ask—help animators, writers, designers adapt. But read it through your governance lens and it's more interesting. You have public institutions requesting public money to respond to AI, and the obvious question nobody in the press release is answering is: who owns the governance framework that money funds? Spending on AI adaptation without a data-residency-aware, FIPPA-conscious policy underneath it is how public institutions repeat the cloud-procurement mistakes of a decade ago. There's a genuine thought-leadership piece in this for you—something along the lines of 'funding AI adaptation is the easy part; governing it is the part that gets skipped.' That's your public-institution AI governance lane, and this story is a clean, timely hook for it.\n\nAnd one from abroad that Canada should be watching. English UK has launched a major review of student-protection arrangements after a wave of large-scale provider closures left international students exposed—gaps in refunds, continuity, and safeguards when a provider simply shuts its doors. Why does this matter here? Because Canada's enrolment contraction is going to force consolidation and closures of its own, especially among smaller private colleges and pathway providers. The UK is now writing the playbook on what happens to students when the institution disappears. Canadian regulators, and the institutions that acquire or absorb struggling programs, will be having this exact conversation within a year or two. It's a leading indicator worth filing.\n\nNow to AI, and the lead story is less a single headline than a shift in the center of gravity. The marketing trade press is reporting that brands are reworking their strategies as AI moves from tools to outcomes. This is the sentence I'd underline. For the last two years the AI-in-marketing conversation has been about tools—which model, which plug-in, which shiny generative feature. What's changing now is that CMOs are done being impressed by capability and are demanding outcomes: measurable lift, cost per result, attributable revenue. That's a maturity marker, and it's exactly the moment your consulting practice should be meeting them. Because here's the uncomfortable truth underneath the optimism—most organizations that bought AI tools never built an outcomes framework to judge them by. They ran pilots, got some flashy outputs, and then couldn't answer the CFO's question: what did this actually do for us? That gap is your opening. There's a strong piece here for your pipeline: why AI marketing pilots stall without an outcomes operating model, and what that model actually looks like—measurement, governance, and the discipline to kill the experiments that don't perform. You've lived this as a senior marketer. Write it from authority.\n\nThe second AI story is a governance preview, and it comes from an unexpected place—US healthcare. Federal regulators, the FDA and CMS, are scrambling behind the scenes to avoid a collision with individual states that are launching AI 'sandboxes' to test artificial intelligence in clinical settings. The specifics are American and medical, but the pattern is universal and directly relevant to your public-institution governance work. You have a technology moving faster than the regulatory framework, sub-national governments improvising their own rules, and a federal layer trying to prevent fragmentation. Swap 'states' for 'provinces' and 'clinical settings' for 'public universities and agencies' and you've described the exact tension coming to Canadian public-sector AI adoption. FIPPA, BC data residency, and the patchwork of provincial approaches versus federal guidance—it's the same movie. This is useful context for how you frame governance recommendations to institutional clients: the sandbox-versus-standard tension is a known problem now, with a known shape.\n\nOn the watchlist front, one item of note. In Niagara Falls, Lori Lococo has defeated three-term incumbent mayor Jim Diodati in what's being called an upset. I'm flagging this purely for industry-coverage reasons: Niagara Falls is the city that hosts the University of Niagara Falls, and a change at the top of municipal government—after three terms of continuity—tends to reset the relationship between a city and the institutions operating within it. New mayors mean new priorities on development, town-gown relations, and economic strategy. Worth tracking how the new administration positions itself toward post-secondary and international education in a city where those are economic engines.\n\nOn the business and marketing beat, two quick items. First, Statistics Canada releases August GDP figures today, along with an early estimate for September and the third quarter overall. This is the number that feeds the Bank of Canada's thinking and, downstream, the mortgage-rate and real-estate conditions that matter to the brokerage side of your world. A soft print strengthens the case for further easing; a firm one complicates it. No need to react—just know the read is landing today and it colours the macro backdrop for every real-estate and consumer-spending conversation into year-end.\n\nSecond, a CMO move for the file: Netradyne, a fleet-safety technology firm, has named Brion O'Connor its chief marketing officer. Minor on its own, but these senior marketing appointments at tech-adjacent firms are the texture of the industry you advise—worth noting who's moving where.\n\nInternationally, three things crossed the wire. The first is a story Axios is calling corporate America's Trump trap. The setup: two years ago, America's corporate titans greeted Trump's victory with open checkbooks and effusive praise. Now, on the eve of midterms that could hand Democrats the House, those same executives may find themselves on the receiving end of subpoenas and investigations into their dealings. The why-it-matters for you is less partisan than structural—it's a reminder of how quickly executive reputational bets can invert when political winds shift. For any leader thinking about brand and public positioning, it's a case study in the risk of tying your corporate identity too tightly to a single administration.\n\nSecond, and this one threads back to AI: Maine's data-center revolt may decide control of the US Senate. A grassroots backlash against AI data centers—over their water consumption and climate impact—has become a defining issue in a competitive Senate race, with voters confronting incumbents directly. I've flagged the data-center backlash for you a couple of times this week, from Arizona's water to the broader theme of it uniting unlikely coalitions across America. Now it's electoral. The signal for your AI thought leadership is that the physical, infrastructural cost of AI is becoming a mainstream political liability, not a niche environmental concern. When you advise clients on AI adoption, the social-license dimension is no longer theoretical.\n\nAnd third, briefly: Trump has given El Salvador's president Nayib Bukele a green light to surge thousands of troops into Haiti to fight the gangs that have devastated the country. A significant regional security escalation seven hundred miles off Florida—worth being aware of as the Caribbean stability picture shifts.\n\nClose to home, in Kamloops: charges have been laid after a stolen van was driven across two RCMP spike belts before being stopped. It's another entry in the city's steady run of property-crime and vehicle incidents we've been tracking all week—the downtown assault, the wanted-person alert. No broader alarm, but the pattern is consistent enough that if family or colleagues are downtown regularly, basic awareness remains warranted. On a lighter local note, Sun Peaks is still mid-launch for its November ski season, having tripled its summer snow storage—so the season's on track up the mountain.\n\nOn the health front, The Lancet has published a substantial Series and accompanying editorial on men's health, and this one I'd actually read rather than skim. The core finding: men face shorter life expectancy and a sixteen percent higher burden of disability-adjusted life-years than women, a gap that first emerged in the nineteenth century and has kept widening. The primary drivers are the usual heavy hitters—cardiovascular disease, cancer, and diabetes—plus external causes like suicide, road injuries, and interpersonal violence. The framing the authors push is worth internalizing: there's a difference between 'male health,' which is about bodies and hormones, and 'men's health,' which is holistic—psychological, social, structural. For anyone with men in their family, the takeaway is that the preventable drivers are front and center, and the social and psychological factors are not footnotes. A credible, high-quality read from a top-tier source.\n\nAnd one more health-adjacent item worth your awareness. MIT Technology Review reports that a new study finds the global incidence of anorexia and bulimia rose seventy-one percent between nineteen-ninety and twenty twenty-three—a striking jump—and clinical psychologists are warning that GLP-1 weight-loss drugs, for all their genuine benefits, could act as a trigger for eating disorders in vulnerable patients. We've been tracking the GLP-1 story from the business and efficacy side all week, including Lilly's triple-G results. This is the other side of the ledger: a reminder that a blockbuster class of drugs reshaping how a generation relates to food and body image carries psychological risks we're only beginning to measure. Not a reason for alarm, but context worth holding as these drugs become ubiquitous.\n\nThat's your Friday, Midya. If I were setting your weekend reading, I'd put the two content angles at the top: the 'tools-to-outcomes' piece on AI in marketing, and the governance angle on universities funding AI adaptation without a framework underneath it. Both are timely, both are yours to own, and both connect directly to the enrolment pressure the Memorial numbers just made impossible to ignore. The market conditions are doing your business development for you right now—the institutions in distress are the ones ready to buy. Have a good weekend, and I'll see you Monday.",
+  "whyItMatters": "Today is a classic light Saturday news cycle, which means the signal is in a few durable threads rather than a flood. The dominant one for your practice is AI's shift from hype to operational reality — marketing teams building workflows around AI agents, and a jittery hyperscaler earnings season that's testing whether the AI capex story holds. Both feed your thought-leadership pipeline directly: the agent-governance angle is squarely in your AI-in-marketing-operations lane. On the higher-ed front, Canada's push to plug students into European exchange programs and the ongoing tightening of study-permit work rules are the kind of structural shifts that reshape enrollment and recruitment messaging — watch how institutions reposition. The Bank of Canada's first rate hike in three years is the one to sit up for on the real estate side: it changes renewal math for your husband's brokerage markets and the investment-sales conversation across Western Canada. Locally, a presumed drowning search near Kamloops and BC's move to permanent daylight time are worth knowing; the latter is a small but real operational detail for anyone scheduling across the province.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-10-31.mp3",
+  "audioDurationSeconds": 862,
+  "audioScript": "Good morning, Midya. It's Saturday, October thirty-first — Halloween — and it's a lighter news cycle, so today we go deeper on fewer things that actually matter to your work.\n\nLet's start where the real signal is this morning, which is AI — and specifically the gap between how AI is being talked about and how it's actually being operationalized. There are two stories here that, taken together, tell you exactly where we are in the cycle.\n\nThe first is a practitioner piece from MarTech on building marketing workflows around AI agents. And I want you to pay attention to the framing, because it's a tell. The article doesn't treat agents as a feature you bolt onto your existing stack. It treats them as teammates — entities that take a task, do part of it, hand it off, and get checked by a human at defined points. That's a meaningful shift in language, and it mirrors what you've been seeing in client conversations. The organizations getting value out of agents aren't the ones with the flashiest tool; they're the ones who've actually redesigned the workflow around orchestration, hand-offs, and accountability. Who owns the output when an agent drafts the campaign brief? What data can the agent touch, and where does that data live? Who signs off before it goes external? These are not technical questions — they're governance questions, and they're exactly where your Public-Institution Governance Lens becomes a differentiator.\n\nThis is a strong content opportunity, and I'd flag it as your lead thought-leadership angle for the day. The publishable take is not \"AI agents are coming\" — everyone's said that. The take is a governance checklist for agent hand-offs: data access, decision rights, human checkpoints, and audit trails that a marketing leader can adopt before they scale agents across the team, not after something goes wrong. That's a piece only someone with your dual fluency — marketing operations plus public-institution governance — can write credibly. Most martech commentators can describe the tools; very few can tell a CMO how to deploy them without creating a liability. Own that lane.\n\nThe second AI story gives you the macro context, and it's a bracing one. The Nasdaq briefly tipped into correction territory this week — down ten percent from its peak, shedding roughly one-point-two trillion dollars in value over the month of October — as the latest wave of hyperscaler earnings sent genuinely contradictory signals about whether the enormous AI capital spending actually pays off. Axios calls it the AI trade's Jekyll-and-Hyde era, and that's apt. Bulls found evidence the boom is real; bears found evidence it's overbuilt. For you, the lesson isn't to time the market — it's to read the mood. When the people writing the biggest cheques start getting nervous about AI returns, that nervousness trickles down into your clients' budgets within a quarter or two. Higher-ed marketing offices and brokerages are not going to be immune. So when you advise clients on AI investments right now, the smart posture is pragmatic: tie every AI spend to a measurable outcome, avoid speculative platform bets, and be the voice in the room who separates durable productivity gains from hype. In a jittery capital environment, the consultant who insists on ROI discipline looks a lot smarter than the one selling the shiny thing.\n\nStaying close to that theme, there's one story on the watchlist worth your attention this morning, and it sits right at the intersection of data, enrollment, and governance. A vice-president serving two institutions — St. Ambrose and Mount Mercy — is being profiled for helping write what's described as the playbook on data-driven enrollment, aligned with AACRAO's standards for registrars and admissions officers.\n\nNow, AACRAO is the association that effectively sets the professional norms for enrollment and records management across North American higher ed, so when a data-driven enrollment approach gets framed as an AACRAO-aligned playbook, that's the mainstreaming of a practice you should be watching very closely. Data-driven enrollment used to be the territory of a handful of sophisticated institutions. It's now becoming the expected baseline. And here's the opening for your second content angle of the day: as \"data-driven enrollment\" goes mainstream, the governance gap widens. Institutions are rushing to build predictive models on prospective-student data — often sensitive, often personal — without a clear framework for where that data lives, how the models are audited for bias, or whether the whole apparatus is defensible under FIPPA and BC data-residency rules. The take you could publish is sharp and needed: data-driven enrollment without a governance lens isn't an advantage, it's a liability waiting to surface. You could literally build an audit checklist around it. That's a piece Canadian enrollment leaders would read and forward.\n\nThat carries us naturally into higher education, where there are three developments worth knowing.\n\nThe first is an update on the Canada–EU story we touched on earlier this week after the Montreal talks. The Toronto Star is now reporting concrete movement: Ottawa is working to give Canadian students access to European exchange programs — essentially plugging into something Erasmus-like. If this lands, it reshapes the outbound-mobility conversation and, more importantly for your clients, it changes how institutions pitch the international experience. Right now, the recruitment narrative in Canada is overwhelmingly about inbound students. A credible, government-backed European exchange pathway gives Canadian universities a new outbound story to sell to domestic students — and a fresh brand and marketing angle at a moment when they badly need differentiation. Worth tracking as it firms up.\n\nSecond, IRCC is once again reminding international students that off-campus work eligibility is tied strictly to the conditions on their study permit — you can only work if your permit allows it. On its own this is a routine reiteration, but read it in context. It's one more data point in the compliance-first posture that now defines Canada's entire international-student framework. Every one of these reminders tightens the lived experience of studying in Canada, and it affects the recruitment message institutions can honestly make. Your clients and prospects in this space need marketing that's accurate about work rights, not aspirational — because the compliance environment is unforgiving now, and over-promising creates both reputational and legal risk.\n\nAnd third, a telling structural marker from the sector: Times Higher Education is winding down its BMI GlobalEd arm by the end of 2026, citing pressure on international education that has made the business hard to sustain. When an operation as well-resourced as THE closes a recruitment-adjacent business line and says the market can't support it, that's not a one-off — that's a read on how much the international-education market has contracted globally. For you, it's confirmation that the institutions still competing effectively in this space are the ones investing in smarter, more efficient recruitment — which is precisely the value proposition you're selling. Contraction in the market is painful for incumbents, but it sharpens demand for the kind of enrollment strategy and AI-enabled efficiency you bring.\n\nOn the marketing side, a quick but relevant note. Liquid I.V. has formally named Jenny Danzi as its chief marketing officer. You'll recall we flagged earlier this week that the brand was signalling a push toward cultural impact and had brought in a former Poppi marketing leader — this is that strategy crystallizing into a senior appointment. The reason it's worth a beat of your attention isn't the individual; it's the pattern. Even in a tightening consumer-spend environment, brands are continuing to invest in senior marketing leadership and in distinct cultural positioning. That's a reassuring signal for anyone whose business is marketing strategy. When budgets get nervous, the first instinct is often to cut marketing — but the brands that keep investing in sharp leadership and differentiation are the ones that come out of soft cycles with share gains. It's a useful counter-narrative to have in your pocket when a client wants to reflexively slash their marketing spend.\n\nNow to the story that should make you sit up on the real estate side, because it's a genuine shift. The Bank of Canada has raised its benchmark interest rate for the first time in three years. Three years is a long time — an entire generation of buyers and a whole cohort of renewals have operated under the assumption that rates were flat or falling. A hike resets that psychology overnight.\n\nThink through the practical ripple. For homeowners heading into renewal, the fixed-versus-variable calculus just got harder and more consequential — which is exactly the conversation Money.ca leads with. For the brokerage side of your world, and for your husband's markets in Edmonton and Vancouver, a hike cools buyer urgency in the short term but also sharpens the advisory role of the agent. When rates were only ever going down, anyone could sell a house. When rates turn, buyers and investors need genuine guidance — on affordability, on timing, on the real cost of carrying. That's where a brokerage that invests in agent productivity and good client communication pulls ahead. And on the commercial investment-sales side across Western Canada, a higher cost of capital directly compresses what buyers will pay — cap rates move, underwriting tightens, and deals that pencilled last month need rework. Watch the next few weeks of transaction volume closely; the first reaction to a surprise hike is usually a pause while everyone recalibrates. If you're advising anyone on real estate marketing right now, the message is clarity and reassurance — buyers freeze when they're confused, and the agents who communicate well through this will win the business.\n\nCloser to home now, three things from Kamloops and around BC.\n\nFirst, and most soberly, Kamloops Search and Rescue crews are scouring a river in the search for a woman presumed to have drowned. There aren't many details yet, and it's a difficult story, but it's the kind of local news worth being aware of — these searches ripple through a community the size of Kamloops.\n\nSecond, a lighter item from city council: councillors have agreed to release a ninety-thousand-dollar grant to restore a historic locomotive. It's a modest heritage-investment decision, but it's a nice window into the texture of local governance — the kind of civic-identity spending that signals a community investing in its own story.\n\nAnd third, something that affects the practical rhythm of your days: BC is moving toward a permanent, year-round daylight time zone, and CFJC has a Kamloops resident reacting to the shift becoming real. This matters more than it sounds. If BC settles on permanent daylight time while neighbouring jurisdictions don't fully align, you'll want to double-check your cross-border and cross-provincial scheduling — client calls into Ontario, the US, or Alberta could drift by an hour relative to what you're used to. Small thing, but the kind of operational detail that trips people up for a few weeks after it lands.\n\nLet me close with the wider world, where there are three items worth carrying in the back of your mind as a senior leader.\n\nThe most urgent is in the Gulf. Qatari mediators held more than twelve hours of talks in Tehran on Friday, with discussions continuing in Doha, in an effort to restart direct US–Iran negotiations and head off what diplomatic sources describe as a possible US military operation within days. The stakes are enormous — a strike would likely trigger retaliation across the region. This is a genuinely volatile situation with a very short fuse, and if it breaks the wrong way, it moves oil prices and market sentiment globally, which loops right back to that jittery AI-and-tech earnings mood we started with. Worth watching over the weekend.\n\nSecond, a grounding note for anyone thinking about cross-border strategy: analysts say that no matter how Tuesday's US midterms shake out, Canada–US tensions on trade and politics are likely to persist. Don't expect a change in the balance of Congress to deliver quick relief. Plan your assumptions around continued friction, not a thaw — that's the durable backdrop for the next couple of years.\n\nAnd finally, a story that ties your AI thesis to hard-edged reality. Axios has a detailed look at how North Korean hackers perfected the crypto heist — the group behind the staggering six-point-three-billion-dollar Binance theft combined familiar social engineering with extraordinary automation and speed. The piece raises exactly the question you should be raising with clients: what happens when state-level bad actors bolt AI onto operations that are already this sophisticated? It's a vivid reminder that AI adoption and AI-era security have to advance together. For any public institution or brokerage you advise, the lesson is that the governance conversation and the security conversation are the same conversation now.\n\nSo that's your Halloween Saturday, Midya. The through-line today is AI maturing from story into operations — agents becoming teammates, capital markets demanding returns, and governance quietly becoming the thing that separates the organizations that benefit from the ones that get burned. That's your territory, and the agent-governance checklist and the data-driven-enrollment-governance piece are both ready to write. Keep an eye on that Bank of Canada hike as it filters into your husband's markets, and enjoy the quieter weekend pace while the news cycle gives you the room. Talk tomorrow.",
   "topStories": [
     {
       "id": "story-watchlist-0",
       "category": "Watchlist",
-      "headline": "Lococo unseats Diodati as Mayor of Niagara Falls",
-      "summary": "Lori Lococo defeated three-term incumbent Jim Diodati to become mayor of Niagara Falls, a notable leadership turnover in the city that hosts the University of Niagara Falls.",
-      "source": "The Pointer",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaUxqd2ZZd3YyTjB0YUd3bXQzSWlOU3d3YThfMThVcm5NR2NHcEREc3dIUE9lckRDMzNUUkppN0NPOU9LeW1oNG1rTGJhQVQ1M09feEUxaEZrSHBZYlpjVVZXeS1xWnpmdUprOTEyc1gyenVGWGhtYnNLVkhTTk9NdkU1QlNQZThLMG55SENfdEtIYjlUbl9XZGx0bnNvTkhqdUxudi1GTmtxNHd2bk44QlRKTHV1bE5ndFN0VWYtbDVEZGtm?oc=5",
+      "headline": "AACRAO-linked VP helps write the data-driven enrollment playbook",
+      "summary": "A St. Ambrose and Mount Mercy vice-president is profiled for co-authoring a data-driven enrollment approach aligned with AACRAO's registrar-and-admissions standards, a signal of where mainstream enrollment practice is heading.",
+      "source": "River Cities' Reader",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQanZtU2ZMRk42LTRlT1UyOGtUR3FEdHNfbG1VV29XampqbFo2NnVJemlNZXJrZGNmaVVKUXotT0ttaGY3dmwxdXZNWjI4WDBBQmtmN0RWemk4SDNLRElLYmZIcTZVaDBlaTVpaFBlTzE3VW15ZFk2RFhtT1FCNVdIOGliaENFQlZxVDJRVXRMMlJpU1FSSHkyN3oyWDNVd1BfcjVOQ0NvLUZLdFhYQ1EwSHZEOVZ0d0J0N2ZFTWFyZkg0UQ?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "bars"
+      "thumbnailKind": "bars",
+      "contentAngle": "AI in higher-ed enrollment: data-driven enrollment playbooks are going mainstream — the take is that without a governance lens on where student data lives and how predictive models are audited, 'data-driven' becomes a liability."
     },
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Brands rework strategy as AI shifts from tools to outcomes",
-      "summary": "Marketing teams are restructuring around AI as the conversation moves from point tools to outcome-based systems, pushing spend from experimentation toward measurable results.",
-      "source": "BW Marketing World",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnE3VlBENW0xN3dNUWRJeDZCSi1JeUU4dU1hcmhjbERfbExnTkFTZTZJMWl4UEsxVmJPTTQwb2hhU1h6UEhmdFdwd1Q2c1MzOEx2WEZsR2ZJYk91MFNqNGp1TGd3bV9UZy1qRENxOWJuZEpXRmFWaFUybWdFdFFyQ201NkpueWh5NkdrYS1mc1dVemo4SUVZaVpQdXdFRkVTcFZzVkFFeUV1MzNteV9sYjl6V0dMaGkzOEE?oc=5",
+      "headline": "Building marketing workflows around AI agents",
+      "summary": "MarTech lays out how marketing teams are restructuring workflows to treat AI agents as teammates rather than tools — orchestration, hand-offs, and the human-in-the-loop checkpoints that actually make them work.",
+      "source": "MarTech",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlpOemZwUGVKT0NuQ3BDVnJLUjFsRUtGRTJleHBLcThiS1dGS1ZZRV9VMDM4X1Nla1pxMTU4aUdNZ3Vlcnc1Q1pFcDBSR3FaWW9xY2R0aUV3azNtQUdzUTRjcmR1dy14d01lWVNOTGw4NzNldndrclk2aTU2b2oyb1NNLUVRYUlvM0lfZVJscFNKVFE?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "contentAngle": "AI in marketing: the 'tools-to-outcomes' pivot is the hook for a piece on why AI pilots stall without an outcomes framework—and what a measurable AI marketing operating model looks like."
+      "contentAngle": "AI in marketing operations: agents-as-teammates is the operating model of 2027 — the publishable take is a governance checklist for agent hand-offs, data access, and accountability that marketing leaders can adopt before they scale."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "FDA, CMS scramble as states launch AI clinical 'sandboxes'",
-      "summary": "US federal regulators are moving behind the scenes to avoid a clash with states testing AI in clinical settings—an early template for how public institutions govern AI deployment.",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
+      "headline": "The AI trade's trick-or-treat earnings season",
+      "summary": "The Nasdaq briefly tipped into correction, shedding $1.2 trillion in October, as hyperscaler earnings sent contradictory signals about whether the AI capex boom pays off — bulls and bears both found ammunition.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/03/GettyImages-1227710555-645x645.jpg"
+      "imageUrl": "https://images.axios.com/howk2tO75sHJMOc7zjPyZvwUR5I=/128x128/smart/2026/10/30/1793386348492.jpg"
     }
   ],
   "digestStories": [
     {
       "id": "story-watchlist-0",
       "category": "Watchlist",
-      "headline": "Lococo unseats Diodati as Mayor of Niagara Falls",
-      "summary": "Lori Lococo defeated three-term incumbent Jim Diodati to become mayor of Niagara Falls, a notable leadership turnover in the city that hosts the University of Niagara Falls.",
-      "source": "The Pointer",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaUxqd2ZZd3YyTjB0YUd3bXQzSWlOU3d3YThfMThVcm5NR2NHcEREc3dIUE9lckRDMzNUUkppN0NPOU9LeW1oNG1rTGJhQVQ1M09feEUxaEZrSHBZYlpjVVZXeS1xWnpmdUprOTEyc1gyenVGWGhtYnNLVkhTTk9NdkU1QlNQZThLMG55SENfdEtIYjlUbl9XZGx0bnNvTkhqdUxudi1GTmtxNHd2bk44QlRKTHV1bE5ndFN0VWYtbDVEZGtm?oc=5",
+      "headline": "AACRAO-linked VP helps write the data-driven enrollment playbook",
+      "summary": "A St. Ambrose and Mount Mercy vice-president is profiled for co-authoring a data-driven enrollment approach aligned with AACRAO's registrar-and-admissions standards, a signal of where mainstream enrollment practice is heading.",
+      "source": "River Cities' Reader",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQanZtU2ZMRk42LTRlT1UyOGtUR3FEdHNfbG1VV29XampqbFo2NnVJemlNZXJrZGNmaVVKUXotT0ttaGY3dmwxdXZNWjI4WDBBQmtmN0RWemk4SDNLRElLYmZIcTZVaDBlaTVpaFBlTzE3VW15ZFk2RFhtT1FCNVdIOGliaENFQlZxVDJRVXRMMlJpU1FSSHkyN3oyWDNVd1BfcjVOQ0NvLUZLdFhYQ1EwSHZEOVZ0d0J0N2ZFTWFyZkg0UQ?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "bars"
+      "thumbnailKind": "bars",
+      "contentAngle": "AI in higher-ed enrollment: data-driven enrollment playbooks are going mainstream — the take is that without a governance lens on where student data lives and how predictive models are audited, 'data-driven' becomes a liability."
     },
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Brands rework strategy as AI shifts from tools to outcomes",
-      "summary": "Marketing teams are restructuring around AI as the conversation moves from point tools to outcome-based systems, pushing spend from experimentation toward measurable results.",
-      "source": "BW Marketing World",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnE3VlBENW0xN3dNUWRJeDZCSi1JeUU4dU1hcmhjbERfbExnTkFTZTZJMWl4UEsxVmJPTTQwb2hhU1h6UEhmdFdwd1Q2c1MzOEx2WEZsR2ZJYk91MFNqNGp1TGd3bV9UZy1qRENxOWJuZEpXRmFWaFUybWdFdFFyQ201NkpueWh5NkdrYS1mc1dVemo4SUVZaVpQdXdFRkVTcFZzVkFFeUV1MzNteV9sYjl6V0dMaGkzOEE?oc=5",
+      "headline": "Building marketing workflows around AI agents",
+      "summary": "MarTech lays out how marketing teams are restructuring workflows to treat AI agents as teammates rather than tools — orchestration, hand-offs, and the human-in-the-loop checkpoints that actually make them work.",
+      "source": "MarTech",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlpOemZwUGVKT0NuQ3BDVnJLUjFsRUtGRTJleHBLcThiS1dGS1ZZRV9VMDM4X1Nla1pxMTU4aUdNZ3Vlcnc1Q1pFcDBSR3FaWW9xY2R0aUV3azNtQUdzUTRjcmR1dy14d01lWVNOTGw4NzNldndrclk2aTU2b2oyb1NNLUVRYUlvM0lfZVJscFNKVFE?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "contentAngle": "AI in marketing: the 'tools-to-outcomes' pivot is the hook for a piece on why AI pilots stall without an outcomes framework—and what a measurable AI marketing operating model looks like."
+      "contentAngle": "AI in marketing operations: agents-as-teammates is the operating model of 2027 — the publishable take is a governance checklist for agent hand-offs, data access, and accountability that marketing leaders can adopt before they scale."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "FDA, CMS scramble as states launch AI clinical 'sandboxes'",
-      "summary": "US federal regulators are moving behind the scenes to avoid a clash with states testing AI in clinical settings—an early template for how public institutions govern AI deployment.",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
+      "headline": "The AI trade's trick-or-treat earnings season",
+      "summary": "The Nasdaq briefly tipped into correction, shedding $1.2 trillion in October, as hyperscaler earnings sent contradictory signals about whether the AI capex boom pays off — bulls and bears both found ammunition.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/03/GettyImages-1227710555-645x645.jpg"
+      "imageUrl": "https://images.axios.com/howk2tO75sHJMOc7zjPyZvwUR5I=/128x128/smart/2026/10/30/1793386348492.jpg"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "StatCan releases August GDP and early Q3 estimate",
-      "summary": "Statistics Canada publishes August GDP figures plus an early September and third-quarter estimate today—a key read on the economy's momentum heading into year-end.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/10/30/statcan-to-release-gdp-data-for-august-early-estimate-for-q3-today/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F537c9088-388a-4dea-ad7f-6382a3c8eb93%2F3af9e587d0914839f7b66e19fde44f84ab4b2757b7469b4895a6d00ee9fce84a.jpg"
-    },
-    {
-      "id": "story-marketing-1",
-      "category": "Marketing",
-      "headline": "Netradyne names Brion O'Connor CMO",
-      "summary": "Fleet-safety technology firm Netradyne appointed Brion O'Connor as chief marketing officer, a senior martech-adjacent leadership hire.",
-      "source": "HR Today",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0o1emN5VnpPTlkzVU1YZ1VCMWxqVUF3dFhsbzNOYXRacllBMDFXQm1DODJ4dURScE1zNWJuY0k5WFA3YVVwbWZTY3owRnRtSTRiRnpGMFhTV2xPd2dqT002TVVjTDdNbDZrLTAtLUg2VTRrWk9GbTFfYUJKXzU2eDVKMmR2dw?oc=5",
+      "headline": "Liquid I.V. names Jenny Danzi chief marketing officer",
+      "summary": "Following its earlier signal about chasing cultural impact, Liquid I.V. has formally named Jenny Danzi CMO — a brand continuing to invest in senior marketing leadership amid a tightening consumer-spend environment.",
+      "source": "Campaign US",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWEzZ0JidW5oa2t0WlRHeE5DZFJ6R2tEV0U4UGdKWjJ4RjQ0dWhoNm5hdDA1ZW12S0NiQmJsWDFjVXVYYU8wd3hLZnZsbXNNSTc3R3RhMUVmdEFpTGZDZmE2clBMd2lvODhpVEN2X2FrRDh3Z09uYTAteF9qT3JTTXN3ZVl6MndlUFBiV2ZtNmhOVGtfVktIaVZuTmQtb25LVkk2SndNa2VaVzg5ZE4xaURn?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone"
@@ -112,10 +102,10 @@
     {
       "id": "story-higher_ed_canada-0",
       "category": "Higher Ed",
-      "headline": "Memorial University reports 45% student drop",
-      "summary": "Memorial University recorded a 45% decline in students, a stark example of how Canada's international enrolment contraction is landing on individual institutions' budgets.",
-      "source": "ImmigCanada",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5INHJSbjVwcm1wQXhDa3NZVUZ2ckFoN2EwcEszTjhVcFMwQkVkNkMtdGtuUHd3OFdRT2Q2OVBGZTdtRjZXTUg3NFJUZHZpRmZLQmZBTzlxVFpnc2RkN1BvZEt1bnhTUkpGbFJiRmJjODJ0U052X3pVQkpDdlp4UQ?oc=5",
+      "headline": "Canadian students would gain access to EU schools under new deal",
+      "summary": "An update on the Canada–EU talks in Montreal: Ottawa is moving to plug Canadian students into European exchange programs, potentially reshaping outbound mobility and how institutions pitch international experience.",
+      "source": "Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdmNYOWpkMmVHRVJ3eVExMnNuaUk1WmJaV0d3NkJPZmxhcGtFVTlmR2czMVRXUUk4cFdOX1prY0s0SWxKbXRqRkZOU3A5WjRyZFBaMkYtc1NDeGFMaUJ3Q0dma1pKZHRfSGJ0YUVZVHVhcm1zS3dpQVZOUExGUW9lWF85ZG5CdVoyMXBCdXU3ZG05d05VX09USVpxUnVsN3pibG81ZUpiRkZEQlljcTVLQmhicmxMZ3dkeFVYRTBhaW1uc2ppQllXTTRXVkVOalkxSjlVa1g5dDZwby1VQmQwQlAtbFNZTllNU0htbktTM0U2SnI0X0hRM2NqelBNQQ?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
@@ -123,34 +113,66 @@
     {
       "id": "story-higher_ed_canada-1",
       "category": "Higher Ed",
-      "headline": "Canadian universities seek $10M from Ottawa for AI adaptation",
-      "summary": "A coalition of Canadian universities is asking Ottawa for $10M to help creative workers grapple with AI's disruption to their fields.",
-      "source": "The Logic",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUGFUY2diNmtXd2djZjNTU2pmcjNZSUROckdrdS14SThtWUxwY3NBc1NzVGVvZlJkRjBkZTY0ZHpaUy1Da0xUeWtFV05jVklKaEFqcFB1eWlIR3MwdzlBOEh6UElYcFVMM2NPZUIwalUyY0tDUDl4V0k2S2FXMUk0U3NtWjV2RDlhdWY4?oc=5",
+      "headline": "Canada tells international students: work only if your study permit allows it",
+      "summary": "IRCC is reiterating that off-campus work eligibility is tied strictly to study-permit conditions — another signal of the compliance-first posture now defining Canada's international-student framework.",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPM3A5Vm9OS0FmWEFJQUFReWxiYldXUUhNWGxZTWNmZVhRZlF0a3BzMlVjQV95Y093NnJRMDFUcTNNazJIMFVZTmxDOWFKb1d3b0VmRlFYRkpOa0J4cXhxM05WR0pnalgyYUt6TFJuWm9lX2pUYVdMUEY3Sm1SYU85Y29hSGdZQlJqZmpmMEdreGVCOUdpYXJUX1FYR3JOTGRqeDVFQWpVd0RBLWNub21ta1dPLUtydnRCRlRsdFBEdUZxc1JLOG92aEZCSjFSeXVoUkJiRlhaVk42TzZrQ0E3Tk5ybk1Qa051UGR6TEpON2hYc3pCSGl4NkJrblQyMVhyZWt6VHdjZnloWFhHMFFsRkN4aHlydXh1amtPS3M2OHNXQkhmMTZwVk9NalXSAbICQVVfeXFMUF95TWpsWHJDOVJMV29ENWVCTDdNYXd0WkY5NEhheFk3SEJyRTNSM1hwRGZKcVZNVjlJY2xodEU3dFBJYTd0anVIdmZCRVBoWndsS0s0ZGd4aTNlTVVEVWNZc1A4Z0UzLTI4Rkc1eldhckY4Nkp6MDZrbXhDdVZsbGFaUGJLUFJXbnRXLXR3RXlZblNjY1dOZHJwRE4ydGNPekQ0LU10bWJ0cGZDTS1NRTNkeEYzVHBZenZQdTRRd1h0R0dtWFBYQy05YXZfUWluOHJQWUpmbzZMOEFEMWh0S3IxSVVWbjhCYV9wQU1GTE9SUEFFV3QxXzVGY3hMdzNyOEwzQ0pwVEJXRzJWbFpDRzlGeTNWTEpJOE5QaE1yd0ZKNGxyZ21rRGlqTkpZTEtmbnRn?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "contentAngle": "AI in higher-ed / public-institution governance: universities asking Ottawa to fund AI adaptation is the opening for a piece on who owns AI governance on campus—and why funding without a FIPPA-aware framework repeats old mistakes."
+      "thumbnailKind": "university"
     },
     {
       "id": "story-higher_ed_canada-2",
       "category": "Higher Ed",
-      "headline": "English UK reviews student protection after provider closures",
-      "summary": "English UK launched a major review of student-protection arrangements after a series of large-scale provider closures exposed gaps in safeguards for international students.",
+      "headline": "Times Higher Education to wind down BMI GlobalEd by end of 2026",
+      "summary": "THE is closing its BMI GlobalEd arm, blaming pressure on the international education sector that has made the business hard to sustain — a telling marker of how much the recruitment market has contracted.",
       "source": "The PIE News",
-      "url": "https://thepienews.com/english-uk-launches-student-protection-review-after-provider-closures/",
+      "url": "https://thepienews.com/times-higher-education-to-wind-down-bmi-by-end-of-2026/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/10/iStock-959622488-2.jpg"
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2023/05/IMG_5555.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Bank of Canada hikes rate for first time in three years",
+      "summary": "The BoC has raised its benchmark rate for the first time in three years, immediately changing the fixed-versus-variable calculus for homeowners heading into renewals and reshaping buyer and investment-sales conversations across Western Canada.",
+      "source": "Money.ca",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWlRUzVXVTF1dFZrSE1sb0VYVkV5M2Q5Q3d4RkJzOUM0U0c0b1A2QjdqOUFCb3luVzFuS2dhQTNhU25nd1JhNS1GcmVuVjZjd0I4ZzBBX3hMMmhRLUI4TXk0MGpwWWFYRzA1ajlpSGJtcUh6Z1FDVVlscV8wMEZkdmhlWEx5MzE5MUNONl8taUI?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
     },
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "Charges laid after stolen van hits two Kamloops spike belts",
-      "summary": "Charges were laid after a stolen van was driven across two RCMP spike belts in Kamloops, another entry in the city's steady run of property-crime incidents.",
+      "headline": "Kamloops Search and Rescue scour river for woman presumed drowned",
+      "summary": "Crews are searching a river near Kamloops for a woman presumed to have drowned — a sombre local story worth keeping an eye on as details develop.",
       "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMTBMM1EyeER4M2xYMUZCZjE2V2JHUFpGOVAwRnhKNGQxaTBXQ18zZGtGQ3Nlanh3THN4X1lGdW5EUlRoa2VIZ3ZqNkFHUXJ6Q25tM2V0Sk9wbXJpQ01Lb3ViNXozRUYwX042Q1o0WGdnWHhIR3BoSF9Gby1HbkRDdnhtRk9iVFptekEtV2hWaHh0dHlsQ1RQUGdrcUp0WjlibFIxRFRnb1R1R3dneE1ZZF9ReTNOcU43dTJ3c2pwWXRBbndFb1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFJSNmJ0dURvRTl6NzV0Y2VfUUs0VWZaRlA1cjFzcTdDNmk3eVNPOXowV2szRWRLTFd3Z2JQMkp6YjNyT09jWnlnYVQzXzFlQXBkLWZudGF1MTNiMTJOaHh3WE9GSFVsaXZ6LWJDRkpyUmQyQ3RkLUxwb3dKeFB3Q3NCNDh0U3pmTE9Da1Jpc3NiSUVuNm5weWpHUUxQa3RxOTNjdkhxVkE0VE9RODR0a29qVHU1SVo4aXctVm9XTWZmZmllNFc4?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Kamloops council releases $90K grant for historic locomotive restoration",
+      "summary": "City council has agreed to release a $90,000 grant to restore a historic locomotive — a modest heritage-investment decision from the latest council meeting.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMHk1WGh3MmpRTU51WUVvcFRsV0FmUGFKLUttNE94UmRwbmFMa3hSZ1JwQUd2SUQ0SDRJTEJrVGg2RGVJckhsUU00b2hhLUZPMncyeWdDWW82eHlzX0kyTWZoeGQzS183MmdaUkVUcXNmY3ZVWTFhRG5oS1hId3FKX1lRU2NrZ3VZSUJSbmo0ZFkwZ1F3bzRMVjlSdGhzOU1qUHJhQkNiTlBkQkNjTC1WUlUzODB5QkFYUjM1REF6eVFlMFk2MWpILUJVc25HUzQ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-2",
+      "category": "Local News",
+      "headline": "BC prepares for permanent year-round daylight time",
+      "summary": "A Kamloops resident reacts as BC moves toward a permanent, year-round daylight time zone — a small but real scheduling change for anyone coordinating across provincial and US time boundaries.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXJtWXhjdWRVb0h6SU9mRkJOaDlvUjhmWjlnRGtib0htaUtGaER2T29rb1BhS1pQakNIcXBVVjhOTmFzTkZWY2FsNzZLV05wLXFjTmxnbjhEQVlydWNhSUEzQTJlVkZHZjlFSmNQVDFIVTFpVV94T1pSZGEtYllVT2FqdVQweGs2dFNnVVBzb3NpLWt2MEZLOUZkejhsVmlvUU9GdlFwUWJfM2ZQNmRSRVBLTGloV01JMHo2WjlRcjdQVVMyNlhPZXRWVUZYeWkx?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -158,143 +180,114 @@
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Corporate America's Trump trap",
-      "summary": "With a potential Democratic House looming, CEOs who backed Trump in 2024 could spend his final two years defending their dealings under subpoena, Axios reports.",
+      "headline": "Qatari mediators race for a US–Iran deal before the midterms",
+      "summary": "Qatari envoys held 12-plus hours of talks in Tehran to restart direct US–Iran negotiations and head off a possible military operation that could trigger regional retaliation — a volatile situation with days to run.",
       "source": "Axios",
-      "url": "https://www.axios.com/2026/10/30/democrat-subpoenas-investigations-corporate-trump",
+      "url": "https://www.axios.com/2026/10/31/qatari-mediators-iran-war-deal-before-midterms",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://images.axios.com/bd0owvCSusk78xOEzp1AYvGCc6U=/314x0:1394x1080/320x320/2026/10/28/1793217957092.jpeg"
+      "imageUrl": "https://images.axios.com/xaaDWdFCfKe-8O3ipW6umZBOmWU=/1318x0:6388x5070/320x320/2026/10/31/1793407283436.jpeg"
     },
     {
       "id": "story-global_business_tech-1",
       "category": "Global",
-      "headline": "Maine's data-center revolt could decide Senate control",
-      "summary": "A grassroots backlash against AI data centers—over water and climate impacts—has become a decisive issue in Maine's Senate race, the latest sign of mainstream resistance to AI infrastructure.",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "headline": "Canada–US tensions likely to persist regardless of midterm outcome",
+      "summary": "Even if Tuesday's US midterms shift the balance in Congress, analysts expect little near-term relief in Canada–US trade and political friction — a durable backdrop for anyone planning cross-border strategy.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/10/31/no-matter-what-happens-in-the-midterms-canada-u-s-tensions-are-likely-to-remain/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F41a7a391-7a53-4884-8e8f-e3a9c685b6d6%2Ffc8e98238f302ba131321d3ab9cb9675b107b30d9fb5f46e16a3f9681dea3495.jpg"
     },
     {
       "id": "story-global_business_tech-2",
       "category": "Global",
-      "headline": "Trump greenlights Bukele troop surge in Haiti",
-      "summary": "El Salvador's Nayib Bukele is sending thousands of troops to Haiti to fight gangs after Trump signalled approval of the escalation.",
+      "headline": "How North Korea perfected the crypto heist",
+      "summary": "North Korean hackers behind the $6.3-billion Binance theft combined social engineering with extraordinary automation, raising fresh questions about how AI could supercharge state-level financial crime.",
       "source": "Axios",
-      "url": "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
+      "url": "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://images.axios.com/rd_Mrb6lqQ_ia60rpDaTOnaOZ24=/128x128/smart/2026/10/29/1793312999444.jpg"
-    },
-    {
-      "id": "story-longevity-0",
-      "category": "Longevity",
-      "headline": "Lancet Series: men's health and a widening life-expectancy gap",
-      "summary": "Lancet editorial and Series: men carry a 16% higher disability burden and shorter life expectancy, driven by cardiovascular disease, cancer, diabetes, suicide, and injuries—urging a more holistic, social approach to men's health.",
-      "source": "The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02190-2/fulltext?rss=yes",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "leaf"
-    },
-    {
-      "id": "story-misc-0",
-      "category": "Misc",
-      "headline": "Eating disorders rising; GLP-1s could worsen the trend",
-      "summary": "A new report finds global anorexia and bulimia incidence rose 71% from 1990 to 2023, and clinicians warn GLP-1 weight-loss drugs may act as a trigger for some patients.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "bars",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600"
+      "imageUrl": "https://images.axios.com/f-DG-EhnBfFRbjQ26d61yk9NJb4=/128x128/smart/2026/10/30/1793396869583.jpg"
     }
   ],
   "audioChapters": [
     {
       "id": "c1",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "3:12",
-      "startSeconds": 18
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:18",
+      "startSeconds": 11
     },
     {
       "id": "c2",
-      "title": "AI & Tech",
-      "category": "AI & Tech",
-      "duration": "2:25",
-      "startSeconds": 209
+      "title": "Watchlist",
+      "category": "Watchlist",
+      "duration": "1:37",
+      "startSeconds": 208
     },
     {
       "id": "c3",
-      "title": "Watchlist",
-      "category": "Watchlist",
-      "duration": "0:44",
-      "startSeconds": 354
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:36",
+      "startSeconds": 306
     },
     {
       "id": "c4",
       "title": "Marketing & Business",
       "category": "Marketing",
-      "duration": "0:55",
-      "startSeconds": 398
+      "duration": "1:01",
+      "startSeconds": 462
     },
     {
       "id": "c5",
-      "title": "Global News",
-      "category": "Global",
-      "duration": "1:54",
-      "startSeconds": 453
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:43",
+      "startSeconds": 523
     },
     {
       "id": "c6",
       "title": "Local News",
       "category": "Local News",
-      "duration": "0:37",
-      "startSeconds": 567
+      "duration": "1:22",
+      "startSeconds": 626
     },
     {
       "id": "c7",
-      "title": "Longevity",
-      "category": "Longevity",
-      "duration": "1:00",
-      "startSeconds": 604
-    },
-    {
-      "id": "c8",
-      "title": "Misc",
-      "category": "Misc",
-      "duration": "0:52",
-      "startSeconds": 664
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:57",
+      "startSeconds": 708
     }
   ],
   "upNext": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "Brands rework strategy as AI shifts from tools to outcomes",
-    "summary": "Marketing teams are restructuring around AI as the conversation moves from point tools to outcome-based systems, pushing spend from experimentation toward measurable results.",
-    "source": "BW Marketing World",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnE3VlBENW0xN3dNUWRJeDZCSi1JeUU4dU1hcmhjbERfbExnTkFTZTZJMWl4UEsxVmJPTTQwb2hhU1h6UEhmdFdwd1Q2c1MzOEx2WEZsR2ZJYk91MFNqNGp1TGd3bV9UZy1qRENxOWJuZEpXRmFWaFUybWdFdFFyQ201NkpueWh5NkdrYS1mc1dVemo4SUVZaVpQdXdFRkVTcFZzVkFFeUV1MzNteV9sYjl6V0dMaGkzOEE?oc=5",
+    "headline": "Building marketing workflows around AI agents",
+    "summary": "MarTech lays out how marketing teams are restructuring workflows to treat AI agents as teammates rather than tools — orchestration, hand-offs, and the human-in-the-loop checkpoints that actually make them work.",
+    "source": "MarTech",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlpOemZwUGVKT0NuQ3BDVnJLUjFsRUtGRTJleHBLcThiS1dGS1ZZRV9VMDM4X1Nla1pxMTU4aUdNZ3Vlcnc1Q1pFcDBSR3FaWW9xY2R0aUV3azNtQUdzUTRjcmR1dy14d01lWVNOTGw4NzNldndrclk2aTU2b2oyb1NNLUVRYUlvM0lfZVJscFNKVFE?oc=5",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "contentAngle": "AI in marketing: the 'tools-to-outcomes' pivot is the hook for a piece on why AI pilots stall without an outcomes framework—and what a measurable AI marketing operating model looks like."
+    "contentAngle": "AI in marketing operations: agents-as-teammates is the operating model of 2027 — the publishable take is a governance checklist for agent hand-offs, data access, and accountability that marketing leaders can adopt before they scale."
   },
   "mainStory": {
     "id": "story-watchlist-0",
     "category": "Watchlist",
-    "headline": "Lococo unseats Diodati as Mayor of Niagara Falls",
-    "summary": "Lori Lococo defeated three-term incumbent Jim Diodati to become mayor of Niagara Falls, a notable leadership turnover in the city that hosts the University of Niagara Falls.",
-    "source": "The Pointer",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaUxqd2ZZd3YyTjB0YUd3bXQzSWlOU3d3YThfMThVcm5NR2NHcEREc3dIUE9lckRDMzNUUkppN0NPOU9LeW1oNG1rTGJhQVQ1M09feEUxaEZrSHBZYlpjVVZXeS1xWnpmdUprOTEyc1gyenVGWGhtYnNLVkhTTk9NdkU1QlNQZThLMG55SENfdEtIYjlUbl9XZGx0bnNvTkhqdUxudi1GTmtxNHd2bk44QlRKTHV1bE5ndFN0VWYtbDVEZGtm?oc=5",
+    "headline": "AACRAO-linked VP helps write the data-driven enrollment playbook",
+    "summary": "A St. Ambrose and Mount Mercy vice-president is profiled for co-authoring a data-driven enrollment approach aligned with AACRAO's registrar-and-admissions standards, a signal of where mainstream enrollment practice is heading.",
+    "source": "River Cities' Reader",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQanZtU2ZMRk42LTRlT1UyOGtUR3FEdHNfbG1VV29XampqbFo2NnVJemlNZXJrZGNmaVVKUXotT0ttaGY3dmwxdXZNWjI4WDBBQmtmN0RWemk4SDNLRElLYmZIcTZVaDBlaTVpaFBlTzE3VW15ZFk2RFhtT1FCNVdIOGliaENFQlZxVDJRVXRMMlJpU1FSSHkyN3oyWDNVd1BfcjVOQ0NvLUZLdFhYQ1EwSHZEOVZ0d0J0N2ZFTWFyZkg0UQ?oc=5",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "bars"
+    "thumbnailKind": "bars",
+    "contentAngle": "AI in higher-ed enrollment: data-driven enrollment playbooks are going mainstream — the take is that without a governance lens on where student data lives and how predictive models are audited, 'data-driven' becomes a liability."
   },
-  "heroImageUrl": "https://www.statnews.com/wp-content/uploads/2025/03/GettyImages-1227710555-645x645.jpg"
+  "heroImageUrl": "https://images.axios.com/howk2tO75sHJMOc7zjPyZvwUR5I=/128x128/smart/2026/10/30/1793386348492.jpg"
 }
