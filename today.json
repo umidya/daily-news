@@ -1,147 +1,134 @@
 {
   "schemaVersion": 2,
-  "date": "Sunday, November 1, 2026",
-  "dateIso": "2026-11-01",
+  "date": "Monday, November 2, 2026",
+  "dateIso": "2026-11-02",
   "greeting": "Good morning, Midya",
-  "totalDuration": "14:11",
+  "totalDuration": "12:20",
   "currentTime": "0:00",
-  "remaining": "14 min total",
+  "remaining": "12 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today is a quiet Sunday, so the value is in depth, not volume. The thread worth pulling is the AI-maturity story: Apple's new CEO publicly refusing to \"ship AI for AI's sake\" while OpenAI quietly trims its funding target — two signals that the market is pivoting from hype to outcomes, which is exactly the posture your consulting practice should model for marketing and higher-ed clients. On the ground in BC, a missing 14-year-old in Kamloops and an active search for Shannon White are the family-safety items to note.",
+  "digestIntro": "Two threads dominate today, and they converge on the same question Midya keeps selling against: who, or what, is discovering and recommending brands now. The agentic web is moving from theory to shipping product, and a CMO is openly arguing that AI agents — not humans — are becoming the buyers your brand must win over. That is AI Search Readiness territory, and it is the sharpest thought-leadership lane available this week.",
   "digestReadingTime": "8 min read",
-  "whyItMatters": "Today is a quiet Sunday, so the value is in depth, not volume. The thread worth pulling is the AI-maturity story: Apple's new CEO publicly refusing to \"ship AI for AI's sake\" while OpenAI quietly trims its funding target — two signals that the market is pivoting from hype to outcomes, which is exactly the posture your consulting practice should model for marketing and higher-ed clients. On the ground in BC, a missing 14-year-old in Kamloops and an active search for Shannon White are the family-safety items to note. On the professional edges, Capilano's naming-origin correction is a live brand-and-reconciliation question for an institution you cover closely, and UK student-housing shifts foreshadow enrollment-housing dynamics Canada will face next. Watch the softening in AI capital and the \"outcomes over tools\" framing — both are commentary fuel you can own this week.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-01.mp3",
-  "audioDurationSeconds": 851,
-  "audioScript": "Good morning, Midya. It's Sunday, November first, twenty twenty-six. It's a quieter news cycle, so today we go deep rather than wide — fewer stories, more thinking.\n\nLet's start with AI, because there's a signal underneath today's headlines that I think matters more than any single product launch — and it's one you can build thought leadership on this week.\n\nApple's new chief executive went on record defending the company's deliberately measured AI strategy, and the quote worth holding onto is this: Apple doesn't want to ship AI for AI's sake. Now, on the surface that reads like a company behind in the race making a virtue of necessity. And some of the coverage is framing it exactly that way — Apple's late, so of course they're preaching patience. But I'd encourage you to resist the cynical read, because there's a genuinely defensible position here, and it happens to be the exact position you take with clients. The discipline isn't \"do AI.\" The discipline is \"do the thing that produces an outcome, and if AI is the right tool for that outcome, use it.\" A senior leader at the most valuable company in the world is now saying, out loud, that feature-racing without a use case is a mistake. That's air cover for every marketing director and every enrollment office that's been feeling pressured to bolt a chatbot onto something just to say they have one. This is your lane. The post almost writes itself: the outcomes-over-tools discipline, why shipping AI without a defensible use case and a governance frame is how organizations burn trust and budget at the same time. When Apple hands you the contrarian headline, you take it.\n\nThe second AI story reinforces the same cooling. OpenAI has reportedly lowered the funding target for its newest raise. That's a small line item, but it's a weather vane. For two years the AI capital story has been one direction — up, and to the right, and faster than anyone could model. A trimmed target means valuations are starting to meet resistance, that the people writing the biggest cheques are asking harder questions about returns. For you, this isn't about OpenAI's balance sheet. It's about the conversation you're going to have with clients over the next year. The era where \"we're investing in AI\" was enough to satisfy a board is ending. The era where someone asks \"show me the return\" is beginning. If you position your practice around measurable outcomes and governance rather than tool adoption for its own sake, you are skating to where the puck is going. These two stories — Apple's patience and OpenAI's softer raise — are the same story told twice.\n\nAnd then a third, which is less about your daily work and more about the backdrop you should be aware of. A federal judge in the United States has allowed an NAACP lawsuit over alleged Clean Air Act violations at xAI's data centre to move forward. This is part of a pattern we've been tracking all week — the physical, environmental, and legal footprint of AI infrastructure coming under real scrutiny. Data centres need power, water, and air permits, and communities are starting to litigate. For your public-institution governance lens, keep this filed. When a Canadian university or a public agency talks about deploying large AI systems, the sustainability and siting questions are going to become part of the governance conversation, not just the privacy and data-residency questions. The scrutiny is widening from \"where does the data live\" to \"what does the compute cost the community.\"\n\nOn the marketing side, two things worth your attention. First, Ulta Beauty's holiday campaign is out, and it stars Selena Gomez and Tate McRae. What makes this more than a celebrity endorsement is that both of those women sell their own product lines through Ulta. So this isn't talent renting their face to a retailer — it's a retailer activating partners who already have equity on its shelves. That's a cleaner, more durable model than a one-off spokesperson deal, because the incentives are aligned: the talent wins when the retailer wins. It's a small example of a bigger trend you can point clients to — the blurring line between endorser, owner, and channel. The most defensible celebrity marketing now is the kind where the celebrity has skin in the game beyond the appearance fee.\n\nThe second marketing item ties straight back to our AI thread. There's a piece out arguing that AI is reshaping digital marketing as brands rethink their growth strategies — specifically, that AI is shifting from a tactical tool you reach for occasionally to a core operating layer underneath the whole function. I flag this not because the article itself breaks new ground, but because the framing is exactly the one you should own. Tool versus operating layer is the right distinction. When AI is a tool, you can adopt it ad hoc and skip the governance. When it becomes the operating layer — the thing routing your campaigns, scoring your leads, drafting your copy, deciding your spend — then the governance isn't optional anymore, it's load-bearing. There's a content piece in here about sequencing: how to move toward AI as an operating layer without skipping the controls that keep you out of trouble. That's the frame that separates you from every consultant selling \"AI transformation\" as a vibe.\n\nNow, one note from the organizations we cover closely. The Capilano Courier is reporting that Capilano University is not, in fact, named after Chief Joe Capilano — a correction to a widely-assumed naming origin. On its face this is a small campus-paper history piece. But think about why it matters at the institutional level. A university's name is its oldest and most repeated piece of brand equity, and in an era where reconciliation and Indigenous relationships are central to how Canadian post-secondary institutions present themselves, the provenance of that name is not a trivia question — it's a narrative that gets told in recruitment materials, in donor conversations, in land acknowledgements. A correction like this forces an institution to decide how it tells its own origin story going forward. For anyone watching how Canadian universities manage brand and reconciliation together, it's a quietly interesting case study in the difference between the story an institution has always told and the story the record actually supports.\n\nMoving to higher education and international students. There's a follow-on to the enforcement story we covered Friday. Reporting out of India is reiterating that international students in Canada — and the Indian student population is the single largest cohort — risk losing their status if they breach the work conditions on their study permit. This is the same tightening we flagged last week, now landing hard in the Indian press, which is where a huge share of your clients' recruitment pipeline originates. The through-line for institutions is this: the rules are real, the enforcement is real, and the messaging students receive from back home is increasingly about risk rather than opportunity. For enrollment teams, that's a communications problem as much as a policy one. The institutions that get ahead of it — that proactively explain the rules, that help students stay compliant, that don't leave students to learn the rules from a frightening headline — are the ones that protect both their students and their reputations.\n\nRelated, and worth watching as a leading indicator: there's analysis out of the UK that policy changes there could reshape the geography of student accommodation demand — essentially, where international students choose to live is shifting as visa and policy rules change. I bring the UK into a Canadian briefing deliberately, because the UK is Canada's closest peer market, and the housing-and-enrollment squeeze they're experiencing is the same dynamic our institutions face. When policy tightens and student flows redirect, the knock-on effect lands on housing — which cities fill up, which empty out, where the purpose-built student housing gets built or sits vacant. For a consultant working the intersection of higher-ed and real estate, that intersection is your natural territory. Watch the UK as a preview of conversations Canadian institutions and their municipalities will be having within a year or two.\n\nOn real estate and short-term rentals. The mortgage story is cautiously encouraging. HousingWire reports a path back to sub-seven-percent mortgage rates is reopening in the US as rates have fallen, and that housing demand has stabilized over the last two weeks. That's the American picture, not ours, but it's directionally useful — the same rate-relief psychology that stabilizes demand south of the border tends to echo north, and it's worth holding alongside the Bank of Canada move we discussed Friday. If rates are genuinely turning, the spring market conversation your husband's brokerage will be having starts to look different. Stabilized demand after a long freeze is the first thing buyers and agents feel, even before prices move.\n\nAnd a short-term rental note with an operational flavour rather than a policy one. Airbnb is rolling out new global house rules this month, and the headline change is that hosts can no longer ask guests to do things like wash up or take out the bins. Predictably, it's splitting hosts and guests. I flag it because it touches your own properties — this is Airbnb unilaterally rewriting the baseline expectations of the host-guest relationship, shifting more of the operational burden onto hosts. It's a small thing, but it's a reminder that platform policy is a moving target you don't control, and that the economics of hosting keep getting nudged in the platform's preferred direction. Worth a glance at how it lands on your listings.\n\nCloser to home, in Kamloops, there are two active searches I want you to be aware of, both family-safety relevant. Kamloops RCMP are searching for a missing fourteen-year-old girl, last seen near Battle Street, and they're asking the public for help. And there's an update on the story we covered Friday — Mounties are still following leads in the search for missing Kamloops woman Shannon White, following the river search earlier in the week. Both are unresolved as of this morning. If you're in town or have family moving through the area, these are the ones to keep half an eye on.\n\nOn a different note, and a hopeful one about civic life, hundreds of people rallied outside the former Stuart Wood elementary school this weekend, calling for the preservation of the heritage building. It's the kind of community-mobilization moment that tells you something about how Kamloopsians feel about their downtown and their built history — and it's a live question for the city, because heritage preservation and redevelopment pressure are often on a collision course. Worth following to see how council responds.\n\nTwo things from the wider world. First, an update on the North Korean crypto story we touched on Friday. Binance will cover ninety percent of customer losses from a six-point-three billion dollar hack that the FBI has formally attributed to North Korea. That's an enormous number, and the fact that the exchange is absorbing most of it tells you how seriously these platforms now take reputational risk — and how industrialized state-sponsored crypto theft has become. North Korea has effectively turned hacking into a national revenue line, and the targets are getting bigger. If any part of your work or your family's finances touches crypto, the lesson is permanent vigilance.\n\nSecond, a data story with a marketing dimension. In the United States, there's an intensifying fight over whether the 2030 Census should stop asking about race and ethnicity — a proposal that's drawn more than a hundred thousand public comments. The civil-rights and redistricting stakes are the headline, but there's a quieter consequence for anyone who works in marketing: census race and ethnicity data is foundational demographic infrastructure. Audience segmentation, multicultural marketing strategy, media planning — all of it leans on that data being collected and reliable. If it goes away, a whole layer of demographic targeting loses its ground truth. It's an American story, but it's a preview of how politically contested the basic act of counting people is becoming, and that has implications for anyone whose craft depends on knowing who the audience actually is.\n\nFinally, one item to be aware of as a senior leader watching Canada. Quebec's government has announced plans to ban turbans and niqabs in elementary schools, extending its secularism laws down into early education. This is a continuation of Quebec's long-running secularism trajectory, and it will almost certainly draw Charter challenges. I'm not going to editorialize on the politics — I'll just flag that it's consequential, it affects children and families, and it's the kind of story that shapes the national conversation about religious expression, identity, and institutional policy. Worth being aware of, because these debates eventually touch the public institutions you advise.\n\nThat's your Sunday, Midya. The thread I'd carry into the week is the AI maturity turn — Apple preaching patience, OpenAI trimming its raise, scrutiny widening around the infrastructure. The market is quietly moving from \"adopt AI\" to \"prove the outcome,\" and that is precisely the ground your practice is built on. If you write one thing this week, make it the outcomes-over-tools piece while the Apple headline is fresh. And keep half an eye on Kamloops — two searches are still open, and I'll flag any resolution the moment it lands. Talk tomorrow.",
+  "whyItMatters": "Two threads dominate today, and they converge on the same question Midya keeps selling against: who, or what, is discovering and recommending brands now. The agentic web is moving from theory to shipping product, and a CMO is openly arguing that AI agents — not humans — are becoming the buyers your brand must win over. That is AI Search Readiness territory, and it is the sharpest thought-leadership lane available this week. On the higher-ed side, the collapse of international enrolment is now being written up by the students living through it, while Canada deepens academic ties with the EU and India-origin demand keeps softening — all of which reshapes the recruitment and brand problem her higher-ed clients face. Watch the real-estate recruiting piece too: it reframes agent productivity as the recruiting lever, which is exactly the operations story her husband's brokerage lives. Keep the content pipeline pointed at agents-as-buyers and governance-light enrolment AI — both are ready to publish.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-02.mp3",
+  "audioDurationSeconds": 740,
+  "audioScript": "Good morning, Midya. It's Monday, November second, twenty twenty-six. Here's what matters today, and the through-line is unusually clean: the question of who, or what, is doing the discovering and the recommending now.\n\nLet's start with artificial intelligence, because the lead story of the day is one you could build a whole quarter of content around. MIT Technology Review has a piece out this morning declaring, flatly, that the agentic web is here. The framing goes all the way back to Tim Berners-Lee's semantic web vision from 2001 — an internet designed to be navigated not by people clicking through pages, but by autonomous software agents acting on our behalf. For twenty-five years that was a research dream. The argument now is that it's shipping. Agents that retrieve, compare, transact, and decide, on a user's instruction. If you strip away the abstraction, here's what it means for your work: the audience for a brand is no longer only a human squinting at a search results page. Increasingly it is a machine, reading structured signals, deciding whether your client is even eligible to be recommended. That is the exact centre of your AI Search Readiness thesis, and today it got a mainstream validation from one of the most credible technology outlets there is. I'd flag this as your first candidate to publish on this week. The take almost writes itself: visibility stops being about pages and keywords, and becomes about whether an agent can parse, trust, and surface you. The brands that win the agentic web are the ones whose trust signals are machine-readable — and most higher-ed and real-estate clients have done zero work here.\n\nAnd right on cue, there's a companion piece in Marketing Dive from Snowflake's chief marketing officer that makes the same argument from the buyer's side. Her framing is that your buyers are increasingly sending agents — AI agents dispatched to shortlist vendors, gather information, and come back with a recommendation. Which means the marketer's job shifts from persuading a person to being legible and favourable to the agent that person trusts. Now, this one is a sponsored contributor piece, so read it as a point of view rather than independent reporting. But a CMO of a company Snowflake's size publicly staking out that position is itself the signal. When senior marketing leaders start saying out loud that the buyer is an agent, you're watching a category belief form in real time. For your thought leadership, the pairing is powerful: the technologist says the infrastructure is here, and the practitioner says the buyer behaviour is already changing. That's a post, and it's a pitch deck slide, and it's a reason for a client to book an audit — all at once.\n\nNow to the organizations worth tracking closely. The Capilano Courier — the student paper at the North Vancouver institution — has published a genuinely substantive piece asking who actually absorbed the cost when international enrolment collapsed. This is worth your attention precisely because it's written from the ground, not from a press release. The federal study-permit caps have done exactly what critics warned they would: hollowed out a revenue line that many Canadian institutions had quietly become dependent on. And when that revenue evaporates, someone pays — in cut programs, in frozen hiring, in deferred maintenance, in staff who absorb more work. The student journalists are naming that. For anyone covering the higher-ed market, this is the texture behind the macro numbers we've been tracking for weeks now — the Memorial University forty-five percent drop, the broader enrolment contraction. Here's the content angle I'd pull out of it: when permit caps gut international tuition, the institutions that survive are the ones that get radically better at domestic yield and at defending their brand — and that's precisely where disciplined, governed AI in enrolment earns its keep. There's a POV piece in there about doing more with a shrunken funnel without torching student trust or running afoul of FIPPA. That's your lane, and this story is the hook.\n\nStaying with higher education more broadly. The European Union and Canada have agreed to forge closer academic ties — Research Professional News reporting that Brussels and Ottawa confirmed plans for deeper cooperation on mobility and research. We touched on the Canada-EU schools deal late last week; this is the firmer, institution-level confirmation. The strategic read is straightforward: as the traditional source-market pipeline tightens and the U.S. relationship stays turbulent, Canada is deliberately diversifying its academic partnerships. For institutions, that opens genuinely new recruitment and partnership channels — European exchange, joint research, credential mobility. It won't replace the volume lost from the big Asian source markets, but it changes the map of where opportunity sits, and the institutions that move first on European partnerships will have a brand story to tell.\n\nAnd the pressure on that traditional pipeline keeps showing up. NDTV Profit reports that prospective Indian students are actively rethinking Canada — citing weak post-graduation job prospects and safety concerns. This is the demand-side mirror of the supply-side caps. For years the assumption was that if Canada would just issue the permits, the students would come. What we're watching now is erosion of the desire itself — the brand of Canada as a study destination is softening in its single largest source market. That's a much harder problem than a policy cap, because you can repeal a cap overnight, but you can't legislate enthusiasm. For your clients, it reinforces the same conclusion: the era of passive international demand is over, and recruitment now has to be earned with real positioning, real outcomes data, and real honesty about the job market.\n\nOn the marketing and brand front, two worth your time. First, JCPenney — the retailer's holiday campaign is built around what its parent company's chief customer and marketing officer calls deal fatigue. The insight is sharp: in a fourth quarter where every retailer is screaming discounts, the differentiator is to stop screaming. Real people, no-fuss ways to save, less frantic urgency. It's a counter-positioning play, and it's a nice reminder for any marketer that in a saturated channel, the contrarian posture is often the one that cuts through. Worth filing as an example of brand restraint as strategy.\n\nSecond, from Adweek, a structural story: agency holding companies are consolidating production in-house, treating it as a new revenue stream, and in doing so squeezing independent production studios. The deeper question the piece raises is about where craft talent gets trained if the independents disappear. For a consulting practice, this is a useful signal about where the agency world is concentrating power and margin — and it's a reminder that as production gets absorbed and increasingly automated, the premium differentiator becomes strategy and judgment, not execution capacity. That's a tailwind for independent advisors.\n\nReal estate now. HousingWire has a brokerage-operations piece that lands squarely in the agent-productivity lane — the argument is to stop competing on commission splits and instead make agent production itself the recruiting advantage. The mechanics are workflow analysis plus automation to prevent lead loss and keep agents consistently nurturing their database. This is exactly the conversation the brokerage world is having right now: the race to the bottom on splits is unsustainable, and the brokerages that win are the ones that make their agents measurably more productive. The automation piece is where AI quietly enters brokerage operations — lead routing, database nurture, follow-up that doesn't depend on an agent remembering. It's a clean parallel to the enrolment story, actually: do more with your existing funnel, better, with tooling.\n\nAlso on the lending side, HousingWire profiles Longbridge's new product-development VP on where reverse-mortgage and home-equity-release products are heading — proprietary products and new distribution partnerships aimed at seniors. It's a niche, but it's a meaningful one as an aging cohort sits on substantial home equity. Worth a skim for the directional read on equity-release innovation.\n\nClose to home now. Kamloops has a mayor-elect — O'Reilly — striking an optimistic tone about the city's future following the municipal result. Expect the early messaging to set the tone for council priorities this term, and it's worth watching how the heritage-building debates we've been tracking, like the Stuart Wood rally, land with the new administration. On a more sombre note, Kamloops RCMP have issued a fresh public appeal for a woman last seen on October twenty-seventh. This is now one of several missing-persons files the detachment has been working in a short window — following the search for Shannon White and the river search last week. If you're in the Kamloops area and you see the police bulletin, it's worth a careful look.\n\nTwo quick ones on the wider world. Prime Minister Carney is on his way to Antigua and Barbuda for the Commonwealth leaders' meeting — framed as a chance to broaden Canada's diplomatic relationships at a moment when the U.S. relationship remains strained and the trade tension isn't going anywhere. It's part of the same diversification instinct we just saw in the EU academic deal: Canada hedging its bets, cultivating other rooms to stand in. And on the business side, Ryanair is warning it may freeze worker pay and raise airfares, pointing to a potential two-billion-euro fuel-cost increase in twenty twenty-eight tied to the US-Israel war with Iran. The specific airline matters less than the signal: energy-cost shocks from that conflict are starting to show up in corporate guidance, and travel is the first place you'll feel it.\n\nFinally, health — and today both items clear the source bar comfortably. Nature Medicine has published two phase 3 randomized controlled trials, STOP-V1 and STOP-V2, on an oral JAK1 inhibitor called povorcitinib for nonsegmental vitiligo. The drug significantly outperformed placebo on facial repigmentation. The reason this matters beyond dermatology is the shift toward an oral, pill-based option for an autoimmune condition that has historically been frustrating to treat — part of the broader trend of targeted immunology moving from injectables to pills. Solid, well-powered evidence.\n\nAnd a sharper cautionary one from STAT News: an investigation into mitochondrial-replacement therapy — the so-called three-parent IVF technique. It was developed to prevent children inheriting mitochondrial disease, but STAT reports it's now being marketed to older women as a fertility treatment, with women travelling thousands of miles for it, despite little evidence it actually improves conception at advanced maternal age. This is a clean example of a legitimate therapy being repackaged and oversold in the fertility-tourism market. If this ever comes up in your orbit, the headline takeaway is: the evidence for MRT as a fertility booster isn't there, and the marketing is running well ahead of the science.\n\nSo here's where I'd put your energy today, Midya. The agentic web story and the Snowflake CMO piece are the strongest content pairing you've had in a while — one post, two credible sources, your exact thesis. I'd draft it this week while the framing is fresh. On the client side, the Capilano enrolment piece and the softening Indian demand are the same story told two ways: the passive-demand era in higher ed is over, and governed, disciplined AI in recruitment is how institutions do more with less without breaking trust. That's your pitch, and the market just handed you the proof points. Have a focused Monday.",
   "topStories": [
     {
       "id": "story-watchlist-0",
       "category": "Watchlist",
-      "headline": "Capilano University Was Not Named After Chief Joe Capilano",
-      "summary": "The Capilano Courier reports the university's name does not, in fact, trace to Chief Joe Capilano — a naming-origin correction that sits squarely inside the institution's brand identity and reconciliation narrative.",
+      "headline": "Capilano student paper dissects who absorbed the international-enrolment collapse",
+      "summary": "The Capilano Courier runs a pointed piece asking who bore the cost when international enrolment cratered at the North Vancouver institution — a rare ground-level look at the financial and staffing fallout of Canada's study-permit caps.",
       "source": "Capilano Courier",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWh5bTJaV0d1bVpPNHFnM1FyUkJUV2xON0IyQUljZ25XaWJHRENNS3AzQTlTWmVCZ00ydUJ3a0VoN0I5UmFvdHNGdHpodVFYeTE1VEFJczRJOHJybFhIclZCaC01Smd4cTRUZ1RvcW1GLUJFem9HaVJtMXI4VXNXc3ZWVF9vcGR0bFQ1M09QVXZScEFPMzNzQThQZ1BpYmpCMUlkUg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaElZdHhfb1NTcU9HMEJvajFEYkc5TFNGZlg1cG9fY3RHNFVBMmNFQm5rNjRPXzU3QXJrUm95WW5tS20tVXQ5Uy1TbndZSDhid2hqNzZaaS1ZQWVrcDVlTy0yRXQ0cjdkMzBQcFVmLU9DOWg4aThtM1RPa0pzY0tsUkhrenRtR1poOXlZOXJMMGZHdGVmMmpjODhCR01hdmVhSTdr?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "bars"
+      "thumbnailKind": "bars",
+      "contentAngle": "AI in higher-ed enrollment: when permit caps gut international revenue, the case for AI-driven domestic yield and brand-defence spend — a POV piece."
     },
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Apple CEO: company doesn't 'want to ship AI for AI's sake'",
-      "summary": "Apple's new CEO defended the company's deliberately measured AI strategy, declining to race features to market — a rare contrarian stance from a senior leader at a moment of maximum pressure to ship.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "headline": "The agentic web arrives — autonomous software agents start navigating the internet for us",
+      "summary": "MIT Technology Review argues the long-promised agent-driven web is now shipping, with autonomous agents transacting and retrieving on users' behalf — a structural shift in how brands get found and chosen.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "contentAngle": "AI in marketing: the 'outcomes over tools' discipline — a post on why brands and institutions should resist shipping AI features without a defensible use case and governance frame."
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
+      "contentAngle": "AI Search Readiness: if agents become the audience, visibility stops being about pages and becomes about machine-readable trust signals — the readiness-audit thesis."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI has reportedly trimmed the target for its latest raise, a signal that the AI capital frenzy may be cooling and that valuations are meeting resistance.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "headline": "Snowflake CMO: AI agents are changing who finds, trusts and chooses your brand",
+      "summary": "In a Marketing Dive piece, Snowflake's CMO argues buyers increasingly send AI agents to shortlist vendors, forcing marketers to optimize for how agents evaluate and recommend brands rather than how humans browse.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/spons/your-buyers-are-sending-agents-will-they-recommend-your-brand/833812/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
+      "thumbnailKind": "chip"
     }
   ],
   "digestStories": [
     {
       "id": "story-watchlist-0",
       "category": "Watchlist",
-      "headline": "Capilano University Was Not Named After Chief Joe Capilano",
-      "summary": "The Capilano Courier reports the university's name does not, in fact, trace to Chief Joe Capilano — a naming-origin correction that sits squarely inside the institution's brand identity and reconciliation narrative.",
+      "headline": "Capilano student paper dissects who absorbed the international-enrolment collapse",
+      "summary": "The Capilano Courier runs a pointed piece asking who bore the cost when international enrolment cratered at the North Vancouver institution — a rare ground-level look at the financial and staffing fallout of Canada's study-permit caps.",
       "source": "Capilano Courier",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWh5bTJaV0d1bVpPNHFnM1FyUkJUV2xON0IyQUljZ25XaWJHRENNS3AzQTlTWmVCZ00ydUJ3a0VoN0I5UmFvdHNGdHpodVFYeTE1VEFJczRJOHJybFhIclZCaC01Smd4cTRUZ1RvcW1GLUJFem9HaVJtMXI4VXNXc3ZWVF9vcGR0bFQ1M09QVXZScEFPMzNzQThQZ1BpYmpCMUlkUg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaElZdHhfb1NTcU9HMEJvajFEYkc5TFNGZlg1cG9fY3RHNFVBMmNFQm5rNjRPXzU3QXJrUm95WW5tS20tVXQ5Uy1TbndZSDhid2hqNzZaaS1ZQWVrcDVlTy0yRXQ0cjdkMzBQcFVmLU9DOWg4aThtM1RPa0pzY0tsUkhrenRtR1poOXlZOXJMMGZHdGVmMmpjODhCR01hdmVhSTdr?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "bars"
+      "thumbnailKind": "bars",
+      "contentAngle": "AI in higher-ed enrollment: when permit caps gut international revenue, the case for AI-driven domestic yield and brand-defence spend — a POV piece."
     },
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Apple CEO: company doesn't 'want to ship AI for AI's sake'",
-      "summary": "Apple's new CEO defended the company's deliberately measured AI strategy, declining to race features to market — a rare contrarian stance from a senior leader at a moment of maximum pressure to ship.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "headline": "The agentic web arrives — autonomous software agents start navigating the internet for us",
+      "summary": "MIT Technology Review argues the long-promised agent-driven web is now shipping, with autonomous agents transacting and retrieving on users' behalf — a structural shift in how brands get found and chosen.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "contentAngle": "AI in marketing: the 'outcomes over tools' discipline — a post on why brands and institutions should resist shipping AI features without a defensible use case and governance frame."
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
+      "contentAngle": "AI Search Readiness: if agents become the audience, visibility stops being about pages and becomes about machine-readable trust signals — the readiness-audit thesis."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI has reportedly trimmed the target for its latest raise, a signal that the AI capital frenzy may be cooling and that valuations are meeting resistance.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "headline": "Snowflake CMO: AI agents are changing who finds, trusts and chooses your brand",
+      "summary": "In a Marketing Dive piece, Snowflake's CMO argues buyers increasingly send AI agents to shortlist vendors, forcing marketers to optimize for how agents evaluate and recommend brands rather than how humans browse.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/spons/your-buyers-are-sending-agents-will-they-recommend-your-brand/833812/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
-    },
-    {
-      "id": "story-ai-2",
-      "category": "AI & Tech",
-      "headline": "Judge allows NAACP lawsuit over xAI data centre pollution to proceed",
-      "summary": "A federal judge let an NAACP suit alleging Clean Air Act violations at xAI's data centre move forward, adding to mounting legal and environmental scrutiny of the infrastructure powering AI.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800"
+      "thumbnailKind": "chip"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Ulta Beauty's holiday campaign stars Selena Gomez and Tate McRae",
-      "summary": "Ulta's holiday push pairs Selena Gomez and Tate McRae — both of whom sell product lines through the retailer — a celebrity-equity play that fuses talent, owned brands and retail distribution.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/creativity/selena-gomez-and-tate-mcrae-bring-the-magic-to-ulta-beautys-holiday-campaign/",
+      "headline": "JCPenney bets on 'deal fatigue' as its holiday differentiator",
+      "summary": "Catalyst Brands' chief customer and marketing officer explains JCPenney's holiday campaign leaning on real people and no-fuss savings — a counter-position against the discount noise saturating Q4.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873354/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/10/SelenaUltaBeauty.png?w=600&h=315&crop=1"
+      "thumbnailKind": "megaphone"
     },
     {
       "id": "story-marketing-1",
       "category": "Marketing",
-      "headline": "AI reshapes digital marketing as brands rethink growth strategies",
-      "summary": "Brands are restructuring growth strategies around AI as it shifts from a tactical add-on to a core operating layer across digital marketing functions.",
-      "source": "Businessday NG",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGFwaTlnNExNOFZsd01CdFNVSmhCazJGc1RvdWRNQlJwYy1CTGVEWnZ3TEVsY3FkWmRCeVpUbDBRYWtUbWhXU1VBdHlXSXFnc2dGSkpBSmhGUUl0RVFXaHF5cUFHTjhKbWRmUHZkU2YzdjVuWHdNekEwZ3l1T3lRdGQwbUxBVV9IdER3SVByOEpjdHpTYU05MGlMVTZrSThIVEVwZNIBqgFBVV95cUxOdTU0TkIwM0ZaZERhanZVN1JWZXhIc3Jpd2djTEJxMXZTbWNILVJwQV9UdXNuaFJ0bXFYZFJjdU5UY29LamFmenV2U2JUYjM4TXJGYjJWbWl0NUxtNGxtbG9lb09TaEpveVBKak11aEZtSVBKV2U5U2JhekY3Vzk0M3BLai04S1o1dW5oci1EcXRISGtzMGljSi1zdmRJR01iVzBHYWpMT0k5QQ?oc=5",
+      "headline": "Holdco consolidation of production threatens independent studios",
+      "summary": "Adweek reports agency holding companies are absorbing production as a new revenue stream, raising questions about who controls the work and where craft talent gets trained.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/creativity/adweek-creativity-advantage-as-holdcos-consolidate-production-independent-studios-are-under-threat/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone",
-      "contentAngle": "AI in marketing operations: the move from AI-as-tool to AI-as-operating-layer — your framework for sequencing adoption without skipping governance."
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/09/WPPProduction2.png?w=600&h=315&crop=1"
     },
     {
-      "id": "story-intl_students_canada-0",
+      "id": "story-higher_ed_canada-0",
       "category": "Higher Ed",
-      "headline": "Indian students in Canada risk losing status over study-permit rule breach",
-      "summary": "IRCC rules mean international students — many from India — risk losing status if they breach study-permit work conditions; an update on last week's work-hours enforcement story.",
-      "source": "NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDN2TTdEeWd6SjZkSWN5c0pMQzJ6SEp1MjJiRzBPem5MVER1bjhmcnJvMWJDdlZ3cVduczIyNmRlS2FqRzhTU1Z4YUdJVGoycm9WUlRNdEx4VHhEMm0yOFNVOWRvN0gxb3hzWjYybl9WdDVtSzE0enhKc0FPWnBWNmtqcDNzUnN3eGtKXzJGM0JIb1M2TkJsdU0tNTAtVnlUbjJnSzNLZjZyZWtYc1F0Wk5R0gG6AUFVX3lxTE9UM096aktPWXA2bHpBanJQSEE5bmxqc29BdmVIQlQ3Qnh3RG9ZN0hpcEF0YWdwVEw5cENUWndVN2dZSERicWVVRDZ1bGU4eUFLTlZUZFdRZjJtc2VDaFFCSkhXRDJLZTZfYk9TaFA2VHF5NXd6ckNKMDhHcjdkNUN6dGV2Q1dRZWtpbFFtX2hPdzZ3d2pJMmd5aTM2bExoYzg3WHhWUzRGTmp6S1QtX0pPbEcwQVJtOWFhQQ?oc=5",
+      "headline": "EU and Canada agree to forge closer academic ties",
+      "summary": "Brussels and Ottawa confirmed plans for deeper academic cooperation, including mobility and research links that could open new partnership and recruitment channels for Canadian institutions amid tightened international-student policy.",
+      "source": "Research Professional News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdldxZTQ2U3B6MVhiM1hKMmE5azlVMG4yZkNEa0lwM0hLdnNJZXlNZmk4cEpTVEtwLVdfQWtvaFVVTmhMX0VkbVF5Y0pMZXF2MnZBY29GT1ZNd2hpOGhpMnE5cC00elVIdFNuNHZ6Y2VQSkZxQnpYYWxXSlhCRHU2Qk5wUkxZajE2YXg0MkplUUFfVktwVHc0ZjlTNDMwOEQwSW5PTlJSMUJRNzVlSGNIMWRRaXhVcERkTS1wdnJod18?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
     },
     {
-      "id": "story-intl_students_canada-1",
+      "id": "story-higher_ed_canada-1",
       "category": "Higher Ed",
-      "headline": "UK policy changes could reshape the geography of student accommodation demand",
-      "summary": "UK visa and policy shifts are expected to redraw where international students live, reshaping student-housing demand — a bellwether for the enrollment-and-housing pressures Canada is also navigating.",
-      "source": "Global Student Living",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaG95OU04QzF5ZElRYkhaZkpqSmJxUUxJS3BUVEhtNVJJZ0pCWHpLWUl0UlJpVGtpQ0FCSHJsYlVSSWNpQW1vVWdHcm9PR1V4RlZwSU9nY2o0RzRWN3J4YlJ1MmJFSTBXZzd2TlhTZjlTNWlhRjdoT19rSWhTZU10YlhyTVY0ejJSZ2RoWmc0XzBiVnhweGhnTUdHRWVGcVFZYy1Xa1pCcXNJbnhhZjQ3Sg?oc=5",
+      "headline": "Indian students rethink Canada over job uncertainty and safety concerns",
+      "summary": "NDTV Profit reports prospective Indian students are reconsidering Canadian study plans amid weak post-graduation job prospects and safety worries — continued softening of the single largest source market for Canadian enrolment.",
+      "source": "NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFd2NHRTUG5kRjJpZklla3l1RjhtdEQ0b1FUWjZxYWtqVWtONUNtckNsSm8yX3JGU2Q5aVY0UU9BblNvbXY0QkgxeDJNM2Z6TFRLN3VrVG9TUFFHSU1CYmMxX0U4RHhvci1RR0t5NWhPR3dlaTQzUmwtaWx4NmZaY0xTaUJEVWd1bWpnZ2xnaVVSVzJ6T1lXVWhsN19rS0tlRTdVR0FOWXlIeU5sYmtrRUtLRjhhX1JLbzV5Z2FLTllRNjZIbFHSAc4BQVVfeXFMUHdPZ043Vy00TUw0eEFlMW1aaHc5Sk9aXzJKUGZNSlZqaUR3eEtLRUx2UEFueHR3OHhNWndyRWxnbUZBSEhId3pTRGwzSDgyX0ZhVWFibnB1c3k0QzhwbkZBcEZqRUF2QWM5SlQzX21KYU54TlI3eWl4ZGpfeGtlTnFNWVhaMGFIbnEyb2taazh3c3l5Skx3M3ZsSHplVS1DN3RmYjl4U0xwYVE5U1JTdGRRNi1EOFRqQTMweThsM0lMSTlFR04tTjhsU2Q3c1E?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
@@ -149,34 +136,34 @@
     {
       "id": "story-canadian_real_estate-0",
       "category": "Real Estate",
-      "headline": "A path to sub-7% mortgage rates is back on the table",
-      "summary": "Falling rates have reopened a path toward sub-7% US mortgages, and housing demand has stabilized over the past two weeks — a directional read worth watching alongside BoC moves.",
+      "headline": "Stop competing on commission splits — make agent production the recruiting edge",
+      "summary": "HousingWire argues brokerages should use workflow analysis and automation to prevent lead loss and keep agents nurturing their database, reframing productivity itself as the recruiting pitch.",
       "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/sub-7-mortgage-rates-path/",
+      "url": "https://www.housingwire.com/articles/brokerage-recruiting-agent-production/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Editorial_hero_image_fo-2-1.png"
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Contributors-Piece-2026-10-28T062746.760.png"
     },
     {
       "id": "story-canadian_real_estate-1",
       "category": "Real Estate",
-      "headline": "Airbnb's new house rules divide hosts and guests",
-      "summary": "Airbnb's new global house rules, effective November, bar hosts from asking guests to wash up or take out the bins — reshaping the operational expectations baked into short-term rentals.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+      "headline": "Longbridge's Larissa Morrell on where reverse mortgage products are heading",
+      "summary": "The lender's new product-development VP outlines proprietary reverse-mortgage and home-equity products plus distribution partnerships aimed at seniors — a signal on how equity-release lending is evolving.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/longbridge-reverse-mortgage-heloc-seniors-distribution/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg"
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/RMD-QA-Larissa-Morrell-Longbridge-11-2-26.jpg"
     },
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "Kamloops RCMP searching for missing 14-year-old girl",
-      "summary": "Kamloops RCMP are seeking a missing 14-year-old girl last seen near Battle Street, and are asking the public for help locating her.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0ZXdXlQdEVkMFQ3S2NRREhwQWduaXdzSVdYdVpEVWFibG9rRm9JWU5TaVU0TG0wdWgzMndkVkdBYkFHcThDdGhBX2RrN3BKVEVGZ3FJdDhQUjB0b29BZlRqV2ZFeUJuZ2VjVHlSemo0RU1rYjYzeFlscTA5TTJIZEtERU9oZXRweDNuQg?oc=5",
+      "headline": "Mayor-elect O'Reilly strikes optimistic tone on Kamloops' future",
+      "summary": "Kamloops' incoming mayor laid out an upbeat agenda for the city following the municipal result, setting expectations for council priorities in the term ahead.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVBkTjlUbTlMRWkxZmpyN2lEOXZZYTdkSFd4czhzekk3RDdYZVp6WXRTZmstMTgxU3Eza0FiVTVwNDdKM3V2VGtLUURaR0k2UW8zSlJFdVpXT3o4NG1qZHJGY0Nmdmw0MzNSdHd4ZVNEbnk0dGltNnlYZ2dRY2lIeGtwd0RsTkRPTjlxbzFxRFlwRlBsSDJiUW01QUEwM0REMkNLTzBoM3lQaFU?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -184,21 +171,10 @@
     {
       "id": "story-kamloops_sun_peaks-1",
       "category": "Local News",
-      "headline": "Kamloops Mounties still following leads in search for Shannon White",
-      "summary": "RCMP continue following leads in the search for missing Kamloops woman Shannon White — an update on the river-search story from Friday's briefing.",
+      "headline": "Kamloops RCMP seek help locating woman last seen October 27",
+      "summary": "Police issued a public appeal for a woman last seen in Kamloops on October 27, the latest in a string of missing-persons searches the detachment has worked in recent days.",
       "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN1ljNDMtdmswSEMwMk5ReVBQdFV2LXpYRGVnMngyUlVzbTBkdW1jTkRfckhSdHdsQldoYldLYl9YekFsUDdtYmZQS1p5eEYwbERvbXI1NlJiXzlPQTVMN1VudU9XUnNNdW9YSFBYQnBKRVRfRm5vMG42NjYya3hNRHNvMTJvZmZFaEpodXFDZDlPRWFxaWEySWZRTzQxNkNPUHoxQk9IazUzMDA3clc1aVR2MzZtdHJaODZrY1VMSXFQU1FiTkZaZ2R5MTdfLTRhNWZ6OFhFdnBvTmJHX0VpTXJR?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "mountains"
-    },
-    {
-      "id": "story-kamloops_sun_peaks-2",
-      "category": "Local News",
-      "headline": "Hundreds rally to preserve former Stuart Wood elementary heritage building",
-      "summary": "Hundreds gathered outside the former Stuart Wood elementary to demand preservation of the heritage building, pushing back on potential redevelopment downtown.",
-      "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ2dFWDR6SGlsal94a2VHaEd6MDdMOG1WcDJLbFdJQUJzdHJiYXhzby01Zjhmal9kUWp6N1k3LVBNLXd2cU9lNU9sOE5nWXo2a0xJWDNlZ0hET0JZdzkxbW8tM2VWOFBJcXhXMHM4VUR6R2pGTWxtNEhjYUI5QTI4UlRvV1NqVlR3bVVFRHFrODZtMU4zZlJkNm1oZTlvVnZ5MnRWZHN5ZjEzNUNGMlVRRVhtTlpvYV9ITlpjWWFBV1ZqTEk2ZHJzN3hLdHdQU21QcGhSVVdTYS0wNnlDNTVhQ3V4ZnJBQW0tTThnc045aHd3VFNaRFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFVNYWNOdVBrZmNNRXBwREg4Q0VlRXc4Z2tfYzZVbkJxSHpNV2ZTaXQzZ1hXWXo4dkpOSXdOTjcxYjl6c2s2TklTcUgwb0RjdWNkejh5LUdvZlM1ZnpnUWY5QjEwVk5vc1hxNmZWQ2tFeDVWT3NUNlJfZWR5NU85UzV3YVk2dVBCMm5MRElKVjZuQVZGWEY2YUVaU1NNRWJtQmhVb1NXeFRPWnhMZDE5dVFzdVEyRXVaY0xrRkt3?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -206,37 +182,49 @@
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Binance covers 90% of losses after $6.3bn hack FBI blames on North Korea",
-      "summary": "Binance will cover 90% of customer losses from a $6.3bn hack the FBI attributes to North Korea — an update on the North Korean crypto-heist thread covered Friday.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "headline": "Carney heads to Commonwealth summit seeking to broaden diplomatic ties",
+      "summary": "Prime Minister Carney travels to Antigua and Barbuda for the Commonwealth leaders' meeting, a chance to diversify Canada's diplomatic relationships amid persistent Canada-U.S. trade tension.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/02/commonwealth-meeting-offers-carney-a-chance-to-boost-diplomatic-ties-experts-say/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F222c6c28-baf4-4241-b61d-bc4257eb6b96%2Fd2a387707c6d62b40c9829a0cc07e2b365f1e8b5abe4c4fa3ee5a6d6bd3e3efd.jpg"
     },
     {
       "id": "story-global_business_tech-1",
       "category": "Global",
-      "headline": "Fight over race questions intensifies ahead of 2030 Census deadline",
-      "summary": "A proposal to drop race and ethnicity questions from the 2030 US Census has drawn more than 100,000 public comments, with implications for civil-rights data and demographic-driven marketing.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/11/01/2030-census-assign-question-race",
+      "headline": "Ryanair warns it may freeze pay and raise fares on fuel-cost spike",
+      "summary": "The budget airline says a potential €2bn fuel-cost increase in 2028, tied to the US-Israel war with Iran, could force pay freezes and higher airfares — a signal on energy-driven cost pressure in travel.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://images.axios.com/FGYXBBWHncSyAzMklfQivg_UDcI=/128x128/smart/2026/09/17/1789659742314.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg"
     },
     {
-      "id": "story-misc-0",
-      "category": "Misc",
-      "headline": "Quebec government to ban turbans, niqabs from elementary schools",
-      "summary": "Quebec's government plans to extend its secularism laws into early education, barring turbans and niqabs in elementary schools — a move certain to draw Charter challenges.",
-      "source": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlVTLW1xM3BsNkJtaGo0Ylo5RFZSMjJOM0NzM3hpamVUSEI5QnRWcmFFWFJfMm5IUlRXRFEzNUNmeERwQ19HM0ZNRWg3bFl4R2VJc2oxODBrRDJpcjZ1ajIzTU55NU80Snp0a0RoT0VSSzZBSzlRb1d0NWxhM0JIaV9jYjIzTHJWWVFqY1NvQkQ0NTkxQkFQUTVSeG9QOUdRaXhjVGRsRXZrNVFJR3lJajZXX01kdnhYOEhBdzRNUDNzZkZoR1E?oc=5",
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "Nature Medicine: oral JAK1 inhibitor beats placebo for vitiligo in two phase 3 RCTs",
+      "summary": "Nature Medicine phase 3 STOP-V1/STOP-V2 trials: povorcitinib, an oral JAK1 inhibitor, significantly improved facial repigmentation versus placebo in nonsegmental vitiligo, pointing to a pill-based option for an autoimmune skin condition.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04739-2",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "bars"
+      "thumbnailKind": "leaf"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "STAT investigation: 'three-parent IVF' marketed to older women on thin evidence",
+      "summary": "STAT News reports a mitochondrial-replacement technique meant to prevent inherited disease is being sold to older women as a fertility treatment despite little evidence it improves conception — a caution on fertility-tourism marketing.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/02/three-parent-ivf-fertility-tourism-investigation-mrt-therapy/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/10/DSCF5498-645x645.jpg"
     }
   ],
   "audioChapters": [
@@ -244,82 +232,83 @@
       "id": "c1",
       "title": "AI & Tech",
       "category": "AI & Tech",
-      "duration": "3:28",
-      "startSeconds": 10
+      "duration": "2:37",
+      "startSeconds": 13
     },
     {
       "id": "c2",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "1:52",
-      "startSeconds": 217
+      "title": "Watchlist",
+      "category": "Watchlist",
+      "duration": "1:26",
+      "startSeconds": 170
     },
     {
       "id": "c3",
-      "title": "Watchlist",
-      "category": "Watchlist",
-      "duration": "1:06",
-      "startSeconds": 329
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "1:50",
+      "startSeconds": 256
     },
     {
       "id": "c4",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "2:02",
-      "startSeconds": 395
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:17",
+      "startSeconds": 366
     },
     {
       "id": "c5",
       "title": "Real Estate & AirBnB",
       "category": "Real Estate",
-      "duration": "1:32",
-      "startSeconds": 517
+      "duration": "1:18",
+      "startSeconds": 443
     },
     {
       "id": "c6",
       "title": "Local News",
       "category": "Local News",
-      "duration": "1:09",
-      "startSeconds": 608
+      "duration": "0:46",
+      "startSeconds": 521
     },
     {
       "id": "c7",
       "title": "Global News",
       "category": "Global",
-      "duration": "1:38",
-      "startSeconds": 677
+      "duration": "0:52",
+      "startSeconds": 568
     },
     {
       "id": "c8",
-      "title": "Misc",
-      "category": "Misc",
-      "duration": "0:43",
-      "startSeconds": 775
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:22",
+      "startSeconds": 620
     }
   ],
   "upNext": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "Apple CEO: company doesn't 'want to ship AI for AI's sake'",
-    "summary": "Apple's new CEO defended the company's deliberately measured AI strategy, declining to race features to market — a rare contrarian stance from a senior leader at a moment of maximum pressure to ship.",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "headline": "The agentic web arrives — autonomous software agents start navigating the internet for us",
+    "summary": "MIT Technology Review argues the long-promised agent-driven web is now shipping, with autonomous agents transacting and retrieving on users' behalf — a structural shift in how brands get found and chosen.",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-    "contentAngle": "AI in marketing: the 'outcomes over tools' discipline — a post on why brands and institutions should resist shipping AI features without a defensible use case and governance frame."
+    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
+    "contentAngle": "AI Search Readiness: if agents become the audience, visibility stops being about pages and becomes about machine-readable trust signals — the readiness-audit thesis."
   },
   "mainStory": {
     "id": "story-watchlist-0",
     "category": "Watchlist",
-    "headline": "Capilano University Was Not Named After Chief Joe Capilano",
-    "summary": "The Capilano Courier reports the university's name does not, in fact, trace to Chief Joe Capilano — a naming-origin correction that sits squarely inside the institution's brand identity and reconciliation narrative.",
+    "headline": "Capilano student paper dissects who absorbed the international-enrolment collapse",
+    "summary": "The Capilano Courier runs a pointed piece asking who bore the cost when international enrolment cratered at the North Vancouver institution — a rare ground-level look at the financial and staffing fallout of Canada's study-permit caps.",
     "source": "Capilano Courier",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWh5bTJaV0d1bVpPNHFnM1FyUkJUV2xON0IyQUljZ25XaWJHRENNS3AzQTlTWmVCZ00ydUJ3a0VoN0I5UmFvdHNGdHpodVFYeTE1VEFJczRJOHJybFhIclZCaC01Smd4cTRUZ1RvcW1GLUJFem9HaVJtMXI4VXNXc3ZWVF9vcGR0bFQ1M09QVXZScEFPMzNzQThQZ1BpYmpCMUlkUg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaElZdHhfb1NTcU9HMEJvajFEYkc5TFNGZlg1cG9fY3RHNFVBMmNFQm5rNjRPXzU3QXJrUm95WW5tS20tVXQ5Uy1TbndZSDhid2hqNzZaaS1ZQWVrcDVlTy0yRXQ0cjdkMzBQcFVmLU9DOWg4aThtM1RPa0pzY0tsUkhrenRtR1poOXlZOXJMMGZHdGVmMmpjODhCR01hdmVhSTdr?oc=5",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "bars"
+    "thumbnailKind": "bars",
+    "contentAngle": "AI in higher-ed enrollment: when permit caps gut international revenue, the case for AI-driven domestic yield and brand-defence spend — a POV piece."
   },
-  "heroImageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024"
+  "heroImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600"
 }

@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 01 Nov 2026 11:37:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:40:29 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, November 1, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-01.html</link>
-      <description>Today is a quiet Sunday, so the value is in depth, not volume. The thread worth pulling is the AI-maturity story: Apple's new CEO publicly refusing to "ship AI for AI's sake" while OpenAI quietly trims its funding target — two signals that the market is pivoting from hype to outc...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-01.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-01.mp3" length="13618176" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, November 2, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-02.html</link>
+      <description>Two threads dominate today, and they converge on the same question Midya keeps selling against: who, or what, is discovering and recommending brands now. The agentic web is moving from theory to shipping product, and a CMO is openly arguing that AI agents — not humans — are becom...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-02.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-02.mp3" length="11847552" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
