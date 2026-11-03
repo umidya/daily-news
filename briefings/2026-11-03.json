@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "date": "Tuesday, November 3, 2026",
+  "dateIso": "2026-11-03",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "13:53",
+  "currentTime": "0:00",
+  "remaining": "13 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's signal is quieter than the news volume suggests, so focus matters. The US midterms are being read partly as the first referendum on AI as a political wedge issue — worth watching because the regulatory posture that emerges will eventually shape what Canadian public institutions and commercial clients can do with AI. On the enrollment side, Ontario's OSAP pause is a live reminder that student-finance shocks hit recruitment pipelines faster than brand campaigns can respond, and BC's incoming premier teasing the removal of municipal housing targets is a structural story for anyone selling into residential and commercial real estate in Western Canada.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Today's signal is quieter than the news volume suggests, so focus matters. The US midterms are being read partly as the first referendum on AI as a political wedge issue — worth watching because the regulatory posture that emerges will eventually shape what Canadian public institutions and commercial clients can do with AI. On the enrollment side, Ontario's OSAP pause is a live reminder that student-finance shocks hit recruitment pipelines faster than brand campaigns can respond, and BC's incoming premier teasing the removal of municipal housing targets is a structural story for anyone selling into residential and commercial real estate in Western Canada. Two CMO and campaign moves give you fresh marketing-leadership material, and a quiet HousingWire piece on why relationship math still beats the spreadsheet in builder deals is a clean hook for your AI-in-real-estate-operations POV. Keep one eye on how AI governance debates are maturing — reverse game theory and alignment are moving from research curiosity toward the vocabulary your public-institution clients will soon expect you to speak.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-03.mp3",
+  "audioDurationSeconds": 833,
+  "audioScript": "Good morning, Midya. It's Tuesday, November third, twenty twenty-six. The news volume is high today but the real signal is narrow, so let's be disciplined about where your attention goes.\n\nWe'll start with the watchlist. One genuine item today, and it's a recruitment signal worth logging. The University of Niagara Falls Canada is holding an open house this weekend. On its face that's routine, but for an institution that young, every top-of-funnel event is a data point about how aggressively it's building a domestic profile. Open houses are the oldest tool in the enrollment playbook, and the interesting question for anyone tracking UNF isn't that they're running one — it's how they're marketing it, what channels they're leaning on, and whether the digital experience around it reflects a mature recruitment funnel or a scrappy one. If you're watching the Ontario market closely, keep an eye on whether UNF's event cadence is picking up heading into the winter intake. That's the kind of texture that tells you whether a school is scaling its recruitment operation or just maintaining it.\n\nQuick note on the noise filter today: a couple of \"Columbia College\" items surfaced in the feed, but they're about Columbia University in New York and a Columbia, South Carolina skate shop — nothing to do with the Vancouver institution. So I've left those out. Not every keyword match is a real story.\n\nNow to AI, and today the thread worth pulling is governance, not gadgets. MIT Technology Review has a piece on what researchers are calling reverse game theory — borrowing from mechanism design, the idea that instead of bolting safety guardrails onto an AI model after the fact, you engineer the incentives up front so that following the rules is the most rational choice for the agent itself. As AI agents get more capable and more autonomous, the old approach of auditing behaviour after deployment starts to look inadequate. This matters directly to your public-institution governance lens, Midya. The institutions you advise — the ones bound by FIPPA and BC data residency rules — are going to be asked to deploy AI agents that act on their behalf: answering student questions, triaging admissions, routing records. The current governance conversation is almost entirely about after-the-fact controls: logging, review, human-in-the-loop. What reverse game theory points toward is designing the incentive structure of the system before it ever touches live data. There's a real thought-leadership piece here for you: translating this research vocabulary into a plain-language framework for how public institutions should think about constraining AI agents by design, not just policing them after. That's a POV very few people in the Canadian higher-ed or public-sector space are articulating yet, and it positions you ahead of the compliance wave rather than reacting to it.\n\nThe second AI story is more about the political weather. Axios is framing today's US midterms as the first real test of AI as a political wedge issue — asking whether candidates who campaign explicitly on AI regulation, or who align themselves with tech figures like Elon Musk, win or lose for it. Why does this matter to you? Because the regulatory posture that emerges from American politics eventually sets the tone for the whole continent. If AI regulation becomes a genuine electoral liability in the US, expect a lighter-touch federal environment there, which puts even more weight on provincial and institutional guardrails here in Canada. The governance gap between a deregulated US and a cautious Canadian public sector is exactly the space your advisory practice lives in. Watch tonight's results not for the horse race, but for the signal about where AI policy energy is heading into 2028.\n\nOn the marketing front, three moves worth your attention. First, the leadership shuffle: Jonathan Halvorson has been named chief marketing officer of Kimberly-Clark, following the forty-billion-dollar Kenvue merger. Halvorson ran marketing at Kenvue, so this is a case of the acquiring brand pulling talent from the deal to run its consolidated portfolio. When mega-mergers reshuffle the CMO chair at one of the largest consumer-packaged-goods companies in the world, it tells you something about where brand power consolidates after a deal — the marketing function doesn't just survive consolidation, it often becomes the integration engine. Worth filing as you think about how brand leadership gets reorganized in any M&A context.\n\nSecond, a cleaner strategy lesson from Express. Their CMO, Joe Berean, says the new holiday campaign — \"Holiday, Hamlin Style\" — was directly inspired by the organic social engagement their spring campaign generated. This is the virtuous loop every marketer talks about but few actually operationalize: earned, organic performance feeding paid strategy. The discipline here is measurement. Express apparently tracked brand-metric gains closely enough to let organic signal shape a major paid holiday push. That's a small, repeatable story you can use with clients who treat organic and paid as separate silos.\n\nAnd third, a brand-activism saga worth watching for the sheer audacity of it: Ben Cohen, co-founder of Ben and Jerry's, is going guerrilla in his campaign to \"free\" the brand from parent company Unilever. He set a creative brief to the marketing industry back at Brandweek in September, and he's now revealed the winner. It's an unusual case of a founder weaponizing the marketing community itself against the corporate owner of his own brand. Whatever you think of the politics, it's a fascinating study in founder-versus-holdco brand control — and a reminder that brand equity and brand ownership aren't always aligned.\n\nHigher education next, and the Canadian story is a hard one. A pause in OSAP disbursements has blindsided Ontario students mid-program — including paramedic trainees who told CityNews they were gutted to find their funding frozen partway through. Here's why this belongs in your field of view beyond the human cost: student-finance shocks hit the enrollment and retention pipeline faster than any brand or recruitment campaign can offset. When provincial aid wobbles, the students most at risk of stopping out are exactly the ones in applied, workforce-critical programs — the paramedics, the trades, the health fields. For any institution you advise, this is a reminder that your recruitment funnel is only as stable as the financial architecture underneath it. A beautiful enrollment campaign means nothing if the money a student was counting on evaporates in October. Schools that have a plan — emergency bursaries, clear communication, financial-aid advising surge capacity — will retain students that less-prepared competitors lose.\n\nGlobally, there's a useful counterpoint out of Germany. The PIE News reports that Germany's international-student strategy is pivoting from pure growth to retention — shifting attention from simply attracting more students to attracting the right students and actually helping them succeed, through language support, academic integration, and a decentralised support system. This is the maturation curve Canada's sector is being forced onto, just by a different route. We got here through caps and policy restriction; Germany is choosing it deliberately. Either way, the destination is the same: the competitive edge moves from volume to fit and outcomes. For enrollment strategy, that's the whole ballgame over the next three years. The institutions that win won't be the ones shouting loudest at the top of the funnel — they'll be the ones that can prove students arrive, stay, and graduate.\n\nReal estate now, and there's a piece from HousingWire that lands squarely on your AI-in-real-estate-operations lane. The headline is \"why yellow-pad math still beats the spreadsheet in builder deals,\" and the argument is that simple relationship checks — back-of-the-envelope sanity math — often surface anomalies and opportunities before a sophisticated financial model obscures what a deal actually depends on. This is a genuinely sharp counterpoint to the AI-everything narrative, and it's exactly the nuance your point of view should carry. The lesson isn't that automation is bad — it's that automation can hide the one or two relationships a deal truly hinges on, burying judgment under precision. For brokerages adopting AI tools, the right framework isn't \"automate the analysis\"; it's \"automate the grunt work, protect the judgment.\" There's a content piece here for you: where AI genuinely accelerates real-estate operations, and where it quietly removes the friction that was actually protecting decision quality. That distinction is what separates a thoughtful AI advisor from a hype vendor.\n\nThe second real-estate item is sobering but instructive. HousingWire has a retrospective on the Grenfell Tower fire's liability lessons for landlords and underwriters — noting that the economic damages ultimately exceeded four thousand times the cost of the repairs that were skipped. It's a brutal illustration of deferred-maintenance risk and building-safety liability. For anyone in commercial investment real estate, it's a reminder that the cheapest line item today can become the catastrophic liability tomorrow, and that underwriting building-safety risk properly isn't a cost — it's insurance against a four-thousand-fold downside.\n\nClose to home now. An update on the Kamloops mayoral story we've been tracking: Mayor O'Reilly has been formally sworn in, taking the oath of office with a pledge to be mayor for \"all of Kamloops.\" The more consequential detail is policy: O'Reilly says he's pleased to hear premier-designate Doerkson tease the removal of provincial municipal housing targets. That's worth flagging for your real-estate lane, Midya. Provincial housing targets have been one of the main levers forcing municipalities to approve density. If BC's incoming premier genuinely rolls them back, you'd see a meaningful shift in the development calculus across the province — potentially slower approvals in some municipalities, more local discretion, and a changed risk profile for residential development. It's early and it's a tease, not a policy, but it's the kind of structural signal that eventually shows up in land values and project timelines. Keep it on the radar.\n\nAlso from the Kamloops courts: a man has been sentenced to four years in prison for stabbing a stranger who was watering flowers — a random attack that rattled the neighbourhood. The sentence closes out a case that had people on edge, and it's the kind of local-safety resolution worth being aware of given family in the region.\n\nTwo global items to round you out. The headline event is the US midterms, happening today, framed across the coverage as a referendum on Trump's tenure. Control of both the House and the Senate is genuinely in play, and the results will ripple into Canada-US relations — particularly on the tariff file that keeps surfacing in border-state races. Don't get pulled into the hour-by-hour horse race; the thing to extract is the directional signal on trade posture and on how AI policy fares as a campaign issue, which we touched on earlier.\n\nThe second item is a structural business story: Elon Musk is moving to shake up America's wireless market. SpaceX is reportedly assembling the spectrum and infrastructure to become a major US wireless carrier — potentially the first serious new competitive threat in years to an industry dominated by three companies. Satellite-plus-terrestrial connectivity at national scale would be a genuine disruption, and it's the kind of infrastructure play that eventually reshapes what's possible in connected everything — including the connected-home and connected-property space that touches real estate. Long horizon, but worth watching who controls the pipes.\n\nAnd one from the longevity desk, held to the strict source bar. STAT News reports that so-called three-parent IVF — mitochondrial replacement therapy, marketed as a way to prevent babies inheriting rare mitochondrial diseases — is facing fresh scrutiny. New studies are prompting scientists and ethicists to rethink the real-world risks and benefits of the technique. This is a measured, important piece because it's a corrective to an optimistic narrative: a reproductive technology that was positioned as a near-clean prevention tool is turning out to carry more uncertainty than advertised. The broader lesson, and it's one that echoes your own skepticism toward hype in any field, is that early enthusiasm for a breakthrough technology often outruns the evidence. Worth reading in full if the reproductive-medicine space is on your radar at all.\n\nThat's your Tuesday, Midya. If you do one thing with this briefing today, let it be the AI governance thread — the reverse game theory piece is the clearest early signal yet that the conversation is shifting from auditing AI after the fact to designing its incentives up front, and that's a space where you can plant a flag before the crowd arrives. Keep half an eye on the midterm results tonight for the trade and AI-policy tea leaves, and file the BC housing-targets tease as a slow-burn story that could reshape the development math your real-estate work depends on. I'll have the next briefing for you tomorrow.",
+  "topStories": [
+    {
+      "id": "story-watchlist-0",
+      "category": "Watchlist",
+      "headline": "University of Niagara Falls Canada hosts open house this weekend",
+      "summary": "UNF is running a recruitment open house this weekend, a visible top-of-funnel enrollment move for the young Niagara Falls institution as it builds its domestic profile.",
+      "source": "CKTB News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTd6VGV1cW9NYm5nTnFLWm5nM1FWUHRxVFZDQ2hQc3dDaFlSel9Ob0w1T19LXzFZbWxlLWI5NGNiZ1VhdGs0V3JoS0J5UFVrb3BfVWVPZHNyNnphYXZpNnlkTUQ2VWNwTHBSYk9VeGtsYW5rQllrVDdieXMyZzZMYmlZVURaZ29zMG5V?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars"
+    },
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "How \"reverse game theory\" could keep AI agents in check",
+      "summary": "Researchers are applying mechanism design — engineering incentives so rule-following is the rational choice — to keep increasingly capable AI agents aligned, a shift from after-the-fact guardrails to built-in compliance.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600",
+      "contentAngle": "Public-institution AI governance: translate alignment-by-incentive research into a plain-language framework for how FIPPA-bound institutions should design AI agent constraints, not just audit them after deployment."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Three questions that will define AI's political power",
+      "summary": "The US midterms are the first real test of whether campaigning on AI regulation — or aligning with tech moguls — is an asset or a liability, signalling where AI policy heads into 2028.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/03/ai-election-politics-2026-midterms",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/oivvY9RXtjSxXhzaCZscyRmaSMA=/320x320/smart/2024/12/19/213633-1734644193956.jpg"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-watchlist-0",
+      "category": "Watchlist",
+      "headline": "University of Niagara Falls Canada hosts open house this weekend",
+      "summary": "UNF is running a recruitment open house this weekend, a visible top-of-funnel enrollment move for the young Niagara Falls institution as it builds its domestic profile.",
+      "source": "CKTB News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTd6VGV1cW9NYm5nTnFLWm5nM1FWUHRxVFZDQ2hQc3dDaFlSel9Ob0w1T19LXzFZbWxlLWI5NGNiZ1VhdGs0V3JoS0J5UFVrb3BfVWVPZHNyNnphYXZpNnlkTUQ2VWNwTHBSYk9VeGtsYW5rQllrVDdieXMyZzZMYmlZVURaZ29zMG5V?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars"
+    },
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "How \"reverse game theory\" could keep AI agents in check",
+      "summary": "Researchers are applying mechanism design — engineering incentives so rule-following is the rational choice — to keep increasingly capable AI agents aligned, a shift from after-the-fact guardrails to built-in compliance.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600",
+      "contentAngle": "Public-institution AI governance: translate alignment-by-incentive research into a plain-language framework for how FIPPA-bound institutions should design AI agent constraints, not just audit them after deployment."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Three questions that will define AI's political power",
+      "summary": "The US midterms are the first real test of whether campaigning on AI regulation — or aligning with tech moguls — is an asset or a liability, signalling where AI policy heads into 2028.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/03/ai-election-politics-2026-midterms",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/oivvY9RXtjSxXhzaCZscyRmaSMA=/320x320/smart/2024/12/19/213633-1734644193956.jpg"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Jonathan Halvorson named Kimberly-Clark CMO after $40B Kenvue merger",
+      "summary": "Halvorson, who led marketing at Kenvue, takes the top marketing seat at Kimberly-Clark following the mega-merger — a consolidation that reshapes one of CPG's largest brand portfolios.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/jonathan-halvorson-named-kimberly-clark-cmo-after-40b-kenvue-merger/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/Halvorsen-hero.png?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Express builds holiday campaign on brand-metric gains from organic social",
+      "summary": "CMO Joe Berean credits the organic engagement of a spring campaign for shaping \"Holiday, Hamlin Style\" — a case of earned social performance directly informing paid holiday strategy.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/express-unwraps-holiday-campaign-to-build-on-brand-metric-gains/873124/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-marketing-2",
+      "category": "Marketing",
+      "headline": "Ben Cohen goes guerrilla in next push to \"free\" Ben & Jerry's",
+      "summary": "The co-founder revealed the winner of a creative brief he set the marketing industry at Brandweek, escalating a very public brand-activism fight with parent company Unilever.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/ben-cohen-goes-guerrilla-in-his-next-push-to-free-ben-jerrys/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/Hero-mini-pint.png?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "OSAP pause blindsides Ontario paramedic students",
+      "summary": "A pause in OSAP disbursements has left Ontario students — including paramedic trainees — scrambling mid-program, a reminder that student-finance disruptions hit enrollment and retention faster than any campaign can offset.",
+      "source": "CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1I5U1gwWDAtSU1CU2ROeFVqaHU5TTlzNTgwMWs0bURaR2VOY0JZREFRZGhndkRNMXFtOXpUaDIwQm5wd09tTjhrZTJPRV9pbVppWVdfZWJXY0pSeEJHV09LVlRaaV9jcFc0TmJmUUtlcDNkaFBHQ2hZMVgxRGZHU1dWdw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "Germany's international-student strategy pivots from growth to retention",
+      "summary": "With demand strong, German institutions are shifting attention to attracting the right students and helping them succeed through language, academic integration and decentralised support — a maturation Canada's sector is watching.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/germanys-international-student-push-turns-to-retention/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/IMG_9062.jpg_3888x2592-scaled-e1793705055663.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Why yellow-pad math still beats the spreadsheet in builder deals",
+      "summary": "Simple relationship checks surface anomalies and opportunities before a financial model obscures what a deal actually depends on — a caution against over-automating judgment in real estate underwriting.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/why-yellow-pad-math-still-beats-the-spreadsheet-in-builder-deals/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2025/11/scott_cox_030123_b590b6.png",
+      "contentAngle": "AI in real estate operations: where automation helps and where it hides risk — a framework for brokerages adopting AI tools without losing the relationship-level judgment that closes deals."
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "Grenfell Tower fire leaves costly liability lessons for landlords and underwriters",
+      "summary": "Economic damages from the fatal fire surpass 4,000 times the cost of the repairs that were skipped — a stark liability case study for landlords, insurers and investors weighing building-safety risk.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/grenfell-fire-landlord-liability/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/10/Contributors-Piece-2026-10-28T160151.751.png"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "O'Reilly sworn in as Kamloops mayor, cheered by possible end to housing targets",
+      "summary": "An update on the mayor-elect story: O'Reilly took the oath pledging to serve \"all of Kamloops,\" and welcomed premier-designate Doerkson's hint at scrapping provincial municipal housing targets — a potential shift for local development.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjY2UWdFd3FRVk5qRlJEV1pFZFdKMVhHMFhfQl9hb1FQRTdyUWlaZHQtUzc1eXJjLXRuYmxnRFJZVnYxY0J2OThjUmc3Vk41TUFiS0xrX0FyMWtzN1lUbVdlTGxUemZHRnYwTThuUV9sVUUtV2dMc0VwTlpmbk9RNmRCNTgwRTg2MUEteTVGREEwWDQ3c2gtTUxxLVE5QVZSaDRZdVBPNnVPNnpnU0VBVjFnRXFkVUk?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Four-year prison term for Kamloops man who stabbed stranger watering flowers",
+      "summary": "A Kamloops man was sentenced to four years for a random stabbing of a stranger tending flowers — a closing chapter on a case that unsettled the neighbourhood.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTElzWmZsUThZb3plRERLSDc0MWY4YUxiWHVidVU0bW1telAzNVlpMTRFUTM1WW43UXJ0dEtRd1VsUXIzazZ2TEFiMksxVE9PTU9Tamd6Q0hoTU40MzhSX0IzbUNVYV9wT1BjLVBjSkM4MW1KcWpValh2THZyWTJzT2pyWHRoeTBFbENRRFlEbWFBZURBUkgyYmlGQ0pKTmZ5R0xTZmtDQkxKWHBpODkwdGx5OUU5N2lyS1ljdVh3Z2dYZ2lSTEE2WWRB?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Americans vote in midterms framed as referendum on Trump",
+      "summary": "US voters head to the polls in midterm elections widely cast as a verdict on Trump's tenure, with control of the House and Senate — and the tone of Canada-US relations — in the balance.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/03/americans-head-to-the-polls-for-midterm-election-referendum-on-trumps-tenure/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F66363664-608c-4e61-81a2-80b157736742%2F58d863fd99ed167d6d177c10f46e26e0819a9ae35f15bc1a25ce36a3d9eddd8a.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Elon Musk's next target: shaking up America's wireless market",
+      "summary": "SpaceX is assembling spectrum and infrastructure to become a major US wireless carrier, potentially the first serious new competitor to the three-company industry in years.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/03/elon-musk-spacex-boost-mobile-wireless-market",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/9yGL54fb30300mgzEYoTcaVrgSQ=/450x0:1530x1080/320x320/2026/11/02/1793660246880.jpeg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "\"Three-parent IVF\" safety and benefits questioned as new studies emerge",
+      "summary": "STAT News: scientists and ethicists are rethinking mitochondrial replacement therapy — marketed to prevent inherited mitochondrial disease — as fresh studies raise doubts about its real-world risks and benefits.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/11/DSCF5524-645x645.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "Watchlist",
+      "category": "Watchlist",
+      "duration": "1:15",
+      "startSeconds": 11
+    },
+    {
+      "id": "c2",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "2:29",
+      "startSeconds": 86
+    },
+    {
+      "id": "c3",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "2:02",
+      "startSeconds": 235
+    },
+    {
+      "id": "c4",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:01",
+      "startSeconds": 357
+    },
+    {
+      "id": "c5",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:49",
+      "startSeconds": 477
+    },
+    {
+      "id": "c6",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:20",
+      "startSeconds": 587
+    },
+    {
+      "id": "c7",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:15",
+      "startSeconds": 667
+    },
+    {
+      "id": "c8",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "0:53",
+      "startSeconds": 742
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "How \"reverse game theory\" could keep AI agents in check",
+    "summary": "Researchers are applying mechanism design — engineering incentives so rule-following is the rational choice — to keep increasingly capable AI agents aligned, a shift from after-the-fact guardrails to built-in compliance.",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600",
+    "contentAngle": "Public-institution AI governance: translate alignment-by-incentive research into a plain-language framework for how FIPPA-bound institutions should design AI agent constraints, not just audit them after deployment."
+  },
+  "mainStory": {
+    "id": "story-watchlist-0",
+    "category": "Watchlist",
+    "headline": "University of Niagara Falls Canada hosts open house this weekend",
+    "summary": "UNF is running a recruitment open house this weekend, a visible top-of-funnel enrollment move for the young Niagara Falls institution as it builds its domestic profile.",
+    "source": "CKTB News",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTd6VGV1cW9NYm5nTnFLWm5nM1FWUHRxVFZDQ2hQc3dDaFlSel9Ob0w1T19LXzFZbWxlLWI5NGNiZ1VhdGs0V3JoS0J5UFVrb3BfVWVPZHNyNnphYXZpNnlkTUQ2VWNwTHBSYk9VeGtsYW5rQllrVDdieXMyZzZMYmlZVURaZ29zMG5V?oc=5",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "bars"
+  },
+  "heroImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600"
+}
