@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 2,
+  "date": "Wednesday, November 4, 2026",
+  "dateIso": "2026-11-04",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "14:11",
+  "currentTime": "0:00",
+  "remaining": "14 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Two intertwined forces dominate today, and both land close to your thesis work. First, the US midterms produced a historic Democratic sweep — but the undercovered subplot is an AI backlash: voters across red and blue states approved dozens of data-centre moratoriums and rewarded candidates who want to slow the $10-trillion buildout. That's the first time AI infrastructure has been punished at the ballot box, and it reframes every \"AI is inevitable\" deck you'll see this quarter — social licence, not compute, is now the constraint.",
+  "digestReadingTime": "6 min read",
+  "whyItMatters": "Two intertwined forces dominate today, and both land close to your thesis work. First, the US midterms produced a historic Democratic sweep — but the undercovered subplot is an AI backlash: voters across red and blue states approved dozens of data-centre moratoriums and rewarded candidates who want to slow the $10-trillion buildout. That's the first time AI infrastructure has been punished at the ballot box, and it reframes every \"AI is inevitable\" deck you'll see this quarter — social licence, not compute, is now the constraint. Second, the AI-driven buying journey keeps hardening: a CMO openly describing selling to \"humans and agents\" is exactly the AI Search Readiness story you productize. On the home front, enrollment-management data practice, a UBC governance headline, a university hacking case, and a fresh privacy-breach allegation against Kamloops' outgoing mayor all stack neatly onto your public-institution governance lane. Watch the data-residency and consent threads — they're turning into recurring commentary fuel.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-04.mp3",
+  "audioDurationSeconds": 851,
+  "audioScript": "Good morning, Midya. It's Wednesday, November fourth, twenty twenty-six, and while the headlines are all about an American political earthquake, the story underneath it is an AI one — and that's where we'll start.\n\nLet's begin with the single most interesting thing to come out of yesterday's US election, because it isn't the thing getting the big fonts. Buried under the political landslide is a result that should stop you in your tracks: voters, across red states and blue states alike, revolted against the AI buildout. Axios is calling it an AI earthquake. Communities approved dozens of data-centre moratoriums, and a whole slate of candidates who campaigned on slowing the roughly ten-trillion-dollar AI infrastructure boom won — including in Texas, which has been the epicentre of that boom. Think about what that actually means. For three years the dominant narrative has been that AI is inevitable, that the compute buildout is unstoppable, that the only question is who captures the value. And then, in an election that turned on affordability and cost of living, ordinary voters looked at the data centres rising in their backyards — the strain on power grids, on water, on their electricity bills — and they said no. Not to the chatbots. To the infrastructure. This is the first time AI infrastructure has been punished at the ballot box, and it quietly rewrites the risk calculus for everyone selling AI transformation.\n\nHere's why this matters for your work specifically. Every deck you've seen this year, every vendor pitch, leads with capability — what the model can do, how much faster, how much cheaper. What yesterday tells us is that capability is no longer the binding constraint. Social licence is. Permission is. And that's exactly the territory your public-institution governance lens lives in. When you advise a university or a public body on adopting AI, the question is no longer just \"does it work and is it FIPPA-compliant.\" It's now \"can the institution defend this choice to a sceptical, cost-conscious public.\" I think there's a genuine thought-leadership piece in here for you: the first ballot-box rebuke of AI, and why marketers and institutions have to lead with community and governance framing rather than raw capability. That's a contrarian, timely take, and it's squarely in your lane. I'd move on it this week while it's fresh, because the hot takes will crowd in fast.\n\nThe second AI story is more of a working tool than a headline, but it's directly in your AI Search Readiness wheelhouse. The CMO of G2 gave an interview with a line that's going to get quoted a lot: \"We are now talking to humans and agents.\" The point is that the buying journey no longer runs purely through people. AI agents are increasingly the ones doing the research, the shortlisting, the first-pass evaluation of vendors — and if your brand isn't legible to those agents, you simply don't make the list. You never find out you lost. For your higher-ed clients this is enrollment research done by a prospective student's AI assistant. For your real-estate lane, it's a buyer whose agent — the software kind — is scanning brokerages and listings. This is the thesis you've been building, now coming out of a sitting CMO's mouth. The content angle writes itself: your next buyer is an agent, here's the readiness checklist. Pair that with the governance piece and you've got two posts that reinforce each other — one about the public backlash against AI, one about the quiet machine takeover of the buying funnel. Together they tell a sophisticated story: AI is simultaneously overhyped at the infrastructure level and underestimated at the workflow level. That nuance is what positions you above the noise.\n\nNow the political story itself, because as a senior leader you need to be fluent in it even though it's not your core beat. Democrats swept both the House and the Senate in what Axios is describing as one of the most sweeping repudiations of a sitting president in modern American history — they're reaching for comparisons to the post-Watergate reckoning of nineteen seventy-four. The margins were the shock. Democrats won Senate seats in deep-red Texas, Georgia, the Carolinas, Kansas. A Republican redistricting strategy designed to firewall the House backfired, spreading GOP support too thin and putting safe incumbents in jeopardy. The midterm now hands a lame-duck president two years of divided government and investigations.\n\nWhy do I flag this for you beyond general awareness? Two reasons. First, the affordability theme that drove this result is the same undercurrent feeding the AI backlash we just discussed — voters are in a cost-of-living mood, and that sentiment crosses the border. It colours how Canadians feel about housing, about immigration, about public spending, all of which touch your real-estate and higher-ed lanes. Second, a decisive shift in Washington reshapes the trade and immigration environment that Canadian institutions and businesses operate inside. Prime Minister Carney is in the middle of trade talks, and the composition of Congress changes his counterparties. Keep half an eye on it. You don't need to comment publicly on American politics — that's not your brand — but you need to understand the mood it reflects, because that mood is the water your clients are swimming in.\n\nLet's come home to higher education, your core market. The lead here is a quiet but useful one: the annual enrollment-management conference just wrapped in Baltimore — the gathering the sector affectionately calls the data nerds — and Inside Higher Ed pulled out three takeaways, with retention and data sitting right at the centre of the conversation. I flag this because it's a tuning fork for where the whole SEM and recruitment discipline is heading. Retention is increasingly being framed as an enrollment problem, not a student-services afterthought — which is to say, the people who recruit a student are now being held accountable for whether that student stays. That reframing creates demand for exactly the kind of data-literate, AI-augmented enrollment thinking you sell. Worth reading in full and worth mining for the vocabulary the field is using this season, because speaking the current dialect is half of credibility in a pitch.\n\nSecond higher-ed item, and this one feeds your governance lane directly: two Canadian men have been accused of hacking into computer systems at Western New York universities and stealing information. On its face it's a crime story. But for you it's a case study. Institutional data security is routinely treated as an IT problem to be delegated and forgotten — and then a breach happens and it becomes a governance crisis, a reputational crisis, and often a regulatory one. When you bring your public-institution governance lens to a Canadian university or college, this is the kind of concrete, recent example that makes the abstract risk feel real to a board. Data residency, consent, breach response — these aren't theoretical. File this one as evidence for the next time a client tells you security is handled.\n\nAnd third, on the immigration side: IRCC announced it's modernizing the asylum system to support faster decisions. This isn't study-permit policy directly, but it's part of the broader recalibration of Canada's immigration machinery, and everything in that machinery eventually touches international-student volumes and, just as importantly, international-student sentiment. We've been tracking a steady drumbeat of nervousness from prospective students in India about job prospects and safety in Canada. System-modernization announcements like this one are the backdrop against which that sentiment forms. For any institution leaning on international enrollment to balance the books — which, post-cap, is most of them — the policy weather remains the single biggest variable. Keep it on the radar.\n\nTurning to marketing and business strategy, a couple of pieces out of Brandweek that are worth your time as you sharpen your own positioning. The first is an argument from Petzey's chief marketer that marketing belongs embedded in product, finance, and tech — not quarantined as the colouring-in department after the real decisions are made. It's a familiar argument, but it's the right one, and it's the posture you should be selling. When you walk into a university or a brokerage, the value you add isn't a prettier campaign — it's marketing thinking wired into how the institution actually operates and makes money. The line that stuck with me from the piece: doing the right thing beats chasing the short-term number. In a consulting relationship, that's not a platitude, it's a differentiator. The consultants who chase the vanity metric churn out of the relationship; the ones who protect the client's long-term brand equity get renewed.\n\nThe second Brandweek piece is a conversation between executives at Liquid Death and Ibotta about moving from return-on-ad-spend — ROAS — toward what they call real results: optimizing promotional spend across retail channels and attacking customer churn rather than just chasing acquisition. The reason I surface it for you is that the same logic maps cleanly onto both your lanes. In higher ed, the obsession has been top-of-funnel — applications, leads, inquiries. But the real result is yield and retention, the enrollment equivalent of churn. In real estate, it's the same shift from cost-per-lead to lifetime client value and repeat-and-referral business. The framing in this article is a useful borrowed vocabulary for making that case to clients who are still measuring the wrong thing. You can lift the structure of the argument and translate it into your sectors.\n\nOn to real estate. Two items today. The first is a genuinely curious BC data point: a run-down home on Windsor Street in East Vancouver, assessed around one-point-seven million dollars, is going to auction with a reserve of just seventy-two thousand. There's a catch, of course — the structure is barely standing and the value is almost entirely in the land. But it's a vivid illustration of something your husband's brokerage sees every day in this market: in Vancouver, you're frequently not buying a house, you're buying dirt with a teardown attached. For anyone advising on residential strategy in the Lower Mainland, that land-versus-structure split is the whole game, and stories like this one are a useful, concrete way to explain it to clients who still think they're pricing a building.\n\nThe second is from HousingWire and it's about M&A timing — specifically, for homebuilders, when the savings from an acquisition actually start flowing. The answer, unsurprisingly, is that it's less about the deal closing and far more about whether the systems and supplier relationships were already integrated before the ink dried. I pull this out not for the homebuilding specifics but for the transferable lesson. Brokerages consolidate constantly — teams merge, firms get absorbed — and the promised efficiencies almost always arrive late or never, for exactly this reason: the integration work gets deferred. If you're advising on the operations side of a real-estate business going through a merger, the insight is simple and sellable: the savings live in the systems, not the signature. Diligence the back office, not just the balance sheet.\n\nFinally, close to home. Good news first, and it's genuinely good: Sun Peaks has been voted North America's best overall ski resort for twenty twenty-six by skiers and snowboarders. That's a real brand win heading into the season, and it's not just civic pride — a ranking like that does measurable work on visitor demand and, over time, on property values in the village. As a Sun Peaks owner that's a tailwind worth noting, and as a marketer it's a nice case study in how a destination earns and compounds brand equity through word of mouth rather than ad spend.\n\nTwo more local notes. Kamloops RCMP are asking for the public's help locating a young outdoorsman reported missing from the Barnhartvale area, last seen in recent days. If you're connected to anyone out that way, it's worth passing along. And a governance thread worth watching: fresh privacy-breach allegations have surfaced against the outgoing Kamloops mayor in the final days of the term, just as the new council takes its seats. We covered the mayoral transition over the past couple of days — the oath of office, the new mayor's pledge to represent all residents — and this is the shadow side of that transition. For you it's more than local gossip: it's a live, hometown example of municipal privacy and FIPPA exposure, the exact subject matter of your governance lens. Small governments mishandle personal data constantly, and the consequences are real. Keep an eye on how the new council responds, because how an institution handles a breach says more about its governance maturity than any policy document ever will.\n\nSo here's the throughline today, Midya. The American electorate just told us that AI's biggest vulnerability isn't technical, it's social — people will tolerate the tools but resist the infrastructure and the cost. At the same time, the machines are quietly becoming the buyers inside the funnel. Hold both of those truths at once and you've got a more sophisticated point of view than almost anyone posting this week. I'd write the governance-and-backlash piece first while it's hot, then follow with your agents-as-buyers readiness angle a few days later so they build on each other. And closer to home, enjoy the Sun Peaks win — it's the kind of earned brand moment you spend your career trying to manufacture for clients. Talk soon.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "\"What we just witnessed was an AI earthquake\": voters revolt against the data-centre buildout",
+      "summary": "US voters approved dozens of data-centre moratoriums and elected candidates who favour slowing the $10-trillion AI buildout — including in Texas, the epicentre of the boom — framing AI infrastructure as a cost-of-living and resource threat.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/mSNFkD0OpebNBmKH29z1wjKgeM8=/50x0:1130x1080/320x320/2026/10/05/1791215497887.jpeg",
+      "contentAngle": "Public-institution AI governance: the first ballot-box rebuke of AI infrastructure means 'social licence' now gates adoption — a POV piece on why marketers and institutions must lead with community and governance framing, not capability."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "G2 CMO: 'We are now talking to humans and agents'",
+      "summary": "G2's chief marketer describes a buying journey where AI agents, not just people, evaluate and shortlist vendors — forcing brands to optimize how machines read and recommend them.",
+      "source": "Chief Marketer",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmJVUDhWRV8xdS12R1lWNnMzYTNrd1ZFc1lXVkFUT0ExdTg5RVk5THQ5bWl4SG5DSVViektSakVPcXIxbmlTOGxndHhqT2JsNF9qeGZUZmh2WTltaFl3LUQ0WTJxUk5pN2JtNVRfMHNGYm5odUg4WGlGcC1kak9XVXJZX2RoaElNcTlWel81YldibEN3VXZ3dGZncVlaN25ESVNCZmxJTzZVdnp4bExfdXZaankwSWNoWDJqU2VB?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "contentAngle": "AI Search Readiness: 'your next buyer is an agent' — a practical checklist for how higher-ed and real-estate brands make themselves legible to AI shortlisting engines."
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Brandweek 2026: why marketing belongs in product, finance and tech",
+      "summary": "Petzey's Ameetess Dira argues marketing should be embedded across product, finance and tech functions — and that doing the right thing beats chasing the short-term number.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/brandweek-2026-why-marketing-belongs-in-product-finance-and-tech-with-petzeys-ameetess-dira/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/marketing-vanguard-petzey-ameetess-dira.png?w=600&h=315&crop=1"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "\"What we just witnessed was an AI earthquake\": voters revolt against the data-centre buildout",
+      "summary": "US voters approved dozens of data-centre moratoriums and elected candidates who favour slowing the $10-trillion AI buildout — including in Texas, the epicentre of the boom — framing AI infrastructure as a cost-of-living and resource threat.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/mSNFkD0OpebNBmKH29z1wjKgeM8=/50x0:1130x1080/320x320/2026/10/05/1791215497887.jpeg",
+      "contentAngle": "Public-institution AI governance: the first ballot-box rebuke of AI infrastructure means 'social licence' now gates adoption — a POV piece on why marketers and institutions must lead with community and governance framing, not capability."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "G2 CMO: 'We are now talking to humans and agents'",
+      "summary": "G2's chief marketer describes a buying journey where AI agents, not just people, evaluate and shortlist vendors — forcing brands to optimize how machines read and recommend them.",
+      "source": "Chief Marketer",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmJVUDhWRV8xdS12R1lWNnMzYTNrd1ZFc1lXVkFUT0ExdTg5RVk5THQ5bWl4SG5DSVViektSakVPcXIxbmlTOGxndHhqT2JsNF9qeGZUZmh2WTltaFl3LUQ0WTJxUk5pN2JtNVRfMHNGYm5odUg4WGlGcC1kak9XVXJZX2RoaElNcTlWel81YldibEN3VXZ3dGZncVlaN25ESVNCZmxJTzZVdnp4bExfdXZaankwSWNoWDJqU2VB?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "contentAngle": "AI Search Readiness: 'your next buyer is an agent' — a practical checklist for how higher-ed and real-estate brands make themselves legible to AI shortlisting engines."
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Brandweek 2026: why marketing belongs in product, finance and tech",
+      "summary": "Petzey's Ameetess Dira argues marketing should be embedded across product, finance and tech functions — and that doing the right thing beats chasing the short-term number.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/brandweek-2026-why-marketing-belongs-in-product-finance-and-tech-with-petzeys-ameetess-dira/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/marketing-vanguard-petzey-ameetess-dira.png?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "From ROAS to real results: the future of performance marketing",
+      "summary": "Liquid Death and Ibotta executives make the case for moving beyond return-on-ad-spend toward optimizing promotional spend across retail channels and reducing customer churn.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/from-roas-to-real-results-benoit-vatere-and-bryan-leach-on-the-future-of-performance-marketing/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2025/10/adspeak-article-image-1.webp?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "Three takeaways from the enrollment-management data crowd",
+      "summary": "Enrollment leaders gathered in Baltimore this week with retention and data at the centre of the conversation — a read on where the SEM and data-driven recruitment field is heading.",
+      "source": "Inside Higher Ed",
+      "url": "https://www.insidehighered.com/news/students/retention/2026/11/04/enrollment-management-conference-talks-retention-data",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/2edcef06f547eccb259afd2f28a26260b7fbf6f6-1_edit.jpg?itok=Qrfuyfsw"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "Canadian men accused of hacking into WNY universities and stealing data",
+      "summary": "Two Canadian men are accused of breaking into computer systems at Western New York universities and stealing information — a reminder that institutional data security is a governance exposure, not just an IT one.",
+      "source": "WHEC.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQm9CS2R4UXg0TTZOQ1lOMFpiRE1taFVOTHdfdldBc0JfSkI0cGhiNzFoSXlES3ZQWGRtMW1hWmp6anYzUEVtOTBHQk54N0J6dzBWMDBRRGVfUnJnekdzU1BrVVY0Y29QU2o0cFdBQ2tMVVRsQ25VOFdXWFFlSmRING9PcVg0RUhwMWwxRkJPZVc4TkFQNk1zRW9aRnBHM2dOdlZzamhLUHU3Zmlia2VmbGd3a1FVT0Yz?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-2",
+      "category": "Higher Ed",
+      "headline": "Canada moves to modernize the asylum system for faster decisions",
+      "summary": "IRCC announced changes meant to speed asylum processing — part of a broader immigration-system recalibration worth tracking for its downstream effects on study-permit volumes and sentiment.",
+      "source": "IRCC News",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/canada-modernizes-the-asylum-system-to-support-timely-decisions0.html",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://www.canada.ca/content/dam/ircc/images/twittercard/ircc-nr-asylum-reform-en.png"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "This $1.7M Vancouver home has an auction reserve of $72,000 — with a catch",
+      "summary": "A rundown East Vancouver property is going to auction with a $72,000 reserve against a $1.7M assessed value, a quirky signal of how land-value versus structure-value dynamics are playing out in the city.",
+      "source": "CFJC Today",
+      "url": "https://cfjctoday.com/2026/11/04/this-1-7m-vancouver-home-has-an-auction-reserve-of-72000-yes-theres-a-catch/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F64c24c48-6e1f-424e-b4e3-0d78a30337de%2F39ca8331c1a368aa69146e1b6650e62b0ffb7280465e010502149a4da9419475.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "Builder M&A closed — so when do the savings actually start?",
+      "summary": "For homebuilders, acquisition savings hinge less on the deal and more on whether systems and supplier connections are already integrated, a timing lesson relevant to any brokerage or firm absorbing an acquisition.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/homebuilder-ma-savings-timing/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/FI-Hyphen_The-deal-closed.-When-do-the-savings-start.jpg"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Sun Peaks named North America's best overall ski resort for 2026",
+      "summary": "Skiers and snowboarders voted Sun Peaks the top overall ski resort in North America for 2026 — a brand and tourism win heading into the season, with obvious upside for local property values.",
+      "source": "CFJC Today",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3ZMOWNLZVk2TjZqTTBoaHRERE0wSmh5d19YMHNCUEoyTTFLREM5dlBsRVktbnFERWFDdHFoYkZEX2xCSkJqaUVBX0FWQlc0LUZ1MHltR0lKVTVnSjk5V19ST0ppMFJkY3lCZnJ4UnRnOWxob2FUVWxTM0ZtYmROcnlXb0FsNENTa0JWSEkwSGpTVE81SFlMdVo3Q29HeENIeV9IaksycU8tcVF2S1paOUNrYldSM3ZqaXB2UzlR?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Young outdoorsman reported missing from Barnhartvale",
+      "summary": "Kamloops RCMP are seeking help locating a young man last seen near the Barnhartvale area and are asking the public for tips.",
+      "source": "CFJC Today",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXlFRl9vUUkwdi0tTDlFWGxCbURPSlFDak01bHFRNnkwcHBNNmpMQ3JNbUlNbnM1Q3htQnN4MjVyWkJBVEp5VlhJMFB5TjBBQktCb1drV0pjYmxYSUpZRk4xN0prVlBub29oY1ZMT3NMdzF1RUVJRWVEX0Y2RWQ1bWZqaUFYaG5Cam5vMkhZQkV3SHRSRnhVTmRWb1ZsR0tQYVcxYzJDSlE?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-2",
+      "category": "Local News",
+      "headline": "New privacy breaches alleged against outgoing Kamloops mayor before term ends",
+      "summary": "Fresh privacy-breach allegations have surfaced against Kamloops' outgoing mayor in the final days of the term — a municipal-governance and FIPPA story worth watching as the new council settles in.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeVJCRnlGbVBORFF0a1JKUGlnN2wxYlJETVRWVHhvNDJ2aDFwcmRueEFCLUoxRTJWRWZLUXJYUnVLdUwyZUI3RWZBek9RLWRqZWo2N3R3Y1NPZ1RmZHNET1I1TldMZXliamFESEp4elVXeUVJTXRZRDc5LU5fTXV4TEEyOXpUVUU5emZHdFdISzY5eFZpMkF3ODhjR2R2RURDNUlyWHBvRG1LSUpfOTl5RWVKdm92OHRpRU5PU25tSzI4TVUwTmNpQ0tCUQ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Blue wave: Democrats sweep House and Senate in a historic midterm rebuke",
+      "summary": "Democrats flipped both chambers of Congress in one of the most sweeping repudiations of a sitting president in modern US history, winning Senate races in deep-red Texas, Georgia and the Carolinas.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/04/midterm-election-winners-losers-results",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/eQGxBs_Wv_Txignq7Pg5Yj19M0Y=/374x0:1454x1080/320x320/2026/05/19/1779208674631.jpeg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:39",
+      "startSeconds": 13
+    },
+    {
+      "id": "c2",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:41",
+      "startSeconds": 231
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:40",
+      "startSeconds": 333
+    },
+    {
+      "id": "c4",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:53",
+      "startSeconds": 492
+    },
+    {
+      "id": "c5",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:41",
+      "startSeconds": 605
+    },
+    {
+      "id": "c6",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:39",
+      "startSeconds": 707
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "G2 CMO: 'We are now talking to humans and agents'",
+    "summary": "G2's chief marketer describes a buying journey where AI agents, not just people, evaluate and shortlist vendors — forcing brands to optimize how machines read and recommend them.",
+    "source": "Chief Marketer",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmJVUDhWRV8xdS12R1lWNnMzYTNrd1ZFc1lXVkFUT0ExdTg5RVk5THQ5bWl4SG5DSVViektSakVPcXIxbmlTOGxndHhqT2JsNF9qeGZUZmh2WTltaFl3LUQ0WTJxUk5pN2JtNVRfMHNGYm5odUg4WGlGcC1kak9XVXJZX2RoaElNcTlWel81YldibEN3VXZ3dGZncVlaN25ESVNCZmxJTzZVdnp4bExfdXZaankwSWNoWDJqU2VB?oc=5",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "contentAngle": "AI Search Readiness: 'your next buyer is an agent' — a practical checklist for how higher-ed and real-estate brands make themselves legible to AI shortlisting engines."
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "\"What we just witnessed was an AI earthquake\": voters revolt against the data-centre buildout",
+    "summary": "US voters approved dozens of data-centre moratoriums and elected candidates who favour slowing the $10-trillion AI buildout — including in Texas, the epicentre of the boom — framing AI infrastructure as a cost-of-living and resource threat.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/mSNFkD0OpebNBmKH29z1wjKgeM8=/50x0:1130x1080/320x320/2026/10/05/1791215497887.jpeg",
+    "contentAngle": "Public-institution AI governance: the first ballot-box rebuke of AI infrastructure means 'social licence' now gates adoption — a POV piece on why marketers and institutions must lead with community and governance framing, not capability."
+  },
+  "heroImageUrl": "https://images.axios.com/mSNFkD0OpebNBmKH29z1wjKgeM8=/50x0:1130x1080/320x320/2026/10/05/1791215497887.jpeg"
+}
