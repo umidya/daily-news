@@ -12,7 +12,7 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 04 Nov 2026 11:36:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:46:37 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
@@ -21,9 +21,9 @@
     <item>
       <title>Daily News for Wednesday, November 4, 2026</title>
       <link>https://umidya.github.io/daily-news/digests/2026-11-04.html</link>
-      <description>Two intertwined forces dominate today, and both land close to your thesis work. First, the US midterms produced a historic Democratic sweep — but the undercovered subplot is an AI backlash: voters across red and blue states approved dozens of data-centre moratoriums and rewarded ...</description>
+      <description>The dominant thread today is the U.S. midterm aftermath — Democrats taking both chambers, a historic wave, and the inevitable pivot from campaign noise to affordability and oversight. That matters to you less as politics than as the macro weather every client of yours operates un...</description>
       <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-04.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-04.mp3" length="13629312" type="audio/mpeg"/>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-04.mp3" length="14005248" type="audio/mpeg"/>
       <pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
