@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 2,
+  "date": "Thursday, November 5, 2026",
+  "dateIso": "2026-11-05",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "12:54",
+  "currentTime": "0:00",
+  "remaining": "12 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Two threads dominate today, and both land squarely in your practice. First, the AI backlash is maturing from voter sentiment into a governance problem: data centre ballot defeats are forcing tech giants to rebrand and buy goodwill, while health systems wrestle with doctors quietly feeding patient data into chatbots — the exact public-institution governance questions you sell into, just transposed onto hospitals instead of universities. Second, the data-ownership fight in martech (the Publicis–LiveRamp unease) is the commercial mirror of your AI Search Readiness thesis: whoever owns the intelligence layer owns the outcome.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Two threads dominate today, and both land squarely in your practice. First, the AI backlash is maturing from voter sentiment into a governance problem: data centre ballot defeats are forcing tech giants to rebrand and buy goodwill, while health systems wrestle with doctors quietly feeding patient data into chatbots — the exact public-institution governance questions you sell into, just transposed onto hospitals instead of universities. Second, the data-ownership fight in martech (the Publicis–LiveRamp unease) is the commercial mirror of your AI Search Readiness thesis: whoever owns the intelligence layer owns the outcome. On the home front, Ottawa tables Budget 2026 today, Kamloops is signalling densification will continue even as the new BC Conservative government talks about scrapping provincial housing laws — a live wire for your BC property and real-estate lane — and the Canadian university hacking case has moved from accusation to formal US charges. Watch the budget and the BC housing-policy reversal most closely; both reshape the ground your clients stand on.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-05.mp3",
+  "audioDurationSeconds": 774,
+  "audioScript": "Good morning, Midya. It's Thursday, November fifth, twenty twenty-six. Big day on Parliament Hill, and a maturing AI backlash that lands right in the middle of your governance work — here's what matters.\n\nLet's start with AI, because the story we flagged earlier this week — voters revolting against tech at the polls — has entered a new and more revealing phase. Axios is reporting that after ballot measures across the United States restricted data-centre construction by a staggering margin, something like forty-three to one, the AI industry is now scrambling to repackage a ten-trillion-dollar infrastructure buildout for a hostile electorate. And the way they're doing it tells you everything. They're renaming data centres as \"compute campuses.\" They're offering communities real money — dividends, school funding, environmental concessions, labour protections. In other words, they skipped the social-licence step on the way up, and now they're trying to buy it back on the way down.\n\nI want you to sit with that, because it's not really a story about data centres. It's a story about what happens when a powerful technology scales faster than the public's permission to deploy it. And that is precisely the dynamic you work inside every day when you walk into a university or a public institution and talk about AI governance. The lesson here is portable: trust is cheaper to earn before you build than to purchase after people feel steamrolled. There's a genuine thought-leadership post in this for you — the parallel between an industry that forgot to earn its social licence and institutions that deploy AI tools without a governance framework and then wonder why staff, students, and faculty don't trust them. Same failure mode, different scale.\n\nAnd the second AI story makes that parallel almost too neat. STAT News has a piece on how hundreds of thousands of doctors are now quietly consulting AI chatbots to help make care decisions — and health systems are discovering they have a shadow-AI problem. Clinicians are feeding patient information into general-purpose chatbots, creating real exposure around health data privacy and compliance. So the systems face a binary: block the tools outright, or formally buy in and sanction approved ones with guardrails. Midya, swap \"doctors\" for \"admissions officers\" or \"marketing coordinators,\" and swap \"patient data\" for \"applicant records under FIPPA,\" and this is a story about your clients. This is the exact scenario your Public-Institution Governance Lens exists to address: frontline staff adopting AI faster than policy can keep up, and leadership left choosing between prohibition and structured permission. There's your content hook — the shadow-AI audit checklist. What's already running inside your organization that nobody approved? That's a piece almost any public-sector marketing or enrolment leader would read to the end.\n\nAnd underpinning both of those is the money story: The Verge walked through third-quarter earnings from Amazon, Microsoft, Alphabet, and Meta, and the picture is record-breaking data-centre spending with no sign of the promised returns actually materializing yet. The buildout, they argue, won't stop until something external stops it — and this week, voters started to. For you, the takeaway isn't to predict the market. It's to notice that the capital enthusiasm driving every AI feature your martech and CRM vendors are shipping is running well ahead of proven ROI. When a vendor tells you their new AI module is table stakes, the honest question is whether the returns are real or whether you're funding someone's buildout. Healthy skepticism is a feature of good advice right now.\n\nThat skepticism carries straight into marketing, where Adweek has a sharp piece arguing why CMOs should be wary of a Publicis-owned LiveRamp. The thesis: as holding companies acquire the data infrastructure that makes first-party data valuable in the first place, brands risk quietly handing over control of their own proprietary intelligence. You rent the pipes, the pipes get bought by your agency's parent company, and suddenly the thing that was supposed to be your competitive moat is sitting inside someone else's balance sheet. The author's prescription is for brands to seize back ownership of their data layer directly.\n\nI think this connects beautifully to your AI Search Readiness work, and it's worth saying out loud in your own voice. The principle is identical whether we're talking about customer data or AI visibility: whoever owns the intelligence layer owns the outcome. Brands that don't own how their data is structured — or how they appear inside AI Overviews, ChatGPT, and Perplexity — are renting their own future from intermediaries. That's a post. The ownership thesis, applied one layer up, from data infrastructure to generative-search presence.\n\nAlso from Brandweek, a quieter but useful provocation: can too much attribution actually make marketing worse? The panel's argument is that over-indexing on lead-generation attribution distorts strategy — teams start treating the lead as the finish line instead of the opening of a relationship. For a consulting practice selling into higher-ed enrolment, where the temptation to over-measure the top of the funnel is enormous, that's a healthy corrective. The lead is not the enrolment. The click is not the applicant. Worth keeping in your back pocket for client conversations about what to actually optimize.\n\nOn to higher education. First, an update on a story from earlier this week. You'll remember the accusations that Canadian men had hacked into computers at Western New York universities. That case has now moved from allegation to formal charges — US prosecutors have charged a Canadian man in the alleged breach of university supercomputers for crypto-mining. It's a reminder that the research-computing infrastructure sitting inside universities is a genuine target, and that cybersecurity and AI governance increasingly live in the same conversation. When you talk to institutions about data residency and AI policy, campus security posture is part of that same fabric.\n\nSecond, Brock University is facing a reputational test. The Brock Press reports the university is accused of joining a coordinated network aimed at suppressing pro-Palestinian student demonstrations across Canadian campuses. I'll report that plainly without wading into the politics of it — the relevant point for your work is governance and brand. How an institution handles protest, transparency, and its own alleged participation in cross-campus coordination becomes a brand-trust issue with prospective students and their families, and it travels fast. For anyone advising on institutional reputation, these are the moments that define how a university is perceived for years.\n\nAnd third, a study-permit story with a human face. Radio-Canada reports Canada denied a study permit to an Afghan teenager who had already secured a full scholarship. It's one case, but it's emblematic of the continued unpredictability in IRCC decision-making that your higher-ed clients are navigating. When even a fully funded, high-merit applicant can be refused, it underscores how much the recruitment environment now depends on factors outside an institution's control. That's the backdrop for every enrolment strategy conversation in Canada right now — build pipelines that are resilient to policy volatility, because the volatility isn't going away.\n\nTurning to real estate. HousingWire has a thoughtful piece on VantageScore 4.0, the newer credit-scoring model now broadly available to lenders backed by the US housing agencies. The optimistic read is that it could expand the pool of qualified buyers by scoring people the older models missed. But the author's honest conclusion is the one worth carrying across the border: a better credit model doesn't create a single new home. Without supply, you're just giving more people permission to compete for the same scarce inventory. That tension — demand-side tools versus supply-side reality — is exactly the conversation playing out in Western Canada, and it's the frame your husband's brokerage lives inside daily. The policy lever that actually moves affordability is supply, and everything else is around the edges.\n\nWhich is a perfect segue to Kamloops, because the local news today is unusually relevant to your property and real-estate lane. Castanet reports that the City of Kamloops expects densification to continue even if the new BC Conservative government follows through on plans to scrap provincial housing laws. That's a notable signal. The previous provincial framework forced municipalities toward density; now the province is talking about pulling that mandate back, and Kamloops is essentially saying the momentum will carry on locally regardless. For you, watching BC housing policy across Sun Peaks, Langley, and Vancouver, this is the thread to pull on — because if provincial housing legislation gets rolled back, the rules governing density, and potentially short-term rentals, could start fragmenting city by city again. That's more complexity for anyone holding property in multiple BC jurisdictions, and it's worth tracking closely.\n\nIn the same vein, Kamloops MLAs say they doubt the contested Ajax mine project will resurface under the new BC Conservative government. For a project that's loomed over the city's land-use and environmental debate for years, that's a note of certainty, and it matters for how people think about Kamloops' long-term trajectory.\n\nAnd a civic one: after a community rally, the Kamloops mayor laid out the hurdles to preserving the historic Stuart Wood building. His line — \"it's not just a building\" — captures the tension between heritage sentiment and the hard financial and structural realities of restoration. A small story, but the kind of local-identity debate that tells you where a community's priorities sit.\n\nNow the big national story. Today the federal Liberals table Budget twenty twenty-six, and Ottawa is framing it as the government's next major step toward fixing long-standing problems in the Canadian economy. I'd watch this one actively, Midya, because it touches nearly every lane you operate in. Housing measures affect your real-estate work and your own property. Immigration and study-permit signals affect your higher-ed clients' enrolment pipelines. And any funding or innovation provisions around AI and digital infrastructure could shape the public-sector environment you advise into. Budgets are where rhetoric becomes line items, so when the details land today, the question to ask is which of your clients' assumptions just changed. I'd keep an eye on anything touching post-secondary funding and immigration levels in particular.\n\nAnd briefly, the cross-border picture. Analysts are weighing how this week's US midterm results — with Democrats taking both chambers of Congress — could affect Canada. The implications run through trade, regulatory posture, and the general tone of the Canada-US relationship heading toward twenty twenty-eight. Canadians, by most accounts, are relieved, though trust in American stability remains shaky. For your purposes, it's context rather than action — but a shifting US Congress changes the trade and policy weather that every Canadian business operates in.\n\nAnd to close on something that lifts the eyes a little higher. Canadian astronaut Joshua Kutryk is set to carry out his second spacewalk in two weeks outside the International Space Station today. It's a proud moment for Canada's space program and a reminder that, amid all the AI-infrastructure anxiety and budget wrangling down here, there are still people doing genuinely hard, genuinely new things a few hundred kilometres over our heads.\n\nThat's your Thursday, Midya. If you do one thing today, watch the budget land this afternoon and read it through the lens of your clients' assumptions — housing, immigration, and post-secondary funding are the three line items most likely to move your work. And if you're looking for something to publish, the shadow-AI governance angle out of the healthcare chatbot story is the strongest hook you've had all week — it's your Governance Lens applied to a problem every public institution already has and most haven't named yet. I'll keep tracking the BC housing-law reversal; that one's personal as well as professional. Talk tomorrow.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Tech giants turn to cash and concessions to rebrand AI after voters pummel data centres 43-1",
+      "summary": "Facing ballot measures that overwhelmingly restricted data-centre construction, the AI industry is renaming facilities \"compute campuses\" and offering communities dividends, school funding and environmental concessions to defuse a hostile electorate.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/eT9ewC0H7jLnbz35juRlB85TVyE=/320x320/smart/2021/06/03/175435-1622742875055.jpg",
+      "contentAngle": "Public-institution AI governance: the social-licence collapse around AI infrastructure is the same trust gap institutions face deploying AI — a post on earning permission before scaling."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "As more doctors consult chatbots, health systems must block them or buy in",
+      "summary": "Hundreds of thousands of physicians are quietly using AI chatbots for care decisions, creating HIPAA and data-governance exposure that is forcing health systems to either formally sanction tools or ban them.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-645x645.jpeg",
+      "contentAngle": "Public-institution AI governance: shadow AI use by frontline staff — the FIPPA/data-residency audit checklist angle, applied to any public institution, not just hospitals."
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Big Tech's AI buildout won't end until someone stops it",
+      "summary": "Q3 earnings from Amazon, Microsoft, Alphabet and Meta show record data-centre spending with no sign of the promised returns, raising questions about how long the capital cycle can run ahead of revenue.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Tech giants turn to cash and concessions to rebrand AI after voters pummel data centres 43-1",
+      "summary": "Facing ballot measures that overwhelmingly restricted data-centre construction, the AI industry is renaming facilities \"compute campuses\" and offering communities dividends, school funding and environmental concessions to defuse a hostile electorate.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/eT9ewC0H7jLnbz35juRlB85TVyE=/320x320/smart/2021/06/03/175435-1622742875055.jpg",
+      "contentAngle": "Public-institution AI governance: the social-licence collapse around AI infrastructure is the same trust gap institutions face deploying AI — a post on earning permission before scaling."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "As more doctors consult chatbots, health systems must block them or buy in",
+      "summary": "Hundreds of thousands of physicians are quietly using AI chatbots for care decisions, creating HIPAA and data-governance exposure that is forcing health systems to either formally sanction tools or ban them.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-645x645.jpeg",
+      "contentAngle": "Public-institution AI governance: shadow AI use by frontline staff — the FIPPA/data-residency audit checklist angle, applied to any public institution, not just hospitals."
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Big Tech's AI buildout won't end until someone stops it",
+      "summary": "Q3 earnings from Amazon, Microsoft, Alphabet and Meta show record data-centre spending with no sign of the promised returns, raising questions about how long the capital cycle can run ahead of revenue.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Why a Publicis-owned LiveRamp should worry CMOs",
+      "summary": "As holding companies buy the data infrastructure that makes first-party data valuable, brands risk losing control of their proprietary intelligence and must move to own their data layer directly.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/agencies/why-im-wary-of-a-publicis-owned-liverampand-your-cmo-should-be-too/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/Copy-of-Copy-of-TEMPLATE-Link-Thumbnail-23.jpg?w=600&h=315&crop=1",
+      "contentAngle": "AI Search Readiness: whoever owns the intelligence layer owns the outcome — a piece on why brands must own their data and their AI-visibility footprint rather than renting both from agencies."
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Can too much attribution make marketing worse?",
+      "summary": "Brandweek panelists argue that over-indexing on lead-generation attribution distorts strategy and treats the lead as a finish line rather than the start of the relationship.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/brandweek-2026-can-too-much-attribution-make-marketing-worse-ft-amanda-teder/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/marketing-vanguard-generac-amanda-teder.png?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "US formally charges Canadian man in alleged hack of university supercomputers",
+      "summary": "An update to the accusations surfaced earlier this week: US prosecutors have now laid charges in the crypto-mining breach of Western New York university computing systems, moving the case from allegation to formal indictment.",
+      "source": "Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdUwwOTJUV2NRZHVSY0tvdFY1dk5EVW5nUzE3cER1a0gwOVFFeDRGeGdUcUZna3l1MnNVa1BUWU5UVndUdzBNbFZiSWhqOGlkYW16VmIyS25VUnpNazVWaktCcThsZ2lSODhQd2Y2X1V3YkVwWEd4WEVrZG9obEUwMkZkRnljcTR1bk9sdTZVTUNTdVBaWlZXdkpwblhnX3VWeXNhclpqY3ZOMkFIWjNGM0FCcndkcEtjTkM0endB0gHDAUFVX3lxTE5wNVdvVW1EVkMzUXlpYlNGT2NxTkR4RkhZYjcwazNlYTg1ZXZOcGdkLVpHdU1Kc2lRRnVFRG1NdEk2ZWNRRDBCajR6b2xHWURMbUV0TllYQUtEdHVqQXpXa1hxWUZXSW9wN0thdDJBZGdaUGJEVjVXME9aVklZNmJESG5HaFNFQmVmcWtIdWdiZUQxSEVOcWRabkt5eVAyd3U0XzU0SS11ZzFVN1ZrNDA1OXNrMnlNV3Vib1UwdG9meExERQ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "Brock University accused of joining anti-protest network targeting pro-Palestine students",
+      "summary": "The Brock Press reports the university is alleged to have joined a coordinated network aimed at suppressing pro-Palestinian student demonstrations across Canadian campuses, raising governance and reputational questions.",
+      "source": "The Brock Press",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVkt2ZGpEaFpFcXQzQzNucHNTX3JUOTJjRDg3ZTViaDlFU2l3bnoxNmwwS1h3VE5naU1NRXJUZDN3bEZaMmdOVUpNQXJ5R3pORlpVZHhjYjFMZWxpWUJHOUhVT0NPdzJQaGx3UVZudUxNVWQ4S21hTG9TV2JPQ21JVjV0TDU2eUJkbllqTlFzQUtLMG41OUlSUTI4dDl6NGs0QjRqRlZzY1YwS3Rqck82TW9sOTI4QzZ1VUpmWWFaNXdvekxnVHB0UkplYmpZZS1TOFcyNzgwVm82a0J5WFhEVkdwbVJ0UQ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-2",
+      "category": "Higher Ed",
+      "headline": "Canada denies study permit to Afghan teen despite full scholarship",
+      "summary": "Radio-Canada reports IRCC refused a study permit to an Afghan teenager who had secured a full scholarship, a case highlighting continued friction and inconsistency in Canada's study-permit decisions.",
+      "source": "The Kabul Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NdWdDY0tBb2JrZmFBUDRfNzhNR0ZoV1ZHSUUycTFCWlFwUDZqRHRRb3ZjbjRhaWp1enIzV1NGbDZCTXNaMjhkR0k4UERPZVE?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "VantageScore 4.0 could expand the buyer pool — but supply is the bottleneck",
+      "summary": "With GSE lenders now broadly able to use VantageScore 4.0, more borrowers could qualify for mortgages, but the analysis argues credit-model changes mean little without new housing supply — a dynamic equally true in Western Canada.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/vantagescore-4-housing-supply/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Featured-image-vantagescore-4-housing-supply.png"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Kamloops expects densification to continue even if province scraps housing laws",
+      "summary": "City officials say Kamloops will keep densifying regardless of the new BC Conservative government's plan to roll back provincial housing legislation, signalling local momentum may outlast provincial policy swings.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmluaG1EZk50VjNZNVk3eGFVZkdlcEd0bURMY1c3VGM3X3labzlYQVdabk9RdjlGQ0dkbUZ5eGJYMGVFWWRNdHctSEdnRGh0M19uRzkzek1tRTZseUtVemQ1SjRTazBwUy1JYmExWWF6Zy1DVy1QNXBKaXdETmd2MDBENnVMOFAyQWcwSXpka0h4RzlzTVRuTVpiOGxscml4RnJ0a0VlVnRBeklkblFOM1p3Y3Y0MXV4RVphU0Vfc3Y4alJqWWo3ZU5RajZoVU41cldjUF9B?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Kamloops MLAs doubt Ajax mine will resurface under new BC Conservative government",
+      "summary": "Local MLAs say the contested Ajax mine project is unlikely to return despite the change in provincial government, offering some certainty on a long-running Kamloops land-use fight.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMm91dG9XaUVraFRzeUc2SzY0dnVvOExfWTNhY2xlQ2tWMkhIdzUwN3l2UnctZFdTS0d2czBBZ3k3QkhmdzhadDg1aUZ2V2JQMEp1d2kydDl1MlZaVlpCaGNDcmd4aHl5T3FyYzJXODRGcEU0b2p3MFRQWTJXaTVoNmh3Mmo1bUxlZWFQaXVxa2ZIbXNvTVFrd21EQVFrb2tiem8wOEdlUXNsT2h5MUFrT3h6NmRjWTAyNzZlZGtqOTkxU0hHVzVzVDhiOA?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-2",
+      "category": "Local News",
+      "headline": "Kamloops mayor outlines hurdles to preserving the Stuart Wood building",
+      "summary": "After a community rally, the mayor detailed the financial and structural obstacles to saving the historic Stuart Wood school, calling it \"not just a building.\"",
+      "source": "CFJC Today Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM1FrSklyUlRucS1wY0U1Q0pKN19Pc284dy14Z2dSclJkSjRSMTRLUnkxbE9yY1N2ZXc0Rk9pemdMcVR6a0xoSWJ6NkI0WFExWDBsVXpjZ1FwcjlNOXRBTDAtWlJkVmpKSmxSODNndFkyclRWeUNTZmkwU3JoLWhyWW9YY3Z1ZkhRNXBiYVpzWm9lQno3bHFzb0p4STJXcDI0d0tMR3ZLcWJlRWRoZFVsMUNjUFNVMEVUT00tNG5keHdhZmxtZ0Q4bm9YV0xqZEcydVMxRVFlaHVRT0k?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Liberals table Budget 2026 today",
+      "summary": "Ottawa frames today's federal budget as its next step toward fixing long-standing economic problems; the measures will shape housing, immigration and post-secondary funding environments across Canada.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/05/heres-what-you-need-to-know-as-the-liberals-prepare-to-table-budget-2026/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fbb3a2f4e-024e-4989-a589-1d729626e051%2Fd654b777d474fbd1e086f5b4416f7d123116df547e951c34df9f86b5a112759a.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "How the US midterm results could affect Canada",
+      "summary": "With Democrats taking both chambers of Congress, analysts weigh the cross-border implications for trade, policy and Canada-US relations heading into 2028.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/05/heres-how-the-u-s-midterm-election-results-could-affect-canada/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F2b59ab12-51c3-4671-ae8c-6456f768c905%2Fe24d9efaee5f71afe240453a37b22a11b3b511d12050c4bfeb7e351cb761a719.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Canadian astronaut Joshua Kutryk set for second spacewalk",
+      "summary": "Kutryk ventures outside the International Space Station today for his second spacewalk in two weeks — a notable moment for Canada's space program.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/05/canadian-astronaut-joshua-kutryk-set-to-carry-out-second-spacewalk/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F7f06c191-8c3d-40be-96d3-ab7439e7ee85%2F49b2b32c9a08e554eb4257dd69834c75f725e6c49b0a1738337e74779cae87c0.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:37",
+      "startSeconds": 12
+    },
+    {
+      "id": "c2",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:51",
+      "startSeconds": 229
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:05",
+      "startSeconds": 340
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "0:52",
+      "startSeconds": 465
+    },
+    {
+      "id": "c5",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:43",
+      "startSeconds": 517
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:27",
+      "startSeconds": 620
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:28",
+      "startSeconds": 707
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "As more doctors consult chatbots, health systems must block them or buy in",
+    "summary": "Hundreds of thousands of physicians are quietly using AI chatbots for care decisions, creating HIPAA and data-governance exposure that is forcing health systems to either formally sanction tools or ban them.",
+    "source": "STAT News",
+    "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/?utm_campaign=rss",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_305233727-645x645.jpeg",
+    "contentAngle": "Public-institution AI governance: shadow AI use by frontline staff — the FIPPA/data-residency audit checklist angle, applied to any public institution, not just hospitals."
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Tech giants turn to cash and concessions to rebrand AI after voters pummel data centres 43-1",
+    "summary": "Facing ballot measures that overwhelmingly restricted data-centre construction, the AI industry is renaming facilities \"compute campuses\" and offering communities dividends, school funding and environmental concessions to defuse a hostile electorate.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/eT9ewC0H7jLnbz35juRlB85TVyE=/320x320/smart/2021/06/03/175435-1622742875055.jpg",
+    "contentAngle": "Public-institution AI governance: the social-licence collapse around AI infrastructure is the same trust gap institutions face deploying AI — a post on earning permission before scaling."
+  },
+  "heroImageUrl": "https://images.axios.com/eT9ewC0H7jLnbz35juRlB85TVyE=/320x320/smart/2021/06/03/175435-1622742875055.jpg"
+}

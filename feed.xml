@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:46:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:36:44 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, November 4, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-04.html</link>
-      <description>The dominant thread today is the U.S. midterm aftermath — Democrats taking both chambers, a historic wave, and the inevitable pivot from campaign noise to affordability and oversight. That matters to you less as politics than as the macro weather every client of yours operates un...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-04.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-04.mp3" length="14005248" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, November 5, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-05.html</link>
+      <description>Two threads dominate today, and both land squarely in your practice. First, the AI backlash is maturing from voter sentiment into a governance problem: data centre ballot defeats are forcing tech giants to rebrand and buy goodwill, while health systems wrestle with doctors quietl...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-05.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-05.mp3" length="12391680" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
