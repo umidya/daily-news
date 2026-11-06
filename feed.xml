@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:36:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:36:16 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, November 5, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-05.html</link>
-      <description>Two threads dominate today, and both land squarely in your practice. First, the AI backlash is maturing from voter sentiment into a governance problem: data centre ballot defeats are forcing tech giants to rebrand and buy goodwill, while health systems wrestle with doctors quietl...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-05.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-05.mp3" length="12391680" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, November 6, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-06.html</link>
+      <description>Today's signal is federal: Budget 2026 landed with only a modest line for post-secondary, and IRCC is about to brief media on immigration levels — two moves that together set the operating conditions for every enrolment office you advise through 2027. When research funding tilts ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-06.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-06.mp3" length="11562240" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
