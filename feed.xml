@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 06 Nov 2026 11:36:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 11:36:22 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, November 6, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-06.html</link>
-      <description>Today's signal is federal: Budget 2026 landed with only a modest line for post-secondary, and IRCC is about to brief media on immigration levels — two moves that together set the operating conditions for every enrolment office you advise through 2027. When research funding tilts ...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-06.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-06.mp3" length="11562240" type="audio/mpeg"/>
-      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, November 7, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-07.html</link>
+      <description>Today's centre of gravity is the international-student file, and it lands squarely in your higher-ed lane. Ottawa quietly extending the 150,000 arrivals cap to 2029 isn't a headline about expansion — it's a signal that the Canadian pipeline stays flat while competitors reshape th...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-07.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-07.mp3" length="12270336" type="audio/mpeg"/>
+      <pubDate>Sat, 07 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
