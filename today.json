@@ -1,125 +1,91 @@
 {
   "schemaVersion": 2,
-  "date": "Saturday, November 7, 2026",
-  "dateIso": "2026-11-07",
+  "date": "Sunday, November 8, 2026",
+  "dateIso": "2026-11-08",
   "greeting": "Good morning, Midya",
-  "totalDuration": "12:46",
+  "totalDuration": "12:21",
   "currentTime": "0:00",
   "remaining": "12 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today's centre of gravity is the international-student file, and it lands squarely in your higher-ed lane. Ottawa quietly extending the 150,000 arrivals cap to 2029 isn't a headline about expansion — it's a signal that the Canadian pipeline stays flat while competitors reshape the board, with South Korea moving toward free tuition and the Philippines building transnational-education partnerships. For your enrollment clients, flat caps make conversion efficiency the whole game, which is precisely where AI-driven SEM and search-readiness earn their keep.",
-  "digestReadingTime": "6 min read",
-  "whyItMatters": "Today's centre of gravity is the international-student file, and it lands squarely in your higher-ed lane. Ottawa quietly extending the 150,000 arrivals cap to 2029 isn't a headline about expansion — it's a signal that the Canadian pipeline stays flat while competitors reshape the board, with South Korea moving toward free tuition and the Philippines building transnational-education partnerships. For your enrollment clients, flat caps make conversion efficiency the whole game, which is precisely where AI-driven SEM and search-readiness earn their keep. On the AI side, OpenAI raising at a $1.25-trillion valuation and the Crusoe-to-Google data-centre sale reinforce how much concentration risk sits under every generative-search strategy you advise on. And on the home front, the economy and real-estate sentiment keep softening — AGNT is already warning of a 'difficult' 2027 — so the brokerage-side conversations should be about productivity and positioning, not volume.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-07.mp3",
-  "audioDurationSeconds": 766,
-  "audioScript": "Good morning, Midya. It's Saturday, November seventh, twenty twenty-six. Lighter cycle today, so I'm going to go deeper on the few things that genuinely matter rather than wide on noise — and the thread worth pulling first runs straight through your higher-ed lane.\n\nLet's start with international education, because there's a quiet but consequential policy signal out of Ottawa. The PIE News reports that Canada will extend its target of one hundred and fifty thousand new international student arrivals annually all the way through twenty twenty-nine. Read that carefully, because the word that matters is extend. This is not a restoration of pre-cut volumes. It's a decision to keep the pipeline flat — the same cap, locked in, for years. After the turbulence of the last two cycles — the study-permit caps, the PGWP changes, the attestation-letter chaos — the sector has been waiting to see whether Ottawa would loosen the valve. The answer, at least on paper, is no. The number holds.\n\nHere is why that changes the conversation for the institutions you work with. When the top of the funnel is capped by government policy, you cannot grow your way out of a recruitment problem by simply spending more to attract more applicants. The total addressable market is, functionally, fixed by regulation. That means the entire competitive advantage shifts downstream — to conversion. Which applicants do you attract, how efficiently do you move them from inquiry to application to deposit to enrolled, and how do you win the ones who are also looking at three other schools. This is precisely the terrain where AI-driven enrollment marketing earns its budget. In a flat-cap environment, an enrollment office that improves its conversion rate by even a few points is effectively stealing market share from the institution down the road, because neither of them can simply conjure more students. If I'm building your thought-leadership pipeline, this is a post worth writing: the Canadian cap didn't just shrink the market, it changed the discipline. The winners for the next three years won't be the biggest spenders on reach — they'll be the sharpest operators on conversion, and AI in the funnel is how you get sharp. That's the enrollment SEM and funnel-optimization argument, and the policy just gave you the setup.\n\nNow widen the lens, because two stories on the same morning show the board shifting around Canada while our cap stays frozen. The first is from South Korea, where the government is planning full tuition support for new Korean students at thirty national universities outside the Seoul metropolitan area starting in twenty twenty-seven. On the surface that's a domestic affordability policy. But think about the second-order effect. A meaningful slice of outbound mobility is driven by students who leave because studying at home is expensive or the regional options feel second-tier. If Korea makes its regional national universities free and invests in their prestige, it keeps more of its own students home — and it changes the calculus for recruiters who've long treated Korea as a reliable source market. Source countries are not static. They make policy too, and their policy reshapes your demand.\n\nThe third piece is a U.S. opinion column arguing, bluntly, that driving away international students weakens the American economy. On its own it's commentary. But in the aggregate it matters to you, because every month the United States spends making itself less welcoming to international talent is a month Canada can use to differentiate — even with a capped intake. The pitch isn't 'come to Canada because we have unlimited spots.' We don't. The pitch is stability, pathway clarity, and a welcome that isn't being relitigated every election cycle. For your clients, the messaging opportunity is to lean into predictability as the product. When the competition is chaotic and you're merely flat, flat starts to look like a feature.\n\nMoving to AI, where two stories this week are really about the physical and financial scaffolding underneath everything you advise on. The headline number: OpenAI is reportedly raising another eleven billion dollars, in a round that values the company at one and a quarter trillion dollars. Let that figure sit for a second. A trillion-and-a-quarter valuation for a company whose core product most of your clients were barely aware of three years ago. The money is interesting, but the strategic signal is more interesting. This is concentration. An enormous share of the generative-answer layer — the place where people increasingly go instead of a traditional search results page — is consolidating around a very small number of platforms, and OpenAI is cementing its spot at the centre.\n\nFor your AI Search Readiness work, this is the whole argument in one data point. When you tell a university or a brokerage that they need to understand how they show up inside ChatGPT, inside Google's AI Mode, inside Perplexity — the instinct from a cautious client is 'isn't this a fad, shouldn't we wait.' A trillion-dollar raise is the counterargument. The infrastructure is being capitalized at a scale that says this answer layer is permanent. But — and this is the nuance that makes you useful rather than just hype-adjacent — concentration is also a risk. If one platform owns this much of how answers get generated, then a brand that optimizes only for that platform has put all its visibility eggs in one basket it does not control. The right advisory posture is not 'optimize for OpenAI.' It's 'build a diversified presence across the answer engines, because the platform that dominates today can change its retrieval behaviour, its citation logic, or its commercial terms tomorrow, and you want to survive that.' That's the content angle I'd put your name on: concentration risk in the answer layer, and why search readiness is a portfolio discipline, not a single-platform play.\n\nThe second AI story grounds all of this in concrete and copper. Crusoe has sold a troubled Wyoming data-centre project to Google. The deal matters less for who bought what and more for the word troubled. Building the massive data centres that power these models is turning out to be genuinely hard — power constraints, local political resistance, cost overruns, projects that stall and get offloaded. You'll remember the thread from earlier this week about voters revolting against data centres at the polls. This Crusoe sale is the same story from the supply side: even the builders are hitting walls. Why does that reach your clients? Because the economics of AI tooling — the subscription prices, the API costs baked into the martech and CRM platforms your clients use — ultimately rest on this buildout. When the buildout gets harder and more expensive, that cost pressure flows downstream eventually. It's worth keeping in your peripheral vision when a client asks you to forecast what their AI stack will cost in two years. The honest answer is: the inputs are volatile, so build flexibility in.\n\nOn the marketing and brand front, two items worth your attention, both about how leaders are organizing for the next phase. First, Lululemon has named new brand and strategy chiefs in what's being described as its latest executive shakeup. For a Canadian brand of that stature, leadership churn at the top of marketing is a tell. It usually means the board believes the brand narrative needs resetting — that the thing that got them here won't get them to the next level. Watch what the new chiefs prioritize in their first ninety days, because Lululemon is a useful bellwether for premium-brand positioning, and the moves a company makes when it's trying to reignite momentum are instructive for any marketing practice advising clients through a plateau.\n\nSecond, a nicely concrete case study from Marketing Dive on Lands' End. Their new CMO, Sarah Sylvester, who stepped in back in March, walks through how a seasonal holiday pop-up — a Holiday Tree Farm experience — isn't just a cute campaign. It's engineered to feed an always-on marketing strategy: capturing data, building engagement, and giving the brand reasons to stay in contact with customers long after the ornaments come down. I flag this one because it's the opposite of the shiny-object trap. It's a disciplined example of experiential tactics serving a durable strategic objective — the kind of thinking that translates directly to how you'd advise a client to make a one-off activation earn its keep year-round. The lesson isn't 'do a pop-up.' It's 'every tactic should feed a system.'\n\nNow to real estate, where the signal remains soft and sober. The brokerage platform AGNT reported six percent revenue growth in the third quarter but — and this is the part that matters — explicitly warned of a difficult market heading into twenty twenty-seven. When a company posts growth and still tells you to brace, believe the warning. For the brokerage side of your practice, and for the conversations happening in your husband's world across Edmonton and Vancouver, the through-line is consistent with everything we've tracked recently: this is not a volume market, and pretending otherwise wastes everyone's time. The advisory value right now is in agent productivity and positioning — helping brokerages do more with the transactions that are actually happening, rather than chasing a volume rebound that the industry itself keeps telling us isn't coming next year. This is exactly where AI in brokerage operations has a real, unglamorous return: lead triage, follow-up automation, listing content, freeing agents to do the human work that closes deals in a slow market.\n\nOne more B.C. item in this lane. Vaughn Palmer has a column warning that the B.C. Conservatives' promise to switch the Massey crossing back to a bridge — from the tunnel that's already wildly over budget — could cost even more, and they've floated it with no updated cost estimate. For you this is a Lower Mainland infrastructure watch-item. Major crossing decisions ripple into land values, development timelines, and commuter corridors on both sides of the river, and with property interests in Langley and Vancouver, the long-run story of how that corridor gets built is worth tracking even while the politics churn.\n\nClose to home now. A genuinely good-news local item: the TRU WolfPack women's soccer team secured Canada West silver — the first conference medal in the program's history. They fell to UBC in the final, but the milestone is the story. For a university that's a cornerstone of the Kamloops community and a fixture in your local higher-ed landscape, a first-ever conference medal is the kind of institutional moment that builds brand and alumni pride, and it's worth a nod.\n\nOn the public-safety side, Castanet reports a Kamloops man convicted of stalking avoided house arrest but was ordered to disclose the conviction to any future romantic partners — an unusual sentencing condition that's drawing attention locally. Nothing that requires action from you, but it's the kind of community item worth being aware of.\n\nFinally, a national story with a global dimension. Canada's aid sector is publicly dismayed that Budget twenty twenty-six — the first federal budget in more than fifteen years — makes no mention of foreign aid at all. Whatever your view on aid policy, the absence itself is the signal: it tells you where this government's priorities are pointed, and it's consistent with a broader inward turn on spending. For a senior leader reading the macro environment, budgets are strategy documents written in dollars, and what gets left out often says as much as what gets funded. File it as context for the fiscal mood heading into twenty twenty-seven.\n\nThat's your Saturday, Midya. If one thing earns a slot in your weekend thinking, make it the Canadian cap extension — because it quietly rewrites the enrollment game from a volume contest into a conversion contest, and that is your lane to own in writing before the sector catches up. The AI concentration story is the natural companion piece: a trillion-dollar answer layer that demands a diversified readiness strategy, not a single-platform bet. Keep the real-estate posture sober and productivity-focused, and enjoy the quieter pace of the weekend. I'll be back Monday.",
+  "digestIntro": "Today is a quiet-cycle Sunday, which is exactly when the sharpest thought-leadership material hides in plain sight. The through-line worth your attention is AI skepticism going mainstream: a STAT dispatch from the American Heart Association meeting uses failed drug trials to puncture AI-will-accelerate-everything hype, and the post-midterm data-centre backlash is hardening into real political risk. Both feed your core thesis — that disciplined, governance-first AI adoption beats hype — and both are publishable the moment you add your enrollment and brokerage lens.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Today is a quiet-cycle Sunday, which is exactly when the sharpest thought-leadership material hides in plain sight. The through-line worth your attention is AI skepticism going mainstream: a STAT dispatch from the American Heart Association meeting uses failed drug trials to puncture AI-will-accelerate-everything hype, and the post-midterm data-centre backlash is hardening into real political risk. Both feed your core thesis — that disciplined, governance-first AI adoption beats hype — and both are publishable the moment you add your enrollment and brokerage lens. On the market side, McGill topping the Maclean's 2027 rankings and the Erasmus-access debate are enrollment-strategy signals, while softening mortgage rates give the real-estate lane a steadier footing heading into year-end. Keep one eye on the human stuff too: the funeral for the BC soldier killed at CFB Wainwright is a provincial moment your family will feel.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-08.mp3",
+  "audioDurationSeconds": 741,
+  "audioScript": "Good morning, Midya. It's Sunday, November eighth, twenty twenty-six. It's a quiet news Sunday, which is exactly the kind of day where the best thought-leadership material tends to hide — so let's dig into it with depth rather than breadth.\n\nLet's start with AI, because today's lead story is a gift for your content pipeline. STAT News published a dispatch from the American Heart Association's big annual meeting, and the framing is this: a whole run of hot new cardiovascular drugs just failed in trials, and the author uses that to make a broader point — the technology that was supposed to accelerate drug discovery keeps falling flat. The specific lesson travels well beyond medicine. The promise of AI, in pharma and in every other industry, is speed: it'll compress the hard, slow part of the work. And over and over, what we're learning is that AI is genuinely good at the easy parts and still stumbles on the hard parts — the messy data, the edge cases, the judgment calls. That is your thesis, Midya. That's the argument you've been making to enrollment offices and to brokerages: don't buy the miracle, buy the process and the governance. I'd flag this one as prime commentary fuel. There's a clean post here — something like 'AI won't do the hard part for you' — where you take the pharma example and land it on marketing and higher-ed enrollment. The teams that win with AI aren't the ones that bought the fastest tool; they're the ones who were disciplined about where AI actually helps and honest about where it doesn't. That's a contrarian, credible position in a market that's drowning in hype, and it's exactly the kind of take that builds authority rather than just adding noise.\n\nThe second AI story is an update on a thread we've been tracking all week — the data-centre backlash. TechCrunch looked at where things stand after the midterms, and the picture for Elon Musk and for the broader AI buildout is getting rockier. Remember, earlier this week we talked about voters pummeling data-centre projects at the ballot box, forty-three to one, and about big tech turning to cash and concessions to rehabilitate the image of these facilities. This is the next chapter: the political cost of hosting AI infrastructure is now a live liability. Local opposition, anger over electricity rates, communities deciding they don't want a windowless warehouse of servers next door. Why does this matter to your work? Because it feeds directly into the public-institution governance lane. When you advise a BC public body — a university, a Crown entity — on AI adoption, the conversation isn't just about FIPPA and data residency anymore. It's increasingly about social licence: the energy footprint, the environmental optics, the question of whether the public will tolerate the infrastructure behind the tools. There's a governance-checklist angle here worth developing — treating AI's physical and energy footprint as a governance question, not a footnote. That's a more sophisticated posture than most vendors are bringing to the table, and it's a differentiator for how you position your advisory.\n\nOn the marketing and brand side, two stories that are really about the same underlying lesson — how to build with audiences versus how to build at them. The first is Dr. Oetker, which has launched a crowd-sourced Ristorante pizza campaign that hands creative control to Gen Z. Instead of a polished, brand-led spot, they're inviting the audience to co-create the content. This is the participatory-marketing playbook, and it's worth watching because it maps directly onto higher-ed recruitment. The institutions winning with Gen Z prospects aren't the ones with the glossiest viewbook — they're the ones letting current students generate authentic content, the ones treating the audience as collaborators rather than targets. If you're advising an enrollment team, the Dr. Oetker case is a useful, out-of-category example to point at: here's a consumer brand betting real budget that co-creation beats polish.\n\nThe counterpoint, and the cautionary tale, is Labubu. Pop Mart, the company behind the fluffy-monster collectibles that were everywhere a year ago, just reported falling revenue as the mania cools. It's a textbook reminder of how fast fad-driven brand momentum reverses. For any brand — and for any consultant advising on brand strategy — the Labubu arc is a warning against mistaking a spike for a system. Virality feels like a strategy when it's working and looks like a liability the moment it stops. The durable brands build equity that survives the trend cycle. Worth keeping in your back pocket as a reference point whenever a client gets seduced by a one-hit viral moment.\n\nNow to higher education, where two stories deserve your attention. First, the Maclean's twenty twenty-seven university rankings are out, and McGill tops the list. I know the ranking-season ritual can feel like inside baseball, but these rankings shape prospective-student perception in a very concrete way — especially for international families making decisions from abroad, where the Maclean's name carries weight as a proxy for quality. For any institution you advise, the rankings are a competitive benchmark and a brand-positioning event. The schools that rose will be loud about it; the ones that slipped need a narrative. The strategic question is always the same: how do you compete on the dimensions that actually matter to your target students when a single composite number is doing so much of the perception heavy-lifting?\n\nThe second higher-ed story is more structural and genuinely interesting: CBC asks what it would take for Canada to join Erasmus+, Europe's flagship student-exchange program. This matters because student mobility is strategy. If Canada gained Erasmus access, it would reshape both outbound opportunities for Canadian students and inbound recruitment positioning against European competitors. Against the backdrop of the capped international-student environment we've been covering — the hundred-and-fifty-thousand arrivals target now stretched to twenty twenty-nine — anything that opens a new, structured channel for mobility is worth watching closely. For enrollment strategists, Erasmus access would be a new lever; for now it's a signal of where Canada's international-education policy conversation is heading.\n\nOn to real estate. The headline worth your husband's brokerage lens comes from HousingWire: mortgage rates fell and demand steadied this week while inventory dipped. The honest question the piece raises is whether this is a genuine turn or just seasonal softening — buyers and sellers both go quiet heading into the holidays, so a stabilization in November can be a mirage. I'd read it as the latter until proven otherwise, but the direction of rates is the thing to keep watching into the new year. Lower rates plus thin inventory is the recipe for price support, which matters for how brokerages counsel sellers who've been waiting.\n\nThe second real-estate item is Canadian and consumer-facing: Ottawa is floating a ban on bank transfer fees. It's a small thing on the surface, but transaction costs touch every deal — every down payment moved, every deposit transferred. It's the kind of friction-reduction policy that doesn't make headlines but quietly improves the client experience at the margins. Worth being aware of if clients ask.\n\nClose to home now. Kamloops city council is bringing public input back onto its meeting agenda after it was suspended last term. That's a real governance shift — restoring a formal channel for residents to address council is the kind of civic-engagement decision that sets the tone for the whole term. If you're tracking how the new council intends to operate, this is an early and telling signal that they want to be seen as more open than their predecessors.\n\nAnd a genuinely fun local moment: the TRU WolfPack completed a sweep of the number-two-ranked UBC Thunderbirds this weekend, snapping UBC's twenty-four-game home winning streak and making program history. We've been tracking the WolfPack's strong run — the silver in Canada West, the penalty-kick heroics — and this is the biggest result yet. For Thompson Rivers, moments like this do real work for the institution's profile and student pride, which, not incidentally, is exactly the kind of organic, authentic brand content that recruitment teams dream about. A good weekend for Kamloops.\n\nInternationally, three things to have on your radar. First, a significant political development in Israel: President Herzog has tasked opposition leader Gadi Eisenkot with forming a government, which puts Netanyahu the closest he's been to losing power since twenty twenty-one. Eisenkot has twenty-eight days, and deep coalition divisions could still prevent a government from forming — so this isn't settled — but it's a meaningful potential inflection point in a region whose stability ripples through global markets and energy.\n\nSecond, a striking story at the intersection of AI and geopolitics: a US intelligence memo reportedly claims China's Ministry of State Security recruited a technology executive to spy on Nvidia's CEO. Whatever the specifics, the takeaway is that the AI-chip supply chain is now genuine front-line geopolitics — corporate espionage, state actors, the works. For anyone thinking seriously about AI governance, it's a reminder that the stakes around who controls the compute are nation-state level.\n\nAnd third, a regulatory signal from the UK: the government says it's looking seriously at banning under-sixteens from resale platforms like Vinted and eBay, as part of a wider platform-age-restriction push coming next March. I flag it because the age-verification and platform-regulation wave is accelerating across jurisdictions, and it has downstream implications for how brands and institutions market to younger audiences on digital platforms. The compliance terrain under your campaigns keeps shifting.\n\nFor longevity, two items, both from STAT's coverage of the American Heart Association meeting, both solidly within the allowlist. The first is on blood pressure — the so-called silent killer — and the finding that lowering it is considerably trickier in two groups: people who've had a stroke, and people with diabetes. New studies are refining how aggressively to treat in those populations, where pushing pressure down too hard can create its own risks. It's a nuance worth knowing if blood pressure is on the radar for anyone in your family: the right target isn't one-size-fits-all.\n\nThe second is a notable negative result. Novo Nordisk's anti-inflammatory heart drug, ziltivekimab, failed its big ZEUS trial. But the interesting part is the cardiologists' response — they're not abandoning the inflammation theory of cardiovascular disease. Their read is that a single drug failing doesn't invalidate the underlying biology; inflammation still matters, they just need better ways to target it. That's a healthy scientific posture, and honestly it rhymes with the AI story we opened on: one failure isn't a verdict on the whole approach, but it should make you skeptical of anyone selling certainty.\n\nFinally, one somber item that belongs in your awareness as a British Columbian. The funeral is being held today in Vancouver for one of the four Canadian soldiers killed in that fire at CFB Wainwright in Alberta. It's a provincial moment of mourning, and worth a pause amid the weekend's lighter news.\n\nThat's your Sunday briefing, Midya. If you do one thing with today, pull on the AI-skepticism thread — the STAT piece on failed drug trials and the data-centre backlash are two sides of the same coin, and together they make a sharp, defensible argument that disciplined adoption beats hype. That's your voice, and a quiet Sunday is a fine day to draft it. Everything else can wait for the week. Take the morning slow, and I'll see you tomorrow.",
   "topStories": [
-    {
-      "id": "story-intl_students_canada-0",
-      "category": "Higher Ed",
-      "headline": "Canada extends 150,000 international student arrivals target to 2029",
-      "summary": "Ottawa will hold its annual cap at 150,000 new international student arrivals through 2029, keeping the pipeline flat rather than restoring pre-cut volumes.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/iStock-123821034.jpg",
-      "contentAngle": "AI in higher-ed enrollment: with caps frozen for years, the win shifts from volume to conversion — the case for AI-driven SEM and funnel optimization when you can't buy your way to more applicants."
-    },
-    {
-      "id": "story-intl_students_canada-1",
-      "category": "Higher Ed",
-      "headline": "South Korea's free tuition plan could reshape international student recruitment",
-      "summary": "Seoul plans full tuition support for new Korean students at 30 national universities outside the capital in 2027, a move that could reshape both domestic demand and regional recruitment flows.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/south-koreas-free-tuition-plan-could-reshape-international-student-recruitment/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-09.59.01.jpg"
-    },
-    {
-      "id": "story-intl_students_canada-2",
-      "category": "Higher Ed",
-      "headline": "Opinion: Driving away international students weakens the U.S. economy",
-      "summary": "A U.S. commentary argues that pushing out international students erodes economic competitiveness — a cautionary contrast that strengthens Canada's recruitment pitch even with capped intake.",
-      "source": "CT Insider",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX09Pc0FNdDZFbmFRVjNnU2JlcWwtTnBoMm1hSm93Q0NWQUJueGYxNEV6OGtnSFVuRzhUd19ZSE5Id3ZDbGV6MDhhZk9IeDY2V0xyeDFWcUpqbmszSldJY3pDVEFNVFJqUGJ6MFF0SnhtM3YxNHlkODlLSVAtWUpubTlOeGxPZWYyYnRLSERDeUhYVnZsOHJPSnRMRVdtdU9yYkdtOHpn?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    }
-  ],
-  "digestStories": [
-    {
-      "id": "story-intl_students_canada-0",
-      "category": "Higher Ed",
-      "headline": "Canada extends 150,000 international student arrivals target to 2029",
-      "summary": "Ottawa will hold its annual cap at 150,000 new international student arrivals through 2029, keeping the pipeline flat rather than restoring pre-cut volumes.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/iStock-123821034.jpg",
-      "contentAngle": "AI in higher-ed enrollment: with caps frozen for years, the win shifts from volume to conversion — the case for AI-driven SEM and funnel optimization when you can't buy your way to more applicants."
-    },
-    {
-      "id": "story-intl_students_canada-1",
-      "category": "Higher Ed",
-      "headline": "South Korea's free tuition plan could reshape international student recruitment",
-      "summary": "Seoul plans full tuition support for new Korean students at 30 national universities outside the capital in 2027, a move that could reshape both domestic demand and regional recruitment flows.",
-      "source": "The PIE News",
-      "url": "https://thepienews.com/south-koreas-free-tuition-plan-could-reshape-international-student-recruitment/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-09.59.01.jpg"
-    },
-    {
-      "id": "story-intl_students_canada-2",
-      "category": "Higher Ed",
-      "headline": "Opinion: Driving away international students weakens the U.S. economy",
-      "summary": "A U.S. commentary argues that pushing out international students erodes economic competitiveness — a cautionary contrast that strengthens Canada's recruitment pitch even with capped intake.",
-      "source": "CT Insider",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX09Pc0FNdDZFbmFRVjNnU2JlcWwtTnBoMm1hSm93Q0NWQUJueGYxNEV6OGtnSFVuRzhUd19ZSE5Id3ZDbGV6MDhhZk9IeDY2V0xyeDFWcUpqbmszSldJY3pDVEFNVFJqUGJ6MFF0SnhtM3YxNHlkODlLSVAtWUpubTlOeGxPZWYyYnRLSERDeUhYVnZsOHJPSnRMRVdtdU9yYkdtOHpn?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    },
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "OpenAI reportedly raises another $11B at a $1.25-trillion valuation",
-      "summary": "OpenAI is closing an additional $11 billion round at a $1.25-trillion valuation, cementing its dominance over the generative-search and assistant layer that brands increasingly depend on.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "headline": "Why the latest heart drug failures should make us all more skeptical of AI hype",
+      "summary": "A string of failed cardiovascular drug trials at the American Heart Association meeting becomes a cautionary tale: the technology that was supposed to accelerate discovery keeps falling flat, a reminder that AI's promised speed-ups rarely survive contact with messy real-world data.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-      "contentAngle": "AI Search Readiness: concentration risk — when one platform owns this much of the answer layer, brands need a diversified visibility strategy across ChatGPT, Google AI Mode and Perplexity, not a bet on one."
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_182456094-645x645.jpeg",
+      "contentAngle": "AI in marketing/higher-ed: the contrarian 'AI won't do the hard part for you' take — why enrollment and brokerage teams should buy governance and process, not miracle speed."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Crusoe sells troubled Wyoming data centre project to Google",
-      "summary": "Crusoe offloaded a stalled Wyoming AI data-centre project to Google, underscoring how hard the physical buildout behind the AI boom has become.",
+      "headline": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summary": "An update on the data-centre backlash: post-midterm, the political cost of hosting AI infrastructure is rising, with local opposition and electricity-rate anger now a live liability for the buildout.",
       "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+      "contentAngle": "Public-institution AI governance: the 'social licence' angle — why BC public bodies and the vendors selling to them should treat AI's energy and data footprint as a governance question, not a footnote."
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Lululemon names brand and strategy chiefs in latest executive shakeup",
-      "summary": "Lululemon installed new brand and strategy leaders amid an ongoing executive reshuffle, a notable Canadian-brand marketing-leadership story as the retailer works to reset momentum.",
-      "source": "CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTdfdHViZ0JhVDJQbHFzNnNIX1RDVTdxOWxna3JTSnhBQXVKbGpoVDc4N2tNNXg0Uk0tWllENjFieHlvaFlYRUlCYTR6UE1BeU80d1BJeWhKeEt4Z3g0ZktkNUg2VTlyNHZ1WmlQZTRFSWFockdUZXZPeTNtTHFWbTdhTHoybHJIdlNTWmZ3dy05anVRRlltSE5ONlB3cWtObWxiWWdvSlBzZw?oc=5",
+      "headline": "Dr. Oetker taps Gen Z creativity with crowd-sourced Ristorante pizza campaign",
+      "summary": "Dr. Oetker is handing creative control to Gen Z through a crowd-sourced campaign, a bet that participatory, co-created content outperforms polished brand-led advertising with younger audiences.",
+      "source": "Retail Insider",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmJ3TkxzQThxMDR1cjhraExkU2hITGhJNlVJT2MxcWoyWUtNYTQ2NGt5WWdBMlNNQnNuYTlVaXhWbXZaYXE0RnhLeGxZT1JrOEx3RGZnRjk1SGw0OWtOcGRFQTFzWkY1RGlWZ3g4c2NLNHJTV3M4RE5WdGx6ZUN6dkxPQ1NZdGxoX0ZlOExaY09nYWZqS2NTWjJSSXFZajNlNGp0TS1TY21xcXdCNnV6cnJwdktyV1puakNQZC02b3ItT1JXSnc?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Why the latest heart drug failures should make us all more skeptical of AI hype",
+      "summary": "A string of failed cardiovascular drug trials at the American Heart Association meeting becomes a cautionary tale: the technology that was supposed to accelerate discovery keeps falling flat, a reminder that AI's promised speed-ups rarely survive contact with messy real-world data.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_182456094-645x645.jpeg",
+      "contentAngle": "AI in marketing/higher-ed: the contrarian 'AI won't do the hard part for you' take — why enrollment and brokerage teams should buy governance and process, not miracle speed."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summary": "An update on the data-centre backlash: post-midterm, the political cost of hosting AI infrastructure is rising, with local opposition and electricity-rate anger now a live liability for the buildout.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+      "contentAngle": "Public-institution AI governance: the 'social licence' angle — why BC public bodies and the vendors selling to them should treat AI's energy and data footprint as a governance question, not a footnote."
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Dr. Oetker taps Gen Z creativity with crowd-sourced Ristorante pizza campaign",
+      "summary": "Dr. Oetker is handing creative control to Gen Z through a crowd-sourced campaign, a bet that participatory, co-created content outperforms polished brand-led advertising with younger audiences.",
+      "source": "Retail Insider",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmJ3TkxzQThxMDR1cjhraExkU2hITGhJNlVJT2MxcWoyWUtNYTQ2NGt5WWdBMlNNQnNuYTlVaXhWbXZaYXE0RnhLeGxZT1JrOEx3RGZnRjk1SGw0OWtOcGRFQTFzWkY1RGlWZ3g4c2NLNHJTV3M4RE5WdGx6ZUN6dkxPQ1NZdGxoX0ZlOExaY09nYWZqS2NTWjJSSXFZajNlNGp0TS1TY21xcXdCNnV6cnJwdktyV1puakNQZC02b3ItT1JXSnc?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone"
@@ -127,32 +93,56 @@
     {
       "id": "story-marketing-1",
       "category": "Marketing",
-      "headline": "How Lands' End's holiday pop-up feeds an always-on marketing strategy",
-      "summary": "New CMO Sarah Sylvester explains how a seasonal Holiday Tree Farm experience doubles as a year-round data and engagement engine — a tidy example of experiential tactics feeding always-on strategy.",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/how-lands-ends-holiday-pop-up-feeds-an-always-on-marketing-strategy/873792/",
+      "headline": "Labubu hype fades as Pop Mart revenue falls",
+      "summary": "The fluffy-monster mania that drove Pop Mart's blockbuster growth is cooling, with revenue down as the collectible craze wanes — a textbook reminder of how quickly fad-driven brand momentum reverses.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone"
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "McGill tops Maclean's 2027 university rankings",
+      "summary": "McGill leads the newly released Maclean's 2027 rankings, the annual signal that shapes prospective-student perception and gives enrollment and brand teams fresh competitive benchmarks to react to.",
+      "source": "ImmigCanada",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50bFNweFVTWndBeS1uY2F1NVFPanlNbWhQcENWN2FiZXNqbW9JazlSczBtUHdaSUNjcExacXdrLVV6bkFNNkdhZDFNUzJhdXJodk1YZUdfY0ZPR2U5MUlUUlhGZmItWEV4TDRBb0tWbVh5LTdrd1ItQThB?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "What needs to happen for Canada to join Europe's flagship student exchange program?",
+      "summary": "CBC examines the barriers to Canada joining Erasmus+, a move that would reshape outbound and inbound student mobility and recruitment positioning for Canadian institutions.",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclhHVXpKSXJWUC13U240WXBxOTV5ZDZCTDVaVXhNaEFmUXNDT25NcWppWnFDVDI5T290OERUcmFFUnM4V2NidUY5OU9rLVJpS3h3QWNXUldGcGdPMFdHSUIwdHhldVNCZ1hsUWp2dDlnNzBtZGNlUXY4Sjlud0hVLUNiRjZHUms?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
     },
     {
       "id": "story-canadian_real_estate-0",
       "category": "Real Estate",
-      "headline": "AGNT posts 6% Q3 revenue growth, warns of 'difficult' market into 2027",
-      "summary": "The brokerage platform reported modest revenue growth but flagged a tough market through 2027, reinforcing that brokerage-side conversations should centre on agent productivity, not transaction volume.",
-      "source": "RISMedia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkNEYXp6ZTlaakVmQktKM0pEM1VvS2JIbkNLZnJTYnUyRXBsWjJUdzB3NEU1OXhCUUwxTEVKNk9XRDBsOTBSdGFfZk53czZVNmp0N2dVblp0TzBVWXlIS1BzaGEwVk5uTmFXa2k2SXZ0QVl4S0g5dUQ4ZkNoREpQV0FBNHgwc0J4ano0MzhwZm9BMWoyS0doSlJMcUtiUQ?oc=5",
+      "headline": "Mortgage rates fell and demand steadied as inventory dipped",
+      "summary": "Rates eased and buyer demand stabilized while inventory slipped — the open question is whether this is a genuine shift or just seasonal softening heading into year-end.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/rates-fall-demand-stabilizes/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "house"
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Editorial_HousingWire_h.png"
     },
     {
       "id": "story-canadian_real_estate-1",
       "category": "Real Estate",
-      "headline": "Vaughn Palmer: Massey bridge promise could cost more than the over-budget tunnel",
-      "summary": "B.C. Conservatives have pledged to switch back to a bridge from the Massey tunnel with no updated cost estimate — a fiscal and infrastructure watch-item for Lower Mainland corridors and land values.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bridge-promise-could-cost-even-more-than-wildly-over-budget-tunnel",
+      "headline": "Ottawa's proposed bank transfer fee ban",
+      "summary": "Ottawa is weighing a ban on bank transfer fees, a consumer-finance change that would touch everyday transaction costs for buyers and sellers moving money through deals.",
+      "source": "Money.ca",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14NU8xMXMyYjZPeW9DV3hmcjhnUUUwUGhWZUdVbDMtTUpBbnVSU3gxT0xvOUNtNzNPTGdZTDdJSVA0dG5waFpzWjRsX1cwXzg3U29fdFlnSXJvTzVpMUZza1NnT05MTTNKRGloQ1FrZHFFQ1hFQ2lR?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house"
@@ -160,10 +150,10 @@
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "TRU WolfPack secure first Canada West medal in program history",
-      "summary": "Thompson Rivers University's women's soccer team claimed Canada West silver after falling to UBC in the final — the program's first-ever conference medal.",
-      "source": "Thompson Rivers University",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzREMHpuZ3IxdGowMVBseVVwemN2Y1QwcHEzUHdNYmY2MzN2RzhIeFREYzhwR09nZXJFUC0xNVpUVTVJcmN1VlRKd2ZrT2pHckFVUnZ0NlVVU0tXS0NHOXhZSFY4SUNaY0lCN3cxWEJKX1pObzY1TU1NeVhKUXdvMXRUSVRZZVNRZDZfdjAxWHdqLUJkeUlPMWZ0b3hfbzFCa1Bxa3l2b3NVbWpYTjJ4SjFoNkhRM2RKQkNOcmZxamtoNFlzcmJremkxNHB0b0Z1?oc=5",
+      "headline": "Public input returns to Kamloops city council agenda after being suspended last term",
+      "summary": "Kamloops council is restoring public input to its meeting agenda, reversing a prior-term suspension — a notable governance and civic-engagement shift for the new council.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNG5GNVhwb3NZNzZxYjZlQ0tvSTJ1OGdiWUdDZ2RIV1hBZnh2T0JlM0luV0h3WE0wVm1HUHdqQl9LdjBRRzZ1WU90QlVTemlyd29jTzRrQTZjWU1DcWlBTDJzYWJ6TEhpcTBBTE0yZFhQcVZ3Z1lic1haQWFFVmhFMDRMMHlCaDEwWGJTZDl6Y2V4RmIyR3ozeEwtTFpDcHZrVXEzYWZhczA0NEprX2I4NU9taC1qaEpuSDNuc256VExGRkg4SmlsOXZOV2lmWHNp?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -171,10 +161,10 @@
     {
       "id": "story-kamloops_sun_peaks-1",
       "category": "Local News",
-      "headline": "Kamloops stalker avoids house arrest but must disclose to future partners",
-      "summary": "A Kamloops man convicted of stalking avoided house arrest but was ordered to disclose the conviction to future romantic partners.",
-      "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWDROYWowalBkZ2U0Zm12Vmk0VnpKbzdiN1JaeFFONDhUVm83T1BMTVpLeElrUUpxZWxJQkZLWWxhVFdIMDk2dmhiYmduM0NjS2VCTUpxT0NjRWl6T2xHM2RuUC1OX1ZFV1BLLWZwYWwxcTBqQWZMeDIwRlBVUUNkRDZuZUxucFd0a2cwdVFTc1NyUG1YS1hTYnI2clJFX1V4YWFmVFRsLUZJcWItTkh1SDNGeGtBQ1I0UnBlcmZzM29ubmNpeWQtckt5VU9DRzh4c3c?oc=5",
+      "headline": "WolfPack complete sweep of No. 2 ranked Thunderbirds to make program history",
+      "summary": "TRU's WolfPack upset and swept the No. 2 UBC Thunderbirds, snapping UBC's 24-game home winning streak — a program-defining weekend for Kamloops' university athletics.",
+      "source": "Thompson Rivers University",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSGZLTVJMdnhZUHQxa1dRUTZFN2p0QmhReG9ibXZwOWxNak54Vjc3Zl9VTkF5VC0wUi10cjZfMU5ySkVad29pRlBpeXpOMU1NWkc2VTBtbnFIT0FTWlNJWmREdDR3c0JKWDNyLS1UZGVCU3JybGZ5SHNjUFQyaklxN0NXSFNodEFoVTZ2NzVrNzhvbHZUX1BIVmhqaFBpNWt1QXhBbEpZdXhjWDRlSlp3LXNGRzZDZ3ZCSTJ5Njc3UTFKRmJ6SUtsU0hR?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "mountains"
@@ -182,84 +172,159 @@
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Aid sector calls out total absence of foreign aid in federal budget",
-      "summary": "Canada's aid sector is dismayed that Budget 2026 — the first in over 15 years — makes no mention of foreign aid, signalling a notable shift in federal priorities.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/11/07/aid-sector-calls-out-lack-of-any-mention-of-foreign-aid-in-federal-budget/",
+      "headline": "Netanyahu rival Eisenkot tapped to form Israeli government",
+      "summary": "Israel's president tasked opposition leader Gadi Eisenkot with forming a government, bringing Netanyahu the closest he has been to losing power since 2021, though deep coalition divisions could still block it.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F0e6d80d0-2bcc-4a60-ae9a-b3ffc26b770a%2F16e5adbc203e7ead5e9c30153de5f0a0160a1d888bcb4c7b8bd45ad2cd4469a2.jpg"
+      "imageUrl": "https://images.axios.com/dYpXhuJL1-bHUHhtr0m1bwOvdZs=/1949x0:5824x3875/320x320/2026/11/07/1794081070417.jpeg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Megaspeed exec reportedly recruited to spy on Nvidia CEO, per US intelligence memo",
+      "summary": "A US intelligence memo reportedly claims China's security ministry recruited a tech executive to spy on Nvidia's CEO, underscoring how AI-chip supply chains have become front-line geopolitics.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
+    {
+      "id": "story-global_business_tech-2",
+      "category": "Global",
+      "headline": "UK government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "The UK culture secretary confirmed resale platforms like Vinted and eBay could join a list of sites banned for under-16s next March, part of a widening platform-age regulation wave.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "Lowering blood pressure after stroke or with diabetes poses challenges",
+      "summary": "STAT (from AHA 2026): new research shows managing high blood pressure — the 'silent killer' — is far trickier in stroke survivors and diabetics, with fresh studies refining how aggressively to treat.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2019/02/GettyImages-57319981-645x645.jpg"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "Despite Novo drug's failure, cardiologists say they'll still pursue anti-inflammatories",
+      "summary": "STAT (AHA 2026): Novo Nordisk's ziltivekimab ZEUS trial came back negative, but cardiologists maintain that inflammation remains a real driver of cardiovascular disease worth targeting.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_387040854-645x645.jpeg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Funeral today for B.C. soldier killed in CFB Wainwright fire",
+      "summary": "The funeral for one of four Canadian soldiers killed in a fire at the Alberta military base is held today in Vancouver, a somber provincial moment honouring the fallen.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/08/funeral-today-for-b-c-soldier-killed-in-cfb-wainwright-fire/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fd57c2d3c-01eb-4cc5-89a7-c4fdb99a3e6e%2F8c18ba08c407afedfc85f2ad0658557b32961b1dfcafa5b5714746f6209fcdd0.jpg"
     }
   ],
   "audioChapters": [
     {
       "id": "c1",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "3:49",
-      "startSeconds": 16
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "2:58",
+      "startSeconds": 15
     },
     {
       "id": "c2",
-      "title": "AI & Tech",
-      "category": "AI & Tech",
-      "duration": "3:12",
-      "startSeconds": 245
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:39",
+      "startSeconds": 193
     },
     {
       "id": "c3",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "1:37",
-      "startSeconds": 437
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "1:43",
+      "startSeconds": 292
     },
     {
       "id": "c4",
       "title": "Real Estate & AirBnB",
       "category": "Real Estate",
-      "duration": "1:46",
-      "startSeconds": 534
+      "duration": "1:05",
+      "startSeconds": 394
     },
     {
       "id": "c5",
       "title": "Local News",
       "category": "Local News",
-      "duration": "0:51",
-      "startSeconds": 640
+      "duration": "1:05",
+      "startSeconds": 459
     },
     {
       "id": "c6",
       "title": "Global News",
       "category": "Global",
-      "duration": "0:40",
-      "startSeconds": 691
+      "duration": "1:36",
+      "startSeconds": 524
+    },
+    {
+      "id": "c7",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:15",
+      "startSeconds": 620
+    },
+    {
+      "id": "c8",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:19",
+      "startSeconds": 695
     }
   ],
   "upNext": {
-    "id": "story-intl_students_canada-1",
-    "category": "Higher Ed",
-    "headline": "South Korea's free tuition plan could reshape international student recruitment",
-    "summary": "Seoul plans full tuition support for new Korean students at 30 national universities outside the capital in 2027, a move that could reshape both domestic demand and regional recruitment flows.",
-    "source": "The PIE News",
-    "url": "https://thepienews.com/south-koreas-free-tuition-plan-could-reshape-international-student-recruitment/",
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "summary": "An update on the data-centre backlash: post-midterm, the political cost of hosting AI infrastructure is rising, with local opposition and electricity-rate anger now a live liability for the buildout.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "university",
-    "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-09.59.01.jpg"
+    "thumbnailKind": "chip",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+    "contentAngle": "Public-institution AI governance: the 'social licence' angle — why BC public bodies and the vendors selling to them should treat AI's energy and data footprint as a governance question, not a footnote."
   },
   "mainStory": {
-    "id": "story-intl_students_canada-0",
-    "category": "Higher Ed",
-    "headline": "Canada extends 150,000 international student arrivals target to 2029",
-    "summary": "Ottawa will hold its annual cap at 150,000 new international student arrivals through 2029, keeping the pipeline flat rather than restoring pre-cut volumes.",
-    "source": "The PIE News",
-    "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/",
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Why the latest heart drug failures should make us all more skeptical of AI hype",
+    "summary": "A string of failed cardiovascular drug trials at the American Heart Association meeting becomes a cautionary tale: the technology that was supposed to accelerate discovery keeps falling flat, a reminder that AI's promised speed-ups rarely survive contact with messy real-world data.",
+    "source": "STAT News",
+    "url": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
-    "thumbnailKind": "university",
-    "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/iStock-123821034.jpg",
-    "contentAngle": "AI in higher-ed enrollment: with caps frozen for years, the win shifts from volume to conversion — the case for AI-driven SEM and funnel optimization when you can't buy your way to more applicants."
+    "thumbnailKind": "chip",
+    "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_182456094-645x645.jpeg",
+    "contentAngle": "AI in marketing/higher-ed: the contrarian 'AI won't do the hard part for you' take — why enrollment and brokerage teams should buy governance and process, not miracle speed."
   },
-  "heroImageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/iStock-123821034.jpg"
+  "heroImageUrl": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_182456094-645x645.jpeg"
 }
