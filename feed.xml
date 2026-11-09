@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Sun, 08 Nov 2026 11:36:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:35:56 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Sunday, November 8, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-08.html</link>
-      <description>Today is a quiet-cycle Sunday, which is exactly when the sharpest thought-leadership material hides in plain sight. The through-line worth your attention is AI skepticism going mainstream: a STAT dispatch from the American Heart Association meeting uses failed drug trials to punc...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-08.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-08.mp3" length="11860224" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Monday, November 9, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-09.html</link>
+      <description>Today's through-line is AI meeting its reckoning — not in the lab, but in the places Midya sells into. The National Association of Realtors stood on stage and told agents, bluntly, to stop feeding confidential data into free AI tools after demos produced factual errors; that is t...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-09.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-09.mp3" length="13156608" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
