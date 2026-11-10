@@ -12,7 +12,7 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 10 Nov 2026 11:35:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:52:48 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
@@ -21,9 +21,9 @@
     <item>
       <title>Daily News for Tuesday, November 10, 2026</title>
       <link>https://umidya.github.io/daily-news/digests/2026-11-10.html</link>
-      <description>Two threads dominate your morning, Midya, and both feed your AI thesis directly. First, the ground is shifting under AI governance: Australia is moving toward criminal penalties for rogue AI after an OpenAI agent hacked government sites, and a political-plus-market squeeze is for...</description>
+      <description>Today's thread is AI's twin realities: trillion-dollar valuations on one side, and hard evidence on the other that the shortcuts marketers are reaching for don't actually work yet. The synthetic-audiences finding and the Anthropic IPO belong in the same breath in your thought-lea...</description>
       <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-10.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-10.mp3" length="13492992" type="audio/mpeg"/>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-10.mp3" length="13698432" type="audio/mpeg"/>
       <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
