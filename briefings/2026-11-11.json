@@ -1,0 +1,327 @@
+{
+  "schemaVersion": 2,
+  "date": "Wednesday, November 11, 2026",
+  "dateIso": "2026-11-11",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "14:52",
+  "currentTime": "0:00",
+  "remaining": "14 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's throughline is AI losing its halo — Anthropic's IPO undershooting, Nvidia's governance mess, and New York switching on a real safety-and-disclosure law — all while Ottawa takes an equity stake in Cohere. For a consultant building an AI thought-leadership practice, this is the moment the conversation shifts from hype to governance, accountability and data sovereignty, which is exactly your Public-Institution Governance Lens made mainstream. On the money side, the Bank of Canada signalling another possible rate hike and Budget 2026 softening its housing-construction language both land directly on your real-estate lane and on your Langley and Vancouver holdings.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Today's throughline is AI losing its halo — Anthropic's IPO undershooting, Nvidia's governance mess, and New York switching on a real safety-and-disclosure law — all while Ottawa takes an equity stake in Cohere. For a consultant building an AI thought-leadership practice, this is the moment the conversation shifts from hype to governance, accountability and data sovereignty, which is exactly your Public-Institution Governance Lens made mainstream. On the money side, the Bank of Canada signalling another possible rate hike and Budget 2026 softening its housing-construction language both land directly on your real-estate lane and on your Langley and Vancouver holdings. In higher ed, UBC's complaints-process scrutiny and Australia's tightening visa regime are reminders that reputation and policy risk are now core to enrolment strategy. And close to home, Kamloops council has finalized the waste-fee changes we flagged, while another wind and rain system sweeps the province on Remembrance Day. Watch the AI-governance thread most closely — it's where your client advice and your public voice converge this week.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-11.mp3",
+  "audioDurationSeconds": 892,
+  "audioScript": "Good morning, Midya. It's Wednesday, November eleventh — Remembrance Day — and the big thread today is AI losing its shine right as Canada doubles down on building its own. Here's what matters.\n\nLet's start with artificial intelligence, because this has genuinely been, in Axios's words, the AI industry's week from hell — and that's not clickbait, it's a real inflection point you should be tracking closely. On Tuesday, Anthropic set its IPO target below expectations. This is the company that was supposed to be the crown jewel, the one investors were counting on to validate the whole sector's valuations. When the marquee listing underwhelms, it sends a chill through everything downstream of it. Layer that on top of the Nvidia spy scandal we talked about last week, the midterm political backlash against data centres, and a broader crisis of confidence, and you get a sector that suddenly looks mortal. The quote that stuck with me from the Axios piece is that the bubble is wobbling. Now — I want to be careful here. A wobbling bubble is not a popped bubble, and the underlying utility of these tools hasn't changed overnight. But the narrative has shifted, and narrative is your business. For the last two years, your clients in higher ed and real estate have been swimming in pure hype — the implicit assumption that AI only goes up and to the right, so just buy the thing and figure out governance later. That assumption is now cracking in public. And that is actually good news for you, because the moment the easy money story falters is exactly the moment buyers start asking the harder questions you're built to answer: Is this vendor financially stable? Where does our data live? What happens to our contract if this company gets acquired or folds? Who's accountable when the model is wrong? That's your Governance Lens becoming the mainstream conversation instead of the responsible-adult footnote.\n\nWhich brings me to the second story, and it's a genuinely important one for Canada: Ottawa is taking an equity stake in Cohere, the Toronto-based AI company, as Cohere chases a seven-billion-dollar funding round. Think about what that signals. The federal government is no longer content to be a customer of American AI — it's becoming an owner of a domestic champion. This is industrial policy meeting data sovereignty, and it lands squarely in your wheelhouse. For your public-institution clients — universities, colleges, anyone bound by FIPPA and BC data-residency rules — a credible, government-backed Canadian AI provider changes the procurement calculus. It gives institutions a sovereignty story they can tell their boards and their privacy commissioners. If I'm advising an enrolment office nervous about pushing student data into a US large language model, the existence of a serious Canadian alternative is suddenly part of my recommendation. Watch whether Cohere starts showing up in public-sector RFPs, because that's where this gets real for your clients.\n\nAnd the third AI story ties the whole theme together: New York's sweeping AI safety law is now taking effect, and it will require major developers like OpenAI and Anthropic to register, disclose their safety practices, and report critical incidents — or face fines. This is the first hard compliance regime of its kind in North America. Up to now, AI governance has mostly been voluntary frameworks and good intentions. New York just made disclosure and incident-reporting a legal obligation. Here's your content angle, and I'd actually write this one: New York's model — registration, mandatory safety disclosure, critical-incident reporting — is a preview of what Canadian public institutions are going to start demanding in their vendor contracts, whether or not Ottawa or Victoria legislates it first. Smart procurement teams don't wait for the law; they borrow the strongest standard they can find and bake it into the contract. You could publish a short procurement checklist for higher-ed and public-sector buyers drawn directly from what New York now requires. That's practical, it's timely, and it positions you ahead of the regulation rather than reacting to it. The convergence here is the story: hype cooling, sovereignty rising, and governance getting teeth — all in the same week.\n\nNow to money and real estate, where there's a headline you need to sit up for. The Bank of Canada is signalling that another rate increase may be needed as energy costs spread through the economy. Let that register, because it's a reversal of the mood we've been in. For most of this cycle the conversation was about when cuts come. A central bank now openly flagging a possible hike — because energy-driven price pressure is broadening — changes the psychology of the whole market. For your husband's brokerage in Edmonton and Vancouver, and for your real-estate lane generally, this matters in two ways. First, directly: higher-for-longer or even higher-again rates keep mortgage affordability squeezed and buyer hesitation elevated. Second, and more subtly, it affects the narrative agents use with clients. We spent recent briefings on the buyer's-market dynamics and the 'winning in a buyer's market' playbooks; a hawkish BoC reinforces that buyers have time and leverage, while sellers need realism on price. If rates actually move up, the window for hesitant buyers to act on current pricing narrows, and that's a message agents can use honestly.\n\nRelated, and worth reading as a signal: Budget 2026 has quietly shifted the Liberal government's language on home-construction targets. The housing minister's office is still publicly insisting on the goal of doubling the pace of homebuilding, but the written references to that target have softened in the budget itself. When the words change before the policy officially does, that usually tells you where confidence actually sits. For anyone forecasting housing supply — and therefore prices — in BC and Alberta, a government walking back its most ambitious construction rhetoric is a tell. Don't over-read it, but file it: the supply-side rescue that was supposed to ease affordability is looking less certain on paper.\n\nAnd a third real-estate item that's really an AI item in disguise, which is why I like it: a HousingWire piece arguing that if you own the asset, you should own the project data. The thesis is that a durable, clean record of budgets, decisions, RFIs and as-built documents is what powers operations, refinancing, and increasingly, AI tools. Here's your second content angle, and it's a strong one for your real-estate operations lane: the brokerages and owners who have clean, well-structured transaction and project data will win the AI-productivity race, and the ones sitting on messy, scattered records will find that the AI tools they bought can't actually help them. You could frame this as a data-readiness audit for real-estate clients — the unglamorous prerequisite nobody sells, which is exactly why it's a differentiator for you. AI doesn't fix bad data; it amplifies it. That's a line you can own.\n\nOn to higher education. The story drawing attention is from the Globe and Mail: UBC was facing growing pressure over how it handled its sexual-assault complaints process in the period when the Galloway allegations surfaced. I'm raising this not for the specifics of the case, but for what it represents strategically. UBC is BC's flagship institution, and this is fundamentally a governance-and-reputation story — about process, accountability, and institutional trust. In the enrolment and brand work you do, reputation risk is no longer a communications afterthought; it's a core input into recruitment outcomes. Prospective students and their families are reading these stories, and institutional trust is part of the enrolment funnel whether universities acknowledge it or not. The lesson for any institutional client is that the quality and transparency of your internal processes is a brand asset or a brand liability, and it shows up in yield.\n\nThe second higher-ed item keeps the international lens sharp: Australia has rolled out new student-visa rules — higher fee thresholds and restrictions on bringing family members, described bluntly as 'up only, no family.' This continues the tightening we've been tracking across the major destination markets. For Canadian recruitment strategy, every time a competitor like Australia raises barriers, it reshuffles where students — particularly from India — look next. But the lesson of the last two years is that this doesn't automatically mean a windfall for Canada, because Canada has been tightening too. The real opportunity is for institutions that can offer clarity and stability while everyone else is in flux. If I'm advising a Canadian college right now, the message to prospective students is predictability — clear pathways, honest timelines, no nasty surprises — because in a market where every destination is changing the rules, certainty itself becomes a recruiting advantage.\n\nTwo quick marketing items worth your attention. First, new NewtonX and Adweek research found that only six percent of executives think academic pedigree makes a great chief marketing officer. The strongest CMO candidates instead bring operations experience, entrepreneurship, and data fluency. I flag this because it's quietly validating for the path you're on. The most valuable marketer in the room is no longer the one with the fanciest brand resume — it's the one who understands operations, can run a business, and is fluent in data. That's the exact profile of an operator-consultant, which is what you're building. It's also a useful reframe when you're positioning yourself to clients: you're not just a marketing voice, you're an operator who happens to lead with marketing and AI.\n\nSecond, a cautionary tale: prediction markets like Polymarket and Kalshi grabbed enormous attention during the midterms and now want to graduate to the Super Bowl stage — but they're hitting legal fights and NFL advertising restrictions that limit where their ads can even run. It's a clean case study in the gap between cultural momentum and the ability to actually scale a brand inside a regulated category. The marketing lesson travels: buzz is not distribution, and a hot moment doesn't guarantee you a channel. Anyone scaling a brand in a regulated space — and higher ed and real estate both qualify — should study how these companies run into the wall.\n\nClose to home now. An update on a story we've been following: Kamloops city council has now formally voted to close the recycling depot and raise household waste fees. We flagged earlier this week that council was weighing garbage fee hikes and possible service cuts — this is the decision landing. So expect the recycling depot closure and higher waste bills to be the local talking point, and if you're managing anything through the Kamloops property side, factor the fee change in.\n\nAnd a weather note for today: a yellow-level wind warning is in effect as parts of the B.C. interior brace for damaging winds on Remembrance Day. If you or family are heading to outdoor ceremonies or driving the corridor between Sun Peaks and Kamloops, give yourself extra margin — gusty conditions on an already soggy province are the kind of thing that turns a routine drive difficult.\n\nOn the wider stage, Prime Minister Carney departs Wednesday for a string of summits — Ireland, the Philippines, Cambodia, and China — aimed at advancing trade and security ties. Read this as the continuation of Canada's deliberate push to diversify its economic relationships beyond the United States, which is the same strategic instinct behind the Cohere stake we discussed. A country hedging its dependence on one giant neighbour by building both domestic capacity and new foreign partnerships — that's a coherent through-line, and it's the backdrop against which a lot of your public-sector clients will be operating for years.\n\nAnd briefly from US politics, because it shapes the environment: House Republicans have elected Jim Jordan as their new minority leader after a bruising midterm defeat, choosing a hardline Freedom Caucus founder over the more establishment Steve Scalise. The signal is that the party is doubling down rather than moderating. For your purposes, the relevance is the tone it sets for US-Canada trade and policy friction heading into next year — a more combative Washington is simply part of the weather now.\n\nOne health item, and it clears the bar because it's serious STAT News reporting. Investigation found that doctors on the influential US Preventive Services Task Force — the panel that sets screening recommendations millions of people rely on — were granted blanket ethics waivers, and some own pharma stocks or private medical practices. Why this matters for you and your family: the USPSTF is the body whose guidance ultimately shapes what screenings get recommended and covered — cancer screening, cardiovascular checks, and more. When the integrity of that panel is in question, it's a reminder to anchor your own preventive-care decisions in the strongest independent evidence and a trusted physician, not just a headline recommendation. It's a conflicts-of-interest story, not a new clinical finding, but it's the kind of institutional-trust issue worth being aware of.\n\nAnd finally, a practical note for your coast properties: the rain hammering the B.C. south coast may taper briefly today, but meteorologists say more is on the way. After days of soaking, Vancouver and Langley owners should keep an eye on drainage and flood risk — this is the kind of persistent-wet-pattern week where small maintenance issues become expensive ones if ignored. A quick check on gutters, grading, and sump systems is cheap insurance right now.\n\nThat's your Wednesday, Midya. If there's one thread to carry into your week, it's this: the AI story just pivoted from hype to accountability, and that pivot is your opening. The sovereignty move with Cohere, the real teeth in New York's law, the wobbling valuations — they all point the same direction, toward buyers who finally want the governance answers you've been ready to give. Pick one of those two content angles and ship something this week while the window is open. And on this Remembrance Day, take the quiet moment it deserves. I'll talk to you tomorrow.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "The AI industry's week from hell",
+      "summary": "Anthropic's IPO target came in below expectations, capping a brutal stretch of political upheaval, the Nvidia spy scandal and financial jitters — fuelling fresh talk that the AI bubble is wobbling.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/crLUTIJ72sS7nxG_S8CfnotkJnQ=/467x0:1547x1080/320x320/2026/11/10/1794345715748.jpeg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Canada takes equity stake in Cohere as AI company targets $7-billion round",
+      "summary": "Ottawa is buying equity in homegrown Cohere as the firm chases a $7-billion raise, a direct bet on Canadian AI sovereignty and domestic data control.",
+      "source": "Ontario Construction News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWFJMQk54NUpVZnV1cllwWWxOVUVBSFVjU0dNYUkzX1JsVE10NjZ3NDRIUmZrUnZpWlZ0LUxjMmtqTFhKRkt3Y2VvbVIyazVOQ1VvSEZKT1RFbkhOZUZaUGRsaGhLZER1MDRuUGlwVVNfUjN2aE1PNWFsZTJlTEc4TmNZZlFMMHN3NFdpc19jVkY1dmlsSnhJYUhMYTR6cVAwQVRuTlRLdl9Fd0NpZWtabkd0Uk4waDdEcXc?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+      "summary": "New York will require major AI developers to register, disclose safety practices and report critical incidents or face fines — the first hard compliance regime of its kind in North America.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024",
+      "contentAngle": "Public-institution AI governance: New York's disclosure-and-incident-reporting model as a preview of what Canadian public institutions will demand in vendor contracts — the procurement checklist angle."
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "The AI industry's week from hell",
+      "summary": "Anthropic's IPO target came in below expectations, capping a brutal stretch of political upheaval, the Nvidia spy scandal and financial jitters — fuelling fresh talk that the AI bubble is wobbling.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/crLUTIJ72sS7nxG_S8CfnotkJnQ=/467x0:1547x1080/320x320/2026/11/10/1794345715748.jpeg"
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Canada takes equity stake in Cohere as AI company targets $7-billion round",
+      "summary": "Ottawa is buying equity in homegrown Cohere as the firm chases a $7-billion raise, a direct bet on Canadian AI sovereignty and domestic data control.",
+      "source": "Ontario Construction News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWFJMQk54NUpVZnV1cllwWWxOVUVBSFVjU0dNYUkzX1JsVE10NjZ3NDRIUmZrUnZpWlZ0LUxjMmtqTFhKRkt3Y2VvbVIyazVOQ1VvSEZKT1RFbkhOZUZaUGRsaGhLZER1MDRuUGlwVVNfUjN2aE1PNWFsZTJlTEc4TmNZZlFMMHN3NFdpc19jVkY1dmlsSnhJYUhMYTR6cVAwQVRuTlRLdl9Fd0NpZWtabkd0Uk4waDdEcXc?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+      "summary": "New York will require major AI developers to register, disclose safety practices and report critical incidents or face fines — the first hard compliance regime of its kind in North America.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024",
+      "contentAngle": "Public-institution AI governance: New York's disclosure-and-incident-reporting model as a preview of what Canadian public institutions will demand in vendor contracts — the procurement checklist angle."
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "The 3 paths to being a better marketer that have nothing to do with marketing",
+      "summary": "New NewtonX and Adweek research finds only 6% of executives credit academic pedigree for great CMOs — the strongest marketing leaders bring operations, entrepreneurship and data fluency instead.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/the-3-paths-to-being-a-better-marketer-that-have-nothing-to-do-with-marketing/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/GettyImages-2256671887.jpg?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Prediction markets grabbed midterm attention; the Super Bowl is their next branding test",
+      "summary": "Polymarket, Kalshi and Novig surged on election coverage but face legal fights and NFL ad restrictions that cap where their marketing can run — a cautionary case in scaling a regulated brand.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/adweek-brand-advantage-prediction-markets-grabbed-midterm-attention-the-super-bowl-is-their-next-branding-test/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/predicition-market-apps-adweek-advantage-1.png?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "UBC was under growing pressure on sexual-assault complaints process as Galloway allegations surfaced",
+      "summary": "The Globe reports UBC faced mounting criticism over how it handled sexual-assault complaints in the period the Galloway allegations emerged — a reputation and governance story for a flagship BC institution.",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTDFIUEFqbU93QlN5QVZUX2c4czdYZUlmTVBhRlhaOGpqZloyWkdQTzhBZ3JNSkpFOXRkQlhrU3RQNER1clZoMk9vU0RQY1ZPUFAwWEo1TWxIZmlLZ05BZEM2a1h2RWU0OVNESzdNUTRhcjJpRGJtOWhYaHhLZ3RBU1kwZUt0NFhnS3RIVjRma0J5VXJtSHYzdVRWQ3J5LUxKZjNURHlRMjRJenhveU9SeFNsUGNwdWM?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "Australia's new student visa rules: fees up only, no family",
+      "summary": "Australia is raising visa thresholds and restricting dependants for international students — further tightening in a major competitor market that reshapes where Indian and other students look, including Canada.",
+      "source": "Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcXNjX29meXJ3YmMyWXBfaXpuaENOcHNyTS05QmcyOHpFWUkwWnFIekNVc1pEbzNkQ1lNU3pJcmY1S3BZRnBOa05lR0wyeWpDbS1weFFWcWloaGxGVlFYa21KNU1HV3otc055OG5YemNDYzJZY05SdjdsRlJKNmE5OVFGbkhDQjREdXBsSXFUazY1WjVmZG1nbGJHYkZVQmVKM1NhNVVnR1AwcFdndVB0aW5yUlFRU3BHdWNwYWd2clZMUFY5SDB2NDVUZkxKNUdDd0JIWHJoN2tCZndaOVN2d1dTNGtERjhoTmY2LXp4LXo?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Bank of Canada says another rate increase may be needed as energy costs spread",
+      "summary": "The BoC signalled a possible further rate hike as energy-driven price pressures broaden — a hawkish turn with direct consequences for mortgages, buyer demand and brokerage activity in Western Canada.",
+      "source": "NetNewsLedger",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYXR6alJfaFdDOC1SdDhiOHNUem4zaTh1ZklMSE5saVBEb0FjRGtiMVhXQmV3TThTV3VmUWtvaFNONjlMd2xmZ3JvNXRkdmMxTEg5WWhZZ0d4b0VNbnJDNTVsSmNKLU9ndGtJTkZJVGJwU2RBaGJQMTJESmVyQW40VTN4VmdQZWlzdXlZNHR5NUJQQ0JpSGZhckV0OWh2Z2pMMWlLZGo1Vl95VE9saUx3eFVSblpacWxsdDV4Zw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "Budget 2026 shifts Liberal government's language on home construction targets",
+      "summary": "Ottawa quietly softened references to doubling the pace of homebuilding in Budget 2026, even as the housing minister insists the goal stands — a signal worth reading for supply and policy expectations.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/11/budget-2026-shifts-liberal-governments-language-on-home-construction-targets/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fd5cd348b-2fe5-43b5-96c8-05361dd872f1%2F24b8c807943de59973f5cbcfcb156e79243471e750e3533259e31cf6b2634b91.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-2",
+      "category": "Real Estate",
+      "headline": "If you own the asset, you should own the project data",
+      "summary": "A durable record of budgets, decisions and as-builts supports operations, refinancing and AI use — making data ownership a competitive advantage for owners and the brokerages that serve them.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/own-project-data-record/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Featured-image-own-project-data-record-.png",
+      "contentAngle": "AI in real estate operations: brokerages and owners who own clean project and transaction data will win the AI-productivity race — the data-readiness audit angle for RE clients."
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Kamloops council votes to close recycling depot, raise household waste fees",
+      "summary": "An update on Monday's budget preview: council has now voted to shut the recycling depot and raise household waste fees, confirming the service-cut direction flagged last week.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcXpzNWU0VVpGZkJBRWtYZGdpd0dvN0NaV1hUelk5VDdkVjVoQWROd1dyR3g5Q2EyNVcyemtOWWJnY25IaE9kakQ3ZjdmQlNMMjdrS0Y5ZFhVWDhWQWFWbHlmVi1ZcUFCOTZxXzNjMXlpVF9IYzI5ZkJPNlE2dF9HWGZ3dGxPTV9fa2Rya3pEcmJlNnFlN3hBWHZEeDFidU41bmVSc3lTZmVscGRsZFFqcWEyZjVrNnU3eWJMVzNZWU5WRDdKSl9NUVdqV2RSdw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Yellow-level wind warning as parts of B.C. interior brace for damaging winds on Remembrance Day",
+      "summary": "A yellow-level warning flags damaging winds across parts of the B.C. interior today — worth noting for Kamloops and Sun Peaks travel and outdoor ceremonies.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/11/yellow-level-warning-issued-as-parts-of-b-c-interior-brace-for-damaging-winds-on-remembrance-day/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains",
+      "imageUrl": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2311/files/2026/11/1ce6833a-8b74-4607-b956-2eb952bfb363.jpg"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Carney heads to summits in Ireland, Philippines, Cambodia and China",
+      "summary": "Prime Minister Carney departs Wednesday for a run of summits aimed at advancing trade and security ties across Asia and Europe — a signal of Canada's push to diversify beyond the US.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/11/carney-takes-off-wednesday-for-summits-in-ireland-philippines-cambodia-and-china/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fd9ee5bb7-2ba0-4359-8735-fab57f241518%2F15d54c024e0a13b08812d413794142b339cb54169fec7444fb0fa6dc5cb06878.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Jim Jordan wins House GOP minority leader race",
+      "summary": "House Republicans elected Judiciary Chair Jim Jordan as minority leader after their midterm drubbing, betting on a MAGA firebrand over Steve Scalise — a marker of where US politics heads next.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/11/jim-jordan-house-minority-leader-republicans",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/q2eYRej4OblW3fAkAAjCvXL50QU=/0x0:3661x3661/320x320/2026/11/11/1794361734484.jpeg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "Doctors on preventive-care panel have major conflicts of interest, filings reveal",
+      "summary": "STAT investigation: federal officials granted blanket ethics waivers to USPSTF members, some owning pharma stocks or private practices — raising questions about the integrity of US screening recommendations millions rely on.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/11/kennedy-hhs-preventive-care-panel-conflict-interest-waivers/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2294068904-645x645.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Rain hammering B.C. south coast may taper, but more is on the way",
+      "summary": "The persistent south-coast rain may ease briefly before another system arrives — relevant for Vancouver and Langley property owners watching drainage and flood risk after days of soaking.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/11/rain-hammering-b-c-south-coast-may-taper-but-more-on-the-way-meteorologist/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fa4aac79c-01df-43c7-b693-e9e82cb2f91b%2F44e8cdd0347d6aa252ab227c059588fe6ca9a6c27b6f11f7acc096ff0219fc59.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "4:12",
+      "startSeconds": 12
+    },
+    {
+      "id": "c2",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "2:53",
+      "startSeconds": 264
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:01",
+      "startSeconds": 437
+    },
+    {
+      "id": "c4",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:31",
+      "startSeconds": 557
+    },
+    {
+      "id": "c5",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "0:55",
+      "startSeconds": 648
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:11",
+      "startSeconds": 703
+    },
+    {
+      "id": "c7",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "0:55",
+      "startSeconds": 774
+    },
+    {
+      "id": "c8",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:29",
+      "startSeconds": 829
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Canada takes equity stake in Cohere as AI company targets $7-billion round",
+    "summary": "Ottawa is buying equity in homegrown Cohere as the firm chases a $7-billion raise, a direct bet on Canadian AI sovereignty and domestic data control.",
+    "source": "Ontario Construction News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWFJMQk54NUpVZnV1cllwWWxOVUVBSFVjU0dNYUkzX1JsVE10NjZ3NDRIUmZrUnZpWlZ0LUxjMmtqTFhKRkt3Y2VvbVIyazVOQ1VvSEZKT1RFbkhOZUZaUGRsaGhLZER1MDRuUGlwVVNfUjN2aE1PNWFsZTJlTEc4TmNZZlFMMHN3NFdpc19jVkY1dmlsSnhJYUhMYTR6cVAwQVRuTlRLdl9Fd0NpZWtabkd0Uk4waDdEcXc?oc=5",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "The AI industry's week from hell",
+    "summary": "Anthropic's IPO target came in below expectations, capping a brutal stretch of political upheaval, the Nvidia spy scandal and financial jitters — fuelling fresh talk that the AI bubble is wobbling.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/crLUTIJ72sS7nxG_S8CfnotkJnQ=/467x0:1547x1080/320x320/2026/11/10/1794345715748.jpeg"
+  },
+  "heroImageUrl": "https://images.axios.com/crLUTIJ72sS7nxG_S8CfnotkJnQ=/467x0:1547x1080/320x320/2026/11/10/1794345715748.jpeg"
+}

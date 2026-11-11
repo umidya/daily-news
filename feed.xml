@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:52:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:36:28 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, November 10, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-10.html</link>
-      <description>Today's thread is AI's twin realities: trillion-dollar valuations on one side, and hard evidence on the other that the shortcuts marketers are reaching for don't actually work yet. The synthetic-audiences finding and the Anthropic IPO belong in the same breath in your thought-lea...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-10.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-10.mp3" length="13698432" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, November 11, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-11.html</link>
+      <description>Today's throughline is AI losing its halo — Anthropic's IPO undershooting, Nvidia's governance mess, and New York switching on a real safety-and-disclosure law — all while Ottawa takes an equity stake in Cohere. For a consultant building an AI thought-leadership practice, this is...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-11.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-11.mp3" length="14280192" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
