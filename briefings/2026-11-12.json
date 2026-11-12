@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 2,
+  "date": "Thursday, November 12, 2026",
+  "dateIso": "2026-11-12",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "13:56",
+  "currentTime": "0:00",
+  "remaining": "13 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's dominant thread is the redrawing of the global student map — the \"big four\" destinations are losing share while the US rebounds post-midterms and Europe and Asia gain ground. For a consultant selling into Canadian enrollment, that shift reframes the pitch: Canada's competitive position is no longer about whether to recruit abroad but how to defend share against renewed US interest. Parallel to that, the governance conversation around AI in admissions testing is maturing fast — exactly the Public-Institution Governance Lens you productize.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Today's dominant thread is the redrawing of the global student map — the \"big four\" destinations are losing share while the US rebounds post-midterms and Europe and Asia gain ground. For a consultant selling into Canadian enrollment, that shift reframes the pitch: Canada's competitive position is no longer about whether to recruit abroad but how to defend share against renewed US interest. Parallel to that, the governance conversation around AI in admissions testing is maturing fast — exactly the Public-Institution Governance Lens you productize. On the AI front, the Jensen Huang/Nvidia instability is a reminder that the infrastructure underpinning every martech and enrollment-AI tool you'd recommend sits on a surprisingly concentrated foundation. Closer to home, Sun Peaks' new mayor is naming housing and health care as priorities, and another BC deluge is triggering evacuation alerts — both worth watching for family and property reasons. Pick your two content shots carefully today: the admissions-AI governance angle and the Adobe \"human touch\" positioning are the two with genuine thought-leadership legs.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-12.mp3",
+  "audioDurationSeconds": 836,
+  "audioScript": "Good morning, Midya. It's Thursday, November twelfth, twenty twenty-six. The global student map is being redrawn this morning, the AI industry is nervous about one man's chair, and there's fresh weather churning on the coast — here's what matters.\n\nLet's start with higher education, because there are three stories that together tell one bigger story, and it's the one most relevant to your enrollment work. The headline shift is this: the international student map is moving under everyone's feet. Times Higher Education is reporting that the so-called big four destinations — the United States, the United Kingdom, Canada, and Australia — are collectively losing international enrolment share, while emerging hubs across Europe and Asia are picking it up. For years the strategic question in Canadian recruitment was essentially about volume — how many, from where, through which agents. That framing is quietly becoming obsolete. The question now is about defending share in a market where students genuinely have more credible alternatives than they did even two years ago. When Germany, the Netherlands, and a cluster of Asian institutions are offering English-taught programs, lower costs, and clearer post-study pathways, Canada's old advantages start to look less like a moat and more like a marketing claim you have to actively re-earn.\n\nAnd here's the twist that makes it urgent. The PIE News is reporting that in just one week after the US midterm elections, international students' interest in studying in the United States jumped forty percent, reversing two straight years of decline. Think about what that means for a Canadian institution's pipeline. A significant chunk of the students Canada has been courting — the ones who chose Canada partly because the US felt politically unwelcoming — now have a reason to reconsider the US again. That forty percent is a sentiment spike, not yet enrolled bodies, and sentiment can reverse. But it's a warning flare. If your clients built their international strategy on the assumption that US dysfunction would keep feeding Canadian applications, that assumption is now on probation. The smart move is to stop competing on \"we're not them\" and start competing on concrete, defensible value — program outcomes, co-op placements, settlement support, genuine graduate employment data.\n\nThe third piece is a cautionary tale from across the Atlantic. The Chartered Association of Business Schools in the UK released its annual survey, and UK business schools are reporting declining international enrolments this year — with the expectation that twenty twenty-seven will be even harder. They're pointing the finger squarely at government policy: visa restrictions, dependent rules, and the general signal that international students aren't entirely welcome. This is the parallel I'd want you internalizing, Midya, because Canada has been running its own version of that policy tightening — the study permit caps, the PGWP changes, the attestation letters. The UK is now living in the future that Canadian policy is arguably steering toward. When you advise institutions on enrollment resilience, the UK business school data is your evidence base: policy-driven demand destruction is real, it's lagging, and it compounds. The schools that weather it are the ones that diversified source countries early and built brand equity that survives a hostile policy cycle. That's a thought-leadership piece waiting to be written — the comparative-policy angle, Canada learning from the UK's mistakes rather than repeating them.\n\nNow to AI, and there are two very different stories here — one about the plumbing, one about governance. Start with the plumbing, because it's the loud one. Axios is reporting that Jensen Huang's position at Nvidia is suddenly in question, and the AI industry is treating a potential Huang departure as an earthquake — their word, and they argue it dwarfs the chaos of Sam Altman's temporary firing from OpenAI back in twenty twenty-three. Here's why you should care, even though you're not a chip investor. Nvidia isn't just a hardware vendor; it sits at the center of a financial flywheel. Its chips, its investments in AI startups, and its financial guarantees are quietly holding up an ecosystem worth trillions. Huang has spent thirty-three years making himself synonymous with the company. When one person is that load-bearing, the whole structure has a key-man risk baked in.\n\nFor your consulting practice, the lesson isn't to panic about Nvidia specifically — it's about concentration. Every AI tool you'd recommend to a marketing team, an enrollment office, or a brokerage ultimately runs on infrastructure that traces back to a shockingly small number of companies and, apparently, a small number of people. When you build an AI recommendation for a public institution under your governance lens, resilience and vendor concentration belong in the risk section. If a client is betting their enrollment chatbot or their martech stack on a single model provider, and that provider is itself dependent on one chipmaker run by one indispensable founder — that's a dependency chain worth naming out loud. It's not alarmism; it's the kind of due diligence that separates a serious advisor from a hype merchant.\n\nThe second AI story is quieter and, honestly, more directly useful to you. At the Pearson Higher Education Admissions Summit, speakers laid out what amounts to a governance framework for AI in admissions testing. Their three questions: Why does this test use AI at all? Can the vendor be transparent about how it actually works? And who — which human — remains accountable for the decision it produces? Midya, that's practically a transcription of your Public-Institution Governance Lens applied to a specific, high-stakes use case. Admissions and testing are exactly where AI meets FIPPA, data residency, fairness, and the duty of procedural fairness that public institutions owe applicants. A university that deploys an AI-scored language assessment or an AI-assisted application screen without being able to answer those three questions is exposed — legally, reputationally, and ethically. I flagged this as a content angle because it's the cleanest one on the board today: the admissions-AI governance checklist. You could publish the audit framework — the questions an enrollment leader should ask a testing vendor before signing — and own that conversation in the Canadian market where almost nobody is articulating it clearly. That's thought leadership that doubles as a sales asset.\n\nOn the marketing front, there's a story that pairs beautifully with the AI conversation. Adobe's chief marketing officer is explaining why the company just launched its biggest brand campaign in five years, and the strategic bet underneath it is fascinating. Adobe's own tools are making it trivially easy to generate images and video with AI — and competition in that space is intensifying fast. So what is Adobe's marketing choosing to sell? The human touch. Not generation speed, not volume, not \"look how fast our AI makes content\" — but human craft and creativity as the differentiator.\n\nThink about the irony and the insight together. The company arming everyone with generative tools is positioning human creativity as the premium. That's not sentimentality; it's smart category strategy. When a capability becomes abundant and cheap, its value collapses, and whatever remains scarce becomes the premium. If every brand can flood the zone with AI-generated content, then AI-generated content stops being a differentiator and human judgment, taste, and originality become the scarce asset. This is the second content angle I'd hand you today — the human-touch repositioning. For your marketing clients, the message is: don't compete on how much AI content you can produce, compete on the judgment layer AI can't replicate. There's a sharp post in here about why the brands winning the AI era are the ones treating AI as a floor, not a ceiling — the ones using it to clear the grunt work so their humans can do the work that actually moves people. You live at the intersection of AI and marketing; this is exactly your lane to narrate.\n\nTurning to real estate, two operationally useful pieces from HousingWire today — both US-sourced but directly applicable to how you and your husband's brokerage think about the market. The first pushes back on a reflex a lot of buyers have: obsessing over the next central bank decision. With the thirty-year fixed sitting around seven and a quarter percent and the Fed holding steady, the argument is that buyers massively overweight these meetings. Mortgage pricing is driven by the broader bond market and longer-term expectations, not by whether a central bank moves a quarter point at one meeting. The practical takeaway for client conversations: stop letting prospective buyers freeze waiting for a rate cut that, even when it comes, may barely move their actual mortgage cost. The decision should be driven by their life and the specific property, not by Fed-meeting theater. That's a useful reframe for agents coaching nervous buyers.\n\nThe second piece is about the lender side — how much pricing and execution inefficiency quietly costs mortgage lenders. The thesis is that the hidden cost of standing still, of running sloppy pricing and manual execution, may actually exceed the cost of modernizing. For a brokerage thinking about where AI and automation genuinely pay off, this is the right framing: the return isn't glamorous front-end gimmicks, it's the margin you're bleeding in the back office through inefficiency you've normalized. When you build the AI-in-real-estate-operations side of your thesis, this is the unsexy but defensible version — operational efficiency, not agent-replacement hype.\n\nClose to home now. The Sun Peaks mayor is in the news, naming housing and health care as top priorities for the resort municipality, and the profile leans on an unusual background in NASCAR. The substance that matters for you as a property owner is the priority list: housing and health care access in a small resort community are perennial pressure points, and they bear directly on property values, rental viability, and the long-term livability of the place. Worth keeping an eye on what concrete policy follows the priorities.\n\nIn Kamloops, RCMP have laid charges after an SUV crashed into a Westsyde home and several parked vehicles — a reminder of the ordinary local stuff that still shapes a neighbourhood's day. And on a brighter note, Thompson Rivers University's women's soccer team is heading into the U SPORTS national championship chasing more history, with players picking up national individual honours on the way in. It's a genuine point of civic pride for Kamloops, and TRU athletic success is the kind of soft brand equity that, frankly, feeds a university's recruitment story — something worth remembering the next time the conversation turns to how mid-sized Canadian institutions build distinctiveness.\n\nA few things from the wider world you should have in your peripheral vision. The UK economy grew zero point seven percent in the three months to September — its fastest quarterly growth in more than two years. After a long stretch of stagnation talk, that's a meaningful uptick, and it matters for the broader read on whether developed economies are finding footing or just bouncing. In Canada, Industry Minister Mélanie Joly is convening a four-way meeting in Toronto today with Stellantis, the union representing its more than nine thousand workers, and an Ontario minister — another chapter in the ongoing fight to protect Canadian auto manufacturing jobs against a shifting trade and investment landscape. And out of the US, a genuinely notable data point: homicides fell more than fifteen percent across sixty-six major American police jurisdictions in the first nine months of this year, with declines across all four major violent-crime categories. After years of pandemic-era anxiety about rising crime, the trend has clearly reversed. It's the kind of fact that cuts against the dominant narrative, which is exactly why it's worth holding onto.\n\nFinally, a safety note for home. The impacts of this week's drenching on B.C.'s south coast are mounting as water levels rise — heavy rain is triggering evacuation orders and alerts, and the forecast suggests the system isn't fully done. This is a continuation of the storm series we flagged earlier in the week. For your Vancouver and Langley properties, and for family in the affected areas, it's worth checking drainage, confirming nobody's in an alert zone, and keeping an eye on the evacuation maps today. Atmospheric-river season in B.C. is no longer an occasional event; it's a recurring operational reality, and it bears directly on property and insurance decisions in the Lower Mainland.\n\nThat's your Thursday, Midya. If you do one thing with this briefing, let it be the admissions-AI governance checklist — it's the sharpest intersection today of what you're selling and what nobody else is clearly saying, and the window to own that conversation in the Canadian market is open right now. Keep half an eye on the international student share shift; it's the slow-moving story that will reshape every enrollment pitch you make next year. And check the flood alerts before the day gets away from you. I'll be back tomorrow.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "AI can improve test fairness, but human judgement remains vital",
+      "summary": "Speakers at the Pearson HE Admissions Summit argued universities must ask why a test uses AI, demand transparency on how it works, and keep humans accountable for decisions — a governance checklist for admissions AI.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/ai-can-improve-test-fairness-but-human-judgement-remains-vital/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/iStock-1448003650.jpg",
+      "contentAngle": "AI in higher-ed enrollment: the admissions-testing governance checklist — why institutions buying AI-scored assessments need a FIPPA-grade accountability framework before go-live."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Jensen Huang's looming ouster triggers an AI earthquake",
+      "summary": "Reports of Jensen Huang potentially leaving Nvidia have rattled the AI industry, whose chips, investments and financial guarantees underpin an ecosystem worth trillions — a concentration risk sitting beneath every AI tool enterprises depend on.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/XovvdYi4NkbMmQl3oiBjBm3kRFI=/0x0:1080x1080/320x320/2026/11/10/1794338777261.jpeg"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Adobe's CMO on why it made its biggest brand campaign in five years",
+      "summary": "Adobe is pitching the human touch as AI makes image and video creation trivially easy and competition intensifies — a brand bet that creativity, not generation speed, is the differentiator.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/adobes-cmo-on-why-its-made-its-biggest-brand-campaign-in-5-years/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/Adobe.png?w=600&h=315&crop=1",
+      "contentAngle": "AI in marketing: the \"human touch\" repositioning — a take on why brands flooding the zone with generative content are inadvertently making human craft the scarce premium asset."
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "AI can improve test fairness, but human judgement remains vital",
+      "summary": "Speakers at the Pearson HE Admissions Summit argued universities must ask why a test uses AI, demand transparency on how it works, and keep humans accountable for decisions — a governance checklist for admissions AI.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/ai-can-improve-test-fairness-but-human-judgement-remains-vital/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/iStock-1448003650.jpg",
+      "contentAngle": "AI in higher-ed enrollment: the admissions-testing governance checklist — why institutions buying AI-scored assessments need a FIPPA-grade accountability framework before go-live."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Jensen Huang's looming ouster triggers an AI earthquake",
+      "summary": "Reports of Jensen Huang potentially leaving Nvidia have rattled the AI industry, whose chips, investments and financial guarantees underpin an ecosystem worth trillions — a concentration risk sitting beneath every AI tool enterprises depend on.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/XovvdYi4NkbMmQl3oiBjBm3kRFI=/0x0:1080x1080/320x320/2026/11/10/1794338777261.jpeg"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Adobe's CMO on why it made its biggest brand campaign in five years",
+      "summary": "Adobe is pitching the human touch as AI makes image and video creation trivially easy and competition intensifies — a brand bet that creativity, not generation speed, is the differentiator.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/adobes-cmo-on-why-its-made-its-biggest-brand-campaign-in-5-years/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/Adobe.png?w=600&h=315&crop=1",
+      "contentAngle": "AI in marketing: the \"human touch\" repositioning — a take on why brands flooding the zone with generative content are inadvertently making human craft the scarce premium asset."
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "Interest in the US surges 40% as a study destination after midterms",
+      "summary": "New data shows international students' interest in studying in the US jumped 40% in the week after the midterms, reversing two years of decline — renewed competition for the share Canada has been courting.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/interest-in-us-surges-as-study-destination-up-40-after-midterms/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/iStock-1497989003.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "Europe and Asia gain as the 'big four' lose international students",
+      "summary": "The traditional top destinations — the US, UK, Canada and Australia — are ceding international enrolment share to emerging European and Asian hubs as restrictive policy reshapes student flows.",
+      "source": "Times Higher Education",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFVEMmdpQWoxX0wwa2ZFaVpGWkJ5MFNfM2hlTnBScWR3eE1WTkIwT2p1eWtPRmNGTWNBUDNudFhLaDROcVE0dzliZkhONnlQU3Q1bWtyejlvUjkteFJvTDJnUDNVeFFsRVljUUsxNU9qd1NKNEZ0RUViWWFaQ2Y2ZzhrM1VaaGhaYmhiTy0tYVNKOUR1ZTBKLTZ3YmF0ZFNX?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "UK business schools report declining international enrolments through 2027",
+      "summary": "The Chartered Association of Business Schools' annual survey shows UK business schools struggled to recruit internationally this year and expect 2027 to be worse, blaming government policy — a cautionary parallel for Canadian recruitment planning.",
+      "source": "ICEF Monitor",
+      "url": "https://monitor.icef.com/2026/11/uk-business-schools-report-declining-international-enrolments-and-predict-the-downturn-will-persist-through-2027/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/11/alicja-ziajowska-AOjmfr3ofSY-unsplash-1200.png"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Why the next Fed decision should not impact your house purchase",
+      "summary": "With the 30-year fixed at 7.24% and the Fed holding at 3.75–4%, the piece argues buyers overweight central-bank meetings when mortgage pricing is driven by broader bond-market math.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/mortgage-rates-fed-math/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Featured-image-mortgage-rates-fed-math.png"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "What pricing and execution inefficiency really costs mortgage lenders",
+      "summary": "Lenders bleed margin through pricing and execution gaps, and the hidden cost of standing still may exceed the cost of modernizing — an operational-efficiency lens relevant to brokerage economics.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/pricing-execution-costs-lenders/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Featured-image-pricing-execution-costs-lenders.png"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Sun Peaks mayor brings NASCAR experience to housing and health care priorities",
+      "summary": "The Sun Peaks mayor is naming housing and health care as top priorities for the resort municipality — directly relevant to anyone holding property there.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV2JSTUZFS01xZXRMM1pPbnZoRUl6LVVXeHU4M3VIczNESTJzSnZLUlJLa3FlVmtBU0dTTFY5R1hCRVZtY2pzUTJXVUthN0tPWFNNaVI5NG5QR19EeGRvbHVJY1F3NnJyVTM3cnV6UFUwRjhSRXlnVlg0Ty05eFoyY1l2OU5LMC1XcTBHVEh4QTVVY3NxdDFnUXpfd09ZMXJ5YWduaUJWdWpMMk9BRVJWX0ZBRmxWV1FkQ00yaUcxZi1lMmFzNHdTcFJuSHU?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Man charged after SUV crashes into Westsyde home and vehicles",
+      "summary": "Kamloops RCMP laid charges after an SUV crashed into a Westsyde home and parked vehicles.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVpneVhXU1lCS1JJWmFyaTh6RXhaRnJhMUxXb1I5alM4eUZBdUxiVzZiRVdtTjlObk1UVkFpY19Fd3d3QmRWdFRxZ2FSSDctaUd2NWJ1ZW5IaFF3Z1IzbkQ5eVdsZllzR1R2Tm9YRXAyQWRJcEhlTlRYMDVyelJzNmI0bnViRE94Nms4elJJZUZoaWhIRUxRQVlzSlBuMDZHV2U1Zk91QlY2ZVJxYTZ0N0xn?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-2",
+      "category": "Local News",
+      "headline": "Thompson Rivers chases more history at U SPORTS women's soccer nationals",
+      "summary": "Thompson Rivers University's women's soccer team heads into the U SPORTS national championship looking to extend a historic run, with players also claiming national individual honours.",
+      "source": "Thompson Rivers University",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlBOa2Y3WkFObGlwS3VEOGd6WkVhbTM1TS1uZV9ZcTZieHdrZXBjUkY1Y3IybFhpUjN5N2p6ZWtMcXlGM1NGN1lrbkg3MGRoUURfUXpxNnNmN21MZ3dEckY5NWhWSVlnTzJuQUxkVWxwMDlrci14MEFzWXJ4R21vMW1rekx3Y1JnTWxWaGhuTzY3UmIzRUZsRllmdDZVOUFBQ2c?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "UK economy grows at fastest rate in more than two years",
+      "summary": "Official figures show the UK economy grew 0.7% in the three months to September, its strongest quarter in over two years.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Joly to hold four-way Stellantis meeting in Toronto",
+      "summary": "Industry Minister Mélanie Joly is convening Stellantis, the union representing its 9,000+ workers, and an Ontario minister as Canada presses to protect auto manufacturing jobs.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/12/joly-set-to-hold-meeting-in-toronto-with-stellantis-union-and-ontario-minister/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F91dad97c-686b-4237-9da6-ee3bc07bc122%2F02c9f6f31fa7ab1b0aebac1f86818176063c611963f4b652c21cd009f58976a2.jpg"
+    },
+    {
+      "id": "story-global_business_tech-2",
+      "category": "Global",
+      "headline": "Murders plunge 15% in America's biggest cities",
+      "summary": "Homicides fell 15.2% across 66 major US law-enforcement jurisdictions in the first nine months of 2026, with declines in all four major violent-crime categories.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/12/violent-crime-homicide-us-cities-trump",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/k7YobXhePcnCqXdlORHYTdWQUi4=/128x128/smart/2026/11/10/1794339483968.webp"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Impacts from B.C. drenching mount as water levels rise",
+      "summary": "Heavy rain on B.C.'s south coast is triggering evacuation orders and alerts as water levels climb — ongoing from this week's storm series, with more weather in the pipeline.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/12/impacts-from-b-c-drenching-mount-as-water-levels-rise/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F750de7ca-ebc2-4028-a01b-bda3800415bf%2F4999999cd60aa4e9a225b1e105e3b71fb17fcb9aaebc5afdf321267304031d69.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "3:27",
+      "startSeconds": 15
+    },
+    {
+      "id": "c2",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:07",
+      "startSeconds": 222
+    },
+    {
+      "id": "c3",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:42",
+      "startSeconds": 409
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:41",
+      "startSeconds": 511
+    },
+    {
+      "id": "c5",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:17",
+      "startSeconds": 611
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:12",
+      "startSeconds": 688
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:43",
+      "startSeconds": 760
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Jensen Huang's looming ouster triggers an AI earthquake",
+    "summary": "Reports of Jensen Huang potentially leaving Nvidia have rattled the AI industry, whose chips, investments and financial guarantees underpin an ecosystem worth trillions — a concentration risk sitting beneath every AI tool enterprises depend on.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/XovvdYi4NkbMmQl3oiBjBm3kRFI=/0x0:1080x1080/320x320/2026/11/10/1794338777261.jpeg"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "AI can improve test fairness, but human judgement remains vital",
+    "summary": "Speakers at the Pearson HE Admissions Summit argued universities must ask why a test uses AI, demand transparency on how it works, and keep humans accountable for decisions — a governance checklist for admissions AI.",
+    "source": "The PIE News",
+    "url": "https://thepienews.com/ai-can-improve-test-fairness-but-human-judgement-remains-vital/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/iStock-1448003650.jpg",
+    "contentAngle": "AI in higher-ed enrollment: the admissions-testing governance checklist — why institutions buying AI-scored assessments need a FIPPA-grade accountability framework before go-live."
+  },
+  "heroImageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/iStock-1448003650.jpg"
+}
