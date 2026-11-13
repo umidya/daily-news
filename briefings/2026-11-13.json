@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 2,
+  "date": "Friday, November 13, 2026",
+  "dateIso": "2026-11-13",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "12:26",
+  "currentTime": "0:00",
+  "remaining": "12 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's through-line is governance catching up to AI — fast. A martech vendor just shipped an AI agent that runs influencer campaigns end-to-end, while the largest US physicians' group lobbies for liability shields when AI harms patients; both are the same story at different altitudes, and both feed your public-institution governance and AI-in-marketing lanes directly. On the enrollment side, the data is tilting your way: the new global benchmark survey shows US and UK universities struggling while Canadian institutions turn optimistic, and UK visa applications are down 31% — the competitive tailwind Canadian recruiters have been waiting for, and a sharp talking point for prospects worried the whole sector is contracting.",
+  "digestReadingTime": "6 min read",
+  "whyItMatters": "Today's through-line is governance catching up to AI — fast. A martech vendor just shipped an AI agent that runs influencer campaigns end-to-end, while the largest US physicians' group lobbies for liability shields when AI harms patients; both are the same story at different altitudes, and both feed your public-institution governance and AI-in-marketing lanes directly. On the enrollment side, the data is tilting your way: the new global benchmark survey shows US and UK universities struggling while Canadian institutions turn optimistic, and UK visa applications are down 31% — the competitive tailwind Canadian recruiters have been waiting for, and a sharp talking point for prospects worried the whole sector is contracting. Watch the OSAP career-college story too: it's a Canadian public-institution accountability failure, exactly the kind of governance gap your methodology is built to flag. Nothing clean on your watchlist orgs today — the Columbia College hits are the New York university, not the Vancouver one — so treat today as commentary-fuel day rather than client-signal day. And keep an eye on the BC coast: the storm has shifted from rain to surge-driven flood risk near your Langley and Vancouver holdings.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-13.mp3",
+  "audioDurationSeconds": 746,
+  "audioScript": "Good morning, Midya. It's Friday, November thirteenth, twenty twenty-six. Today is a commentary-fuel day more than a client-signal day — nothing clean landed on your watchlist, but there's a lot worth thinking out loud about. Here's what matters.\n\nLet's start with AI, because today two stories at completely different altitudes are actually telling the same story — and that story is your lane.\n\nThe first is small and practical. A company called Nectar launched an AI agent that automates influencer marketing end to end. Not AI that helps you draft a brief, not AI that suggests creators — an agent that discovers the creators, runs the outreach, manages the partnership, and tracks the campaign results. That's the whole workflow, handed to software. Now, on the surface this is just another martech launch. But notice what's happening here. We've spent two years watching AI move from drafting to doing. Last year the pitch was copilots — AI sitting beside the marketer. This year the pitch is agents — AI acting on the marketer's behalf, reaching out to real human creators, representing a brand in conversations the marketer never sees. And that is exactly the point where I'd want you leaning in with your audit hat on. The question nobody at these launches wants to answer is the governance question: who approves what the agent says? What's the brand-safety layer? What happens when the agent negotiates a partnership that embarrasses the brand, or contacts a creator whose values clash with the client's? For a marketing consultancy, this is the whole opening. Agentic outreach is a great pitch and a terrible thing to deploy without a control framework. That's a post for you — the 'before you let an agent talk to creators on your behalf, here's your checklist' angle. It writes itself, and it positions you as the adult in a room full of hype.\n\nThe second story is the same problem wearing a lab coat. The largest physicians' group in the United States is now lobbying for legal liability shields — protections for doctors when AI tools cause patient harm. Think about what that admission contains. The medical profession is deploying increasingly autonomous AI, the kind that makes recommendations with less and less direct human oversight, and the people on the hook are quietly asking, 'Wait — if the software is wrong and the patient is hurt, is that on me?' That is the accountability vacuum at the centre of every serious AI deployment conversation, and it's about to arrive everywhere you work. In higher ed, when an AI chatbot gives a prospective international student wrong advice about their program eligibility, who's accountable — the vendor, the institution, the enrolment officer who bought the tool? In a brokerage, when an AI tool mis-states a disclosure or a valuation, where does liability sit? Medicine is just the first regulated profession to say the quiet part out loud. For your public-institution governance lens, this is gold. The take is: accountability frameworks are not a nice-to-have you bolt on after deployment — they are the precondition for deployment. Doctors are learning that the expensive way. Universities and brokerages can learn it the cheap way, from you, first.\n\nAnd a lighter third note to close the AI block, because it's a useful corrective. MIT Technology Review ran a piece asking why Silicon Valley — the self-styled visionaries who sell certainty about the future — got the midterms so badly wrong, along with the prediction markets they championed. It's a small humility lesson with real professional value. The entire AI industry's business model is confident forecasting. And here's the whole apparatus whiffing on the one prediction everyone could check. Keep that in your back pocket when a client or a vendor tells you the model 'knows' something. Confidence is not accuracy, and the people selling the future have a documented record of getting it wrong.\n\nOn the marketing and brand front, two CMO-level stories worth your attention.\n\nTarget has a new CMO, about two months into the job, and she's already laid out the thesis: get the brand's edge back. That phrasing matters. Target spent years as the retailer that punched above its weight culturally — the design collaborations, the 'Tar-zhay' affection, the sense that it was in on the joke. Then it drifted into the muddy middle, squeezed between discounters below and experience retail above, and tangled in some culture-war crossfire that cost it goodwill on multiple sides. Watch how a new CMO tries to re-establish a distinct cultural voice from a defensive position, because that's the exact brief half your prospective clients are living — an institution or a brokerage that used to have a point of view and now sounds like everyone else. The playbook she runs over the next two quarters is a case study you'll want to be able to cite.\n\nThe second is Welch's, which is doing something quietly clever. They've built a holiday 'microdrama' — short, serialized, social-first content — leaning hard into Y2K nostalgia, aimed specifically at Gen Z consumers who are now becoming parents. And they've wired it to an Instacart integration so the nostalgia converts to a cart. That's three real trends stacked in one campaign: the shift to micro-format serialized content, the fact that Gen Z nostalgia now reaches all the way back to the early two-thousands, and the collapse of the gap between brand storytelling and the buy button. For any client wondering whether 'brand' and 'performance' are still separate budgets, this is a tidy example of them becoming the same motion.\n\nNow to higher education, and this is the block I'd actually act on, because the data is moving in Canada's favour and your prospects may not have noticed yet.\n\nStudyportals released its twenty twenty-six Global Enrolment Benchmark Survey, and the headline is a tale of two markets. US and UK universities are struggling — real, measurable barriers to recruiting international students, and pessimism about where that goes. Canadian institutions, by contrast, are markedly more optimistic than they were a year ago. That's a meaningful turn. For the last couple of years the Canadian story has been all caps and cuts and gloom about international enrolment. This survey says the sentiment has turned, and that matters for how you talk to prospects. The institutions you want to work with have spent eighteen months in crisis-management mode. If the tide is coming back in, the smart ones will shift from defence to offence — and offence needs exactly what you sell: sharper recruitment positioning, generative-search visibility so their programs actually surface when a student in São Paulo or Lagos asks an AI assistant where to study, and enrolment operations that can handle renewed demand. Being the person who spotted the turn early is worth something.\n\nAnd here's the mechanism driving it. UK student visa applications are down thirty-one per cent, with the Russell Group — Britain's elite universities — warning that the volatility is here to stay. Thirty-one per cent is not a wobble, it's a structural redirection of global student demand. This connects straight to what we covered earlier this week about Europe and Asia gaining as the 'big four' lose share. Students are voting with their applications, and when the US and UK both make themselves harder and more expensive to get into, the flow has to go somewhere. Canada is one of the obvious 'somewheres' — if, and it's a real if, our own policy environment stays navigable. That's the nuance to hold: the opportunity is real, but it's conditional on Canada not shooting itself in the foot on study permits again. Worth watching.\n\nAnd a cautionary tale from the domestic side, because it's exactly the kind of thing your governance lens exists to catch. A private career college in Ontario saw its OSAP usage — provincial student aid — surge six thousand per cent, and despite that eye-watering spike, it wasn't cut off from the funding this spring. Six thousand per cent is not growth, it's a flare. When public money flows into a private institution at that rate without the oversight mechanism triggering, you have a governance failure, full stop. This is the public-institution accountability gap in miniature: the controls existed on paper and didn't fire in practice. File it alongside the AI liability story — the common thread of today is that the frameworks only matter if they actually activate when the number goes weird. That's a theme you can build real authority on.\n\nOn the global front, an update on a thread we've been tracking. Prime Minister Carney, who left midweek for his string of summits, has now arrived at the major Southeast Asian leaders' gathering — and he's walking into a worsening Rohingya refugee crisis that shows no sign of easing. For you, the relevance is less the diplomacy and more the posture: Canada is leaning hard into Asia-Pacific engagement right now, across trade, migration, and security. That pivot has downstream consequences for everything from immigration pathways to the source markets your higher-ed prospects recruit from. When a prime minister spends a week courting Southeast Asian capitals, it tends to show up eighteen months later in visa corridors and bilateral education agreements. Keep a loose eye on it.\n\nOne item from the research literature today, and it's a genuinely encouraging one. The Lancet ran commentary on the treatment of mismatch-repair-deficient endometrial cancer — a subtype that accounts for roughly a quarter of advanced or recurrent cases. The shift here is striking. Adding an immunotherapy — a PD-1 or PD-L1 inhibitor — to standard chemotherapy has transformed first-line treatment for this group, with four major trials showing dramatic improvements in progression-free survival, and longer follow-up hinting that some patients may actually be cured. The provocative question the commentary raises is whether, for this specific subgroup, chemotherapy is even still necessary in every case, or whether immunotherapy alone could spare some women the toxicity. This is women's-health news worth knowing — not because anything is settled, but because it's a concrete example of cancer care getting both more effective and potentially gentler at the same time. If this touches anyone in your circle, the headline is: the standard of care for this cancer has genuinely moved, and the conversation now is about doing more with less harm.\n\nAnd finally, close to home. The B.C. storm we've been following all week has changed character. The rains are easing, which is the good news — but the bad news is a storm surge now heading for the southwest coast, raising sea levels and posing a fresh round of flooding risk just as everyone exhaled. This matters for your Langley and Vancouver properties and for family on the coast. The pattern this week has been that each time the system looks like it's winding down, the next hazard arrives in a different form — first the rain, then the wind on Remembrance Day, now the surge. If anyone in the family is near low-lying coastal areas or the Fraser, this is the day to confirm they're watching local advisories rather than assuming the worst has passed. Surge flooding is deceptive precisely because it arrives after the rain stops and people let their guard down.\n\nThat's your Friday, Midya. The thread I'd pull on today is accountability — the physicians asking who's liable when AI errs, the OSAP controls that didn't fire, the agentic marketing tools that act before anyone approves. Every one of those is the same gap, and it's the gap your governance lens is purpose-built to close. If you write one thing this weekend, make it that: frameworks only count when they trigger. Meanwhile, the enrolment data is quietly turning Canada's way, so it's a good moment to reach out to the institutions you want in the pipeline while they're shifting from survival to strategy. And keep half an eye on the coast. Talk soon.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "summary": "Nectar shipped an AI agent that runs influencer marketing end-to-end — discovering creators, managing outreach and partnerships, and tracking campaign results.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
+      "contentAngle": "AI in marketing operations: agents are moving from drafting to executing campaigns — the 'what's your governance and brand-safety layer before you let an agent contact creators' audit angle."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Doctors want a liability shield from AI mistakes",
+      "summary": "The largest US physicians' group is lobbying for legal protections when AI tools cause patient harm, as autonomous AI takes on clinical decisions with less human oversight.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/zpPPAZJxXQiLfaYti0B5iOIMMto=/350x0:1430x1080/320x320/2026/11/12/1794506966317.jpeg",
+      "contentAngle": "Public-institution AI governance: 'who's accountable when the model is wrong' is about to hit universities and brokerages too — the accountability-framework-before-deployment thesis."
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "summary": "The Valley's self-styled futurists and the prediction markets they championed badly misread the midterms, a reminder that confident AI-era forecasting still fails at the thing it sells.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "summary": "Nectar shipped an AI agent that runs influencer marketing end-to-end — discovering creators, managing outreach and partnerships, and tracking campaign results.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
+      "contentAngle": "AI in marketing operations: agents are moving from drafting to executing campaigns — the 'what's your governance and brand-safety layer before you let an agent contact creators' audit angle."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Doctors want a liability shield from AI mistakes",
+      "summary": "The largest US physicians' group is lobbying for legal protections when AI tools cause patient harm, as autonomous AI takes on clinical decisions with less human oversight.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/zpPPAZJxXQiLfaYti0B5iOIMMto=/350x0:1430x1080/320x320/2026/11/12/1794506966317.jpeg",
+      "contentAngle": "Public-institution AI governance: 'who's accountable when the model is wrong' is about to hit universities and brokerages too — the accountability-framework-before-deployment thesis."
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "summary": "The Valley's self-styled futurists and the prediction markets they championed badly misread the midterms, a reminder that confident AI-era forecasting still fails at the thing it sells.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Target's new CMO wants the brand to get its edge back",
+      "summary": "Two months in, Target's new CMO laid out a plan to recapture cultural relevance and the brand's lost edge.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/commerce/targets-new-cmo-wants-the-brand-to-get-its-edge-back/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/Target-CMO.jpg?w=600&h=315&crop=1"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Welch's holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
+      "summary": "Welch's leaned into Y2K nostalgia with a holiday 'microdrama' aimed at Gen Z now entering parenthood, paired with an Instacart commerce integration.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "Global survey tracks universities' foreign enrolment for 2026 and 2027 outlook",
+      "summary": "Studyportals' 2026 benchmark survey finds US and UK universities struggling to recruit international students, while Canadian institutions are markedly more optimistic than a year ago.",
+      "source": "ICEF Monitor",
+      "url": "https://monitor.icef.com/2026/11/global-survey-tracks-universities-foreign-enrolment-for-2026-and-outlook-for-2027/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/11/christian-lendl-nxBucBB_ihQ-unsplash-1200.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "UK student visa applications down 31% as Russell Group warns of volatility",
+      "summary": "UK student visa applications fell 31 per cent, with the Russell Group warning the downturn and volatility will persist.",
+      "source": "The PIE News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWkwNE02RHlQQUhpYmxKTE0tMFN6S0JqSmpxZUp2UnZJaUdNVXJMWTFYbDlvSEJ2V1FQbmxtRjJrSjc5bS1SU2pTNFpSR0QycXJQbEFYRWNYaXpmNkViNl9iQU8xT09PSFNxZ1RhRnhLR2lKbWtaUllDQnhnSU1mS3BXSGwtWHBocjZRWDluZDB3N3FjTGFIS3BjS0J6Zw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "Career college saw OSAP usage rise 6,000 per cent, but wasn't cut off this spring",
+      "summary": "A private Ontario career college saw provincial student-aid usage surge 6,000 per cent yet avoided funding cuts this spring, raising public-oversight questions.",
+      "source": "Canadian Press",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObmE5TXpRMEJPUGVTSW1zWkNVY09tSjhranZ3TUY2NDkwSW5iMnFFRmo1QTZWaTdlZEtOWFYwUkRsaXVUcVBfV3pPSmRjZTh1OVNqakxjRUcyM0ZUeTlsT3FMSXF3X2dadktRYnhOZWNBXzAyWDVzc0FPTGlNcjhaRndlVkdmLXVVU3B4RWVnb2FPbHR4TTNjMF9uWUJtM19aMVVBQU1jNWVTYmdCLTNaZmlBNVIyb0lMSUhZX0Z4cm91R1BtQTljLXJfR0EwcDFkeXpDVWZWN2hTSVZ1TW9kdmpkeUJkRXczT1d1aDBQMGFKdndyQTREZHZn?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Carney heads to Southeast Asia summit as Rohingya refugee crisis worsens",
+      "summary": "An update on Carney's multi-stop Asia trip: he arrives at a Southeast Asian leaders' summit as the Rohingya refugee crisis deepens with no sign of easing.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/13/carney-heads-to-southeast-asia-summit-as-rohingya-refugee-crisis-grows-worse/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F5b3b9cf5-5666-47ee-b465-59d286043e05%2Fc69f08a628a83ecd83f80ee0403548f6e84ee57745e44ed13df9c3160c0e0daf.jpg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "Is chemotherapy still needed in all mismatch-repair-deficient endometrial cancers?",
+      "summary": "Lancet commentary: with immunotherapy added to chemo transforming mismatch-repair-deficient endometrial cancer in the RUBY and NRG-GY018 trials, experts ask whether some patients could safely skip chemotherapy entirely.",
+      "source": "The Lancet",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02199-9/fulltext?rss=yes",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Rains ease but storm surge heads for southwest B.C., posing new flood risk",
+      "summary": "An update on the B.C. storm: rains are tapering, but a storm surge threatens the southwest coast with a new round of flooding risk as sea levels rise.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/13/rains-ease-but-storm-surge-heads-for-southwest-b-c-posing-new-flood-risk/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fc5a0c837-bd51-44cb-b7de-7c8b6d76e88a%2F2b650833b93496ade22bbde7e73dc38117a53590695920e2376473a57c21d8bf.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:49",
+      "startSeconds": 15
+    },
+    {
+      "id": "c2",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:44",
+      "startSeconds": 244
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "3:03",
+      "startSeconds": 348
+    },
+    {
+      "id": "c4",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "0:49",
+      "startSeconds": 531
+    },
+    {
+      "id": "c5",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:12",
+      "startSeconds": 580
+    },
+    {
+      "id": "c6",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:54",
+      "startSeconds": 653
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Doctors want a liability shield from AI mistakes",
+    "summary": "The largest US physicians' group is lobbying for legal protections when AI tools cause patient harm, as autonomous AI takes on clinical decisions with less human oversight.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/zpPPAZJxXQiLfaYti0B5iOIMMto=/350x0:1430x1080/320x320/2026/11/12/1794506966317.jpeg",
+    "contentAngle": "Public-institution AI governance: 'who's accountable when the model is wrong' is about to hit universities and brokerages too — the accountability-framework-before-deployment thesis."
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "summary": "Nectar shipped an AI agent that runs influencer marketing end-to-end — discovering creators, managing outreach and partnerships, and tracking campaign results.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
+    "contentAngle": "AI in marketing operations: agents are moving from drafting to executing campaigns — the 'what's your governance and brand-safety layer before you let an agent contact creators' audit angle."
+  },
+  "heroImageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676"
+}
