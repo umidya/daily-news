@@ -1,188 +1,218 @@
 {
   "schemaVersion": 2,
-  "date": "Friday, November 13, 2026",
-  "dateIso": "2026-11-13",
+  "date": "Saturday, November 14, 2026",
+  "dateIso": "2026-11-14",
   "greeting": "Good morning, Midya",
-  "totalDuration": "12:26",
+  "totalDuration": "13:10",
   "currentTime": "0:00",
-  "remaining": "12 min total",
+  "remaining": "13 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today's through-line is governance catching up to AI — fast. A martech vendor just shipped an AI agent that runs influencer campaigns end-to-end, while the largest US physicians' group lobbies for liability shields when AI harms patients; both are the same story at different altitudes, and both feed your public-institution governance and AI-in-marketing lanes directly. On the enrollment side, the data is tilting your way: the new global benchmark survey shows US and UK universities struggling while Canadian institutions turn optimistic, and UK visa applications are down 31% — the competitive tailwind Canadian recruiters have been waiting for, and a sharp talking point for prospects worried the whole sector is contracting.",
-  "digestReadingTime": "6 min read",
-  "whyItMatters": "Today's through-line is governance catching up to AI — fast. A martech vendor just shipped an AI agent that runs influencer campaigns end-to-end, while the largest US physicians' group lobbies for liability shields when AI harms patients; both are the same story at different altitudes, and both feed your public-institution governance and AI-in-marketing lanes directly. On the enrollment side, the data is tilting your way: the new global benchmark survey shows US and UK universities struggling while Canadian institutions turn optimistic, and UK visa applications are down 31% — the competitive tailwind Canadian recruiters have been waiting for, and a sharp talking point for prospects worried the whole sector is contracting. Watch the OSAP career-college story too: it's a Canadian public-institution accountability failure, exactly the kind of governance gap your methodology is built to flag. Nothing clean on your watchlist orgs today — the Columbia College hits are the New York university, not the Vancouver one — so treat today as commentary-fuel day rather than client-signal day. And keep an eye on the BC coast: the storm has shifted from rain to surge-driven flood risk near your Langley and Vancouver holdings.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-13.mp3",
-  "audioDurationSeconds": 746,
-  "audioScript": "Good morning, Midya. It's Friday, November thirteenth, twenty twenty-six. Today is a commentary-fuel day more than a client-signal day — nothing clean landed on your watchlist, but there's a lot worth thinking out loud about. Here's what matters.\n\nLet's start with AI, because today two stories at completely different altitudes are actually telling the same story — and that story is your lane.\n\nThe first is small and practical. A company called Nectar launched an AI agent that automates influencer marketing end to end. Not AI that helps you draft a brief, not AI that suggests creators — an agent that discovers the creators, runs the outreach, manages the partnership, and tracks the campaign results. That's the whole workflow, handed to software. Now, on the surface this is just another martech launch. But notice what's happening here. We've spent two years watching AI move from drafting to doing. Last year the pitch was copilots — AI sitting beside the marketer. This year the pitch is agents — AI acting on the marketer's behalf, reaching out to real human creators, representing a brand in conversations the marketer never sees. And that is exactly the point where I'd want you leaning in with your audit hat on. The question nobody at these launches wants to answer is the governance question: who approves what the agent says? What's the brand-safety layer? What happens when the agent negotiates a partnership that embarrasses the brand, or contacts a creator whose values clash with the client's? For a marketing consultancy, this is the whole opening. Agentic outreach is a great pitch and a terrible thing to deploy without a control framework. That's a post for you — the 'before you let an agent talk to creators on your behalf, here's your checklist' angle. It writes itself, and it positions you as the adult in a room full of hype.\n\nThe second story is the same problem wearing a lab coat. The largest physicians' group in the United States is now lobbying for legal liability shields — protections for doctors when AI tools cause patient harm. Think about what that admission contains. The medical profession is deploying increasingly autonomous AI, the kind that makes recommendations with less and less direct human oversight, and the people on the hook are quietly asking, 'Wait — if the software is wrong and the patient is hurt, is that on me?' That is the accountability vacuum at the centre of every serious AI deployment conversation, and it's about to arrive everywhere you work. In higher ed, when an AI chatbot gives a prospective international student wrong advice about their program eligibility, who's accountable — the vendor, the institution, the enrolment officer who bought the tool? In a brokerage, when an AI tool mis-states a disclosure or a valuation, where does liability sit? Medicine is just the first regulated profession to say the quiet part out loud. For your public-institution governance lens, this is gold. The take is: accountability frameworks are not a nice-to-have you bolt on after deployment — they are the precondition for deployment. Doctors are learning that the expensive way. Universities and brokerages can learn it the cheap way, from you, first.\n\nAnd a lighter third note to close the AI block, because it's a useful corrective. MIT Technology Review ran a piece asking why Silicon Valley — the self-styled visionaries who sell certainty about the future — got the midterms so badly wrong, along with the prediction markets they championed. It's a small humility lesson with real professional value. The entire AI industry's business model is confident forecasting. And here's the whole apparatus whiffing on the one prediction everyone could check. Keep that in your back pocket when a client or a vendor tells you the model 'knows' something. Confidence is not accuracy, and the people selling the future have a documented record of getting it wrong.\n\nOn the marketing and brand front, two CMO-level stories worth your attention.\n\nTarget has a new CMO, about two months into the job, and she's already laid out the thesis: get the brand's edge back. That phrasing matters. Target spent years as the retailer that punched above its weight culturally — the design collaborations, the 'Tar-zhay' affection, the sense that it was in on the joke. Then it drifted into the muddy middle, squeezed between discounters below and experience retail above, and tangled in some culture-war crossfire that cost it goodwill on multiple sides. Watch how a new CMO tries to re-establish a distinct cultural voice from a defensive position, because that's the exact brief half your prospective clients are living — an institution or a brokerage that used to have a point of view and now sounds like everyone else. The playbook she runs over the next two quarters is a case study you'll want to be able to cite.\n\nThe second is Welch's, which is doing something quietly clever. They've built a holiday 'microdrama' — short, serialized, social-first content — leaning hard into Y2K nostalgia, aimed specifically at Gen Z consumers who are now becoming parents. And they've wired it to an Instacart integration so the nostalgia converts to a cart. That's three real trends stacked in one campaign: the shift to micro-format serialized content, the fact that Gen Z nostalgia now reaches all the way back to the early two-thousands, and the collapse of the gap between brand storytelling and the buy button. For any client wondering whether 'brand' and 'performance' are still separate budgets, this is a tidy example of them becoming the same motion.\n\nNow to higher education, and this is the block I'd actually act on, because the data is moving in Canada's favour and your prospects may not have noticed yet.\n\nStudyportals released its twenty twenty-six Global Enrolment Benchmark Survey, and the headline is a tale of two markets. US and UK universities are struggling — real, measurable barriers to recruiting international students, and pessimism about where that goes. Canadian institutions, by contrast, are markedly more optimistic than they were a year ago. That's a meaningful turn. For the last couple of years the Canadian story has been all caps and cuts and gloom about international enrolment. This survey says the sentiment has turned, and that matters for how you talk to prospects. The institutions you want to work with have spent eighteen months in crisis-management mode. If the tide is coming back in, the smart ones will shift from defence to offence — and offence needs exactly what you sell: sharper recruitment positioning, generative-search visibility so their programs actually surface when a student in São Paulo or Lagos asks an AI assistant where to study, and enrolment operations that can handle renewed demand. Being the person who spotted the turn early is worth something.\n\nAnd here's the mechanism driving it. UK student visa applications are down thirty-one per cent, with the Russell Group — Britain's elite universities — warning that the volatility is here to stay. Thirty-one per cent is not a wobble, it's a structural redirection of global student demand. This connects straight to what we covered earlier this week about Europe and Asia gaining as the 'big four' lose share. Students are voting with their applications, and when the US and UK both make themselves harder and more expensive to get into, the flow has to go somewhere. Canada is one of the obvious 'somewheres' — if, and it's a real if, our own policy environment stays navigable. That's the nuance to hold: the opportunity is real, but it's conditional on Canada not shooting itself in the foot on study permits again. Worth watching.\n\nAnd a cautionary tale from the domestic side, because it's exactly the kind of thing your governance lens exists to catch. A private career college in Ontario saw its OSAP usage — provincial student aid — surge six thousand per cent, and despite that eye-watering spike, it wasn't cut off from the funding this spring. Six thousand per cent is not growth, it's a flare. When public money flows into a private institution at that rate without the oversight mechanism triggering, you have a governance failure, full stop. This is the public-institution accountability gap in miniature: the controls existed on paper and didn't fire in practice. File it alongside the AI liability story — the common thread of today is that the frameworks only matter if they actually activate when the number goes weird. That's a theme you can build real authority on.\n\nOn the global front, an update on a thread we've been tracking. Prime Minister Carney, who left midweek for his string of summits, has now arrived at the major Southeast Asian leaders' gathering — and he's walking into a worsening Rohingya refugee crisis that shows no sign of easing. For you, the relevance is less the diplomacy and more the posture: Canada is leaning hard into Asia-Pacific engagement right now, across trade, migration, and security. That pivot has downstream consequences for everything from immigration pathways to the source markets your higher-ed prospects recruit from. When a prime minister spends a week courting Southeast Asian capitals, it tends to show up eighteen months later in visa corridors and bilateral education agreements. Keep a loose eye on it.\n\nOne item from the research literature today, and it's a genuinely encouraging one. The Lancet ran commentary on the treatment of mismatch-repair-deficient endometrial cancer — a subtype that accounts for roughly a quarter of advanced or recurrent cases. The shift here is striking. Adding an immunotherapy — a PD-1 or PD-L1 inhibitor — to standard chemotherapy has transformed first-line treatment for this group, with four major trials showing dramatic improvements in progression-free survival, and longer follow-up hinting that some patients may actually be cured. The provocative question the commentary raises is whether, for this specific subgroup, chemotherapy is even still necessary in every case, or whether immunotherapy alone could spare some women the toxicity. This is women's-health news worth knowing — not because anything is settled, but because it's a concrete example of cancer care getting both more effective and potentially gentler at the same time. If this touches anyone in your circle, the headline is: the standard of care for this cancer has genuinely moved, and the conversation now is about doing more with less harm.\n\nAnd finally, close to home. The B.C. storm we've been following all week has changed character. The rains are easing, which is the good news — but the bad news is a storm surge now heading for the southwest coast, raising sea levels and posing a fresh round of flooding risk just as everyone exhaled. This matters for your Langley and Vancouver properties and for family on the coast. The pattern this week has been that each time the system looks like it's winding down, the next hazard arrives in a different form — first the rain, then the wind on Remembrance Day, now the surge. If anyone in the family is near low-lying coastal areas or the Fraser, this is the day to confirm they're watching local advisories rather than assuming the worst has passed. Surge flooding is deceptive precisely because it arrives after the rain stops and people let their guard down.\n\nThat's your Friday, Midya. The thread I'd pull on today is accountability — the physicians asking who's liable when AI errs, the OSAP controls that didn't fire, the agentic marketing tools that act before anyone approves. Every one of those is the same gap, and it's the gap your governance lens is purpose-built to close. If you write one thing this weekend, make it that: frameworks only count when they trigger. Meanwhile, the enrolment data is quietly turning Canada's way, so it's a good moment to reach out to the institutions you want in the pipeline while they're shifting from survival to strategy. And keep half an eye on the coast. Talk soon.",
+  "digestIntro": "Today's throughline is machines that act on their own — OpenAI's new ChatGPT Wallet lets agents complete purchases, and Anthropic's Duet pushes consumer agents further. That's the leading edge of agentic commerce, and it sits squarely in your AI Search Readiness thesis: if an agent is doing the buying, the question isn't just whether a brand ranks in AI Overviews, but whether it's even transactable inside the agent's flow. For your real-estate lane, keep Wednesday's Bank of Canada speech in Edmonton on the calendar — it's your husband's market and a tell on where rates and housing sentiment are heading into year-end.",
+  "digestReadingTime": "7 min read",
+  "whyItMatters": "Today's throughline is machines that act on their own — OpenAI's new ChatGPT Wallet lets agents complete purchases, and Anthropic's Duet pushes consumer agents further. That's the leading edge of agentic commerce, and it sits squarely in your AI Search Readiness thesis: if an agent is doing the buying, the question isn't just whether a brand ranks in AI Overviews, but whether it's even transactable inside the agent's flow. For your real-estate lane, keep Wednesday's Bank of Canada speech in Edmonton on the calendar — it's your husband's market and a tell on where rates and housing sentiment are heading into year-end. On the higher-ed side, Canada's permit math is shifting again (study permits speeding up, work permits slowing), and the UBC Galloway proceedings keep institutional governance in the headlines — useful context for how public institutions behave under scrutiny. And close to home, a quiet weekend in Kamloops and Sun Peaks is a welcome break after a week of flood warnings.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-14.mp3",
+  "audioDurationSeconds": 790,
+  "audioScript": "Good morning, Midya. It's Saturday, November fourteenth, twenty twenty-six. After a week dominated by flood warnings and storm surge on the south coast, the news has quieted locally — so today we go a little deeper on the themes that actually move your work. Let's get into it.\n\nLet's start with AI, because the lead story this morning is the kind of thing you should be thinking about posting on — not just reading. OpenAI has launched something called ChatGPT Wallet. It's rolling out first to Pro subscribers in the United States, and here's what it does: it lets OpenAI's Dots agents actually make purchases on your behalf. You link an eligible card — Amex, Chase, Mastercard, Visa — and the agent can complete a transaction. Not recommend a product. Not surface three options and send you to a website. Complete the purchase, end to end.\nI want you to sit with why that matters, because it reframes the entire conversation you've been building your AI Search Readiness methodology around. For the last two years, the question brands have been asking is, 'Do we show up in AI Overviews? Does ChatGPT mention us? Are we visible in Perplexity's answers?' That's a visibility question. It's about whether the model knows you exist and says your name. But the moment an agent can transact, the question changes. It's no longer just 'Are we findable?' It becomes 'Are we buyable inside the agent's flow?' If an AI agent is doing the shopping, it needs structured product data, clean pricing, an API or a checkout path it can actually navigate, and trust signals it can parse. A brand can be perfectly optimized for AI answers and still be completely invisible at the moment of purchase because its checkout is a human-only maze.\nThat's your angle. The audit you've been selling — how does a brand appear in generative search — now gets a second chapter: is your brand agent-transactable? For your higher-ed clients this is a slower burn; nobody's buying a degree through ChatGPT Wallet this year. But for your real-estate lane and any commerce-adjacent marketing work, this is the leading edge of what's being called agentic commerce, and the firms that map it first will own the vocabulary. I'd flag this as a genuine thought-leadership post: the shift from AI visibility to AI transactability, and a simple checklist for whether a brand is ready for an agent to buy from it.\nAlongside that, Anthropic is pushing in the same direction from a different angle. Their consumer agent, Claude Duet, got a proper hands-on review this week. Duet is aimed squarely at non-coders — ordinary people who want an agent to actually do tasks, not write software. The reviewer's verdict was that it's capable and genuinely helpful, if a little neurotic in personality. The through-line with the ChatGPT Wallet news is the same: the big labs have stopped selling chatbots and started selling agents that take actions in the world. For your clients, the practical takeaway is that 'AI adoption' is quietly moving from 'we use it to draft copy' to 'we let it execute workflows.' And that's exactly where your public-institution governance lens earns its keep — because an agent that takes actions, inside a public university or a brokerage, raises real questions about authorization, data residency, and who is accountable when the agent does something wrong. Capability is racing ahead of governance again, and that gap is your billable territory.\n\nOn the marketing front, a clean executive signal worth noting: American Express has elevated Jessica Ling to Chief Marketing Officer. It's an internal promotion, which usually means continuity rather than reinvention — Amex isn't signalling a brand overhaul, it's signalling steadiness in one of the most marketing-forward financial brands out there. Why does this land in your briefing? Because CMO moves are a quiet leading indicator for where senior marketing talent and budget are flowing, and internal elevations at blue-chip brands tend to reward marketers who've proven they can tie brand to measurable growth. It's the kind of appointment worth keeping in your back pocket when you're making the case to a client that the market is maturing past the flashy-outside-hire era and back toward operators who understand the business. Not a story to act on — a data point for your read of the room.\n\nNow to higher education, where there are three threads worth your attention. First, the permit math in Canada is shifting again. According to CIC News, IRCC study permit processing times are actually falling — applications are moving faster — while work permit wait times are rising. That's a meaningful inversion for anyone advising on the international student journey. For years the friction point was getting the study permit; now that's speeding up, but the post-graduation path — the work permit that so many students are really buying when they choose Canada — is getting slower. For enrollment and recruitment messaging, this matters, because the value proposition students are weighing isn't just 'can I get in' — it's 'can I stay and work.' If the back end of that journey is bottlenecking, institutions and their marketing need to be honest and proactive about it rather than selling a timeline they can't deliver. It's exactly the kind of operational reality that separates credible enrollment marketing from wishful brochures.\nSecond, an update on a story we've been tracking at UBC. The former dean of arts testified this week about his role in the removal of Steven Galloway. This keeps UBC's handling of its complaints and process firmly in the public and legal spotlight. I keep flagging this one not for the specifics of the case, but because it's a live case study in how a large public institution behaves when its internal processes get dragged into open court. The reputational mechanics — how governance failures become brand crises, how process opacity compounds the damage — these are the dynamics your public-institution governance lens is built to anticipate. Watch how UBC communicates, or doesn't, as this proceeds.\nThird, a lighter but instructive piece from The PIE News, which rounded up the most bizarre reasons international students have been refused visas across major destinations. It's framed as a curiosity list, but underneath the absurdity is a serious point you can use: as refusals surge globally, the gatekeeping has become inconsistent and opaque to the point of arbitrariness. For students and the institutions recruiting them, that unpredictability is itself a product problem. When outcomes feel random, trust erodes, and trust is the entire currency of international recruitment. Worth reading for the human texture, but also as evidence for why transparency in the admissions-to-arrival journey is becoming a competitive differentiator.\n\nOver to real estate, and this is a calendar item more than a headline — but it's one for your husband's market specifically. The Bank of Canada's Deputy Governor, Toni Gravelle, is speaking this coming Wednesday, the eighteenth, to the Edmonton Chamber of Commerce. That's worth watching for two reasons. One, it's Edmonton — a core market for the brokerage — so whatever he signals about rates and housing sentiment lands directly on the ground where deals are being written. Two, it comes right after last week's chatter that the Bank may need another rate increase as energy costs ripple through the economy. A deputy governor speaking to a Western business audience, in an energy-driven province, in that context, is going to be parsed closely for any hint about the rate path into year-end. I'd keep an ear out for the actual remarks Wednesday; the setting alone tells you the Bank wants to talk to Western Canada right now, and that's not accidental. For a brokerage trying to read buyer psychology through the winter, the tone of this speech could matter more than the number.\n\nOn the wider world, two things you should be aware of as a senior leader. First, there's genuine travel chaos in the United States. The FAA issued a rare nationwide ground stop that cascaded into a second day — roughly thirty-three hundred flights cancelled as of Saturday morning, on top of thousands of delays. The cause, according to transportation officials, was outdated air-traffic-control communications equipment that got overloaded with data and simply went down. I bring this up not just for the practical reason — if you or anyone in your orbit has cross-border travel this weekend, build in serious buffer — but because it's a vivid parable for the AI conversation we just had. Here's the most advanced air system in the world brought to its knees not by something futuristic, but by legacy infrastructure that couldn't keep up. Every organization racing to bolt AI agents onto their operations is sitting on exactly this kind of aging plumbing underneath. The lesson for your clients: the shiny layer on top is only as reliable as the creaky systems beneath it. Modernization isn't glamorous, but it's the foundation everything else depends on.\nSecond, Prime Minister Carney, speaking from Manila, said Canada will not sign a trade deal with the United States that doesn't preserve a viable Canadian auto sector. He says talks are progressing, but that's his red line. For the broader Canadian economy — and therefore for consumer confidence, housing, and the mood your clients are operating in — the state of these trade negotiations is a background variable that touches almost everything. A deal that protects auto is a very different outcome for Ontario, and for national sentiment, than one that doesn't. Keep it on your radar as context, not crisis.\n\nCloser to home, it's a quieter weekend in Kamloops and Sun Peaks — which, after the week of flood warnings and wind alerts, is exactly what everyone needed. A few things worth a smile. Up the mountain, AliTunes, B.C.'s mountain music festival, is returning to Sun Peaks Resort. It's a lovely shoulder-season draw — the kind of event that keeps the village humming and local businesses busy before the full ski crowd arrives, and a nice marker that the resort's event calendar is building momentum.\nIn Kamloops, there's a feel-good follow-up from TRU. An update on the WolfPack's run at the U SPORTS women's soccer nationals that we flagged earlier in the week: the team fell to the Spartans in a tight, heartbreaking semifinal, but they'll play for national bronze. For a Kamloops program to be on that podium stage at all is a genuinely strong showing and good visibility for Thompson Rivers. And a small community note: the Kamloops Legion ran a free twenty-twenty-six membership drive that brought in three hundred and fifty new members. Their stated challenge now is retention — which, honestly, is a universal marketing truth in miniature. Acquisition is the easy part; keeping people is the whole game. Even the Legion is living the funnel.\n\nTwo final items to make sure you've seen. The first is a public-health marker with cross-border relevance: an international health organization has determined that the United States has lost its measles elimination status. That's the formal recognition of a serious slide — rolling outbreaks since early last year, falling vaccine confidence, federal distrust from senior officials, and funding cuts for response efforts, all compounding. It's a U.S. designation, but measles doesn't respect borders, and for you with family in B.C. it's a reminder that vaccine confidence and public-health capacity are not guaranteed — they can erode. Worth being aware of as flu-and-cold season settles in.\nAnd the second is a difficult but important B.C. accountability story out of the Vancouver Sun. Officers involved in the fatal shooting of Chase de Balinhard — a fifteen-year-old autistic boy — testified this week, with one officer saying he was repulsed by what happened but feared for his life. What stood out, and what makes this more than a single tragedy, is the testimony that the officers had received no training in how to de-escalate situations involving autistic people. That's a systemic gap, not an individual failing, and it's the kind of institutional accountability question that will shape policing policy in the province for some time. A hard story, but one worth knowing.\n\nThat's your Saturday, Midya. If you take one thing into the weekend, let it be the ChatGPT Wallet story — I genuinely think the shift from AI visibility to AI transactability is a post with your name on it, and being early to that language is how thought leadership gets built. Beyond that, keep Wednesday's Bank of Canada speech marked for the real-estate read, and enjoy the quiet on the mountain while it lasts. I'll talk to you tomorrow.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "summary": "Nectar shipped an AI agent that runs influencer marketing end-to-end — discovering creators, managing outreach and partnerships, and tracking campaign results.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "headline": "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
+      "summary": "OpenAI launched ChatGPT Wallet for Pro subscribers in the US, letting its Dots agents complete purchases with linked cards — a concrete step toward agents that buy, not just recommend.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
-      "contentAngle": "AI in marketing operations: agents are moving from drafting to executing campaigns — the 'what's your governance and brand-safety layer before you let an agent contact creators' audit angle."
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "contentAngle": "AI Search Readiness: agentic commerce means brands now need to be not just findable in AI answers but transactable inside the agent — the 'is your checkout agent-ready' audit angle."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Doctors want a liability shield from AI mistakes",
-      "summary": "The largest US physicians' group is lobbying for legal protections when AI tools cause patient harm, as autonomous AI takes on clinical decisions with less human oversight.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+      "headline": "Claude's Duet agent is a little neurotic and surprisingly helpful",
+      "summary": "Anthropic's Duet is a consumer-facing AI agent aimed at non-coders, the latest bid to prove agents can be genuinely useful for everyday tasks — hands-on reviews call it capable but quirky.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/zpPPAZJxXQiLfaYti0B5iOIMMto=/350x0:1430x1080/320x320/2026/11/12/1794506966317.jpeg",
-      "contentAngle": "Public-institution AI governance: 'who's accountable when the model is wrong' is about to hit universities and brokerages too — the accountability-framework-before-deployment thesis."
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200"
     },
     {
-      "id": "story-ai-2",
-      "category": "AI & Tech",
-      "headline": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "summary": "The Valley's self-styled futurists and the prediction markets they championed badly misread the midterms, a reminder that confident AI-era forecasting still fails at the thing it sells.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "American Express elevates Jessica Ling to Chief Marketing Officer",
+      "summary": "American Express promoted Jessica Ling to CMO, an internal elevation signalling continuity in brand strategy at one of the most marketing-forward financial brands.",
+      "source": "HR Today",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzJGQ2hJSVRMR19KU3BSWHZlUkxRWmVvcXRHQ0JSVVJuT2p1bmowUDh5cTNpMVlxclEyWk54Y0xyQWZ5QnA1eTZiX2pHZTVhc2Z2cHc0cGladEFXaGJjbTRBLWtmMDhsRmZtUENLQ0ZqMkZsS3h4V1lyakV1YXBhcnZxby1MbUs3Zy1zRER3?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600"
+      "thumbnailKind": "megaphone"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "summary": "Nectar shipped an AI agent that runs influencer marketing end-to-end — discovering creators, managing outreach and partnerships, and tracking campaign results.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "headline": "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
+      "summary": "OpenAI launched ChatGPT Wallet for Pro subscribers in the US, letting its Dots agents complete purchases with linked cards — a concrete step toward agents that buy, not just recommend.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
-      "contentAngle": "AI in marketing operations: agents are moving from drafting to executing campaigns — the 'what's your governance and brand-safety layer before you let an agent contact creators' audit angle."
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "contentAngle": "AI Search Readiness: agentic commerce means brands now need to be not just findable in AI answers but transactable inside the agent — the 'is your checkout agent-ready' audit angle."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Doctors want a liability shield from AI mistakes",
-      "summary": "The largest US physicians' group is lobbying for legal protections when AI tools cause patient harm, as autonomous AI takes on clinical decisions with less human oversight.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+      "headline": "Claude's Duet agent is a little neurotic and surprisingly helpful",
+      "summary": "Anthropic's Duet is a consumer-facing AI agent aimed at non-coders, the latest bid to prove agents can be genuinely useful for everyday tasks — hands-on reviews call it capable but quirky.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/zpPPAZJxXQiLfaYti0B5iOIMMto=/350x0:1430x1080/320x320/2026/11/12/1794506966317.jpeg",
-      "contentAngle": "Public-institution AI governance: 'who's accountable when the model is wrong' is about to hit universities and brokerages too — the accountability-framework-before-deployment thesis."
-    },
-    {
-      "id": "story-ai-2",
-      "category": "AI & Tech",
-      "headline": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "summary": "The Valley's self-styled futurists and the prediction markets they championed badly misread the midterms, a reminder that confident AI-era forecasting still fails at the thing it sells.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200"
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Target's new CMO wants the brand to get its edge back",
-      "summary": "Two months in, Target's new CMO laid out a plan to recapture cultural relevance and the brand's lost edge.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/commerce/targets-new-cmo-wants-the-brand-to-get-its-edge-back/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone",
-      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/Target-CMO.jpg?w=600&h=315&crop=1"
-    },
-    {
-      "id": "story-marketing-1",
-      "category": "Marketing",
-      "headline": "Welch's holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
-      "summary": "Welch's leaned into Y2K nostalgia with a holiday 'microdrama' aimed at Gen Z now entering parenthood, paired with an Instacart commerce integration.",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
+      "headline": "American Express elevates Jessica Ling to Chief Marketing Officer",
+      "summary": "American Express promoted Jessica Ling to CMO, an internal elevation signalling continuity in brand strategy at one of the most marketing-forward financial brands.",
+      "source": "HR Today",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzJGQ2hJSVRMR19KU3BSWHZlUkxRWmVvcXRHQ0JSVVJuT2p1bmowUDh5cTNpMVlxclEyWk54Y0xyQWZ5QnA1eTZiX2pHZTVhc2Z2cHc0cGladEFXaGJjbTRBLWtmMDhsRmZtUENLQ0ZqMkZsS3h4V1lyakV1YXBhcnZxby1MbUs3Zy1zRER3?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "megaphone"
     },
     {
-      "id": "story-intl_students_canada-0",
+      "id": "story-higher_ed_canada-0",
       "category": "Higher Ed",
-      "headline": "Global survey tracks universities' foreign enrolment for 2026 and 2027 outlook",
-      "summary": "Studyportals' 2026 benchmark survey finds US and UK universities struggling to recruit international students, while Canadian institutions are markedly more optimistic than a year ago.",
-      "source": "ICEF Monitor",
-      "url": "https://monitor.icef.com/2026/11/global-survey-tracks-universities-foreign-enrolment-for-2026-and-outlook-for-2027/",
+      "headline": "Work permit wait times rise as study permit processing times fall",
+      "summary": "IRCC study permit processing is speeding up while work permit waits lengthen, a shift that reshapes the timing calculus for international students planning their post-study path in Canada.",
+      "source": "CIC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2N3TW5Bd1d6YUdoVXlpakRVam5GaGJsOWYtaGJPYzBLMFZYYjBZUzEwalZVbXBWZ081RUlXN2szblRCSjYwdEdvRTZnNEtuMWZ6eWt4bC02QXdBN1BlR2VLd3REQ0JpU1Rxck9IM3NMbDZ6QzNwczNkOGEtMkNiWjM5cWgtbUtQTUJQbVp3S2NGcnFoN2lTYnl3cWxIRnVoakxzdEUtUGo3VVhESmkw0gG0AUFVX3lxTFBveFd4ajBiOW55NzVTTnJySGFReEJZeHlzbm9LeEg3aUlTczA3OTgxUmRnT3lYa1N4UHc3dkdwVE14MDZIdThWd09FOHRJR1djN19NdHJwbXJMdTJpWllXdk9NbEZvWVVSM2FtNlhnR2d4OEZkc2JDUW5JazJhYklGUFU3dUc4S1FaUlY2WkRmZmlNTHRGb0x2MHljaDhkM3BLQmhacjVjMTY2NEQwVEM4QzFZeA?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "Former UBC arts dean testifies about his role in Galloway removal",
+      "summary": "An update on the UBC file: the former arts dean testified about his role in Steven Galloway's removal, keeping UBC's handling of complaints and process under public legal scrutiny.",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGVWT2RWZkJncFBCVFVURjN4aGV4TDZxRnhkb2NDRXVTeG5KSUxTcEUwM05yRnk3N2t6aXVtVGxLUHB5RGtkTVUxR3ozMGpTZlVFU2hGV1QyaXB3T2hlb09UZzZJaFJ5SEZDOUVmakhNcW80cHpEaUFKanVQVUE2dU96ZjBTcVQ0QlQ3QVNsS21pODVSSV9RblZ1NG1fZlYtbWhjV25leE42NkFSeDZoMFBtR0Iyb19WU3JQajZSQ0FUWng4cWIxeVR3?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-2",
+      "category": "Higher Ed",
+      "headline": "5 bizarre reasons international students have been refused visas",
+      "summary": "As refusals surge across major destinations, The PIE catalogues the strangest rejection rationales from visa officers — a reminder of how opaque and inconsistent gatekeeping has become.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/5-bizarre-reasons-international-students-have-been-refused-visas/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university",
-      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/11/christian-lendl-nxBucBB_ihQ-unsplash-1200.jpg"
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2025/08/iStock-US-visas.jpg"
     },
     {
-      "id": "story-intl_students_canada-1",
-      "category": "Higher Ed",
-      "headline": "UK student visa applications down 31% as Russell Group warns of volatility",
-      "summary": "UK student visa applications fell 31 per cent, with the Russell Group warning the downturn and volatility will persist.",
-      "source": "The PIE News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWkwNE02RHlQQUhpYmxKTE0tMFN6S0JqSmpxZUp2UnZJaUdNVXJMWTFYbDlvSEJ2V1FQbmxtRjJrSjc5bS1SU2pTNFpSR0QycXJQbEFYRWNYaXpmNkViNl9iQU8xT09PSFNxZ1RhRnhLR2lKbWtaUllDQnhnSU1mS3BXSGwtWHBocjZRWDluZDB3N3FjTGFIS3BjS0J6Zw?oc=5",
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Bank of Canada's Toni Gravelle to speak in Edmonton Nov. 18",
+      "summary": "Deputy Governor Toni Gravelle addresses the Edmonton Chamber of Commerce Wednesday — a Western Canada rate-and-housing signal worth watching after last week's talk of a possible rate increase.",
+      "source": "Bank of Canada",
+      "url": "https://www.bankofcanada.ca/2026/11/speech-toni-gravelle-2026-11-18/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "university"
-    },
-    {
-      "id": "story-intl_students_canada-2",
-      "category": "Higher Ed",
-      "headline": "Career college saw OSAP usage rise 6,000 per cent, but wasn't cut off this spring",
-      "summary": "A private Ontario career college saw provincial student-aid usage surge 6,000 per cent yet avoided funding cuts this spring, raising public-oversight questions.",
-      "source": "Canadian Press",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObmE5TXpRMEJPUGVTSW1zWkNVY09tSjhranZ3TUY2NDkwSW5iMnFFRmo1QTZWaTdlZEtOWFYwUkRsaXVUcVBfV3pPSmRjZTh1OVNqakxjRUcyM0ZUeTlsT3FMSXF3X2dadktRYnhOZWNBXzAyWDVzc0FPTGlNcjhaRndlVkdmLXVVU3B4RWVnb2FPbHR4TTNjMF9uWUJtM19aMVVBQU1jNWVTYmdCLTNaZmlBNVIyb0lMSUhZX0Z4cm91R1BtQTljLXJfR0EwcDFkeXpDVWZWN2hTSVZ1TW9kdmpkeUJkRXczT1d1aDBQMGFKdndyQTREZHZn?oc=5",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "university"
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.bankofcanada.ca/wp-content/uploads/2022/01/default-og-image.jpg"
     },
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Carney heads to Southeast Asia summit as Rohingya refugee crisis worsens",
-      "summary": "An update on Carney's multi-stop Asia trip: he arrives at a Southeast Asian leaders' summit as the Rohingya refugee crisis deepens with no sign of easing.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/11/13/carney-heads-to-southeast-asia-summit-as-rohingya-refugee-crisis-grows-worse/",
+      "headline": "3,000 flights cancelled as FAA ground-stop chaos stretches into second day",
+      "summary": "A nationwide FAA ground stop blamed on outdated air-traffic communications equipment cascaded into roughly 3,300 cancellations Saturday — a stark reminder of how legacy tech underpins modern infrastructure.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/14/faa-ground-stop-saturday",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F5b3b9cf5-5666-47ee-b465-59d286043e05%2Fc69f08a628a83ecd83f80ee0403548f6e84ee57745e44ed13df9c3160c0e0daf.jpg"
+      "imageUrl": "https://images.axios.com/Os7K6GaD1hfVypeGoygqyH3SFhI=/1864x0:6955x5091/320x320/2026/11/14/1794651723742.jpeg"
     },
     {
-      "id": "story-longevity-0",
-      "category": "Longevity",
-      "headline": "Is chemotherapy still needed in all mismatch-repair-deficient endometrial cancers?",
-      "summary": "Lancet commentary: with immunotherapy added to chemo transforming mismatch-repair-deficient endometrial cancer in the RUBY and NRG-GY018 trials, experts ask whether some patients could safely skip chemotherapy entirely.",
-      "source": "The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02199-9/fulltext?rss=yes",
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Carney says Canada won't sign a U.S. trade deal without a viable auto sector",
+      "summary": "From Manila, PM Carney said trade talks with Washington are progressing but Ottawa won't accept any deal that doesn't preserve a viable Canadian auto industry.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/14/carney-says-canada-will-only-sign-a-u-s-trade-deal-that-includes-viable-auto-sector/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "leaf"
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F8425db92-8812-4292-9ba0-3d8755d6eddd%2Ff1ab3d23dd9654b009d0d675140ea51747cb3ea1ba406d0d84c28a3d988b1439.jpg"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Mountain music festival AliTunes returns to Sun Peaks Resort",
+      "summary": "AliTunes, B.C.'s mountain music festival, is back at Sun Peaks Resort — a shoulder-season draw for the village and its local businesses.",
+      "source": "Kelowna Capital News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkVKNUN5N1FiWkVEOGt2MzVoU3pMRUNya1I1SXNTTjhsekZsVk93YUIxUUdPSGZVaElLd0dmRU13ZlVtcGJ2TElyaVR3bkdxUmM2QU0wZUg1MUpCQ0VncmZtaTR0TDJ2TnN1cnJBUjM2MEtqTmhpQ0pHWXhPTFMwLVdTSDhVQ0VfTDU0YVpVazlrSUUwaHpCZ2Z5SHVjek5fMVJ1eTVQS0I?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "TRU WolfPack to play for national bronze after heartbreaking semifinal loss",
+      "summary": "An update on TRU's run at U SPORTS women's soccer nationals: the WolfPack fell to the Spartans in a tight semifinal and will play for bronze — a strong showing for the Kamloops program.",
+      "source": "Thompson Rivers University",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN1NLWUlNYUpNN1dWbTdBa1h3OUgwUWlWWEk2MXVQdUExRWRfNmFST29TcG5weEoyb0JqSUkydzJNTzA0QkVXc3d6SGNYUEg5MnV4YWlESjVVMWYtSjd0bGxteGQ3alRmN3B6NmJ2MmxCbFZzOGFjWUpnR0FrOGZCYkw5RWxTQ1VCdkpzV1k2aXZiUW9zQURMN0dTcXNTNTZUaXVabDA3SGtwbzNtZkhvRlp6NndNUWg5QUxZbFkxSW1ETGI2RXdCYjNGOC1qNlR3Y2QzRkF3X3dQZWwxU2xVemxQNA?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-2",
+      "category": "Local News",
+      "headline": "Free 2026 membership drives 350 new sign-ups at Kamloops Legion",
+      "summary": "A free-membership push netted 350 new members at the Kamloops Legion; the branch now says its challenge is retention — a small but telling community-institution story.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2gyQV9KMDEzOFZHU1RPQUN5eUd4dWVudFNkYXlycDRJaWh5MzdHcml1c1VEbVJhNHlhamNacVNfN0JsZVo4alVQYTNvS05XaHVtcWwwYzJuNjRpUk55MWR3bi1VWkd4NHhud1BEREtVSVQxcmtBMUZSU0lKa244dG5tZldvaG11UkFNcXdxdEk3UjJPenBpaE05dFNaMkxqbUhNTDBQOG1HYTBYYUVrdkV6bFBjM2gtTW1PWnNfTHVVcXZDQUJrNnNDbTM?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
     },
     {
       "id": "story-misc-0",
       "category": "Misc",
-      "headline": "Rains ease but storm surge heads for southwest B.C., posing new flood risk",
-      "summary": "An update on the B.C. storm: rains are tapering, but a storm surge threatens the southwest coast with a new round of flooding risk as sea levels rise.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/11/13/rains-ease-but-storm-surge-heads-for-southwest-b-c-posing-new-flood-risk/",
+      "headline": "U.S. loses measles elimination status",
+      "summary": "An international health body determined the U.S. has lost its measles elimination status after rolling outbreaks, declining vaccine confidence and funding cuts — a public-health marker with cross-border implications.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/14/us-loses-measles-elimination-status",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fc5a0c837-bd51-44cb-b7de-7c8b6d76e88a%2F2b650833b93496ade22bbde7e73dc38117a53590695920e2376473a57c21d8bf.jpg"
+      "imageUrl": "https://images.axios.com/SKrDs4EK76oDjw-V9dkmxacaoio=/320x320/smart/2025/02/27/233209-1740699129051.jpg"
+    },
+    {
+      "id": "story-misc-1",
+      "category": "Misc",
+      "headline": "Weeping Mountie testifies he was 'repulsed' shooting at teen, feared for his life",
+      "summary": "Officers involved in the fatal shooting of 15-year-old autistic teen Chase de Balinhard testified they had no training in de-escalating situations involving autistic people — a difficult B.C. policing-accountability case.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/weeping-mountie-testifies-he-was-repulsed-shooting-at-teen-boy-but-feared-for-his-life",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars"
     }
   ],
   "audioChapters": [
@@ -190,70 +220,76 @@
       "id": "c1",
       "title": "AI & Tech",
       "category": "AI & Tech",
-      "duration": "3:49",
-      "startSeconds": 15
+      "duration": "3:15",
+      "startSeconds": 17
     },
     {
       "id": "c2",
       "title": "Marketing & Business",
       "category": "Marketing",
-      "duration": "1:44",
-      "startSeconds": 244
+      "duration": "0:56",
+      "startSeconds": 212
     },
     {
       "id": "c3",
       "title": "Higher Education",
       "category": "Higher Ed",
-      "duration": "3:03",
-      "startSeconds": 348
+      "duration": "2:34",
+      "startSeconds": 269
     },
     {
       "id": "c4",
-      "title": "Global News",
-      "category": "Global",
-      "duration": "0:49",
-      "startSeconds": 531
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:07",
+      "startSeconds": 423
     },
     {
       "id": "c5",
-      "title": "Longevity",
-      "category": "Longevity",
-      "duration": "1:12",
-      "startSeconds": 580
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:50",
+      "startSeconds": 490
     },
     {
       "id": "c6",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:17",
+      "startSeconds": 600
+    },
+    {
+      "id": "c7",
       "title": "Misc",
       "category": "Misc",
-      "duration": "0:54",
-      "startSeconds": 653
+      "duration": "1:26",
+      "startSeconds": 678
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "Doctors want a liability shield from AI mistakes",
-    "summary": "The largest US physicians' group is lobbying for legal protections when AI tools cause patient harm, as autonomous AI takes on clinical decisions with less human oversight.",
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+    "headline": "Claude's Duet agent is a little neurotic and surprisingly helpful",
+    "summary": "Anthropic's Duet is a consumer-facing AI agent aimed at non-coders, the latest bid to prove agents can be genuinely useful for everyday tasks — hands-on reviews call it capable but quirky.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://images.axios.com/zpPPAZJxXQiLfaYti0B5iOIMMto=/350x0:1430x1080/320x320/2026/11/12/1794506966317.jpeg",
-    "contentAngle": "Public-institution AI governance: 'who's accountable when the model is wrong' is about to hit universities and brokerages too — the accountability-framework-before-deployment thesis."
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200"
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-    "summary": "Nectar shipped an AI agent that runs influencer marketing end-to-end — discovering creators, managing outreach and partnerships, and tracking campaign results.",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "headline": "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
+    "summary": "OpenAI launched ChatGPT Wallet for Pro subscribers in the US, letting its Dots agents complete purchases with linked cards — a concrete step toward agents that buy, not just recommend.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
-    "contentAngle": "AI in marketing operations: agents are moving from drafting to executing campaigns — the 'what's your governance and brand-safety layer before you let an agent contact creators' audit angle."
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "contentAngle": "AI Search Readiness: agentic commerce means brands now need to be not just findable in AI answers but transactable inside the agent — the 'is your checkout agent-ready' audit angle."
   },
-  "heroImageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676"
+  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
 }
