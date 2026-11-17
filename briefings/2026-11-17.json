@@ -1,0 +1,289 @@
+{
+  "schemaVersion": 2,
+  "date": "Tuesday, November 17, 2026",
+  "dateIso": "2026-11-17",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "14:13",
+  "currentTime": "0:00",
+  "remaining": "14 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's dominant thread is the international-student reset, and it cuts straight through your higher-ed lane. The U.S. just posted an 18% drop in new international enrolment while a federal court tossed the four-year visa cap — and Canada quietly extended its study-permit cap through 2029 with Indian permits down 66%.",
+  "digestReadingTime": "7 min read",
+  "whyItMatters": "Today's dominant thread is the international-student reset, and it cuts straight through your higher-ed lane. The U.S. just posted an 18% drop in new international enrolment while a federal court tossed the four-year visa cap — and Canada quietly extended its study-permit cap through 2029 with Indian permits down 66%. For enrollment clients, the competitive map is being redrawn in real time: Germany, not Canada, is now pulling share, and that changes the recruitment narrative you help institutions tell. On the AI side, two stories give you genuine thought-leadership fuel — Columbia's inertia on AI in admissions, and a mortgage-industry protocol for when human reviewers disagree with AI. Both are governance stories dressed as operations stories, which is exactly your wheelhouse. Watch the enrolment economics closely; the budget pain hitting smaller U.S. colleges is the same pressure Canadian institutions will feel if the cap bites, and that pressure is what loosens procurement for exactly the kind of work you sell.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-17.mp3",
+  "audioDurationSeconds": 853,
+  "audioScript": "Good morning, Midya. It's Tuesday, November seventeenth, twenty twenty-six, and the headline today is a global reshuffle of where international students actually want to go — which lands squarely in your higher-ed lane. Let's get into it.\n\nWe'll start with international education, because there were enough data points overnight to redraw the map, and you should see all of them together rather than one at a time.\n\nThe anchor number comes from the Open Doors twenty twenty-six report, covered sharply by Axios. New international enrolment at U.S. colleges and universities fell eighteen percent during the twenty twenty-five to twenty-six academic year. Total international enrolment slipped three percent, so the headline isn't a mass exodus of students already in the system — it's the top of the funnel collapsing. Fewer new students arriving. And because international students typically pay significantly higher tuition than domestic ones, that eighteen-percent drop isn't a demographic footnote, it's a budget event. Axios is blunt about who absorbs the pain: smaller colleges and the towns built around them, where international tuition quietly cross-subsidizes domestic students and keeps the lights on. This is the part I want you to hold onto, because it's the same mechanism that operates in Canada. When the high-margin segment of enrolment contracts, the institution doesn't just lose that revenue — it loses the subsidy that was propping up everything else. That financial pressure is precisely what loosens procurement for the kind of enrollment and brand work you sell. Austerity and transformation spending travel together more often than people expect.\n\nNow layer on the second story, and this one is about reputation more than policy. A piece out of the Waterloo Region Record asks why international students are increasingly choosing Germany over Canada. The short version: affordability, clearer work rights, and above all, policy stability. Germany is being read as predictable, and Canada — fairly or not — is being read as a country that keeps changing the rules. For a student and a family making a six-figure, multi-year bet, predictability is a feature they will pay for. I want you to sit with that framing because it's a gift for your thought-leadership pipeline. The story Canadian institutions have told for a decade — safe, welcoming, a path to stay — is being quietly out-competed not on quality but on consistency. If you're advising an enrollment team, the question isn't \"how do we market harder,\" it's \"how do we signal stability in a market that no longer believes our policy environment is stable.\" That's a brand-architecture problem, and it's a more interesting one than a campaign brief.\n\nThird, the Canadian hard data. IRCC has confirmed the study-permit cap holds at roughly one hundred fifty thousand through twenty twenty-nine, and Indian study permits are down sixty-six percent. Sixty-six percent. For any Canadian institution that built its international model on the India pipeline — and a great many did — that is not a dip to wait out, it's a structural change that now has a multi-year runway attached to it. The cap being extended to twenty twenty-nine removes the \"this is temporary\" excuse. Institutions have to plan as if this is the new baseline, which means diversifying source markets, rethinking program mix, and in some cases confronting whether the revenue model survives at all. If you're building enrollment advisory work, this is the environment that makes a governance-and-strategy conversation urgent rather than optional.\n\nAnd fourth, a wildcard from south of the border that matters for the competitive picture. A U.S. federal court in Massachusetts struck down the Trump administration's rule that would have capped international student stays at four years, ending the so-called Duration of Status policy. The judge called the rule arbitrary and capricious. In the near term this is a modest stabilizer for the U.S. — it removes one source of uncertainty for students already weighing American schools. But notice the irony against that eighteen-percent enrolment drop: the courts are walking back restrictions precisely because the damage is becoming visible. The policy pendulum is swinging, and it swings in both countries. The lesson for your clients is that the entire North American international-education market is being governed by whiplash right now, and the institution that can credibly promise a student \"we will be steady even when the policy isn't\" owns a real advantage.\n\nNow to AI, and today both stories are governance stories wearing operations clothing — which is exactly the intersection you've been building your point of view around.\n\nThe first is from Columbia's student newspaper, and the finding is almost more interesting for what didn't happen. The reporting is that even as AI has genuinely upended college admissions — reshaping how applicants write essays, how they research schools, how outreach gets personalized — Columbia's admissions office has made very few structural changes in response. Read that as a case study in institutional inertia. The applicant behaviour changed overnight; the institution's process, policy, and evaluation framework did not. This is the governance gap you talk about, made concrete. When an admissions team keeps running a process designed for a pre-AI applicant pool, two things happen: they lose the ability to tell a genuine signal from an AI-generated one, and they expose themselves to fairness and defensibility questions they haven't thought through. There's a real content piece here for you — the audit-checklist angle for higher-ed enrollment. Not \"AI is coming for admissions,\" which everyone has said, but the sharper version: here is what an enrollment office should actually have in place — disclosure policy, evaluation recalibration, a documented stance on AI-assisted applications — before it's forced to react. Columbia is the cautionary example precisely because it's prestigious and still behind. Prestige buys you time; it doesn't buy you a framework.\n\nThe second AI story is from HousingWire, and it's one of the more useful operational pieces I've seen in a while because it's about the unglamorous part everyone skips: what happens when a human reviewer disagrees with the AI. In mortgage lending, they've started formalizing an adjudication protocol — a method to preserve the evidence, assign clear authority for who makes the final call, and track the time spent on overrides. That sounds procedural, but it's actually the whole governance question in miniature. Most organizations deploy an AI tool and never define what happens at the moment of disagreement, which is the exact moment that creates legal, fairness, and accountability exposure. The override is where the risk lives. This is a near-perfect template for your real-estate operations lane, and it generalizes well beyond mortgages — a brokerage adopting AI for lead scoring or document review faces the identical question. The content angle practically writes itself: before you deploy AI in any regulated workflow, you need a documented override protocol that preserves an audit trail. Pair that with your public-institution governance lens and you've got a framework that travels across real estate, higher ed, and the public sector with only the nouns changing.\n\nStaying in that same HousingWire orbit for real estate, there's a companion piece arguing that the next housing crisis could be a cyberattack rather than a rate shock. The thesis is that mortgage servicing sits on top of enormous pools of borrower data and escrow flows, and that infrastructure has become the soft target. The recommended safeguards are zero-trust design and faster vulnerability patching. Now, this is a U.S.-framed story, and the specific numbers don't map cleanly onto the Canadian market, so I'm not handing it to you as a client talking point. I'm flagging it as a theme to watch, because it rhymes with something you already care about — data residency and institutional data governance. The same logic that makes you ask a BC public institution where its data lives applies to a brokerage holding financing and personal information. As the industry races to adopt AI tools that ingest ever more client data, the security surface grows faster than most small brokerages are equipped to defend. For your husband's brokerage world and for any real-estate client, the uncomfortable question is simple: who has audited where the client data goes and who can touch it? That's a governance conversation, not an IT one, and it's increasingly yours to have.\n\nOn the marketing and business side, two things worth your attention.\n\nFirst, a genuinely fun craft example: Meow Mix, the Smucker's cat-food brand, built a multichannel campaign around reviving iconic internet cat memes — Keyboard Cat, Huh Cat — with fictionalized behind-the-scenes videos for each character. On the surface it's a cute nostalgia play. But look at the mechanism, because it's instructive. They're not inventing brand characters from scratch; they're borrowing cultural memory the audience already owns and giving it a narrative frame. In an attention economy where earning net-new recognition is brutally expensive, leasing existing cultural equity is a shortcut worth understanding. The caution, of course, is that borrowed culture ages fast and can feel try-hard if the brand doesn't have permission to play in that space. File it as a craft reference for how established brands buy relevance rather than build it.\n\nSecond, and more consequential for how you think about leadership, Axios frames the campaign to reinstate Jensen Huang at Nvidia as a genuine test of whether America's superstar CEOs can still be held accountable at all. The deeper question is whether extraordinary success plus political alignment has made a certain class of founder effectively untouchable — beyond the reach of boards, regulators, or courts. You don't have a direct stake in Nvidia's governance, but this is the cultural backdrop against which every \"indispensable leader\" narrative now plays out, and it's worth tracking as the accountability norms of the whole tech sector get renegotiated in public.\n\nGlobally, three developments to keep you oriented as a senior leader.\n\nThe biggest is the first-ever trilateral summit between Trump, Xi, and Putin. The stated agenda is to open discussion on nuclear disarmament, but Western diplomats are visibly anxious, worried Trump could go off-script on Ukraine or Taiwan and take positions that undermine allied interests. Whatever actually happens, the signal is that the architecture of great-power diplomacy is being improvised live, and that uncertainty ripples into trade, currencies, and supply chains — the macro weather your clients operate in.\n\nCloser to home, Prime Minister Carney is at the APEC summit in China, where the Canada-China trade relationship got a modest thaw: Xi opened more pork market access while Carney loosened some steel restrictions, and Carney is also meeting Mexico's President Sheinbaum. Both leaders are maneuvering around Trump-driven trade turbulence, and the subtext is a hedge — Canada quietly diversifying its trade relationships because over-reliance on the U.S. now carries visible political risk. For anyone advising businesses on the Canadian economy, that diversification instinct is the story to watch build.\n\nAnd a sharp one on the chip-control front: the U.S. has confirmed an investigation into a Singapore-based firm called Megaspeed, suspected of shipping high-end Nvidia AI chips into China in violation of export rules. This is the enforcement layer of the AI arms race — the compute that trains frontier models is now a controlled commodity, and the smuggling economy around it is becoming a geopolitical flashpoint. It's a reminder that the AI boom you advise clients to adopt sits on top of a hardware supply chain that is now openly contested.\n\nTwo items from STAT News on the health front, both worth a glance.\n\nThe first is a family-safety flag more than a research finding. Tobacco companies are test-marketing flavoured nicotine tablets that melt in your mouth and deliver a buzz as discreetly as popping a mint. Public-health advocates are alarmed, and the reason is obvious — discreet, flavoured, mint-like delivery is a formula tailor-made to slip past the detection of parents and teachers. If you've got younger family members in BC, this is the kind of product that shows up quietly, and it's worth being aware the category exists before it's on a shelf near you.\n\nThe second is a cautious note of progress in gene therapy. After an unexpected patient death in a trial aimed at crossing the blood-brain barrier to treat a brain disease, researchers at Capsida say they've identified a better way to mitigate the risks. I flag it not because it's actionable, but because it's a reminder of how the riskiest frontier medicine advances — through sobering setbacks that genuinely do inform safer approaches. Measured optimism, not hype.\n\nThat's your Tuesday, Midya. If you only act on one thing today, let it be the international-education picture — the eighteen-percent U.S. drop, the sixty-six-percent collapse in Indian permits to Canada, and the Germany-over-Canada narrative are three facets of the same stability problem, and that's a thought-leadership piece you could own before anyone else frames it that way. The AI stories reinforce your core thesis: the risk isn't adoption, it's the ungoverned override and the unchanged process. Keep your eye on the budget pressure under all of it — that's where the work comes from. I'll be back tomorrow.",
+  "topStories": [
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "New international enrolment in the U.S. fell 18% — and the slide is continuing",
+      "summary": "Open Doors 2026 data shows new international enrolment down 18% in 2025/26, costing the U.S. economy billions and hitting smaller college towns hardest as higher-tuition students disappear from budgets.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/16/international-student-enrollment-decline-college-budgets",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://images.axios.com/n6HOgybUZGGrn8eo1L9x77Sq-RM=/320x320/smart/2023/09/29/195812-1696017492120.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "Canada extends 150,000 study-permit cap to 2029; Indian permits down 66%",
+      "summary": "IRCC confirmed the international student cap holds through 2029, with Indian study permits collapsing 66% — reshaping the recruitment math for every Canadian institution dependent on that pipeline.",
+      "source": "Careers360 (Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZU8tR2xWcmk0b0dGUzU2YXU5R29SbWphSlJ6Mms3bU1vMEY3UFFOMmVNbjBrN3lJaDN5enVRYWN1cVIzN0tNUVFFdTRxV0I3bGRjVDUxSklmZUdrb1ZtaldaVGlMZXZlRTJvTEY0N2pwRlNRVGhKR1RHUXB2QUdpN2NFUl9UX0xWamp4eW9HTjhiNDIzR1o3X0RxNHVYVVZGbDZDY0lSdWhZcVRodVV4bVpwck5lem11WTZqRnBEWWtBbS1tSUdhSEJCSUt3WnJNNV8wejNHRmY5NGRMWUk2X0tZYlZleG5xVlhKedIB8gFBVV95cUxOWWtiVnhMaWJJY2xBcER5Z2k4cWVYUXJaSmVBVk1kTDBiYjZ5a1lvbDExNko3dUs3RmhqM1lOa2p5UTY1UXpkMGFBSnVOdC0yMHg1bGlBbm9JU3ZnU2tscVZxYl9ia2I5cXJFZkI2UWIzWXI2QzNiem5UaVh4VnpodnRsUUtqR3BwUUVKd0VvSVFRQjdKN2RhUkRJckJqbzJEcDJQR3RWd1ptcmdfeVIzbmxNTzFNQmpfMWc1R2tmYlpqdHhDaTV0dnVrNy1qY2RrY0pqbm5JandjNDFDSzltYi11MEpoQ3BqMF9vcjExUVk5Zw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "U.S. federal court scraps Trump's four-year limit on international students' stays",
+      "summary": "A Massachusetts federal judge struck down DHS's rule ending Duration of Status as \"arbitrary and capricious,\" restoring open-ended stays for international students, exchange visitors and foreign media.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/federal-court-scraps-trumps-four-year-limit-on-international-students-stays/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2019/12/US-flag-GPA-Photo-Archive.jpg"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "New international enrolment in the U.S. fell 18% — and the slide is continuing",
+      "summary": "Open Doors 2026 data shows new international enrolment down 18% in 2025/26, costing the U.S. economy billions and hitting smaller college towns hardest as higher-tuition students disappear from budgets.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/16/international-student-enrollment-decline-college-budgets",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://images.axios.com/n6HOgybUZGGrn8eo1L9x77Sq-RM=/320x320/smart/2023/09/29/195812-1696017492120.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "Canada extends 150,000 study-permit cap to 2029; Indian permits down 66%",
+      "summary": "IRCC confirmed the international student cap holds through 2029, with Indian study permits collapsing 66% — reshaping the recruitment math for every Canadian institution dependent on that pipeline.",
+      "source": "Careers360 (Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZU8tR2xWcmk0b0dGUzU2YXU5R29SbWphSlJ6Mms3bU1vMEY3UFFOMmVNbjBrN3lJaDN5enVRYWN1cVIzN0tNUVFFdTRxV0I3bGRjVDUxSklmZUdrb1ZtaldaVGlMZXZlRTJvTEY0N2pwRlNRVGhKR1RHUXB2QUdpN2NFUl9UX0xWamp4eW9HTjhiNDIzR1o3X0RxNHVYVVZGbDZDY0lSdWhZcVRodVV4bVpwck5lem11WTZqRnBEWWtBbS1tSUdhSEJCSUt3WnJNNV8wejNHRmY5NGRMWUk2X0tZYlZleG5xVlhKedIB8gFBVV95cUxOWWtiVnhMaWJJY2xBcER5Z2k4cWVYUXJaSmVBVk1kTDBiYjZ5a1lvbDExNko3dUs3RmhqM1lOa2p5UTY1UXpkMGFBSnVOdC0yMHg1bGlBbm9JU3ZnU2tscVZxYl9ia2I5cXJFZkI2UWIzWXI2QzNiem5UaVh4VnpodnRsUUtqR3BwUUVKd0VvSVFRQjdKN2RhUkRJckJqbzJEcDJQR3RWd1ptcmdfeVIzbmxNTzFNQmpfMWc1R2tmYlpqdHhDaTV0dnVrNy1qY2RrY0pqbm5JandjNDFDSzltYi11MEpoQ3BqMF9vcjExUVk5Zw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "U.S. federal court scraps Trump's four-year limit on international students' stays",
+      "summary": "A Massachusetts federal judge struck down DHS's rule ending Duration of Status as \"arbitrary and capricious,\" restoring open-ended stays for international students, exchange visitors and foreign media.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/federal-court-scraps-trumps-four-year-limit-on-international-students-stays/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2019/12/US-flag-GPA-Photo-Archive.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-3",
+      "category": "Higher Ed",
+      "headline": "Why international students are choosing Germany over Canada",
+      "summary": "Students citing affordability, work rights and policy stability are increasingly picking Germany over a Canada seen as tightening and unpredictable — a direct challenge to the recruitment story Canadian schools tell.",
+      "source": "The Record (Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHJNMkMwODNYaVpETFo0UkJHUVJxbnBaUXZtNEdXX19UVnFnbGlYTU9SQnFVODJrQWo1SG9FTGxWcG9aWEx6MG5tU0kwaGp4M0JMWDF0OWxfUVVaUkNlenA4Um1JWG15RGVNQlVIeXNHUnpwN2dKNVpHWjlzNVNpRVRrTzFKR1czM2h3TUpMSnBMWG9yYWRqbjhMTDNfelkyYTI3RnVnY3JqOVUwb1pVa0FHOFJ3czhZS2c?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Columbia has barely changed admissions even as AI upended the applicant pool",
+      "summary": "Columbia's student paper reports the admissions office has made few structural changes despite AI now shaping essays, outreach and applicant behaviour — a case study in institutional inertia on AI governance.",
+      "source": "Columbia Daily Spectator (Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2RKeVVFM2Vsa3dibThxQms5cERKd1RjTHF0Nm9IYjJ1c2pUT1l1Z3RRU0YxVVNId0wxWXBocDg2NWJpSld5WTZkemFUZWhUeTNORUtEdjNtMEhMR2FOeVJmZ3UyOTRWbWZ3d0hNaFJTWEZjNGVqeWFjWE5ELTZLd1VmcnN2c1FmbElyRldNN3hHSTBzZ2JZdDAwRkdfVTF4b3Rzb1JBdnN4RS03aV9EUWZfb243WUQ2b1lnMzdNRkpVdw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "contentAngle": "AI in higher-ed enrollment: admissions offices letting AI reshape the applicant pool without updating policy — the governance-gap audit angle."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "A practical protocol for when mortgage reviewers disagree with AI",
+      "summary": "HousingWire lays out an adjudication method to preserve evidence, assign human authority and track override time when loan reviewers overrule AI — a template for defensible human-in-the-loop AI ops.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/ai-reviewer-dispute-protocol/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Contributors-Piece-2026-11-09T161630.764.png",
+      "contentAngle": "AI in real estate operations: brokerages and lenders need a human-override adjudication protocol before deploying AI review — the accountability-trail angle."
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "The next housing crisis could be a cyberattack, not a rate shock",
+      "summary": "HousingWire argues mortgage servicing's exposure to borrower data and escrow flows makes cyber risk the under-watched threat, pushing zero-trust design and faster vulnerability patching as safeguards.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/mortgage-servicing-cyber-risk/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Contributors-Piece-2026-11-09T162147.757.png"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Meow Mix revives iconic cat memes for a multichannel campaign",
+      "summary": "Smucker's cat-food brand built fictional behind-the-scenes videos for internet-famous characters like Keyboard Cat and Huh Cat — a case study in mining nostalgia and internet culture for brand reach.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/meow-mix-reimagines-iconic-cat-memes-for-multichannel-campaign/874724/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Push to reinstate Jensen Huang tests whether superstar CEOs can be held accountable",
+      "summary": "The campaign to restore Huang at Nvidia becomes a referendum on whether boards, regulators or Congress can still rein in indispensable founder-CEOs with vast wealth and political clout.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-accountability-power",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://images.axios.com/0O_l3GpjzapuylRoVPNmHBk6Rsk=/531x0:1611x1080/320x320/2026/11/09/1794256138501.jpeg"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "U.S. allies on edge as Trump heads to first-ever summit with Xi and Putin",
+      "summary": "Trump's stated goal is nuclear-disarmament talks, but European and Western diplomats fear off-script positions on Ukraine or Taiwan at the unprecedented trilateral meeting.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/Gv9pP0kL_SJ3iPgMrYrB_lrynVE=/183x0:1263x1080/320x320/2025/12/10/1765405167165.jpeg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Carney meets Sheinbaum in China as Canada-China trade deal is extended",
+      "summary": "At the APEC summit, Xi opened more pork access as Carney loosened steel restrictions; the PM also meets Mexico's Sheinbaum as both countries navigate Trump-driven trade turbulence.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/17/carney-and-sheinbaum-set-to-meet-in-china-as-both-countries-navigate-trumps-tumult/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F66be3a28-1ffb-4da1-89ce-6d7b8b069dea%2F0929a57753a08b4d0482c1a3629c452554966d82255b6b8ebc293981a8b33793.jpg"
+    },
+    {
+      "id": "story-global_business_tech-2",
+      "category": "Global",
+      "headline": "U.S. confirms investigation into tech firm Megaspeed over Nvidia chip diversion",
+      "summary": "Washington is probing Singapore-based Megaspeed, suspected of shipping high-end Nvidia AI chips to China in violation of export rules — another front in the chip-control fight.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "STAT News: flavoured nicotine tablets emerge as tobacco's next discreet product",
+      "summary": "STAT reports tobacco firms are test-marketing melt-in-the-mouth flavoured nicotine tablets that deliver a buzz as quietly as a mint, alarming public-health advocates over youth uptake.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/11/nicotine-melts_perlz2_2-645x645.jpg"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "STAT News: progress reported after death in brain-disease gene-therapy trial",
+      "summary": "Following an unexpected patient death in a trial crossing the blood-brain barrier, researchers at Capsida say they have identified a better way to mitigate the risks.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_331634765-645x645.jpeg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "4:29",
+      "startSeconds": 14
+    },
+    {
+      "id": "c2",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "2:55",
+      "startSeconds": 284
+    },
+    {
+      "id": "c3",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:20",
+      "startSeconds": 459
+    },
+    {
+      "id": "c4",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:40",
+      "startSeconds": 539
+    },
+    {
+      "id": "c5",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "1:49",
+      "startSeconds": 638
+    },
+    {
+      "id": "c6",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:08",
+      "startSeconds": 747
+    }
+  ],
+  "upNext": {
+    "id": "story-intl_students_canada-1",
+    "category": "Higher Ed",
+    "headline": "Canada extends 150,000 study-permit cap to 2029; Indian permits down 66%",
+    "summary": "IRCC confirmed the international student cap holds through 2029, with Indian study permits collapsing 66% — reshaping the recruitment math for every Canadian institution dependent on that pipeline.",
+    "source": "Careers360 (Google News)",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZU8tR2xWcmk0b0dGUzU2YXU5R29SbWphSlJ6Mms3bU1vMEY3UFFOMmVNbjBrN3lJaDN5enVRYWN1cVIzN0tNUVFFdTRxV0I3bGRjVDUxSklmZUdrb1ZtaldaVGlMZXZlRTJvTEY0N2pwRlNRVGhKR1RHUXB2QUdpN2NFUl9UX0xWamp4eW9HTjhiNDIzR1o3X0RxNHVYVVZGbDZDY0lSdWhZcVRodVV4bVpwck5lem11WTZqRnBEWWtBbS1tSUdhSEJCSUt3WnJNNV8wejNHRmY5NGRMWUk2X0tZYlZleG5xVlhKedIB8gFBVV95cUxOWWtiVnhMaWJJY2xBcER5Z2k4cWVYUXJaSmVBVk1kTDBiYjZ5a1lvbDExNko3dUs3RmhqM1lOa2p5UTY1UXpkMGFBSnVOdC0yMHg1bGlBbm9JU3ZnU2tscVZxYl9ia2I5cXJFZkI2UWIzWXI2QzNiem5UaVh4VnpodnRsUUtqR3BwUUVKd0VvSVFRQjdKN2RhUkRJckJqbzJEcDJQR3RWd1ptcmdfeVIzbmxNTzFNQmpfMWc1R2tmYlpqdHhDaTV0dnVrNy1qY2RrY0pqbm5JandjNDFDSzltYi11MEpoQ3BqMF9vcjExUVk5Zw?oc=5",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "university"
+  },
+  "mainStory": {
+    "id": "story-intl_students_canada-0",
+    "category": "Higher Ed",
+    "headline": "New international enrolment in the U.S. fell 18% — and the slide is continuing",
+    "summary": "Open Doors 2026 data shows new international enrolment down 18% in 2025/26, costing the U.S. economy billions and hitting smaller college towns hardest as higher-tuition students disappear from budgets.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/16/international-student-enrollment-decline-college-budgets",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "university",
+    "imageUrl": "https://images.axios.com/n6HOgybUZGGrn8eo1L9x77Sq-RM=/320x320/smart/2023/09/29/195812-1696017492120.jpg"
+  },
+  "heroImageUrl": "https://images.axios.com/n6HOgybUZGGrn8eo1L9x77Sq-RM=/320x320/smart/2023/09/29/195812-1696017492120.jpg"
+}

@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:36:22 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, November 16, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-16.html</link>
-      <description>Two threads dominate today and both land squarely in your lanes. First, the international-student picture is turning sharply: U.S. new enrolments posted a record 18 percent drop, and Australia is tightening graduate-visa rules — which reshapes the global competitive map for Canad...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-16.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-16.mp3" length="12073728" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, November 17, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-17.html</link>
+      <description>Today's dominant thread is the international-student reset, and it cuts straight through your higher-ed lane. The U.S. just posted an 18% drop in new international enrolment while a federal court tossed the four-year visa cap — and Canada quietly extended its study-permit cap thr...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-17.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-17.mp3" length="13654272" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
