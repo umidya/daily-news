@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 2,
+  "date": "Wednesday, November 18, 2026",
+  "dateIso": "2026-11-18",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "13:04",
+  "currentTime": "0:00",
+  "remaining": "13 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's through-line is machines as the new audience and the new threat. Adweek's \"marketing to machines\" piece and the Fed's AI task-force signals both point at the same shift you're building a practice around — AI is now the intermediary between brands and buyers, and between institutions and their stakeholders. That's directly your AI Search Readiness lane, and it pairs uncomfortably with the Axios story on cheap, autonomous AI hacking tools, which is the governance risk every public institution and brokerage you advise should be stress-testing right now.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Today's through-line is machines as the new audience and the new threat. Adweek's \"marketing to machines\" piece and the Fed's AI task-force signals both point at the same shift you're building a practice around — AI is now the intermediary between brands and buyers, and between institutions and their stakeholders. That's directly your AI Search Readiness lane, and it pairs uncomfortably with the Axios story on cheap, autonomous AI hacking tools, which is the governance risk every public institution and brokerage you advise should be stress-testing right now. On the ground, Sun Peaks has pushed its opening to at least November 26 — a mild-weather story with real implications for your property and the local economy. And Canadian higher ed keeps throwing off signals worth watching: graduate permits doubling even as the cap holds, Quebec students threatening a 2027 general strike, and a quiet enrollment-deposit equity debate that's genuine content fuel for your enrollment work.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-18.mp3",
+  "audioDurationSeconds": 784,
+  "audioScript": "Good morning, Midya. It's Wednesday, November eighteenth, twenty twenty-six. The theme today is machines — as the new audience, and as the new threat — so let's get into it.\n\nStart with a story that reads like it was written for your practice. Adweek published a piece titled \"A crash course in marketing to machines.\" The premise is simple and it's exactly the shift you've been naming: customers increasingly ask AI assistants what to buy, which means the thing you now have to influence isn't a person skimming search results — it's the model deciding what evidence to surface. The old discipline was search engine optimization, where you fought for a blue link on page one. The new discipline is making sure that when ChatGPT, Perplexity, or Google's AI Mode assembles an answer, your brand is the one it cites, with the right facts, from sources the model trusts. That's your AI Search Readiness methodology, almost word for word. What's notable here is that a mainstream marketing trade is now treating this as table stakes rather than a frontier curiosity. That matters for your positioning. When the concept goes mainstream, the risk is that it also gets commoditized — everyone claims they do it, few can actually audit it. So the opening for you isn't to explain that marketing-to-machines exists; the market now accepts that. The opening is to be the person with the rigorous audit: how does a given brand actually appear across the major AI surfaces today, what's missing, and what's the governed, repeatable process to fix it. I'd treat this Adweek piece as a prompt to publish your own sharper version this week — not a reaction to it, but a \"here's what the checklist actually looks like\" piece that moves you from commentator to operator.\n\nSecond AI story, and it's about where the big institutional thinking is heading. Marc Andreessen, who is co-leading a Federal Reserve task force on artificial intelligence, made a high-profile argument this week that both the extreme techno-optimists and the AI doom-and-gloomers are wrong about the economy. His framing could shape how the Fed assesses AI's impact on growth, inflation, and interest rates. Now, you're not advising the Fed, but pay attention to why this matters for you. When central banks start formally modelling AI's economic effect, the narrative filters down fast — into how boards budget, how CMOs justify AI spend, and how public institutions frame AI adoption to their own governance committees. The useful takeaway is the middle path itself. A lot of your clients and prospects are oscillating between \"AI will replace my team\" and \"AI is overhyped, ignore it.\" The defensible executive position — the one you can help them articulate — is the Andreessen middle: AI reshapes work at the task level before it reshapes it at the headcount level, and the winners are the ones who redesign workflows, not the ones who either panic or dismiss.\n\nThird, and this is the sobering counterweight: Axios reports on the rise of AI hacking tools. Free, open-source AI tools are now letting attackers breach corporate networks in a matter of hours, running self-adjusting attack plans that probe for vulnerabilities and steal credentials — sometimes before human defenders even realize they're being targeted. The economics of cybercrime are changing because the cost of launching a sophisticated, adaptive attack is collapsing toward zero. Here's why I'm flagging it for you specifically. Every institution you advise — universities handling student data under FIPPA, brokerages handling client financials — is now exposed to a threat environment where the attacker has the same AI leverage the defender does, except the attacker doesn't have a governance committee slowing them down. This connects directly to your public-institution governance lens. When you recommend an AI tool to a higher-ed client, the question is no longer just \"is this FIPPA-compliant and is the data resident in Canada.\" It's also \"does adopting this expand the attack surface, and who owns the risk if it does.\" That's a maturity most AI vendors won't volunteer, and it's exactly the kind of question that distinguishes an advisor from a salesperson.\n\nOnto marketing and business, where the AI tension plays out in the real world. Marketing Dive reports that holiday marketing has hit an inflection point in twenty twenty-six. Brands are caught in a push-pull — consumers are simultaneously curious about and wary of AI-driven tactics, while tried-and-true plays like creator partnerships keep delivering. The real story isn't that AI is in holiday campaigns; it's that the enthusiasm has matured into discernment. Shoppers can now tell when a brand used AI to cut corners versus when it used AI to genuinely personalize or speed something up, and they punish the former. That's a cleaner version of the thesis you've been building: AI in marketing operations earns trust when it's invisible and useful, and erodes trust when it's visible and lazy. If you want a piece of thought-leadership this quarter, the holiday season is the perfect proving ground — a \"where AI actually earned its keep this holiday, and where it backfired\" retrospective, grounded in evidence rather than vendor decks.\n\nTwo quicker marketing notes. Qualcomm's CMO explained the Snapdragon brand's deal with Formula One's breakout star, Kimi Antonelli, as a deliberate bet on racing's fast-growing audience and, crucially, on measurable return. What's interesting isn't the celebrity tie-up — it's the insistence on ROI language around sponsorship, which has historically been the least measurable line in the marketing budget. That's a sign of the broader pressure every CMO is under right now to prove attribution, and it's the same pressure that makes AI-driven measurement so seductive and so risky. And Burger King ran a campaign that aimed criticism at its own restaurants — turning customer complaints into the creative itself. The CMO credits it with driving comparable-sales increases. The lesson there is older than AI but worth repeating to clients who are terrified of negative feedback: candour, handled with confidence, reads as authenticity, and authenticity still converts.\n\nNow Canadian higher education, where three signals are worth your attention. The headline one: graduate student permits have doubled in Canada even as the overall study-permit cap holds through twenty twenty-nine. Institutions have figured out that graduate recruitment sits largely outside the most restrictive parts of the cap, and they're pivoting hard toward it. This is a strategic shift with real marketing implications. If the undergraduate international funnel is constrained by federal policy, then the competitive battleground moves up-market to master's and professional programs, where the recruitment playbook is different — more selective, more employment-outcome-driven, more reliant on program reputation and research signals. Any institution serious about this needs its graduate programs to be legible to prospective students and, increasingly, to the AI tools those students use to compare options. That's your lane twice over: enrollment marketing and AI search readiness converging on graduate recruitment. If you're building higher-ed content, the \"graduate pivot\" is the story of the year, and almost nobody is writing about what it means for brand and discoverability rather than just policy.\n\nSecond signal: Quebec student protesters are calling for a general strike in twenty twenty-seven. A Montreal rally capped a week of province-wide demonstrations over tuition fees and income precarity. It's early, and Quebec has its own political dynamics, but student unrest at this scale is a reputational variable for institutions and a reminder that affordability is becoming the central enrollment narrative across the country. Which dovetails with the third story — an Inside Higher Ed piece on enrollment deposits as a hidden barrier. For low-income admitted students, the deposit itself can be a prohibitive, unexpected expense that quietly shapes who actually shows up in September. This is a yield and melt problem dressed as an equity problem, and it's genuinely under-examined. For your enrollment work, there's a sharp angle here: deposit friction distorts the yield models that recruitment teams rely on, and the students it filters out aren't random — they're disproportionately the ones institutions claim to want. There's a thoughtful, governed way to use personalized outreach to recover committed-but-stalled students without being predatory, and that's exactly the kind of nuanced position that marks you as someone who understands the enrollment machine from the inside, not just the marketing veneer on top of it.\n\nOn real estate operations, a short but relevant item from HousingWire. The argument is that done right, automated verification gives loan officers their time back — connecting income, employment, and asset data directly so that verification stops being a manual follow-up grind. I flag it because it's the brokerage-and-lending version of the exact productivity thesis you apply everywhere: AI and automation deliver real value not by replacing the professional, but by removing the low-judgment drudgery that eats their day. For your real-estate lane, that's the honest pitch to agents and brokerage leaders who are skeptical of AI — you're not here to automate the relationship, you're here to automate the paperwork around the relationship so they can spend more time on the relationship. It's a simple frame and it lands with practitioners who've been oversold on AI doing the selling.\n\nClose to home now. Sun Peaks Resort has delayed its opening day — mild temperatures and not enough natural snow mean the season now won't start until at least November twenty-sixth. This one's personal for you as a property owner, and it's a real economic story for the local community that depends on the early season. Keep an eye on it; a late start compresses the pre-holiday window that a lot of the village businesses count on, and if the mild pattern holds it becomes a conversation about snowmaking capacity and a warming baseline rather than just a slow week. Also in the area, Operation Red Nose is gearing up again in Kamloops, recruiting volunteers to offer safe rides home and keep impaired drivers off the roads through the holidays. Worth knowing it's running if you or family are out in the region over the next few weeks.\n\nGlobally, the one to track is Prime Minister Carney, speaking from Shenzhen at the APEC gathering, saying Canada's trade relations with the United States are, in his words, \"much more complex\" than with China. He added he doesn't get the sense that President Trump is uncomfortable with Canada furthering its China trade ties. Read between the lines: this is a deliberate diversification signal from Ottawa, and it matters for the broader business climate you operate in. A government actively courting non-US trade relationships changes the backdrop for everything from investment flows to the international-student pipeline that feeds your higher-ed work. It's a slow-moving story, but it's the kind of structural shift that eventually shows up in where capital and students come from.\n\nTwo quick things to close. First, a practical heads-up: Canada's Alert Ready emergency system runs its scheduled nationwide test today. You'll hear that unmistakable screeching tone across phones, TV, and radio — it's just the test, no action needed. And a lovely one to end on: researchers off the British Columbia coast are using drones to collect what they're calling \"whale snot\" — humpback respiratory samples — to assemble complete genomes without ever touching the animals. It's a neat reminder that the best applications of new technology are often the least flashy: a non-invasive way to do science that used to require disturbing the subject. Not a bad metaphor for the kind of AI adoption you advocate.\n\nIf you do one thing with today's briefing, Midya, let it be the Adweek \"marketing to machines\" piece — not to read it, but to answer it. The concept is now mainstream, which means the window to own the rigorous, auditable version of AI Search Readiness is narrowing, and you're better positioned than almost anyone to plant that flag this week. Everything else today reinforces the same arc: machines are the audience, the threat, and the productivity lever all at once, and the advisors who thrive are the ones who hold all three truths without flinching. Keep an eye on that Sun Peaks snow report, and I'll have the next one for you tomorrow.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "A crash course in marketing to machines",
+      "summary": "As buyers increasingly ask AI assistants what to purchase, brands must restructure evidence and content so generative engines surface them — the clearest mainstream articulation yet of AI search optimization.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/a-crash-course-in-marketing-to-machines/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/GettyImages-1533302708.jpg?w=600&h=315&crop=1",
+      "contentAngle": "AI Search Readiness: turn this into your signature POV — a practical audit framework for how brands appear in ChatGPT, Perplexity, and Google AI Mode, aimed at CMOs who still think in blue-link SEO."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Tech leaders tell Fed chair Warsh how AI could reshape the economy",
+      "summary": "Marc Andreessen, co-leading a Federal Reserve task force on AI, argued both the hype crowd and the doomers are wrong — a framing that could shape how central banks weigh AI's effect on growth, inflation and rates.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/HJO6bPRcOjQ5C5bUWxsmRtpmDgo=/1334x0:4000x2666/320x320/2026/11/17/1794927327608.jpeg"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "The terrifying rise of AI hacking tools",
+      "summary": "Free, open-source AI tools now let attackers breach corporate networks in hours with self-adjusting attack plans, fundamentally changing the economics of cybercrime.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/18/ai-hacking-tools-artex-cairn",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/tFkmmAwf7pQt1oKuENC_2HgKTkI=/320x320/smart/2023/09/27/005112-1695775872305.jpg"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "A crash course in marketing to machines",
+      "summary": "As buyers increasingly ask AI assistants what to purchase, brands must restructure evidence and content so generative engines surface them — the clearest mainstream articulation yet of AI search optimization.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/a-crash-course-in-marketing-to-machines/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/GettyImages-1533302708.jpg?w=600&h=315&crop=1",
+      "contentAngle": "AI Search Readiness: turn this into your signature POV — a practical audit framework for how brands appear in ChatGPT, Perplexity, and Google AI Mode, aimed at CMOs who still think in blue-link SEO."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Tech leaders tell Fed chair Warsh how AI could reshape the economy",
+      "summary": "Marc Andreessen, co-leading a Federal Reserve task force on AI, argued both the hype crowd and the doomers are wrong — a framing that could shape how central banks weigh AI's effect on growth, inflation and rates.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/HJO6bPRcOjQ5C5bUWxsmRtpmDgo=/1334x0:4000x2666/320x320/2026/11/17/1794927327608.jpeg"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "The terrifying rise of AI hacking tools",
+      "summary": "Free, open-source AI tools now let attackers breach corporate networks in hours with self-adjusting attack plans, fundamentally changing the economics of cybercrime.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/18/ai-hacking-tools-artex-cairn",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/tFkmmAwf7pQt1oKuENC_2HgKTkI=/320x320/smart/2023/09/27/005112-1695775872305.jpg"
+    },
+    {
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "Holiday marketing hits an inflection point in 2026",
+      "summary": "Brands are caught between buzzy AI tactics and proven plays like creator partnerships, with consumers showing a push-pull relationship toward AI-driven campaigns this season.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/874758/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "contentAngle": "AI in marketing operations: the \"where AI actually earns its keep vs. where it erodes trust\" take, grounded in holiday-campaign evidence rather than vendor hype."
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Why Qualcomm teamed with F1's new star for sports-marketing ROI",
+      "summary": "Snapdragon's CMO explains the brand's deal with Formula One phenom Kimi Antonelli as a bet on racing's growing audience and measurable return.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-marketing-2",
+      "category": "Marketing",
+      "headline": "Burger King's feedback campaign aims at its own restaurants",
+      "summary": "The chain turned customer complaints into a marketing push that CMO Joel Yashinsky credits with driving comparable-sales gains — a case study in using candour as brand strategy.",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/burger-kings-push-for-consumer-feedback-takes-aim-at-its-own-restaurants/874704/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone"
+    },
+    {
+      "id": "story-higher_ed_canada-0",
+      "category": "Higher Ed",
+      "headline": "Graduate student permits double in Canada as universities adapt to federal rules",
+      "summary": "Institutions are pivoting hard toward graduate recruitment — exempt from much of the cap — doubling grad permits even as overall study-permit limits hold through 2029.",
+      "source": "ImmigCanada",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdjFrUjdRdGNLdVlWNUpXQlUwckFvVEJqamZkazdxcFhNeE5fR01DbktYUlZGR1VxUHFGYThjZE1IUS1mS2dRS0ZrdnFDV3ZRbXVJSWRoVXB4X2pNdEU4VXg3UnRSM1JyR2xqUFVOQ2hrV1VzNGhjV21oWDFxZHZKdk5WLXVZNm0yOGpuMkZUekR5cUNJRzdyLWVwZlRLcUs5MWJGaUZ1bk5MZzM1YVRCX1BaQllVNE15Nk1N?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-higher_ed_canada-1",
+      "category": "Higher Ed",
+      "headline": "Quebec student protesters call for a general strike in 2027",
+      "summary": "A Montreal rally capped a week of province-wide demonstrations over tuition fees and income precarity, with organizers threatening coordinated strike action in 2027.",
+      "source": "University Affairs",
+      "url": "https://universityaffairs.ca/news/quebec-student-protesters-call-for-general-strike-in-2027/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://universityaffairs.ca/wp-content/uploads/2026/11/1920x1268-mtl-protest-1-scaled.jpg"
+    },
+    {
+      "id": "story-higher_ed_canada-2",
+      "category": "Higher Ed",
+      "headline": "Enrollment deposits: a hidden barrier",
+      "summary": "For low-income admits, the enrollment deposit can be a prohibitive, unexpected expense that quietly shapes who actually matriculates — a melt and yield lever most enrollment teams underexamine.",
+      "source": "Inside Higher Ed",
+      "url": "https://www.insidehighered.com/opinion/views/2026/11/18/enrollment-deposits-hidden-barrier-opinion",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/GettyImages-1357549438.jpg?itok=2kX9W_1X",
+      "contentAngle": "AI in higher-ed enrollment: model how deposit friction distorts yield predictions, and where personalized, governed outreach can recover otherwise-lost committed students."
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Done right, verification gives loan officers their time back",
+      "summary": "Connected income, employment and asset data cuts follow-up and keeps verification off the loan officer's plate — a productivity case for automation in brokerage and lending operations.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/verification-automation-lo-time/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Contributors-Piece-2026-11-09T162806.795.png"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Sun Peaks Resort delays opening day to at least Nov. 26",
+      "summary": "Mild temperatures and insufficient natural snow have pushed back the ski-season opening, with the resort now targeting November 26 at the earliest.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGFlb240WW9nc242cXU0N2ZFUVEwRm40YTExREN6QzVvRldYMnU3c2VEeWFLTWt4eEoycS02UkhtUUtyV0NSMVJDLXptOWVzNG1SNThwYi1KMV95Y3NRcEQ3TldFTUNBZHlaVjJfWWktWkx4TlBhR1FJQW13X2ZaLS1ocHFvMllJOHVJSEdrblZINGJtMThxQXVPenpxY3BKZGJiRXVydzNIM25DSzZGYjRjYTRWV2pMeWNtVHY4SG5JMm5jYzNDVXVkckpOZw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Operation Red Nose gears up for the holiday season in Kamloops",
+      "summary": "The volunteer safe-ride program is recruiting to keep impaired drivers off local roads through the holidays.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/17/cfjc-midday-operation-red-nose-prepares-to-hit-the-road-looking-for-volunteers-to-help-keep-roads-safe-this-holiday-season/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains",
+      "imageUrl": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2311/files/2026/11/b266e9b9-a606-4462-bd55-9a6bd0946c6d-1.png"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Carney says Canada's U.S. trade relations are 'much more complex' than with China",
+      "summary": "Speaking from Shenzhen at APEC, the prime minister said he doesn't sense Trump is uncomfortable with Canada deepening China trade ties, signalling a diversification push.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/18/carney-says-canadas-trade-relations-with-u-s-much-more-complex-than-with-china/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F0938ec26-53d5-457b-95de-59088d37925e%2F62514f045b2be5344d411f1ee9e5da6af4a06ee14ad6284c5f7679f1ca63bf52.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Canada's Alert Ready system tested nationwide Wednesday",
+      "summary": "Expect the emergency-alert tone across phones, TV and radio today as Pelmorex runs its scheduled national test — no action required.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/18/canadas-alert-ready-system-to-be-tested-across-the-country-wednesday/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F1f286e70-882d-4c2f-8ad4-2377f0f9a4f3%2F41225ce2ef169a391b946e1a799c84c65b67bfd8df3faa7da7a986fd13b45a8b.jpg"
+    },
+    {
+      "id": "story-misc-1",
+      "category": "Misc",
+      "headline": "B.C. researchers use drones to collect 'whale snot' for genome sequencing",
+      "summary": "Scientists off the B.C. coast captured humpback respiratory samples by drone to assemble a complete genome — a novel, non-invasive conservation method.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/18/researchers-on-b-c-coast-use-drones-to-collect-whale-snot-for-genome-sequencing/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F49a4eb51-2dea-4356-a35c-8d6dc6ad2b7f%2F733fc49314bd7f60084729845ce039d168b30063a74aff9257a38b5af8a96bf0.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "4:10",
+      "startSeconds": 10
+    },
+    {
+      "id": "c2",
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "2:06",
+      "startSeconds": 260
+    },
+    {
+      "id": "c3",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:38",
+      "startSeconds": 386
+    },
+    {
+      "id": "c4",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "0:55",
+      "startSeconds": 544
+    },
+    {
+      "id": "c5",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "0:53",
+      "startSeconds": 599
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "0:49",
+      "startSeconds": 652
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:44",
+      "startSeconds": 701
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Tech leaders tell Fed chair Warsh how AI could reshape the economy",
+    "summary": "Marc Andreessen, co-leading a Federal Reserve task force on AI, argued both the hype crowd and the doomers are wrong — a framing that could shape how central banks weigh AI's effect on growth, inflation and rates.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/HJO6bPRcOjQ5C5bUWxsmRtpmDgo=/1334x0:4000x2666/320x320/2026/11/17/1794927327608.jpeg"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "A crash course in marketing to machines",
+    "summary": "As buyers increasingly ask AI assistants what to purchase, brands must restructure evidence and content so generative engines surface them — the clearest mainstream articulation yet of AI search optimization.",
+    "source": "Adweek",
+    "url": "https://www.adweek.com/brand-marketing/a-crash-course-in-marketing-to-machines/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/GettyImages-1533302708.jpg?w=600&h=315&crop=1",
+    "contentAngle": "AI Search Readiness: turn this into your signature POV — a practical audit framework for how brands appear in ChatGPT, Perplexity, and Google AI Mode, aimed at CMOs who still think in blue-link SEO."
+  },
+  "heroImageUrl": "https://static-www.adweek.com/wp-content/uploads/2026/11/GettyImages-1533302708.jpg?w=600&h=315&crop=1"
+}

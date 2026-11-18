@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:36:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:35:28 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, November 17, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-17.html</link>
-      <description>Today's dominant thread is the international-student reset, and it cuts straight through your higher-ed lane. The U.S. just posted an 18% drop in new international enrolment while a federal court tossed the four-year visa cap — and Canada quietly extended its study-permit cap thr...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-17.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-17.mp3" length="13654272" type="audio/mpeg"/>
-      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, November 18, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-18.html</link>
+      <description>Today's through-line is machines as the new audience and the new threat. Adweek's "marketing to machines" piece and the Fed's AI task-force signals both point at the same shift you're building a practice around — AI is now the intermediary between brands and buyers, and between i...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-18.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-18.mp3" length="12551808" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
