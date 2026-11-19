@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:35:59 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, November 18, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-18.html</link>
-      <description>Today's through-line is machines as the new audience and the new threat. Adweek's "marketing to machines" piece and the Fed's AI task-force signals both point at the same shift you're building a practice around — AI is now the intermediary between brands and buyers, and between i...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-18.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-18.mp3" length="12551808" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, November 19, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-19.html</link>
+      <description>Today's throughline is a widening gap between what AI can do and what institutions can safely absorb. Anthropic's blockbuster market debut lands the same week bot networks are manufacturing panic around infrastructure outages — a one-two punch that sharpens your core thesis: capa...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-19.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-19.mp3" length="12557184" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

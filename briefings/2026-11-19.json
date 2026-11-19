@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 2,
+  "date": "Thursday, November 19, 2026",
+  "dateIso": "2026-11-19",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "13:04",
+  "currentTime": "0:00",
+  "remaining": "13 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's throughline is a widening gap between what AI can do and what institutions can safely absorb. Anthropic's blockbuster market debut lands the same week bot networks are manufacturing panic around infrastructure outages — a one-two punch that sharpens your core thesis: capability is racing ahead of governance, and that gap is exactly where your AI Search Readiness and public-institution governance work earns its keep. On the enrolment side, the signal is cautiously positive — Common App shows international applications ticking up even as this fall's numbers fall, and Canada is quietly sweetening the immigration math for researchers, both of which matter to the higher-ed pipeline you sell into.",
+  "digestReadingTime": "7 min read",
+  "whyItMatters": "Today's throughline is a widening gap between what AI can do and what institutions can safely absorb. Anthropic's blockbuster market debut lands the same week bot networks are manufacturing panic around infrastructure outages — a one-two punch that sharpens your core thesis: capability is racing ahead of governance, and that gap is exactly where your AI Search Readiness and public-institution governance work earns its keep. On the enrolment side, the signal is cautiously positive — Common App shows international applications ticking up even as this fall's numbers fall, and Canada is quietly sweetening the immigration math for researchers, both of which matter to the higher-ed pipeline you sell into. In real estate, seller-impersonation fraud nearly doubling in two years is a live operations problem your husband's brokerage and your RE clients should be hardening against now. Keep one eye on Carney's return from Asia and the China drug-supply warning — the trade and supply-chain backdrop is shifting under every Canadian institution you advise. Pick your two publishing moments carefully this week; the AI capability-versus-adoption gap is the one with the most durable leadership upside.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-19.mp3",
+  "audioDurationSeconds": 784,
+  "audioScript": "Good morning, Midya. It's Thursday, November nineteenth, twenty twenty-six. Today the story is the gap between what AI can do and what the rest of us can safely catch up to — and that gap runs straight through your work.\n\nLet's start with the headline that will dominate every tech feed today: Anthropic made its Wall Street debut, and it did so at a valuation north of a trillion dollars. The company behind Claude is now, overnight, one of the most valuable firms on the planet. But the framing I want you to hold onto isn't the dollar figure — it's the contradiction underneath it. Axios calls this AI's great divergence, and the phrase is worth stealing. On one side, the machines are accelerating. Researchers inside these labs are quietly revising their timelines, talking about an intelligence explosion, reconsidering how soon models might surpass human capability. On the other side, the humans and the institutions are embattled — bogged down in scandal, financial turmoil, political revolt, and this week, a string of infrastructure outages that nobody could cleanly explain. The capability curve is going vertical. The adoption and governance curve is crawling. That gap is exactly the territory you sell into.\n\nHere's why this matters for you specifically, Midya. When you walk into a higher-ed enrolment office or a brokerage and you say the binding constraint isn't access to AI, it's readiness to use it safely — this week's news is your evidence. Every one of your prospects can buy a Claude or a ChatGPT seat tomorrow. None of them can buy readiness. They can't buy a governance framework, a data-residency posture, a FIPPA-compliant workflow, or an honest audit of how their brand shows up in AI search. That's the divergence made local. So the content angle I'd flag for you today is a short, sharp piece on the capability-versus-adoption gap: a trillion-dollar model is not a trillion-dollar outcome for your client until the plumbing and the governance catch up. That's a post that positions you as the person who closes the gap, not the person selling the hype.\n\nAnd the second AI story reinforces it from the shadow side. New research shared with Axios shows that bot networks have been amplifying conspiracy theories and panic around last week's major tech outages. When a system goes down and there's no substantive explanation, bot accounts rush in to fill the void — manufacturing suspicion of coordinated cyberattacks, government cover-ups, the whole menu. The lesson for an advisor isn't about geopolitics. It's about information integrity. When your clients deploy generative tools, they inherit a trust environment where automated accounts actively manufacture doubt. For a public institution especially, that's not a hypothetical — it's a reputational risk that belongs in the governance conversation. The same muscle that lets you audit AI search visibility is the muscle that lets you stress-test how a brand survives a bad-faith information event. Worth folding into the governance lens you already sell.\n\nNow to higher education, and there's a genuinely useful early signal in the noise. Inside Higher Ed reports that even though international enrolment is down this fall, preliminary Common App data shows a nine percent uptick in international applicants for the twenty twenty-six to twenty-seven cycle. I want to be careful with that number — applicants are not deposits, and intent is not yield. But after two years of relentlessly grim headlines, a nine percent rise in the top of the funnel is the first forward-looking green shoot we've seen. For the institutions you advise, this is the moment to make sure the conversion machinery is ready, because a bigger applicant pool only helps you if your nurture, your deposit flow, and your recruitment communications are tuned to capture it. A rising tide rewards the enrolment offices that did the unglamorous operational work; it exposes the ones that didn't.\n\nThere's a Canadian policy move underneath that worth noting too. Ottawa will now let stipend- and grant-funded academic work count toward Express Entry eligibility for researchers. In plain terms, Canada is quietly sweetening the permanent-residence math for international graduate students and postdocs who do funded research. Against a backdrop where the study-permit caps have cut volumes hard, this is a deliberate repositioning toward higher-value, research-track talent. If you're advising a university on its graduate recruitment narrative, this is a concrete, sellable differentiator — Canada isn't just a place to study, it's a clearer runway to stay. That's a message worth putting in front of the right programs.\n\nAnd for contrast, look at what Germany is wrestling with. ICEF Monitor reports Germany now hosts over four hundred and twenty thousand international students, winning share from the traditional Big Four on the strength of free tuition and English-taught programs. But they have a retention problem: STEM graduates who studied in English never learn German, and they leave. The takeaway for you is strategic. Germany is winning on acquisition and losing on retention — and retention is where the economic value actually sits. For any Canadian institution tempted to compete purely on cost and access, Germany is the cautionary tale: recruitment that isn't matched by support and integration is a leaky bucket. That's a smart framing for a thought-leadership piece on why enrolment strategy has to own the full lifecycle, not just the application.\n\nTurning to real estate, there's an operations story your husband's brokerage and your RE clients should treat as urgent, not academic. HousingWire reports that seller-impersonation fraud attempts have jumped from twenty-eight percent to fifty-nine percent in just two years. Let that land — in two years, the share of transactions touched by someone pretending to be the rightful seller has more than doubled. This is no longer a niche title-insurance footnote; it's a mainstream threat to brokerage operations, and the defence is layered identity detection plus real curative work before closing. Here's the angle I'd have you develop: this is precisely where AI in real estate operations becomes a governance question, not just a productivity one. Brokerages are rushing to automate verification, but automated identity checks that fail create liability, and ones that over-collect data create privacy exposure. The playbook you could publish is how a brokerage layers AI-assisted fraud detection without either missing the impersonator or drowning the client in friction. That sits perfectly at the intersection of your real estate and governance lanes.\n\nThe second real estate note is softer but strategically sharp. HousingWire has a piece arguing that money scares people more than death — that financial fear, not just interest rates, is what freezes buyers. The reframe matters for marketing. If hesitation is emotional rather than purely economic, then the agents and brokerages who win in a slow market are the ones selling reassurance and clarity, not just listings and rate quotes. For a marketing consultant, that's a messaging insight: the brokerage brand that reduces fear outperforms the one that merely advertises inventory. It's a small story with a useful lesson about where emotion actually drives a high-stakes purchase.\n\nClose to home in Kamloops, a practical heads-up. Kamloops RCMP are out in the parking lots this week with warnings about holiday thefts from vehicles — the predictable seasonal spike as shopping ramps up and gifts get left visible on back seats. It's a small item, but it's a real one for anyone running errands in town over the next few weeks. Lock it, hide it, or take it with you. And as a quick continuity note from yesterday's briefing — Sun Peaks is still holding its ski-season opening until at least November twenty-sixth given the mild weather, so no change there to plan around.\n\nOn the wider stage, a few things a senior leader should have on the radar. The International Court of Justice ruled Thursday that the only reasonable inference from the evidence of widespread atrocities is that Myanmar intended to destroy a substantial part of the Rohingya population. It's a landmark finding on one of the gravest humanitarian cases of the era, and while it won't change operations on the ground overnight, it reshapes the legal and moral framing of the conflict in a way that will ripple through international policy.\n\nCloser to Canadian interests, Mark Carney is back in Ottawa after a whirlwind tour — four summits across Ireland, the Philippines and China. The Canadian Press pulled six takeaways, and they range from movement on pork trade to friction over online French usage. The bigger picture for you is the one we've been tracking all week: Canada is actively recalibrating its global posture, leaning into complexity with both the US and China. Every institution you advise operates downstream of that trade and diplomacy environment, whether it's international student flows or commercial real estate capital.\n\nAnd a supply-chain warning worth filing: a US national security commission is sounding the alarm that China is moving to control the entire pharmaceutical supply chain, potentially boxing the West out of future lifesaving treatments. Western drug giants have poured capital into Chinese biotechs for their pipelines, and that same capital may be handing Beijing leverage over critical medical technology. It's a slow-moving story, but it's the kind of structural dependency that eventually touches everything from drug prices to geopolitical risk.\n\nOne genuinely hopeful business note amid all that: MIT Technology Review reports Sila has signed a deal with Panasonic Energy to supply silicon-carbon anode material, potentially worth over a billion dollars. After years of high-profile failures in next-generation batteries, this is a rare signal of real momentum toward smaller, lighter, higher-density batteries. Not directly in your lane, but a useful reminder that the clean-tech story isn't dead — it's consolidating around the players who can actually ship.\n\nFor health, one carefully chosen item. STAT News ran a column from a practising cardiologist examining the STREAM trial — the blockbuster new study on deprescribing statins, meaning stopping them. And his verdict is honest puzzlement. He's not dismissing the findings, but he's flagging that the results are more complicated than the headlines suggest, and that discontinuing a statin is not a decision to make off a single study. I surface this precisely because it's cautionary rather than sensational. If anyone in your circle is on long-term cholesterol medication and sees a headline telling them it's safe to quit, the responsible read is: talk to your own physician, because even the cardiologists are still working out what this trial actually means. Source strength matters here — this is STAT reporting a real trial with appropriate skepticism, which is exactly the signal-to-noise ratio I want in your longevity feed.\n\nAnd finally, a cultural signal that ties the whole day together. Axios reports that doomsday prepping has gone mainstream. Emergency-preparedness buying is surging — not among survivalists, but among ordinary people stocking water, packing go-bags, taking inventory of non-perishables. And the fuel is specifically modern: fears of AI-led cyberattacks, power-grid fragility, and the sense that global systems are more brittle than we assumed. I flag it not because I think you need a bunker, but because it's a tell about public psychology. When a trillion-dollar AI company IPOs the same week that bot networks are spreading outage panic and people are quietly buying emergency kits, you're watching a society that senses the capability curve has outrun its own sense of control. That anxiety is the emotional backdrop to every AI conversation you'll have with a cautious institutional buyer. Naming it — calmly, credibly — is part of what makes you trustworthy in the room.\n\nSo here's where I'd point your attention, Midya. The through-line today is control — who has it, who's losing it, and who gets paid to restore it. Anthropic's debut and the outage-panic bots are two faces of the same gap between AI capability and institutional readiness, and that gap is your entire value proposition. Pick one publishing moment this week — I'd make it the capability-versus-adoption piece — and let the enrolment uptick and the fraud-detection story be client conversations rather than public ones. That's a strong, focused day. Go have it.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "AI's great divergence: machines accelerate as Anthropic debuts at over $1 trillion",
+      "summary": "Anthropic makes its Wall Street debut Thursday at a valuation north of a trillion dollars even as the industry reels from scandal and financial turmoil, exposing a widening gap between surging model capability and the humans struggling to absorb it.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/jFG70FFPLJBrvpD37EPUq3udlCI=/881x41:1920x1080/320x320/2026/11/18/1795026646096.jpeg",
+      "contentAngle": "AI in marketing / AI Search Readiness: the capability-versus-adoption gap is your thesis — a post on why client readiness, not model access, is now the binding constraint."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Bots amplified conspiracy theories and panic about recent tech outages",
+      "summary": "New research shows bot networks exploited public anxiety over last week's major tech outages, manufacturing suspicions of coordinated cyberattacks and cover-ups when substantive explanations were lacking.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/19/tech-outages-bots-conspiracies",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/WgLvyb6wKdHYLlhRDNviu0cDOP0=/320x320/smart/2021/01/11/220014-1610402414642.png"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "Will more international students enroll next year?",
+      "summary": "Despite this fall's enrolment decline, preliminary Common App data shows a 9 percent uptick in international applicants for 2026–27 — an early, cautiously positive signal for the recruitment pipeline.",
+      "source": "Inside Higher Ed",
+      "url": "https://www.insidehighered.com/news/admissions/traditional-age/2026/11/19/will-more-international-students-enroll-next-year",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-03/Testing_international_students_busy_campus.jpg?itok=T-FkWCbX"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "AI's great divergence: machines accelerate as Anthropic debuts at over $1 trillion",
+      "summary": "Anthropic makes its Wall Street debut Thursday at a valuation north of a trillion dollars even as the industry reels from scandal and financial turmoil, exposing a widening gap between surging model capability and the humans struggling to absorb it.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/jFG70FFPLJBrvpD37EPUq3udlCI=/881x41:1920x1080/320x320/2026/11/18/1795026646096.jpeg",
+      "contentAngle": "AI in marketing / AI Search Readiness: the capability-versus-adoption gap is your thesis — a post on why client readiness, not model access, is now the binding constraint."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Bots amplified conspiracy theories and panic about recent tech outages",
+      "summary": "New research shows bot networks exploited public anxiety over last week's major tech outages, manufacturing suspicions of coordinated cyberattacks and cover-ups when substantive explanations were lacking.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/19/tech-outages-bots-conspiracies",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/WgLvyb6wKdHYLlhRDNviu0cDOP0=/320x320/smart/2021/01/11/220014-1610402414642.png"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "Will more international students enroll next year?",
+      "summary": "Despite this fall's enrolment decline, preliminary Common App data shows a 9 percent uptick in international applicants for 2026–27 — an early, cautiously positive signal for the recruitment pipeline.",
+      "source": "Inside Higher Ed",
+      "url": "https://www.insidehighered.com/news/admissions/traditional-age/2026/11/19/will-more-international-students-enroll-next-year",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-03/Testing_international_students_busy_campus.jpg?itok=T-FkWCbX"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "Canada lets stipend- and grant-funded academic work count toward Express Entry for researchers",
+      "summary": "Ottawa will now credit stipend- and grant-funded research toward Express Entry eligibility, easing the permanent-residence path for international researchers and strengthening Canada's pitch to graduate-level talent.",
+      "source": "CASRAI (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVURWZmF0UGVFMU43Q0M3Ynh3UW55dFVsVXl4Mm43Z1IxMG1SSWxLdUdLcGJkMTNaXzA5VnpMQ1FHWmpWV1hMSUJ5dVVCV29NSm9QeXc2Z2VCcnR4N1JXX1NzLTBBLTVLSVNCNXBWaUZ5WDRidENpNFc4Z2w5cUJoQUNWQmJveEU?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "Germany needs German fluency to retain STEM graduates",
+      "summary": "With over 420,000 international students, Germany is winning share from the Big Four on free tuition and English-taught programs but struggles to retain STEM graduates who never learn German — a cautionary note for any market competing on retention.",
+      "source": "ICEF Monitor",
+      "url": "https://monitor.icef.com/2026/11/to-boost-stem-graduate-retention-germany-needs-to-help-more-international-students-to-learn-german/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://cdn.monitor.icef.com/wp-content/uploads/2026/11/ansgar-scheffold-mtfTz0FnwBw-unsplash-1200.jpg"
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Seller impersonation fraud is no longer a niche title problem",
+      "summary": "New survey data shows seller-impersonation fraud attempts jumped from 28% to 59% in two years, pushing layered identity detection and curative title work from optional to essential for brokerages.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/seller-impersonation-fraud-title/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Contributors-Piece-2026-11-09T163956.790.png",
+      "contentAngle": "AI in real estate operations: identity-verification and fraud-detection governance — a brokerage playbook for layering AI checks without creating liability."
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "What are we so afraid of? Financial fear is costing agents business",
+      "summary": "Research finding that money scares people more than death reframes buyer hesitation as an emotional, not just rate-driven, barrier — a cue for agents to sell reassurance, not only listings.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/financial-fear-homebuyers/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Featured-image-financial-fear-homebuyers.png"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Kamloops RCMP warn of holiday thefts from vehicles",
+      "summary": "Kamloops RCMP are hitting parking lots with warnings as holiday shopping ramps up, urging drivers not to leave gifts or valuables visible in parked vehicles.",
+      "source": "Castanet Kamloops (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmdWU2hqOU9VQWtzNHoyT3lmVjN0RW45VndsVUZKUlFvcF9lRlM5TG90a0tXTklMMjVlMFdEYjd1MTI2QmtCR1c2NVRPYmhVWFhfaUU1cjFiMTdkM2hVWjRpWG5LemFiQ2dJS2M1REpVSG9JNUxMYVdrRjhLU3ZMR2xWZmVfX3hCVUZfMDl6eGx5eFdXRUlqbE03LW1uTlMteVJFVnUxeGUxSVppX1NETW1NR0VzSWFfbGQtSUJKcHc3RDZnaFhxZk12UmQ4Zw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "UN top court rules Myanmar aimed to destroy 'substantial part' of Rohingya",
+      "summary": "The International Court of Justice ruled Thursday that the only reasonable inference from widespread atrocities is that Myanmar intended to destroy a substantial part of the Rohingya population.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/19/top-un-court-set-to-rule-in-a-case-alleging-myanmar-committed-genocide-against-rohingya/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fc152f22f-09e2-4e74-88ea-7a112e727647%2Fc6e731784e4c880aa69d553c79286af76e81c97fc494be5444fcbeb5aa056b3a.jpg"
+    },
+    {
+      "id": "story-global_business_tech-1",
+      "category": "Global",
+      "headline": "Six takeaways from Carney's tour of Asia and Ireland",
+      "summary": "Carney returns to Ottawa after four summits spanning Ireland, the Philippines and China, with outcomes ranging from pork-trade movement to friction over online French usage — a snapshot of Canada's recalibrating global posture.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/19/from-pork-to-online-french-usage-six-take-aways-from-carneys-tour-of-asia-ireland/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F445ceb8f-8d3b-4e60-9b78-dcd8b681ec70%2F78448f22010280edcddd1283ab1d32eaac524f9fbb09ee28e71f666ee92fc1e9.jpg"
+    },
+    {
+      "id": "story-global_business_tech-2",
+      "category": "Global",
+      "headline": "New alarm over China controlling drug supply chains",
+      "summary": "A US National Security Commission warns Beijing is moving to control the entire pharmaceutical supply chain, risking Western access to future lifesaving treatments after years of heavy investment in Chinese biotechs.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/19/china-biotech-policy-warning",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/dsdEQFEtvvMUlmicIyBN3HyGy0o=/355x0:1435x1080/320x320/2026/07/09/1783618096262.jpeg"
+    },
+    {
+      "id": "story-global_business_tech-3",
+      "category": "Global",
+      "headline": "Billion-dollar Sila–Panasonic deal signals life in next-gen US batteries",
+      "summary": "Sila's agreement to supply silicon-carbon anode material to Panasonic Energy — potentially worth over a billion dollars — marks rare positive momentum for next-generation batteries after years of high-profile failures.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Moses-Lake-Facility_.jpg?resize=1200,600"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "A cardiologist questions the blockbuster statin-deprescribing study",
+      "summary": "STAT columnist (cardiologist) examines the STREAM trial on discontinuing statins and flags puzzles in its findings — relevant for anyone weighing long-term cardiovascular medication decisions.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/19/deprescribing-statins-study-stream-trial-aha-questions/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2025/09/TheWorkup_Illustration_MollyFerguson_093025-645x645.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Doomsday prepping goes mainstream",
+      "summary": "Emergency-preparedness buying is surging across mainstream society, fuelled by fears of AI-led cyberattacks, grid vulnerabilities and global instability — a 'lightweight prepping' mindset moving from fringe to normal.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/19/tech-outages-emergency-preparedness-prepper-boom",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://images.axios.com/fyjbk3fEeiWsopddMiZjg_WTc7U=/422x0:1502x1080/320x320/2026/11/17/1794947838826.jpeg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "2:55",
+      "startSeconds": 14
+    },
+    {
+      "id": "c2",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:34",
+      "startSeconds": 189
+    },
+    {
+      "id": "c3",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "1:55",
+      "startSeconds": 343
+    },
+    {
+      "id": "c4",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "0:36",
+      "startSeconds": 458
+    },
+    {
+      "id": "c5",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "2:17",
+      "startSeconds": 495
+    },
+    {
+      "id": "c6",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "0:58",
+      "startSeconds": 632
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "1:01",
+      "startSeconds": 690
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Bots amplified conspiracy theories and panic about recent tech outages",
+    "summary": "New research shows bot networks exploited public anxiety over last week's major tech outages, manufacturing suspicions of coordinated cyberattacks and cover-ups when substantive explanations were lacking.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/19/tech-outages-bots-conspiracies",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/WgLvyb6wKdHYLlhRDNviu0cDOP0=/320x320/smart/2021/01/11/220014-1610402414642.png"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "AI's great divergence: machines accelerate as Anthropic debuts at over $1 trillion",
+    "summary": "Anthropic makes its Wall Street debut Thursday at a valuation north of a trillion dollars even as the industry reels from scandal and financial turmoil, exposing a widening gap between surging model capability and the humans struggling to absorb it.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/jFG70FFPLJBrvpD37EPUq3udlCI=/881x41:1920x1080/320x320/2026/11/18/1795026646096.jpeg",
+    "contentAngle": "AI in marketing / AI Search Readiness: the capability-versus-adoption gap is your thesis — a post on why client readiness, not model access, is now the binding constraint."
+  },
+  "heroImageUrl": "https://images.axios.com/jFG70FFPLJBrvpD37EPUq3udlCI=/881x41:1920x1080/320x320/2026/11/18/1795026646096.jpeg"
+}
