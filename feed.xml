@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:36:50 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Thursday, November 19, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-19.html</link>
-      <description>Today's throughline is a widening gap between what AI can do and what institutions can safely absorb. Anthropic's blockbuster market debut lands the same week bot networks are manufacturing panic around infrastructure outages — a one-two punch that sharpens your core thesis: capa...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-19.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-19.mp3" length="12557184" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Friday, November 20, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-20.html</link>
+      <description>Today is a quieter news day, which makes it a good day to think rather than react. The thread worth pulling is agentic commerce: Walmart openly admitting that AI shopping agents behave nothing like human browsers is the clearest signal yet that the surface where brands get discov...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-20.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-20.mp3" length="10723584" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
