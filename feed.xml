@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:36:58 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, November 20, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-20.html</link>
-      <description>Today is a quieter news day, which makes it a good day to think rather than react. The thread worth pulling is agentic commerce: Walmart openly admitting that AI shopping agents behave nothing like human browsers is the clearest signal yet that the surface where brands get discov...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-20.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-20.mp3" length="10723584" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, November 21, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-21.html</link>
+      <description>Today's centre of gravity is the international-student file, and it runs straight through Midya's higher-ed lane: Ottawa has quietly pushed its arrivals target out to 2029, enrollment is already plunging south of the border, and the sharper institutions are asking not whether the...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-21.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-21.mp3" length="12264192" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
