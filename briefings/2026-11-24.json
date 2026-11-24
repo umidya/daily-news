@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 2,
+  "date": "Tuesday, November 24, 2026",
+  "dateIso": "2026-11-24",
+  "greeting": "Good morning, Midya",
+  "totalDuration": "13:28",
+  "currentTime": "0:00",
+  "remaining": "13 min total",
+  "hookCopy": "Good morning, Midya.",
+  "digestIntro": "Today's through-line is AI running ahead of the humans meant to control it — and that's not an abstraction for your practice, it's the exact gap you sell into. Two dozen Anthropic and OpenAI insiders now say their best unreleased models may be too powerful to safely ship; meanwhile higher ed is tearing itself apart over AI-written work. Both stories hand you clean thought-leadership material on public-institution AI governance and AI in enrollment, the lanes you're trying to own.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Today's through-line is AI running ahead of the humans meant to control it — and that's not an abstraction for your practice, it's the exact gap you sell into. Two dozen Anthropic and OpenAI insiders now say their best unreleased models may be too powerful to safely ship; meanwhile higher ed is tearing itself apart over AI-written work. Both stories hand you clean thought-leadership material on public-institution AI governance and AI in enrollment, the lanes you're trying to own. On the home front, Sun Peaks finally opens Thursday on four runs and a BC coastal storm surge is worth watching for family, while Equifax confirms Canadian mortgage delinquencies have hit a 13-year high — pressure that reaches straight into the real-estate lane. The international-student picture keeps shifting too, with US courts blocking Trump restrictions and fresh enrolment data reshaping where students actually go. Watch the governance stories closest; they're where your credibility and your pipeline intersect.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-24.mp3",
+  "audioDurationSeconds": 808,
+  "audioScript": "Good morning, Midya. It's Tuesday, November twenty-fourth, twenty twenty-six. Here's what matters today — and the thread running through almost all of it is AI moving faster than the people meant to keep it in check.\n\nLet's start there, because today's lead is a story you could genuinely build a piece of thought leadership around. Axios is reporting that more than two dozen people inside Anthropic and OpenAI now believe some of their unreleased models have become so powerful that they can't be safely released. Not in a marketing-hype, look-how-amazing-we-are way — the opposite. These are employees saying, out loud, that researchers have not found a technical way to reliably control the most advanced systems, and the gap between what the models can do and what humans can supervise is widening, not closing. Some insiders think it's fixable. Others aren't convinced.\n\nNow, why does this matter to you specifically? Because your entire positioning around public-institution AI governance rests on a simple premise: that you cannot outsource trust to a vendor's safety assurances. And here you have the vendors' own staff confirming exactly that. When a Canadian university, or a public college, or a brokerage says to you, well, the tool is from OpenAI, surely they've handled the safety side — this story is your answer. The people building these systems are not confident they can control them. That's not fearmongering, that's the engineering reality as described by the engineers. For your advisory work, the takeaway is concrete: governance frameworks, human-in-the-loop review, data-residency controls, and clear boundaries on where generative AI touches high-stakes decisions aren't optional overhead. They're the thing standing between an institution and a vendor's unsolved problem. If you were looking for a reason to publish on governance-first AI adoption this week, this is it.\n\nAxios ran a companion piece under their Behind the Curtain banner making the broader argument — that we instinctively assume people in power are exaggerating their capabilities, and in the case of AI we should do the opposite and actually believe them when they warn us. They point to the near-daily glitches at airports and banks as evidence this is a today problem, not a future one. I'd read the two together. The combination of frontier-lab insiders sounding alarms and visible real-world fragility is exactly the kind of context that makes a governance pitch land with a risk-averse public institution.\n\nThe third AI story is more infrastructure than philosophy, but it's worth your awareness. MIT Technology Review reports that AI data-centre developers, including Elon Musk's xAI, are now building their own natural gas power plants rather than wait up to a decade for grid connections. Think about what that signals. The appetite for compute is so intense that companies are becoming energy producers just to feed it, sidestepping the public grid and the permitting that comes with it. For you, this is a reminder that the AI boom has physical, political, and environmental costs that are starting to surface in places like the UN climate talks we touched on last week. It's the kind of macro context that makes your commentary sound grounded rather than breathless — you understand that behind every AI Overview and every chatbot is a gas turbine somewhere, and a policy fight waiting to happen.\n\nMoving to higher education, where there's real movement on both the international-student file and the AI-in-academia front.\n\nFirst, the US. Federal courts have blocked two Trump administration restrictions on international students. We've been tracking how American policy turbulence is reshaping where students choose to go, and this is the latest twist — the courts stepping in to halt measures that would have further limited international enrolment. The practical effect is more uncertainty, not less. Students and families don't make five-figure, multi-year decisions on the basis of a policy that might be reinstated on appeal. And that uncertainty is precisely why Canadian institutions have a window — if they can tell a stable, welcoming, clearly-governed story.\n\nThat window is quantified in a second story. The PIE News broke down the Open Doors twenty twenty-six data, and the headline is that new international enrolments in the US fell seventeen point seven percent in a single year. But — and this is the nuance that matters for your client conversations — eight countries still sent record numbers of students. So this isn't simply demand collapsing. It's demand redistributing. Students are still coming; they're just choosing differently, by country of origin and by destination. For a Canadian enrollment team, that's the strategic question of the moment: which source markets are growing, and is our recruitment and our AI-driven search visibility actually positioned to capture them? This is where your AI Search Readiness methodology intersects with recruitment — because a prospective student in a record-sending country is increasingly researching options through ChatGPT and Google AI Mode, and if a Canadian institution is invisible in those answers, the enrolment shift passes it by.\n\nThe third higher-ed story is the one I'd flag for your content pipeline. Inside Higher Ed ran a piece asking what's really fueling higher ed's AI witch hunt. The premise: for decades, academia used written work to measure a scholar's depth and originality, and now that machines can mimic good writing convincingly, all bets are off. Campuses are responding with a detection panic — chasing AI-written assignments with tools and suspicion. Here's my read, and it's one you could publish. The witch-hunt framing is a symptom of institutions reacting instead of governing. They bought or scrambled toward detection technology before they had a policy framework, before they decided what acceptable AI use even looks like, before they thought about FIPPA implications of running student work through third-party detectors. That's the audit-checklist angle for you: governance before gadgets. The institutions that will come through this calmly are the ones that defined the rules first. The ones in a witch hunt skipped that step. That's a clean, defensible, contrarian position that sits right in your higher-ed and governance lane.\n\nOn to real estate, and this is where the economic pressure is getting hard to ignore. Equifax Canada's third-quarter report is out, and it confirms what we flagged on Friday — mortgage delinquencies have now hit a thirteen-year high. The new detail is sobering: Equifax estimates nearly one in four mortgage holders is at risk of added financial stress as interest rates and debt loads bite. This is the renewal shock we've been watching play out in slow motion. Borrowers who locked in at pandemic-era lows are rolling into materially higher payments, and the arrears numbers are finally reflecting it.\n\nFor the real-estate lane of your practice, this is the macro weather system everything else sits under. When a quarter of mortgage holders are stretched, you get more forced listings, softer pricing, longer days on market, and buyers who are cautious even when rates ease. It reframes how a brokerage should be talking to clients — less about timing the bottom, more about realistic pricing and financial resilience.\n\nWhich connects to the second story, from HousingWire, with a title I rather like: the first price is the one nobody scores. Redfin data shows twenty-one point two percent of listings took a price cut in the four weeks to November first. More than one in five. The point is that overpricing at launch is quietly expensive — the first list price sets the anchor, and when it's wrong, the correction costs sellers time and ultimately money. In a market where a quarter of owners are financially stressed, disciplined pricing isn't a nicety, it's the whole game. That's a useful data point for any brokerage conversation about listing strategy.\n\nAnd a quick third one, also from HousingWire, on operational risk: a study of six hundred sixty-eight wire-fraud events found a hundred twenty-three point eight million dollars in exposure, with seventy-nine percent tied to participants outside title control. The lesson is about verification discipline across every party in a transaction. It's a reminder that as brokerages digitize and add AI to their operations, the human verification layer — confirming who's actually on the other end of a wire instruction — gets more important, not less. That's a nice bridge between your AI-in-real-estate-operations thinking and plain old risk management.\n\nCloser to home now. Sun Peaks is opening the twenty twenty-six, twenty twenty-seven ski season this Thursday — but on just four runs. Snow guns are doing the heavy lifting after a slow start on natural snow, so it's very much a soft opening. For the village and the resort economy that matters, because an on-time open, even a modest one, keeps early-season visitors and bookings alive. And for you personally, as someone who owns property up there, it's worth knowing the mountain is running thin to start the season — four runs is a long way from full operations, and early conditions will be driven by how the cold holds for snowmaking.\n\nAlso in the local file, Thompson Rivers University's senate voted unanimously to move the culinary arts department closer to becoming a trades school. It's an incremental governance step, but it fits TRU's broader push toward applied and trades education — a repositioning worth noting if you ever find yourself thinking about the Kamloops post-secondary landscape, which shapes the local economy and the kind of talent flowing through the city.\n\nA couple of health items, both from STAT News, and both sitting right at the intersection of medicine and AI — which is probably why they caught my eye for you. As the Radiological Society of North America meets in Chicago, there's a real debate underway about AI drafting radiology reports. The technology can now analyze X-rays and CT scans and produce draft reports, and the open question is whether that makes care faster and safer or introduces new risks. I'm including this less as a personal-health item and more as a live case study in your governance thesis. Radiology is the testing ground — high stakes, high volume, and a clear human-review question. How that profession decides to govern AI-drafted work is a preview of the debate every public institution is going to have. Worth watching as a pattern.\n\nThe second, also from STAT, is an opinion piece from a genetic counsellor arguing that genomic testing has become too fragmented, and the smarter model is to sequence a genome once and re-evaluate the results over time as knowledge improves. It's a thoughtful efficiency-and-continuity argument about personalized screening — the idea that your genome doesn't change, but our ability to interpret it does, so you shouldn't have to re-test, just re-read. Something to file for your own and your family's long-term health planning conversations.\n\nOne item on the wider world worth a moment. Bob Woodward, the Washington Post reporter whose Watergate work became All the President's Men, is out today with a memoir called Secrets, spanning fifty-five years and ten presidents. The notable and controversial part: he names some previously confidential sources who have since died, saying he feels a duty to history. It's a journalism-ethics story more than a news story, but it's the kind of cultural touchstone that comes up in senior-leader conversations, and it raises a question that rhymes with your own work — what we owe to confidentiality versus transparency, and when, if ever, that calculus changes. A small thing, but a thoughtful one.\n\nFinally, a safety note for the BC coast. Another frontal system is moving over coastal British Columbia with heavy rain and strong winds, and it's arriving just as king tides peak — the combination of storm surge and extreme high tides is raising the flooding risk along the coast and swelling waterways. If you've got family on the coast or travel plans that way this week, it's worth keeping an eye on local advisories. Up in the interior it's a snowmaking story; on the coast it's a flooding story. Same system, very different problems.\n\nThat's your Tuesday, Midya. If you do one thing with today's briefing, let it be the AI governance thread — the frontier-lab insiders admitting they can't fully control their own models, and higher ed's detection panic, are two halves of the same argument you've been making, and they're sitting there ready to be written up while they're fresh. On the home front, keep an eye on that coastal storm for family, and note that Sun Peaks opens thin on Thursday. The real-estate numbers are worth internalizing too — a quarter of mortgage holders under stress changes the tone of every client conversation this winter. I'll be back tomorrow with whatever moves next.",
+  "topStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Anthropic and OpenAI staff fear unreleased models are too unsafe to ship",
+      "summary": "More than two dozen insiders say internal models have grown so capable that many employees no longer believe they can be safely released, with no technical fix yet for controlling the most advanced systems.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/Wo8WCpSnZcXwd-7yZEwJAbrRRrQ=/128x128/smart/2026/11/23/1795465070345.jpg",
+      "contentAngle": "Public-institution AI governance: the control gap at the frontier labs is the strongest case yet for why public institutions need their own guardrails rather than trusting vendor safety claims."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Data centres are building their own natural gas power plants",
+      "summary": "Facing grid-connection waits of up to a decade, AI developers including xAI are putting up off-grid gas plants to power the boom — reshaping the energy and permitting politics around AI infrastructure.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP25350020551834.jpg?resize=1200,600"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Behind the Curtain: when reality shouts on AI",
+      "summary": "Axios argues the near-daily glitches at airports and banks, plus insider alarm, mean AI's capacity for irreparable harm is a today problem, not a future one — a call to stop discounting the builders' own warnings.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/24/behind-the-curtain-when-reality-shouts",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/XolCFTh801CA3yLH0xSrJwxAf8A=/396x0:1476x1080/320x320/2026/11/23/1795460168433.jpeg"
+    }
+  ],
+  "digestStories": [
+    {
+      "id": "story-ai-0",
+      "category": "AI & Tech",
+      "headline": "Anthropic and OpenAI staff fear unreleased models are too unsafe to ship",
+      "summary": "More than two dozen insiders say internal models have grown so capable that many employees no longer believe they can be safely released, with no technical fix yet for controlling the most advanced systems.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/Wo8WCpSnZcXwd-7yZEwJAbrRRrQ=/128x128/smart/2026/11/23/1795465070345.jpg",
+      "contentAngle": "Public-institution AI governance: the control gap at the frontier labs is the strongest case yet for why public institutions need their own guardrails rather than trusting vendor safety claims."
+    },
+    {
+      "id": "story-ai-1",
+      "category": "AI & Tech",
+      "headline": "Data centres are building their own natural gas power plants",
+      "summary": "Facing grid-connection waits of up to a decade, AI developers including xAI are putting up off-grid gas plants to power the boom — reshaping the energy and permitting politics around AI infrastructure.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP25350020551834.jpg?resize=1200,600"
+    },
+    {
+      "id": "story-ai-2",
+      "category": "AI & Tech",
+      "headline": "Behind the Curtain: when reality shouts on AI",
+      "summary": "Axios argues the near-daily glitches at airports and banks, plus insider alarm, mean AI's capacity for irreparable harm is a today problem, not a future one — a call to stop discounting the builders' own warnings.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/24/behind-the-curtain-when-reality-shouts",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "chip",
+      "imageUrl": "https://images.axios.com/XolCFTh801CA3yLH0xSrJwxAf8A=/396x0:1476x1080/320x320/2026/11/23/1795460168433.jpeg"
+    },
+    {
+      "id": "story-intl_students_canada-0",
+      "category": "Higher Ed",
+      "headline": "Federal courts block two Trump restrictions on international students",
+      "summary": "US courts have halted two administration measures limiting international students, injecting fresh uncertainty into American recruitment just as competitor markets watch for spillover demand.",
+      "source": "American Council on Education",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUlPNHlMTjAwUC0wSWhMZmhFbEZKLWh3bGlvbEo2TlJVMkhqanVseUdsSXZ4SzJvLU1tMlNmeXRUa1RQTHkwaVJiOHZIRUlkN1FELWxZMzNyNkp2SWM0czN4WllwaWJtNnBkc3lCQm9KT0ZiaUFSdkdES1FQV2hFVG1ueVZNdDU4ZHlyOFdsNEJUcHlVcmRFaGoxcTk0Q1JDaEJGaGtnbkVtQQ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university"
+    },
+    {
+      "id": "story-intl_students_canada-1",
+      "category": "Higher Ed",
+      "headline": "11 charts explaining the latest US international student data",
+      "summary": "New US enrolments fell 17.7% in 2025/26 even as eight countries sent record numbers, per Open Doors 2026 — a reshuffle in global flows Canadian recruiters should read closely.",
+      "source": "The PIE News",
+      "url": "https://thepienews.com/11-charts-that-explain-the-latest-us-international-student-data/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://thepienews.b-cdn.net/wp-content/uploads/2026/11/iStock-1497989003.jpg"
+    },
+    {
+      "id": "story-intl_students_canada-2",
+      "category": "Higher Ed",
+      "headline": "What's really fueling higher ed's AI 'witch hunt'?",
+      "summary": "With machines now mimicking good academic writing, institutions are scrambling to police AI-written work — and the detection panic is exposing how unprepared campuses are on policy.",
+      "source": "Inside Higher Ed",
+      "url": "https://www.insidehighered.com/news/faculty/2026/11/24/whats-really-fueling-higher-eds-ai-witch-hunt",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "university",
+      "imageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/Good_Bad_AI_Influence_2.jpg?itok=z-pRfNQ8",
+      "contentAngle": "AI in higher-ed enrollment and governance: institutions reacting with detection tools instead of frameworks — the governance-first audit checklist angle for admissions and academic integrity."
+    },
+    {
+      "id": "story-canadian_real_estate-0",
+      "category": "Real Estate",
+      "headline": "Equifax: Canadian mortgage delinquencies hit 13-year high",
+      "summary": "An update on Friday's distress-borrowing thread — Equifax's Q3 report shows delinquencies at a record and roughly one in four mortgage holders at risk of added stress as rates bite.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkNCVXVXSHNuVGJmSVpJUDltYjZUR0I3NFRSSGV5ZDhiS2lESThRejlYQ0xmWG5TS3plejBGSEpYTXQ3MGlxUVVXMGYzYVZqSm1kdTNBRDlrOXZFTm1IcW5QWFdJME1TbXhhVG5RTXhWWGJrSUJPa3BtTDk4NFh2OEdmSE9FSXB1WjE4c0tuTWY5bWZhR1JZbQ?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house"
+    },
+    {
+      "id": "story-canadian_real_estate-1",
+      "category": "Real Estate",
+      "headline": "The first list price is the one nobody scores",
+      "summary": "Redfin data shows 21.2% of listings took a price cut in the four weeks to Nov. 1 — a reminder that overpricing at launch is quietly costing sellers across softening markets.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/first-list-price-cma/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Contributors-Piece-2026-11-17T122058.348.png"
+    },
+    {
+      "id": "story-canadian_real_estate-2",
+      "category": "Real Estate",
+      "headline": "Protecting trust across the real estate transaction cuts fraud risk",
+      "summary": "A study of 668 wire-fraud events found $123.8M in exposure, 79% tied to participants outside title control — a verification-discipline warning for brokerages.",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/wire-fraud-shared-verification/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "house",
+      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Contributors-Piece-2026-11-09T163525.815.png"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-0",
+      "category": "Local News",
+      "headline": "Sun Peaks launches delayed ski season Thursday on four runs",
+      "summary": "Snow guns let Sun Peaks open the 2026-27 season Thursday with just four runs after a slow natural-snow start — a soft opening for the resort and the village economy.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3Q5SDA2N3ZWUmM3bmtNUmcwMzU0RXA1OWdteUlVU0d4T3BtemFwVkRkV1hFWGVidjR2Sy12TllKQkFyZWhqOXk3MS1lRURmOUNCOGNhRFMwZW9jdzdSTll0RkZOazBMTFVNYVdfcllQeGx0QkUxSURjUjFRS2lIWEw5UV80OEJhVm56VmMyb1N2Skg5VDU3UTVpTmQ4M01pZ1dITzhDbGZERzZXVTVTREZFbGR0QVVKUDQydDRGTTBTLXNsV291SUptZkw?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "TRU culinary arts moves closer to becoming a trades school",
+      "summary": "A unanimous TRU senate vote advances the culinary arts department toward trades-school status, part of the university's broader applied-education repositioning.",
+      "source": "Castanet Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVzY0SU1ObUtaMnRNTlJGendtdTNsX1ZLRWhSbkFOSG9XVXBRdGJ3N3pWQUlGMXNuRFlxVzRtcHQ3WVhCNU9oY2VmaDVuT0Y5ZWd5ZGJRMGZpaTd3dktTZnBsU202VWVwWGRPMUtGelg3Y1hEbXlBYzhEMTAzYWxUenlCaFF0akhoRWZBWVR3Mmt0WVdBM01PUXBxMWVaM0w4bWFCT0MxM1VYcXZMQVFndXFiYmVRRU9GbkNrbFlRN1lSMlZJOFlmU1pzWG1UV3M?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "STAT: AI drafting radiology reports — will it make care safer?",
+      "summary": "As the Radiological Society of North America meets in Chicago, insiders debate whether AI-drafted X-ray and CT reports improve care or introduce new risks — a live test of AI governance in clinical settings.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-645x645.jpeg"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "STAT opinion: sequence genomes once, re-evaluate often",
+      "summary": "A genetic counsellor argues fragmented genomic testing should give way to sequencing once and re-reading results as needed — a cost and continuity case for personalized screening.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/?utm_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf",
+      "imageUrl": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_889150177-645x645.jpeg"
+    },
+    {
+      "id": "story-global_business_tech-0",
+      "category": "Global",
+      "headline": "Bob Woodward's memoir spills 50 years of reporting secrets",
+      "summary": "Out Tuesday, Woodward's 'Secrets' covers 55 years and 10 presidents, controversially naming some now-deceased confidential sources out of a stated duty to history.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/24/the-axios-show-bob-woodwards-memoir-spills-50-years-of-secrets",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://images.axios.com/o0pwlHGcg1f3duBj3Pz1X3fYtfg=/40x0:1120x1080/320x320/2026/11/24/1795512889994.jpg"
+    },
+    {
+      "id": "story-misc-0",
+      "category": "Misc",
+      "headline": "Storm surge and king tides raise BC coastal flooding risk",
+      "summary": "Another frontal system brings heavy rain and strong winds to coastal BC just as king tides peak, swelling waterways and raising flooding risk — worth watching for family on the coast.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/24/storm-surge-king-tides-converge-to-raise-flooding-risk-on-b-c-coast/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "bars",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fb0a281dd-8e31-4d42-b3e4-ecafb404144a%2Fc3c749606be81be197fe20a74b97f52bb7bb75dee2e0d59cacf0dd2ca48c7374.jpg"
+    }
+  ],
+  "audioChapters": [
+    {
+      "id": "c1",
+      "title": "AI & Tech",
+      "category": "AI & Tech",
+      "duration": "3:18",
+      "startSeconds": 13
+    },
+    {
+      "id": "c2",
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "3:04",
+      "startSeconds": 211
+    },
+    {
+      "id": "c3",
+      "title": "Real Estate & AirBnB",
+      "category": "Real Estate",
+      "duration": "2:24",
+      "startSeconds": 395
+    },
+    {
+      "id": "c4",
+      "title": "Local News",
+      "category": "Local News",
+      "duration": "1:07",
+      "startSeconds": 539
+    },
+    {
+      "id": "c5",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:24",
+      "startSeconds": 607
+    },
+    {
+      "id": "c6",
+      "title": "Global News",
+      "category": "Global",
+      "duration": "0:43",
+      "startSeconds": 691
+    },
+    {
+      "id": "c7",
+      "title": "Misc",
+      "category": "Misc",
+      "duration": "0:34",
+      "startSeconds": 734
+    }
+  ],
+  "upNext": {
+    "id": "story-ai-1",
+    "category": "AI & Tech",
+    "headline": "Data centres are building their own natural gas power plants",
+    "summary": "Facing grid-connection waits of up to a decade, AI developers including xAI are putting up off-grid gas plants to power the boom — reshaping the energy and permitting politics around AI infrastructure.",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP25350020551834.jpg?resize=1200,600"
+  },
+  "mainStory": {
+    "id": "story-ai-0",
+    "category": "AI & Tech",
+    "headline": "Anthropic and OpenAI staff fear unreleased models are too unsafe to ship",
+    "summary": "More than two dozen insiders say internal models have grown so capable that many employees no longer believe they can be safely released, with no technical fix yet for controlling the most advanced systems.",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+    "readingTime": "2 min read",
+    "audioSegmentLength": "—",
+    "thumbnailKind": "chip",
+    "imageUrl": "https://images.axios.com/Wo8WCpSnZcXwd-7yZEwJAbrRRrQ=/128x128/smart/2026/11/23/1795465070345.jpg",
+    "contentAngle": "Public-institution AI governance: the control gap at the frontier labs is the strongest case yet for why public institutions need their own guardrails rather than trusting vendor safety claims."
+  },
+  "heroImageUrl": "https://images.axios.com/Wo8WCpSnZcXwd-7yZEwJAbrRRrQ=/128x128/smart/2026/11/23/1795465070345.jpg"
+}

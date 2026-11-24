@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Mon, 23 Nov 2026 22:20:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:36:51 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Monday, November 23, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-23.html</link>
-      <description>Today's dominant thread is AI governance colliding with power and institutions — the Jensen Huang reinstatement at Nvidia and the COP31 fight over AI data-centre electricity both sharpen the single question your practice is built to answer: who sets the rules when AI scales faste...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-23.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-23.mp3" length="12367872" type="audio/mpeg"/>
-      <pubDate>Mon, 23 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Tuesday, November 24, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-24.html</link>
+      <description>Today's through-line is AI running ahead of the humans meant to control it — and that's not an abstraction for your practice, it's the exact gap you sell into. Two dozen Anthropic and OpenAI insiders now say their best unreleased models may be too powerful to safely ship; meanwhi...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-24.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-24.mp3" length="12935808" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
