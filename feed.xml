@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 24 Nov 2026 11:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:35:31 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Tuesday, November 24, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-24.html</link>
-      <description>Today's through-line is AI running ahead of the humans meant to control it — and that's not an abstraction for your practice, it's the exact gap you sell into. Two dozen Anthropic and OpenAI insiders now say their best unreleased models may be too powerful to safely ship; meanwhi...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-24.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-24.mp3" length="12935808" type="audio/mpeg"/>
-      <pubDate>Tue, 24 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Wednesday, November 25, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-25.html</link>
+      <description>Today's through-line is governance — specifically the collision between AI's speed and the public-sector systems that aren't built for it. The MIT piece on AI straining open-records offices is a near-perfect artifact for your Public-Institution Governance Lens: it shows exactly h...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-25.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-25.mp3" length="13545600" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
