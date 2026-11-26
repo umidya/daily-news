@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:36:35 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Wednesday, November 25, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-25.html</link>
-      <description>Today's through-line is governance — specifically the collision between AI's speed and the public-sector systems that aren't built for it. The MIT piece on AI straining open-records offices is a near-perfect artifact for your Public-Institution Governance Lens: it shows exactly h...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-25.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-25.mp3" length="13545600" type="audio/mpeg"/>
-      <pubDate>Wed, 25 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Thursday, November 26, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-26.html</link>
+      <description>Today's through-line is governance — who controls data, who sets the rules, and who gets held accountable when AI and institutions move faster than their guardrails. The Character.AI fight over selling 21 million users' chat histories is exactly the fact pattern Midya builds her ...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-26.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-26.mp3" length="13474560" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

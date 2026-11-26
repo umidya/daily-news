@@ -1,125 +1,127 @@
 {
   "schemaVersion": 2,
-  "date": "Wednesday, November 25, 2026",
-  "dateIso": "2026-11-25",
+  "date": "Thursday, November 26, 2026",
+  "dateIso": "2026-11-26",
   "greeting": "Good morning, Midya",
-  "totalDuration": "14:06",
+  "totalDuration": "14:02",
   "currentTime": "0:00",
   "remaining": "14 min total",
   "hookCopy": "Good morning, Midya.",
-  "digestIntro": "Today's through-line is governance — specifically the collision between AI's speed and the public-sector systems that aren't built for it. The MIT piece on AI straining open-records offices is a near-perfect artifact for your Public-Institution Governance Lens: it shows exactly how FIPPA-style access regimes buckle when automated requests scale, and it's commentary fuel you could publish this week. On the enrollment side, Canada's foreign-student restrictions and the TRU study on international-student poverty are two faces of the same risk your higher-ed clients are managing — reputational and operational exposure tied to a pipeline that's tightening.",
-  "digestReadingTime": "7 min read",
-  "whyItMatters": "Today's through-line is governance — specifically the collision between AI's speed and the public-sector systems that aren't built for it. The MIT piece on AI straining open-records offices is a near-perfect artifact for your Public-Institution Governance Lens: it shows exactly how FIPPA-style access regimes buckle when automated requests scale, and it's commentary fuel you could publish this week. On the enrollment side, Canada's foreign-student restrictions and the TRU study on international-student poverty are two faces of the same risk your higher-ed clients are managing — reputational and operational exposure tied to a pipeline that's tightening. Watch the weather too: a strong El Niño reshapes the Sun Peaks ski season narrative and another coastal storm is hitting BC family geography. Real estate is quiet domestically, but a US RESPA settlement is a useful reminder of where brokerage joint-venture compliance gets tested. Keep your eye on the governance thread — it's where your two signature methodologies meet, and it's where the thought-leadership oxygen is right now.",
-  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-25.mp3",
-  "audioDurationSeconds": 846,
-  "audioScript": "Good morning, Midya. It's Wednesday, November twenty-fifth, twenty twenty-six, and today the briefing has a single spine running through it — governance, and the places where fast-moving technology and policy meet systems that weren't built to keep up. Let's get into it.\n\nI want to start with a story that lands squarely in the middle of one of your two signature lenses, because it's the kind of piece you could build a point of view on this week. MIT Technology Review has a report on how artificial intelligence is straining America's open-records systems. The setup is almost poignant: a town clerk in Panton, Vermont — population six hundred and sixty — who did everything, budgets, tax disputes, zoning, elections, and also fielded public-records requests out of a wood-frame building that used to be a church. The point of the story is that access-to-information regimes were designed for a human trickle of requests. One journalist, one citizen, one lawyer at a time. Now AI tools can generate and fire off records requests at machine scale, and small municipal and state offices are drowning. Clerks are having to triage, and some jurisdictions are quietly rethinking what open-records law even means when the requester isn't a person but a script.\n\nHere's why I'm leading with it. This is the American framing, but the dynamic is identical under FIPPA and under BC's freedom-of-information architecture. Public institutions — universities, colleges, municipalities, health authorities — are all sitting on access regimes that assume a human volume of requests and a human pace of response. The moment AI makes it trivial to generate and submit records requests at scale, the economics of those offices break. For your Public-Institution Governance Lens, this is a gift. The content angle practically writes itself: is your records office AI-ready? You could frame an audit checklist — request-volume stress testing, triage protocols, what automated versus human-originated requests mean for statutory response timelines, and how data-residency obligations complicate it further when AI vendors sit in the mix. This is a thought-leadership post that positions you ahead of a problem most Canadian public-sector leaders haven't named yet. I'd flag it as your lead candidate for publishing.\n\nTwo other AI items worth your attention, both more in the commentary-fuel category than the change-how-you-advise category. First, Axios reports that rival AI leaders are pushing back, publicly, against a view that's become common inside Anthropic — the idea that humanity should surrender some decision-making power to superintelligent systems. Critics at competing labs say that's a slippery slope toward forfeiting human agency and free will. What's interesting here isn't the sci-fi framing, it's that senior executives are now staking out defensible, on-the-record positions on human control. For a thought leader in AI governance, the useful observation is that 'keep a human in the loop' has gone from a compliance platitude to an actual philosophical fault line between the frontier labs. That's a credibility marker you can use.\n\nSecond, and relatedly, Maryland Governor Wes Moore — a name to watch on the national stage — told Axios that Washington is leaving Americans exposed to AI because of, in his words, billionaire greed and clout, and he's calling for AI oversight to be treated as an emergency. Set aside the partisan packaging. The signal underneath is that AI regulation is becoming a mainstream political issue driven by public fear of losing control, not by technical risk assessments. For anyone advising institutions, that matters: the regulatory environment your clients will operate in is going to be shaped by voter sentiment as much as by expert consensus, and sentiment right now is anxious. Govern as if tighter rules are coming, because politically, they are.\n\nNow to higher education, where today's stories are really about the same governance tension — the gap between enrollment ambition and the systems meant to support it. The one I'd put first is a Thompson Rivers University study, out of Kamloops, documenting poverty, exploitation and isolation among international students. This is important and it's close to home geographically. The research finds students facing genuine financial precarity, labour exploitation in the jobs they take to survive, and real social isolation. I want to be precise about why this matters to your work and not just editorialize. International-student recruitment has been, for a decade, the growth engine of Canadian post-secondary budgets. These students are marketed to aggressively and recruited at scale. This study surfaces the welfare and reputational risk sitting underneath that growth — the duty-of-care gap between how hard institutions recruit and how much support actually exists on the other side.\n\nThere's a real content angle here for you, and I'd mark it as your second publishable piece of the day. Enrollment marketing that promises a welcoming experience while the lived reality is precarity and isolation isn't just an ethical problem — it's a brand-integrity problem, and increasingly a regulatory one. The POV you could publish is about aligning the enrollment marketing promise with the student-success infrastructure, and about why marketing leaders in higher ed should be at the table flagging this gap rather than papering over it. It connects your marketing lane and your governance lane in one move.\n\nThe second higher-ed story sets the policy backdrop. A report picked up widely argues that Canada's foreign-student restrictions are now testing Prime Minister Carney's push to attract research talent. The contradiction is sharp: Ottawa has tightened international-student caps and study-permit rules, and at the same time is publicly courting global research talent. You can't fully do both. Universities planning their pipelines are caught between a federal message that says 'fewer international students' and another that says 'more global brilliance, please.' For your higher-ed clients, this is the strategic uncertainty they're navigating right now — and it's why recruitment strategy can't just be a volume game anymore. It has to be a differentiation and value game, because the numbers lever is being pulled out of their hands.\n\nThird, a transparency-and-brand-risk item. National Post columnist John Ivison reports that Western University won't reveal what, if anything, it has done in response to campus antisemitism. I'm flagging this not for the politics but for the governance lesson. When an institution goes silent on a reputational flashpoint, the silence becomes the story. For any marketing or communications adviser working with Canadian institutions, this is a case study in how opacity amplifies risk. Transparency isn't just a value; it's a reputation-management tactic, and institutions that treat disclosure as optional tend to pay more later.\n\nOn the marketing front, it's a quiet day, so I'll keep this brief and give you one thing to keep in the corner of your eye rather than act on. Marketing Dive has opened its running tracker of every Super Bowl sixty-one ad ahead of the February fourteenth game. It's early, but these trackers become a useful barometer over the next two months — which brands are committing, which categories are pulling back, and crucially, how AI-era creative production is showing up in the biggest, most scrutinized advertising moment of the year. I'd check back on it in January. The interesting signal this cycle will be how many advertisers lean on generative tools and whether any of them get caught doing it badly. That's a story you'll want to watch form, because 'AI in the creative process' is going to be a Super Bowl subplot whether brands want it to be or not.\n\nReal estate is also subdued domestically today, with no major Canadian or Western-Canada headline moving. But two items out of the US mortgage world are worth a quick note for the industry lane. First, Pennsylvania's attorney general reached a settlement over a mortgage joint venture that ran into RESPA trouble — sixty-five thousand dollars plus compliance monitoring, with a hundred-thousand-dollar penalty hanging over any future violation. The relevance for a brokerage audience is the reminder that affiliated-business and joint-venture arrangements between brokerages and lenders are exactly where regulators probe for illegal referral arrangements. It's a different legal regime in Canada, but the structural risk — cozy referral economics dressed up as a joint venture — is universal, and it's a good conversation-starter for any brokerage weighing partnership deals.\n\nSecond, HousingWire has a piece on keeping loan data in sync across mortgage capital markets — the idea of a single shared loan record spanning documents, hedging, pricing and investor delivery. I mention it only as a data-integrity signal. The direction of travel in mortgage operations is toward one authoritative record that every downstream system reads from, instead of reconciling fragmented copies. That's the same back-office modernization story playing out in brokerage operations more broadly, and it's where AI-driven productivity gains actually land — not in flashy agent tools, but in the unglamorous plumbing of data consistency.\n\nClose to home now. The Weather Network has released its seasonal outlook, and it's one you'll care about personally and professionally in Sun Peaks. An exceptionally strong El Niño is set to dominate the Canadian winter, potentially making it one of the warmest on record. The caveat is a possible polar vortex intrusion that could 'answer back' with sharp cold snaps. For Sun Peaks, this is the tension that defines a season: a warm baseline is not what a ski resort wants to hear, but volatility means windows of good snow punctuated by thaws. Remember Friday's briefing noted the resort was leaning on snow guns to launch a delayed season on four runs. This outlook is the backdrop to that — expect a snowmaking-dependent, stop-and-start winter rather than a consistent natural dump. If any of your property or local-business thinking touches the resort economy, a warm-El-Niño season has real implications for visitor patterns and the length of the operating window.\n\nTwo global items to keep you current as a senior leader. First, a New York jury found Huawei guilty of stealing US trade secrets, while acquitting it of racketeering. It's a split verdict after a months-long trial, and it matters because it recalibrates the US-China technology-rivalry narrative yet again — a formal finding of trade-secret theft, but not the sweeping criminal-enterprise conviction prosecutors wanted. For anyone tracking supply-chain and tech-sovereignty risk, this keeps Huawei firmly in the penalty box without escalating to the nuclear outcome, and it feeds the broader story of walls going up around strategic technology.\n\nSecond, from the UK: household energy bills are set to rise twenty-six percent in January as gas prices surge, taking a typical annual bill from roughly seventeen hundred pounds to over twenty-one hundred. I flag it because gas-driven energy inflation is a live macro pressure heading into winter, and it's the kind of cost shock that ripples into consumer sentiment and discretionary spending across Western economies. It's a reminder that the inflation story isn't fully behind us.\n\nFinally, two items under the heading of things you should simply see. The first is an update on a story from earlier this week. BC's coast is taking another weather wallop — Environment Canada warns of rain up to two hundred and twenty-five millimetres along much of the coast, with storm surge and king tides combining to cause what officials are calling 'real drama.' This is the continuation of the coastal-flooding risk flagged on Monday. Given family geography on the coast, it's worth a check-in with anyone in the affected zones; surge plus king tides plus heavy rain is the combination that produces the worst flooding.\n\nThe second is a new Canadian report finding that immigrants are more likely than the Canadian-born to be overqualified for their jobs — stuck in roles well below their skill and credential level. It's a labour-market story, but it connects to the higher-ed and talent-attraction threads running through today's briefing. Ottawa wants to recruit global talent and global students, yet the evidence says Canada struggles to actually deploy the talent it already has. That underemployment gap undermines the country's pitch, and it's a quiet but real headwind for every institution and employer selling Canada as a destination. It's the kind of structural fact worth keeping in your back pocket when the recruitment conversation comes up with higher-ed clients.\n\nSo here's where I'd point your attention today, Midya. The open-records story is your highest-value play — it's the sharpest expression this week of the governance gap between AI's speed and public-sector readiness, and it maps directly onto your FIPPA and data-residency work. Pair it with the TRU international-student findings and you've got two publishable pieces that sit at the exact intersection of your marketing and governance lenses. Everything else today is context: a tightening enrollment pipeline, a warm and volatile winter at home, and a reminder that transparency is a risk-management tool, not a nicety. Pick one of those two pieces, draft the POV while it's fresh, and I'll keep tracking the threads. Talk tomorrow.",
+  "digestIntro": "Today's through-line is governance — who controls data, who sets the rules, and who gets held accountable when AI and institutions move faster than their guardrails. The Character.AI fight over selling 21 million users' chat histories is exactly the fact pattern Midya builds her Public-Institution Governance Lens around: it's the argument for why a university or brokerage cannot outsource trust to a tool whose data policy can change in bankruptcy court. On the higher-ed side, Ontario's career-college OSAP scandal and the push to defend international students both reinforce that the enrollment market is being reshaped by policy, not demand — the clients who win in 2027 will be the ones who planned for a smaller, more scrutinized funnel.",
+  "digestReadingTime": "8 min read",
+  "whyItMatters": "Today's through-line is governance — who controls data, who sets the rules, and who gets held accountable when AI and institutions move faster than their guardrails. The Character.AI fight over selling 21 million users' chat histories is exactly the fact pattern Midya builds her Public-Institution Governance Lens around: it's the argument for why a university or brokerage cannot outsource trust to a tool whose data policy can change in bankruptcy court. On the higher-ed side, Ontario's career-college OSAP scandal and the push to defend international students both reinforce that the enrollment market is being reshaped by policy, not demand — the clients who win in 2027 will be the ones who planned for a smaller, more scrutinized funnel. Close to home, BC is still drying out from record rain, Alberta is sorting through the aftermath of its separation referendum (relevant to the Edmonton brokerage), and Sun Peaks just locked in a signature event through 2031. The signal for Midya: lead with governance in both her client work and her thought-leadership pipeline — it's where the market's anxiety is sharpest and her POV is most defensible.",
+  "audioUrl": "https://umidya.github.io/daily-news/audio/2026-11-26.mp3",
+  "audioDurationSeconds": 842,
+  "audioScript": "Good morning, Midya. It's Thursday, November twenty-sixth, twenty twenty-six — American Thanksgiving, a lighter news cycle south of the border, but a day where the stories that did land all circle one theme: governance, and who's accountable when systems move faster than their rules. Let's get into it.\n\nI want to start with a story that reads like it was written specifically for your Public-Institution Governance Lens. A coalition of forty-two state attorneys general is moving to block Character.AI from selling off the private chat histories of more than twenty-one million US user accounts. The company is in Chapter eleven bankruptcy, and as part of winding down, it appears ready to auction user data like it's inventory on a warehouse shelf. The AGs are saying, in nearly identical filings, absolutely not — those are private conversations, not assets.\n\nHere's why I'd have you sit with this one longer than the headline deserves. Every time you walk a client — a university, a brokerage, a public institution — through why they can't just bolt an AI tool onto their stack and move on, this is the fact pattern that proves the point. The risk isn't only what the vendor does with the data today. It's what happens to that data when the vendor gets acquired, pivots, or goes bankrupt. A data-handling policy is only as durable as the company behind it, and a bankruptcy court can rewrite the deal you thought you signed. For a FIPPA-bound institution with data-residency obligations, that's not a hypothetical — that's a governance failure waiting to be discovered after the fact.\n\nThere's a genuine piece of thought leadership here for you. Call it the vendor-continuity clause. When you audit how a client's enrollment chatbot or a brokerage's AI assistant handles student and client data, the question isn't just where does the data live today — it's what happens to it if this vendor disappears. Most procurement checklists don't ask that question. Yours could. That's the kind of concrete, defensible, non-hype governance content that separates you from the people posting about prompts.\n\nThe second AI story is lighter but worth a moment, because it's a clean marketing parable. Axios ran a piece on Cookbook GPT — how Americans have shifted from cookbooks to YouTube to ChatGPT for planning their holiday meals. Chefs are warning that when you reduce a recipe to a prompt, you strip out the tradition, the ritual, the family oral history that actually gives the meal meaning. One culinary educator put it well: recipes carry tradition, and taking the human conversation out of cooking erodes cultural memory. I love this as a framing device for marketing teams, because it's the whole AI-in-marketing debate in miniature. Automate the functional task — the measurements, the timing, the grocery list. But protect the ritual, the human story, the thing that makes a brand feel like it belongs to someone. The teams that get this wrong will automate the soul right out of their customer relationships. That's a post, Midya — the automate-the-task, protect-the-ritual thesis.\n\nOn the business and economy front, the big number this week is American growth. The US economy grew at a four-point-three percent annualized pace in the third quarter — described by Axios, not unreasonably, as the economy ripping. Consumer spending held up, incomes are rising, the pace of layoffs is slowing, and AI investment is a meaningful chunk of the growth story. The twist is that this strength gives the Federal Reserve cover to raise rates in about two weeks, even with Wall Street rattled about whether the AI boom is overheated. So you've got a strange split-screen: the real economy humming, the financial markets nervous about the very AI spending that's fueling it.\n\nWhy does this matter to a marketing consulting practice? Because budget psychology follows the macro narrative. When the economy reads as strong, marketing and enrollment budgets loosen, and buyers are more willing to invest in the kind of strategic, AI-readiness work you sell. But rising rates cut the other way for anything credit-sensitive — including real estate. Keep both halves of that in your head when you're timing proposals into the new year.\n\nA quick contrast from across the Atlantic: Poundland, the UK discount chain, has collapsed into administration, putting eleven thousand jobs at risk after its owners couldn't find a buyer. I flag it because it's a useful reminder that even value retail — the supposedly recession-proof corner — isn't immune when debt loads and thin margins collide. No one is too essential to fail if the balance sheet breaks.\n\nNow to higher education, where today's stories are all about institutions under strain. First, an update on a thread from earlier this week. We talked about the Ontario career college with runaway OSAP growth and the minister defending the decision not to immediately cut it off. Well, a letter has now surfaced showing the province was explicitly warned about that college's skyrocketing OSAP usage before it acted. This deepens the accountability question — not just why the growth happened, but why nobody intervened when the warning signs were documented and on someone's desk. For anyone working in Canadian higher ed, this is the sector's oversight credibility on the line, and it will feed the broader political appetite to tighten financial-aid and private-college rules. That regulatory tightening eventually touches everyone in the enrollment market.\n\nSecond, McGill. The university's professors and librarians walked out on their first day of strike. A labour disruption at one of Canada's flagship research universities, mid-term, is an operational and reputational hit at a moment the whole sector is already squeezed by enrollment caps and funding pressure. Strikes like this don't just disrupt classes — they ripple into recruitment, into rankings perception, into the student experience story that institutions are trying so hard to protect. Watch how McGill communicates through it, because crisis communications in higher ed is a live case study every time.\n\nAnd third, the international student file keeps churning. A Canadian MP is publicly pressing the immigration minister to reaffirm support for international students, pushing back against the ongoing cap-and-permit restrictions that have hammered enrollment. We've covered the US side of this story all week — courts blocking restrictions, enrollment declines rippling through American campuses. The Canadian version is a political fight over whether Ottawa signals welcome or caution. For your higher-ed clients, the takeaway is unchanged but intensifying: the international funnel is being reshaped by policy, not demand. The institutions that plan for a smaller, more scrutinized pipeline — and market domestically and to diversified source countries accordingly — will be the ones still standing in twenty twenty-seven. That's a strategic conversation you should be having with every prospect in this lane right now.\n\nOn the property side, there's a notable BC policy move. Premier Lorne Doerkson has directed his environment minister to bring forward legislation restoring and protecting public access to Crown land, beaches, and the backcountry for all British Columbians. The mandate letter frames access as a right, subject only to legitimate conservation and safety limits, and it directly addresses flashpoints like the controversial seasonal First Nations closures at Joffre Lakes Provincial Park. This fulfills a Conservative platform promise from the recent provincial election.\n\nWhy does this land on your radar beyond being a British Columbian? Because Crown-land access is quietly a real-estate and tourism value question. In recreation-dependent communities — Sun Peaks very much included — the certainty that people can get to the backcountry, the beaches, the trails is part of what underwrites property values and the visitor economy. Legislation that guarantees access removes a layer of uncertainty for anyone whose property or business depends on the outdoors being open. It's also a story loaded with reconciliation tension, so expect it to stay contested. Worth following as it moves through the legislature.\n\nClose to home, two bits of local news. The first is genuinely good: Sun Peaks Resort has signed a new five-year partnership that keeps the AltiTunes music festival at the resort until at least twenty thirty-one. Locking in a signature event for the better part of a decade is exactly what you want to see if you own property there — it anchors the summer tourism calendar, drives visibility, and gives the community a dependable draw beyond ski season. Events like this are a quiet but real input into both the rental economy and long-term property desirability. A small win, but a durable one.\n\nAnd on the community side, Kamloops RCMP are holding their Stuff the Cruiser drive this Saturday in support of Christmas Amalgamated, collecting donations for local families heading into the holidays. If you're down in Kamloops this weekend, that's where to drop something off.\n\nInternationally, a few things you should carry into the day. The most serious is the Ebola outbreak in eastern Congo, which has now topped twelve thousand confirmed cases. It's moving fast, and worse, the fighting in the region is forcing some response teams to evacuate — which is precisely how a containable outbreak becomes an uncontainable one. There's no immediate implication for you, but as a senior leader you want this on your situational-awareness map, because a public-health crisis colliding with armed conflict has a way of escalating into a global story quickly.\n\nSecond, a big-tech-meets-space item: regulators have approved Elon Musk's plan for a constellation of up to a million SpaceX data satellites, branded Starmind. The pitch is that it's the most cost- and energy-efficient way to meet the exploding demand for AI computing power — moving some of that compute into orbit. File this alongside everything we've been tracking about AI's staggering energy appetite and the data-center build-out straining power grids. The scale of the infrastructure bet behind the AI boom just keeps getting more audacious, and that infrastructure story is, increasingly, the real story.\n\nAnd a Canadian political note with business relevance: Alberta's governing UCP is gathering this weekend for the first time since the independence referendum that divided the province, with Premier Danielle Smith hoping to steer the party past separatism. For your household — with a brokerage footprint in Edmonton — provincial political stability is not abstract. Uncertainty about Alberta's place in the federation is exactly the kind of overhang that makes buyers and investors hesitate. A party that moves past the separation question is, on balance, a stabilizing signal for the Alberta market. Worth watching how decisively Smith can actually close that chapter.\n\nTwo items from Nature Medicine today, both solid primary research. The first is a measles surveillance study. Researchers combined whole-genome sequencing of wastewater with clinical samples during South Africa's twenty-twenty-four to twenty-five measles outbreak and uncovered inter-provincial transmission that standard surveillance had completely missed. The practical takeaway is that integrating wastewater monitoring with clinical genomics gives public-health teams a sharper, earlier picture of how an outbreak is actually spreading. Given how measles has resurged in pockets across North America alongside falling vaccination rates, this is a meaningful advance in the detection toolkit — the kind of thing that helps catch spread before it becomes a wave.\n\nThe second is more of a frontier story, but a remarkable one. A Nature Medicine paper drawing on twenty years of data found that implanted brain-computer interfaces — specifically Utah microelectrode arrays — recorded stable neural activity for up to seven-point-three years, with only modest signal decline over time. In plain terms: the hardware that lets paralyzed patients control devices with their thoughts holds up far longer than many assumed. It's early, it's narrow, but the long-term durability is exactly what the field needed to prove. A genuine marker of where restorative medicine is heading.\n\nOne last item worth your attention, and it's a family-and-community-health one. A new report from the Canadian Institute for Health Information finds that people with low incomes, and people who are Black or Latin American, are significantly less likely to have a family doctor. It's a stark reminder that primary-care access in Canada isn't evenly distributed — the gaps fall hardest on the people with the fewest alternatives. Nothing to act on, but it's the kind of structural health-equity data worth being aware of, and it connects to the broader strain on the Canadian health system that keeps surfacing in the news.\n\nThat's your Thursday, Midya. If there's a single thread to pull today, it's governance and accountability — the Character.AI data fight, the Ontario OSAP warnings that went unheeded, the push to pin down who's responsible when institutions and AI both outrun their rules. That's not noise; that's your lane. The vendor-continuity angle on the Character.AI story is the strongest piece of thought-leadership fuel you've had in a few days — I'd capture that thought before the holiday blur swallows it. Enjoy the quieter cycle, and I'll have the next one ready for you tomorrow.",
   "topStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "AI is straining America's open-records systems",
-      "summary": "Automated, AI-generated public-records requests are overwhelming small municipal and state offices built for a human-paced trickle, forcing clerks to triage and jurisdictions to rethink access law.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "headline": "42 state attorneys general move to block Character.AI from selling 21M users' chat histories",
+      "summary": "A 42-state coalition is fighting to stop Character.AI from auctioning the private chat logs of more than 21 million US accounts as it goes through Chapter 11, arguing user data can't be sold like inventory.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
-      "contentAngle": "Public-institution AI governance: FIPPA and BC access-to-information regimes face the same automation surge — the 'is your records office AI-ready' audit angle."
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "contentAngle": "Public-institution AI governance: the case study for why FIPPA-bound clients can't let a vendor's bankruptcy clause decide what happens to student or client data — the vendor data-residency audit angle."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Rival AI leaders push back on Anthropic's 'surrender agency to AI' vision",
-      "summary": "Senior executives at competing labs are publicly rejecting the Anthropic-adjacent view that humanity should cede some decision-making to superintelligent systems, framing it as a slide toward forfeiting human control.",
+      "headline": "Cookbook GPT: when AI becomes the Thanksgiving sous-chef",
+      "summary": "Americans are shifting meal planning from cookbooks to ChatGPT, and chefs warn that reducing recipes and rituals to prompts erodes the human stories brands and families are built on.",
       "source": "Axios",
-      "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
+      "url": "https://www.axios.com/2026/11/26/ai-thanksgiving-meals-chefs",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/j6rWzgzOEGoZ-XjoxNVilVsRcic=/533x0:1613x1080/320x320/2026/11/24/1795555163623.jpeg"
+      "imageUrl": "https://images.axios.com/M4NfBToZ7Ifd3zSGXCSsUzsVWvk=/0x0:1080x1080/320x320/2026/11/24/1795545968487.jpeg",
+      "contentAngle": "AI in marketing: the 'automate the task, protect the ritual' thesis — where brands should keep human storytelling as AI absorbs the functional work."
     },
     {
-      "id": "story-ai-2",
-      "category": "AI & Tech",
-      "headline": "Wes Moore: Washington is leaving Americans exposed to AI 'because of billionaire greed'",
-      "summary": "Maryland's governor called for treating AI oversight as an emergency, arguing voter backlash is driven by fear of losing control — a signal of where US AI regulation politics is heading.",
+      "id": "story-marketing-0",
+      "category": "Marketing",
+      "headline": "The US economy is 'ripping' — 4.3% growth as incomes rise and layoffs slow",
+      "summary": "Q3 US GDP grew at 4.3% on strong consumer spending and AI investment, with incomes up and layoffs down, giving the Fed room to raise rates in two weeks despite market jitters over the AI boom.",
       "source": "Axios",
-      "url": "https://www.axios.com/2026/11/25/wes-moore-ai-plan-axios-show",
+      "url": "https://www.axios.com/2026/11/25/incomes-layoffs-rates-pce-ai",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/MV9IDK7fK7eYISSKKeHOmkHwg3w=/128x128/smart/2026/11/24/1795555661687.png"
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://images.axios.com/iBFd5-YtvjyHPUDcigyOJjqGo7g=/320x320/smart/2020/08/19/212405-1597872245818.jpg"
     }
   ],
   "digestStories": [
     {
       "id": "story-ai-0",
       "category": "AI & Tech",
-      "headline": "AI is straining America's open-records systems",
-      "summary": "Automated, AI-generated public-records requests are overwhelming small municipal and state offices built for a human-paced trickle, forcing clerks to triage and jurisdictions to rethink access law.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "headline": "42 state attorneys general move to block Character.AI from selling 21M users' chat histories",
+      "summary": "A 42-state coalition is fighting to stop Character.AI from auctioning the private chat logs of more than 21 million US accounts as it goes through Chapter 11, arguing user data can't be sold like inventory.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
-      "contentAngle": "Public-institution AI governance: FIPPA and BC access-to-information regimes face the same automation surge — the 'is your records office AI-ready' audit angle."
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "contentAngle": "Public-institution AI governance: the case study for why FIPPA-bound clients can't let a vendor's bankruptcy clause decide what happens to student or client data — the vendor data-residency audit angle."
     },
     {
       "id": "story-ai-1",
       "category": "AI & Tech",
-      "headline": "Rival AI leaders push back on Anthropic's 'surrender agency to AI' vision",
-      "summary": "Senior executives at competing labs are publicly rejecting the Anthropic-adjacent view that humanity should cede some decision-making to superintelligent systems, framing it as a slide toward forfeiting human control.",
+      "headline": "Cookbook GPT: when AI becomes the Thanksgiving sous-chef",
+      "summary": "Americans are shifting meal planning from cookbooks to ChatGPT, and chefs warn that reducing recipes and rituals to prompts erodes the human stories brands and families are built on.",
       "source": "Axios",
-      "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
+      "url": "https://www.axios.com/2026/11/26/ai-thanksgiving-meals-chefs",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/j6rWzgzOEGoZ-XjoxNVilVsRcic=/533x0:1613x1080/320x320/2026/11/24/1795555163623.jpeg"
-    },
-    {
-      "id": "story-ai-2",
-      "category": "AI & Tech",
-      "headline": "Wes Moore: Washington is leaving Americans exposed to AI 'because of billionaire greed'",
-      "summary": "Maryland's governor called for treating AI oversight as an emergency, arguing voter backlash is driven by fear of losing control — a signal of where US AI regulation politics is heading.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/11/25/wes-moore-ai-plan-axios-show",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "chip",
-      "imageUrl": "https://images.axios.com/MV9IDK7fK7eYISSKKeHOmkHwg3w=/128x128/smart/2026/11/24/1795555661687.png"
+      "imageUrl": "https://images.axios.com/M4NfBToZ7Ifd3zSGXCSsUzsVWvk=/0x0:1080x1080/320x320/2026/11/24/1795545968487.jpeg",
+      "contentAngle": "AI in marketing: the 'automate the task, protect the ritual' thesis — where brands should keep human storytelling as AI absorbs the functional work."
     },
     {
       "id": "story-marketing-0",
       "category": "Marketing",
-      "headline": "Super Bowl 61: tracking every ad",
-      "summary": "Marketing Dive opens its running ledger of brand, agency and category moves ahead of the Feb. 14 game — an early read on which advertisers are committing and how AI-era creative is being positioned.",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/super-bowl-61-tracking-every-ad/873626/",
+      "headline": "The US economy is 'ripping' — 4.3% growth as incomes rise and layoffs slow",
+      "summary": "Q3 US GDP grew at 4.3% on strong consumer spending and AI investment, with incomes up and layoffs down, giving the Fed room to raise rates in two weeks despite market jitters over the AI boom.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/25/incomes-layoffs-rates-pce-ai",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "megaphone"
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://images.axios.com/iBFd5-YtvjyHPUDcigyOJjqGo7g=/320x320/smart/2020/08/19/212405-1597872245818.jpg"
+    },
+    {
+      "id": "story-marketing-1",
+      "category": "Marketing",
+      "headline": "Poundland collapses into administration, 11,000 jobs at risk",
+      "summary": "The UK discount chain fell into administration after its owners failed to find a buyer, a reminder that even recession-proof value retail isn't immune when debt and margins compress.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "megaphone",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "id": "story-higher_ed_canada-0",
       "category": "Higher Ed",
-      "headline": "TRU study documents poverty, exploitation and isolation among international students",
-      "summary": "A Thompson Rivers University study finds international students facing financial precarity, labour exploitation and social isolation — surfacing the welfare and reputational risks beneath enrollment-growth strategies.",
-      "source": "Castanet Kamloops",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZTJKZGJ0bEFSY3lMSUVFN0FCOWttZHkwN0RRWTRoOHhNd3gyTTROLWxBaVVxX29MUjBndERjWkdzTFVCdmNkUXpVOTVDVjNqWm04dnYzTkxfSkdqNWZIMVFQRlBQVTVITGZZakc4a0lUYmVCei15bWVKVUJGenRWU1RLZzZoclpPQ3phRl9xMl9USkZwem9PUzRmQkM2RHZEcHVMdl9nNTBjWTVIa3JaUjdGeG05VTdFWk1NWmlLcDgwUlZOVHdkYnJyOHhpSjQ?oc=5",
+      "headline": "Ontario was warned about career college with skyrocketing OSAP growth, letter shows",
+      "summary": "An update on the OSAP story from earlier this week: a newly surfaced letter shows the province was warned about the career college's explosive OSAP usage before acting, deepening questions about financial-aid oversight.",
+      "source": "CP24",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHA0WTdWeG02U2lDOWhmZ3hKbkJsOS12ZHh5blVSUE9IZjlrYk90ajcyMjFQNTFYYVNpaU1wcVZsOEhuOUV2R3Z4Wmp6Sk9Qd3ZrNjJId0RZN0RwcXJDcU43VTVsSGE1a0w0Qml1eEFyX3VmVHRoTUkxbjJ3NEtmV3l0MFlPbDhDNEdfMDNZYW9EU1VNZjRXMEpMSlNTV1lyRTFpSXJwMmdncy04dDhyVmFoLUVTTW1PelVBNE1HOFVaTHE1WUZPM3FQMDRVM0RaT0E?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "university",
-      "contentAngle": "AI in higher-ed enrollment: the duty-of-care gap — recruiting international students at scale without welfare infrastructure, and how enrollment marketing should flag it."
+      "thumbnailKind": "university"
     },
     {
       "id": "story-higher_ed_canada-1",
       "category": "Higher Ed",
-      "headline": "Canada's foreign-student restrictions test Carney's push to attract research talent",
-      "summary": "Tightened international-student caps are now colliding with Ottawa's stated ambition to recruit global research talent, exposing a policy contradiction that directly affects university pipeline planning.",
-      "source": "Raleigh News & Observer",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6b1RwNl9YaXBxYUVaa3R5azJFM1VEdzNSNkNJRkpXd2dFUnA3bTlJY2hGVXhjOVBFYUVmSVFVaHBhZnBLX2hMbm40TmNzb2J2M09IMFRST0NnSXVrNVg2ejd4Qk1icUx2ZEZhdkpnZ015SjZiV0FwYlhSM1NNVlU?oc=5",
+      "headline": "McGill professors and librarians launch first day of strike",
+      "summary": "McGill's faculty and librarians walked out, disrupting one of Canada's flagship research universities during term — an operational and reputational hit at a moment the sector is already under enrollment and funding pressure.",
+      "source": "Education News Canada",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZm9vV1hXaEVwTzNFY1g3OGxxRy13TFk2anpYcHlNRTIxSFhyS1VUV0xqbFBPZ3JMV25wY3pnaHk4elVPU3FxQjdzcHZSOU5zLW1oeVZBeGE1R29jWlM0N2ZWNVIwZVB4S3BQLVJqU2otV3N3dHBzMWg3NFJpN1NoNXJ2YmdIMWZJbERkSEppUEp2QlYyMTJRUFF2OE5EN19tcnJZeXdsNkhHQ1gwRXF4OGc3Y29COG94SUYzUHZaeUJnOFdORm1LdlBQM2pqWWZG?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
@@ -127,10 +129,10 @@
     {
       "id": "story-higher_ed_canada-2",
       "category": "Higher Ed",
-      "headline": "Western University stays silent on campus antisemitism response",
-      "summary": "National Post columnist John Ivison reports Western won't disclose what action, if any, it has taken on campus antisemitism — a governance-and-transparency flashpoint for Canadian institutional brand risk.",
-      "source": "National Post",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQU1mLXl3VHA2UFRmOWFjWFpUSjVzaGlYdkFNdEo2U1gxTnY0dFk3bEZCem1DQVF0cFRUOG84N0pDQU12SkpoWEpyemtDVEY4THBrbDRva3N5RV9JOVdmczRKMVZSb2swV1FkYzVWTm9SdzJIXzlrZC1Wd0l4NEhlX0dZbw?oc=5",
+      "headline": "Canadian MP urges immigration minister to back international students",
+      "summary": "A Canadian MP is pressing the immigration minister to publicly reaffirm support for international students amid ongoing cap and permit restrictions, as institutions warn the sector's revenue pipeline keeps shrinking.",
+      "source": "The PIE News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaTF6WmRMemFUUFYwZmlIZDJIQVlvRTdqa0ZwNU5FenpXTDcyMG5IS0VaNExqZmcyYXBGV0pIbUhaZzBPLWVVOWFua1J3cm54YXJWOTlKZ2lFeWpGLS1HOWlqcmt5QzFfM0llQ2s3TThia1piV0lfeVFMNDljMW8wc2lMZ1U5NHZUUk45V09lX0FZQTQ2SXRrY3R1Q3FmOW8?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "university"
@@ -138,86 +140,106 @@
     {
       "id": "story-canadian_real_estate-0",
       "category": "Real Estate",
-      "headline": "Pennsylvania RESPA settlement flags where mortgage joint ventures run into trouble",
-      "summary": "A $65,000 settlement plus compliance monitoring shows how brokerage-lender joint ventures can trip RESPA referral rules — a cautionary template for any brokerage weighing affiliated-business arrangements.",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/pa-ag-respa-settlement-conquest/",
+      "headline": "BC to legislate restored public access to Crown land, beaches and backcountry",
+      "summary": "Premier Lorne Doerkson directed his environment minister to bring forward legislation guaranteeing public access to Crown land and beaches — addressing controversies like seasonal First Nations closures at Joffre Lakes, subject to conservation and safety limits.",
+      "source": "Daily Hive Vancouver",
+      "url": "https://dailyhive.com/vancouver/bc-government-crown-public-lands-access-legislation-mandate-november-2026",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/PARESPASettlement-e1795557858597.png"
-    },
-    {
-      "id": "story-canadian_real_estate-1",
-      "category": "Real Estate",
-      "headline": "Keeping loan data in sync across mortgage capital markets",
-      "summary": "A single shared loan record is being pitched to close the gap between documents, hedging, pricing and investor delivery — an operations-and-data-integrity signal for how brokerages digitize back-office workflow.",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/articles/mortgage-hedging-loan-data-sync/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "house",
-      "imageUrl": "https://www.housingwire.com/wp-content/uploads/2026/11/Consolidated-Analytics_From-documents-to-decisions_-Keeping-loan-data-in-sync-across-mortgage-capital-markets.jpg"
+      "imageUrl": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/11/joffre-lakes-provincial-park-bc-f.jpg?format=auto"
     },
     {
       "id": "story-kamloops_sun_peaks-0",
       "category": "Local News",
-      "headline": "Strong El Niño sets up a warm winter — but a polar vortex could answer back",
-      "summary": "The Weather Network forecasts one of the warmest Canadian winters on record under an exceptionally strong El Niño, with volatility risk — directly relevant to Sun Peaks snowpack and ski-season planning.",
+      "headline": "Sun Peaks locks in AltiTunes music festival through at least 2031",
+      "summary": "A new five-year partnership keeps the AltiTunes festival at Sun Peaks Resort until at least 2031, anchoring a signature summer event that drives tourism, visibility and property-value momentum for the community.",
       "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/11/25/el-nino-sets-up-warm-winter-but-polar-vortex-could-answer-back-weather-network/",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQXlBU2R5V1ZLT05DTnE4Mms1TGZfaDZhaFZxeVIwckpQcXUzQnVobzZpWU1XVzg2Uk9Bb1BJcS0wbmlweTlZM3NUWXFjOTJyYXViQkNPU0ZKZ3FVNTF4VnBOYlJwdV8xb19FOTJyT19lc0dIcW5jaVBuWHhRNWtqUFVFYXYydkZYRWtfNTJvSmkxX0poV3VRVEVBd3REQ29fYXRrVE1HM2tMeUlUREp6bHJoVXV0M3c1ODNndVYwWW0yXzF2b2JPbQ?oc=5",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
-      "thumbnailKind": "mountains",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fe0d290f6-12fa-467c-ba4c-6daac7e1d20e%2Fed5829de08d6df3a550a70cb317229652a2a8c2b1f972432f01cf282d2e31e30.jpg"
+      "thumbnailKind": "mountains"
+    },
+    {
+      "id": "story-kamloops_sun_peaks-1",
+      "category": "Local News",
+      "headline": "Kamloops RCMP 'Stuff the Cruiser' fundraiser this Saturday",
+      "summary": "Kamloops RCMP will hold its 'Stuff the Cruiser' drive Saturday in support of Christmas Amalgamated, collecting donations for local families heading into the holidays.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBSVVVaS3pfV3hVVWw5bURaZ1o2UTV6dFkzalkxWExwbGlmZ3EtZjhVM3JWa29HUmo4VXZMcS0xTTBiRkdWRUVUdmdFRHUzeVlJNDRqRGpuNHBOYjd2WDB0V3ZSalJFdWE4Vk5tVTV5U1JHbzdFWlFZeENfeWJQV2dCY2FTdXc1M05KUFJhZzd1YXB0TVY2V2JwVDNvbEJyTjY0MDJUMFdzVmU1Yk1aU0NwNXV6UGpBbGc?oc=5",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "mountains"
     },
     {
       "id": "story-global_business_tech-0",
       "category": "Global",
-      "headline": "Huawei found guilty of stealing US trade secrets, acquitted of racketeering",
-      "summary": "A New York jury convicted Huawei of trade-secret theft while clearing it of racketeering, a split verdict that reshapes the US-China tech-rivalry narrative and supply-chain risk calculus.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "headline": "Ebola outbreak in Congo tops 12,000 cases as violence forces responders out",
+      "summary": "Eastern Congo's fast-moving Ebola outbreak has surpassed 12,000 confirmed cases, with fighting forcing some responders to evacuate — a worsening public-health crisis with global spillover risk.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/26/ebola-outbreak-in-congo-reaches-12000-cases-as-violence-forces-some-responders-to-evacuate/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F32cfe042-4a42-4d79-880f-944df3a8c658%2F1de3b73e1bdc39d5e8b1d57726baccb7428f1b81c93cfdd31ec640b6f21b801e.jpg"
     },
     {
       "id": "story-global_business_tech-1",
       "category": "Global",
-      "headline": "UK energy bills to jump 26% in January as gas prices surge",
-      "summary": "A typical UK household bill rises from £1,723 to £2,166 — a reminder that gas-driven energy inflation remains a live macro pressure heading into winter.",
+      "headline": "Musk's plan for a million SpaceX data satellites gets regulatory approval",
+      "summary": "Regulators approved Starmind, a constellation of up to a million SpaceX satellites pitched as the most cost- and energy-efficient way to meet surging demand for AI computing power in orbit.",
       "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "globe",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "id": "story-global_business_tech-2",
+      "category": "Global",
+      "headline": "Alberta's UCP meets to move past separatism after divisive referendum",
+      "summary": "Premier Danielle Smith hopes to steer the UCP beyond independence politics as the party gathers for the first time since a referendum that split the province — a stability signal relevant to Alberta's business and housing markets.",
+      "source": "CFJC Today Kamloops",
+      "url": "https://cfjctoday.com/2026/11/26/smith-hopes-to-leave-separatism-behind-as-ucp-meets-after-divisive-referendum/",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "globe",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fc2ac46aa-f153-4e6c-b4fc-fa17c7dec49a%2F4ea62891863183c475a38a996c66decf68748a449232b04554c56d87ddb18966.jpg"
+    },
+    {
+      "id": "story-longevity-0",
+      "category": "Longevity",
+      "headline": "Nature Medicine: wastewater + clinical genomic surveillance catches hidden measles spread",
+      "summary": "Nature Medicine study: whole-genome sequencing of wastewater and clinical samples during South Africa's 2024–25 measles outbreak revealed undetected inter-provincial transmission, showing integrated surveillance can sharpen outbreak monitoring and control.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04754-3",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf"
+    },
+    {
+      "id": "story-longevity-1",
+      "category": "Longevity",
+      "headline": "Nature Medicine: brain-computer implants stay stable for up to 7.3 years",
+      "summary": "Nature Medicine, 20-year dataset: Utah microelectrode arrays recorded stable neural activity for up to 7.3 years with only modest signal decline, demonstrating long-term feasibility of intracortical brain-computer interfaces.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04530-3",
+      "readingTime": "2 min read",
+      "audioSegmentLength": "—",
+      "thumbnailKind": "leaf"
     },
     {
       "id": "story-misc-0",
       "category": "Misc",
-      "headline": "Heavy rain, storm surge and high tides bring 'real drama' to BC's coast",
-      "summary": "An update on the coastal-flooding risk flagged earlier this week: Environment Canada warns of up to 225 mm of rain with surge and king tides battering much of the BC coast.",
+      "headline": "Low-income, Black and Latin American Canadians less likely to have a family doctor: report",
+      "summary": "A new Canadian Institute for Health Information report finds people with low incomes and those who are Black or Latin American are significantly less likely to have a family doctor, underscoring persistent primary-care access gaps.",
       "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/11/25/heavy-rains-storm-surge-high-tides-cause-real-drama-along-b-c-s-coast/",
+      "url": "https://cfjctoday.com/2026/11/25/low-income-black-and-latin-american-people-less-likely-to-have-a-family-doctor-report/",
       "readingTime": "2 min read",
       "audioSegmentLength": "—",
       "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Faf9b6784-e583-45e2-a4ff-95257ff82517%2Fc3b7089005c24f136bf588dae21f2f4cd8f1713aa4bda7a5fbfdb4e271a0abbc.jpg"
-    },
-    {
-      "id": "story-misc-1",
-      "category": "Misc",
-      "headline": "Immigrants in Canada more likely to be overqualified for their jobs",
-      "summary": "A new report finds newcomers disproportionately stuck in jobs below their skill level, undermining Ottawa's talent-attraction goals — a labour-market signal with implications for how Canada sells itself to global talent.",
-      "source": "CFJC Today Kamloops",
-      "url": "https://cfjctoday.com/2026/11/25/immigrants-in-canada-more-likely-to-be-overqualified-for-their-jobs-report/",
-      "readingTime": "2 min read",
-      "audioSegmentLength": "—",
-      "thumbnailKind": "bars",
-      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Ffbff27d3-9813-41b2-bf8c-a9affc7b3766%2F00c47be74f218e293afdedf74222e93f802f00dd095d64d9004f8640c87c4f77.jpg"
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fba1a8f0a-768b-46e8-8acc-e6e582fa3450%2F27096d01646281675822f04621a3a88f2bbb548596725faa19afb5cea3b331bf.jpg"
     }
   ],
   "audioChapters": [
@@ -225,76 +247,84 @@
       "id": "c1",
       "title": "AI & Tech",
       "category": "AI & Tech",
-      "duration": "3:45",
-      "startSeconds": 16
+      "duration": "2:53",
+      "startSeconds": 18
     },
     {
       "id": "c2",
-      "title": "Higher Education",
-      "category": "Higher Ed",
-      "duration": "3:12",
-      "startSeconds": 241
+      "title": "Marketing & Business",
+      "category": "Marketing",
+      "duration": "1:36",
+      "startSeconds": 191
     },
     {
       "id": "c3",
-      "title": "Marketing & Business",
-      "category": "Marketing",
-      "duration": "0:54",
-      "startSeconds": 434
+      "title": "Higher Education",
+      "category": "Higher Ed",
+      "duration": "2:29",
+      "startSeconds": 287
     },
     {
       "id": "c4",
       "title": "Real Estate & AirBnB",
       "category": "Real Estate",
-      "duration": "1:35",
-      "startSeconds": 487
+      "duration": "1:16",
+      "startSeconds": 436
     },
     {
       "id": "c5",
       "title": "Local News",
       "category": "Local News",
-      "duration": "1:01",
-      "startSeconds": 583
+      "duration": "0:55",
+      "startSeconds": 512
     },
     {
       "id": "c6",
       "title": "Global News",
       "category": "Global",
-      "duration": "1:11",
-      "startSeconds": 644
+      "duration": "1:56",
+      "startSeconds": 567
     },
     {
       "id": "c7",
+      "title": "Longevity",
+      "category": "Longevity",
+      "duration": "1:26",
+      "startSeconds": 683
+    },
+    {
+      "id": "c8",
       "title": "Misc",
       "category": "Misc",
-      "duration": "1:27",
-      "startSeconds": 714
+      "duration": "0:38",
+      "startSeconds": 768
     }
   ],
   "upNext": {
     "id": "story-ai-1",
     "category": "AI & Tech",
-    "headline": "Rival AI leaders push back on Anthropic's 'surrender agency to AI' vision",
-    "summary": "Senior executives at competing labs are publicly rejecting the Anthropic-adjacent view that humanity should cede some decision-making to superintelligent systems, framing it as a slide toward forfeiting human control.",
+    "headline": "Cookbook GPT: when AI becomes the Thanksgiving sous-chef",
+    "summary": "Americans are shifting meal planning from cookbooks to ChatGPT, and chefs warn that reducing recipes and rituals to prompts erodes the human stories brands and families are built on.",
     "source": "Axios",
-    "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
+    "url": "https://www.axios.com/2026/11/26/ai-thanksgiving-meals-chefs",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://images.axios.com/j6rWzgzOEGoZ-XjoxNVilVsRcic=/533x0:1613x1080/320x320/2026/11/24/1795555163623.jpeg"
+    "imageUrl": "https://images.axios.com/M4NfBToZ7Ifd3zSGXCSsUzsVWvk=/0x0:1080x1080/320x320/2026/11/24/1795545968487.jpeg",
+    "contentAngle": "AI in marketing: the 'automate the task, protect the ritual' thesis — where brands should keep human storytelling as AI absorbs the functional work."
   },
   "mainStory": {
     "id": "story-ai-0",
     "category": "AI & Tech",
-    "headline": "AI is straining America's open-records systems",
-    "summary": "Automated, AI-generated public-records requests are overwhelming small municipal and state offices built for a human-paced trickle, forcing clerks to triage and jurisdictions to rethink access law.",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "headline": "42 state attorneys general move to block Character.AI from selling 21M users' chat histories",
+    "summary": "A 42-state coalition is fighting to stop Character.AI from auctioning the private chat logs of more than 21 million US accounts as it goes through Chapter 11, arguing user data can't be sold like inventory.",
+    "source": "The Verge AI",
+    "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
     "readingTime": "2 min read",
     "audioSegmentLength": "—",
     "thumbnailKind": "chip",
-    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
-    "contentAngle": "Public-institution AI governance: FIPPA and BC access-to-information regimes face the same automation surge — the 'is your records office AI-ready' audit angle."
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "contentAngle": "Public-institution AI governance: the case study for why FIPPA-bound clients can't let a vendor's bankruptcy clause decide what happens to student or client data — the vendor data-residency audit angle."
   },
-  "heroImageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600"
+  "heroImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
 }
