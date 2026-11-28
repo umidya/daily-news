@@ -12,19 +12,19 @@
       <link>https://umidya.github.io/daily-news</link>
     </image>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 27 Nov 2026 11:39:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:36:52 +0000</lastBuildDate>
     <itunes:author>Daily News</itunes:author>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Daily News for Friday, November 27, 2026</title>
-      <link>https://umidya.github.io/daily-news/digests/2026-11-27.html</link>
-      <description>The thread running through today is the international-student debate maturing from policy mechanics into public opinion — a new Canadian poll shows support for students coexisting with a loud demand for more oversight, and that tension is exactly the terrain where enrolment marke...</description>
-      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-27.mp3</guid>
-      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-27.mp3" length="12501120" type="audio/mpeg"/>
-      <pubDate>Fri, 27 Nov 2026 14:00:00 +0000</pubDate>
+      <title>Daily News for Saturday, November 28, 2026</title>
+      <link>https://umidya.github.io/daily-news/digests/2026-11-28.html</link>
+      <description>Today's signal is in the enrolment funnel: two separate reads land on the same reality — Canada's international-student intake has collapsed, and Ottawa is now scrambling to fix the plumbing with a 2027 study-permit processing pilot. For anyone selling into Canadian higher ed, th...</description>
+      <guid isPermaLink="false">https://umidya.github.io/daily-news/audio/2026-11-28.mp3</guid>
+      <enclosure url="https://umidya.github.io/daily-news/audio/2026-11-28.mp3" length="11523840" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
